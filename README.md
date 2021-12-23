@@ -1,7 +1,5 @@
 # AWS REINVENT 2021
 
-
-
 **NET304 - Amazon Route 53 : A year in review** : [Session Reinvent](https://virtual.reinvent.awsevents.com/session-virtual/?es_id=07f68be892&v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=2789DC0963F2F7444F74F9EF82ABADE706877660D57402DA7FAC4183681A6CF956CF3EB3DFAEA288F57A1565BEBC1C57) - 
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/drvlgwuqmmwuxypw_awsreinv21.pdf) - 
 Youtube
@@ -32,7 +30,9 @@ Youtube
 *[Mise à jour](https://gist.io/@gmarchand/abcdda91233a1fef6a156179b80d64b5)*
 
 ## Youtube Playlists
-[AWS Reinvent - Security](#playlist-PL2yQDdvlhXf_b_a3X0Bd58WbEZGDau-lW.md)
+[AWS Reinvent - Security](playlist-PL2yQDdvlhXf_b_a3X0Bd58WbEZGDau-lW.md)
+
+[AWS Reinvent - Networking](playlist-PL2yQDdvlhXf8LwUXEjfwfT9Yd0fFf4H-G.md)
 
 [AWS Reinvent - Serverless](playlist-PL2yQDdvlhXf9h--iJ3AEr6r7R6EsgjKNm.md)
 
