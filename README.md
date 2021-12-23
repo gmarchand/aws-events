@@ -26,9 +26,6 @@ Youtube
 
 **Keynote with Peter DeSantis** : [Youtube](https://www.youtube.com/watch?v=9NEQbFLtDmg)
 
-
-*[Mise à jour](https://gist.io/@gmarchand/abcdda91233a1fef6a156179b80d64b5)*
-
 ## Youtube Playlists
 [AWS Reinvent - Security](playlist-PL2yQDdvlhXf_b_a3X0Bd58WbEZGDau-lW.md)
 
