@@ -1,6 +1,6 @@
 # AWS REINVENT 2021
 
-Website : https://gmarchand.github.io/aws-reinvent-2021/
+Website : [https://gmarchand.github.io/aws-reinvent-2021/](https://gmarchand.github.io/aws-reinvent-2021/)
 
 ## My favorite sessions
 
@@ -31,6 +31,9 @@ Youtube
 **Keynote with Peter DeSantis** : [Youtube](https://www.youtube.com/watch?v=9NEQbFLtDmg)
 
 ## Youtube Playlists
+
+[AWS Reinvent - Sessions en Français](playlist-PLL_L4MF1Z7JVxkNOAetbK8hCmJWRanQah.md)
+
 [AWS Reinvent - Security](playlist-PL2yQDdvlhXf_b_a3X0Bd58WbEZGDau-lW.md)
 
 [AWS Reinvent - Networking](playlist-PL2yQDdvlhXf8LwUXEjfwfT9Yd0fFf4H-G.md)
