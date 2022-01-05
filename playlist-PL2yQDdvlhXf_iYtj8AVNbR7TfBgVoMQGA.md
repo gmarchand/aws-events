@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2021 Breakout Sessions - Cloud Operations](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_iYtj8AVNbR7TfBgVoMQGA) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 30 
+* video count: 32 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -36,3 +36,5 @@
 | [AWS re:Invent 2021 - Securing and governing your AWS environment at any scale](https://www.youtube.com/watch?v=OH5ibR7QaJw)                        | 2021-12-17   |
 | [AWS re:Invent 2021 - Inside Amazon operations: Operations automated at scale](https://www.youtube.com/watch?v=XJNTo7K4glo)                         | 2021-12-17   |
 | [AWS re:Invent 2021 - Customizing and scaling your AWS Control Tower environment](https://www.youtube.com/watch?v=fDtxiBW_J8I)                      | 2021-12-17   |
+| [AWS re:Invent 2021 - Develop your FinOps practice to maximize your AWS Cloud spend](https://www.youtube.com/watch?v=ovfvIqBrq-4)                   | 2021-12-23   |
+| [AWS re:Invent 2021 - Best practices for centralized operations management on AWS [REPEAT]](https://www.youtube.com/watch?v=m5Ndj8TOMgw)            | 2022-01-03   |

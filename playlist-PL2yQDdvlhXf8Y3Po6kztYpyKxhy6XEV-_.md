@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2021 Breakout Sessions – Architecture](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Y3Po6kztYpyKxhy6XEV-_) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 17 
+* video count: 19 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -23,3 +23,5 @@
 | [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ)                         | 2021-12-17   |
 | [AWS re:Invent 2021 - {New Launch} Remove technical roadblocks with AWS re:Post](https://www.youtube.com/watch?v=lMLuyCG0uwU)                       | 2021-12-17   |
 | [AWS re:Invent 2021 - SaaS architecture patterns: From concept to implementation](https://www.youtube.com/watch?v=j7Sqt8GpYl0)                      | 2021-12-17   |
+| [AWS re:Invent 2021 - Evolutionary AWS Lambda functions with hexagonal architecture [REPEAT]](https://www.youtube.com/watch?v=uR4-zuMXElM)          | 2021-12-23   |
+| [AWS re:Invent 2021 - Evolutionary AWS Lambda functions with hexagonal architecture [REPEAT]](https://www.youtube.com/watch?v=kRFg6fkVChQ)          | 2021-12-23   |

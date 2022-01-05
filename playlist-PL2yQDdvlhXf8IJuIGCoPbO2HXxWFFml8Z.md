@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2021 Breakout Sessions – DevOps and Developer Productivity](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8IJuIGCoPbO2HXxWFFml8Z) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 23 
+* video count: 24 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -29,3 +29,4 @@
 | [AWS re:Invent 2021 - What's new with AWS CloudFormation and AWS CDK](https://www.youtube.com/watch?v=PVW8TRvmHhU)                                  | 2021-12-17   |
 | [Private video](https://www.youtube.com/watch?v=tIsWYU-voE8)                                                                                        | 2021-12-17   |
 | [AWS re:Invent 2021 - DevOps revolution [REPEAT]](https://www.youtube.com/watch?v=Fxnwc6tNVx0)                                                      | 2021-12-17   |
+| [AWS re:Invent 2021 - Intentional and empathetic observability (sponsored by Datadog)](https://www.youtube.com/watch?v=b8wVi_mck7g)                 | 2021-12-23   |
