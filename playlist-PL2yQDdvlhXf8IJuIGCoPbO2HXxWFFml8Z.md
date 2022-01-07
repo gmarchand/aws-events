@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2021 Breakout Sessions – DevOps and Developer Productivity](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8IJuIGCoPbO2HXxWFFml8Z) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 24 
+* video count: 25 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -30,3 +30,4 @@
 | [Private video](https://www.youtube.com/watch?v=tIsWYU-voE8)                                                                                        | 2021-12-17   |
 | [AWS re:Invent 2021 - DevOps revolution [REPEAT]](https://www.youtube.com/watch?v=Fxnwc6tNVx0)                                                      | 2021-12-17   |
 | [AWS re:Invent 2021 - Intentional and empathetic observability (sponsored by Datadog)](https://www.youtube.com/watch?v=b8wVi_mck7g)                 | 2021-12-23   |
+| [AWS re:Invent 2021 - How to reuse patterns when developing infrastructure as code](https://www.youtube.com/watch?v=YaaH1PnDUjY)                    | 2022-01-06   |

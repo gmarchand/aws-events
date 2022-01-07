@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2021 Breakout Sessions - Analytics](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-zvXglx6Vs1wvtczIR_b61) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 19 
+* video count: 20 
 
 | title                                                                                                                                        | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -25,3 +25,4 @@
 | ["AWS re:Invent 2021 - How Coinbase uses Amazon MSK as an event store for applications"](https://www.youtube.com/watch?v=5yMzTwumD_g)        | 2021-12-17   |
 | [AWS re:Invent 2021 - Data lakes: Easily build, secure, and share data with AWS Lake Formation](https://www.youtube.com/watch?v=jSjPCHKmIxw) | 2021-12-17   |
 | [AWS re:Invent 2021 - Introducing Amazon Kinesis Data Streams On-Demand Mode](https://www.youtube.com/watch?v=mQhPMJHmz_E)                   | 2021-12-17   |
+| [AWS re:Invent 2021 - What's new with Amazon Redshift](https://www.youtube.com/watch?v=b-tWPubAvuQ)                                          | 2022-01-05   |
