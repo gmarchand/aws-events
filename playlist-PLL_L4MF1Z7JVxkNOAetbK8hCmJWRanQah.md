@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2021](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JVxkNOAetbK8hCmJWRanQah) created by [Amazon Web Services France](https://www.youtube.com/channel/UCDE2Dt16Asi-RiR_GNe9scA)
 
-* video count: 13 
+* video count: 14 
 
 | title                                                                                                                                          | Published At |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -19,3 +19,4 @@
 | [Comment utiliser les conteneurs pour devenir sans-serveur](https://www.youtube.com/watch?v=6x86-W7tYqA)                                       | 2021-12-19   |
 | [Trucs et astuces pour ameliorer les performances de S3 selon vos besoins d'analyses de données.](https://www.youtube.com/watch?v=xpZ13GJfQeA) | 2021-12-19   |
 | [AWS re:Invent 2021 - Créez des applications modernes grâce aux bases de données spécialisées](https://www.youtube.com/watch?v=uyEvrYQnMjY)    | 2021-12-19   |
+| [Private video](https://www.youtube.com/watch?v=eXYiNmpBXjw)                                                                                   | 2022-01-09   |

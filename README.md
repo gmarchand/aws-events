@@ -35,11 +35,9 @@ Youtube
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/yaafxssekctzqjxd_awsreinv21.pdf) - 
 [Youtube](https://www.youtube.com/watch?v=sLg6Nnw6R0g)
 )
-
-**A new reality for content production** ( 
-[Session Reinvent](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=0680BE566A9065744AB6A8811E6E5A06835FB7002F8D0A6FC364A9070083DCFBD995B98F8FBC4AB1F04619D2F15A9EDE) -
-[Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/dwoskwuzwubfrymt_awsreinv21.pdf) - 
-[Youtube](https://www.youtube.com/watch?v=VwsAJKsmNno)
+**AWS re:Invent 2021 - Create from anywhere: The Netflix Workstations story** (
+[Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/zciznojhjoypcoav_awsreinv21.pdf)
+[Youtube](https://www.youtube.com/watch?v=sEDM4I3Yqbo)
 )
 
 **Keynote with Peter DeSantis** ( [Youtube](https://www.youtube.com/watch?v=9NEQbFLtDmg) )
@@ -73,4 +71,6 @@ Youtube
 [AWS Reinvent - Front End](playlist-PL2yQDdvlhXf9Cg4McKSCdJ-uroabfib16.md)
 
 [AWS Reinvent - End User Computing](playlist-PL2yQDdvlhXf9o8C35r5MpmYou-qLuWhMt.md)
+
+[AWS Reinvent - Containers](playlist-PL2yQDdvlhXf_w7ko6ux5eFhDLS1ggjWsr.md)
 
