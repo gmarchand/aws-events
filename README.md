@@ -16,12 +16,12 @@ Youtube
 
 **Amazon builders’ library: Operational excellence at Amazon** ( [Session Reinvent](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2[…]E4C40ABD56DDAEBC90FDF073D37DBF505BFD792796A8EA270D795) - 
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/cdorfxffmcrzgtdt_awsreinv21.pdf) - 
-Youtube
+[Youtube](https://www.youtube.com/watch?v=7MrD4VSLC_w)
 )
 
 **Inside Amazon operations: Operations automated at scale** ( [Session Reinvent](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=6B3F3045C85F36CE63C7D67EB95AAB2F4164462952D28FEAA9B226300DF4109FDC1C941DB830E2A9160B368099984E95) - 
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/jjultmtudfqutakn_awsreinv21.pdf) - 
-Youtube
+[Youtube](https://www.youtube.com/watch?v=XJNTo7K4glo)
 )
 
 **NetDevOps: A modern approach to AWS networking deployments** ( 
@@ -35,10 +35,12 @@ Youtube
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/yaafxssekctzqjxd_awsreinv21.pdf) - 
 [Youtube](https://www.youtube.com/watch?v=sLg6Nnw6R0g)
 )
-**AWS re:Invent 2021 - Create from anywhere: The Netflix Workstations story** (
-[Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/zciznojhjoypcoav_awsreinv21.pdf)
-[Youtube](https://www.youtube.com/watch?v=sEDM4I3Yqbo)
+
+**A new reality for content production** ( 
+[Deck](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=0680BE566A9065744AB6A8811E6E5A06835FB7002F8D0A6FC364A9070083DCFBD995B98F8FBC4AB1F04619D2F15A9EDE) - 
+[Youtube](https://www.youtube.com/watch?v=VwsAJKsmNno)
 )
+
 
 **Keynote with Peter DeSantis** ( [Youtube](https://www.youtube.com/watch?v=9NEQbFLtDmg) )
 
