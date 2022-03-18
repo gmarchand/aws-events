@@ -25,5 +25,5 @@
 | [AWS re:Invent 2021 - AWS Security Reference Architecture: Visualize your security](https://www.youtube.com/watch?v=-_LzB1uibAs)                 | 2021-12-17   |
 | [AWS re:Invent 2021 - {New Launch} AWS Shield: Automated layer 7 DDoS mitigation](https://www.youtube.com/watch?v=T3kqljTLR50)                   | 2021-12-17   |
 | [AWS re:Invent 2021 - Securing your company’s next big bang (sponsored by Datadog)](https://www.youtube.com/watch?v=nsiqf7LpjFQ)                 | 2021-12-17   |
-| [AWS re:Invent 2021 - Use AWS to improve your security posture against ransomware](https://www.youtube.com/watch?v=u9ksDyNlytU)                  | 2021-12-17   |
 | [AWS re:Invent 2021 - Zero Trust foundations in Amazon ECS with Boundary, Vault, and Consul](https://www.youtube.com/watch?v=i1YFh4svRLg)        | 2021-12-17   |
+| [AWS re:Invent 2021 - Use AWS to improve your security posture against ransomware - AWS Events](https://www.youtube.com/watch?v=qGG7mqrl8so)     | 2022-02-17   |

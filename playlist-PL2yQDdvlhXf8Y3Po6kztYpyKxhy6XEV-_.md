@@ -19,9 +19,9 @@
 | [AWS re:Invent 2021 - Reliability, consistency, and confidence through immutability](https://www.youtube.com/watch?v=n00QuaNzjiY)                   | 2021-12-17   |
 | [AWS re:Invent 2021 - Amazon EKS SaaS deep dive: A multi-tenant EKS SaaS solution [REPEAT]](https://www.youtube.com/watch?v=gewR0CsOo_o)            | 2021-12-17   |
 | [AWS re:Invent 2021 - Amazon EKS SaaS deep dive: A multi-tenant EKS SaaS solution [REPEAT]](https://www.youtube.com/watch?v=tXVLjWjEEwo)            | 2021-12-17   |
-| [AWS re:Invent 2021 - Reliable scalability: How Amazon.com scales in the cloud](https://www.youtube.com/watch?v=aPhqQ8lWmvc)                        | 2021-12-17   |
 | [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ)                         | 2021-12-17   |
 | [AWS re:Invent 2021 - {New Launch} Remove technical roadblocks with AWS re:Post](https://www.youtube.com/watch?v=lMLuyCG0uwU)                       | 2021-12-17   |
 | [AWS re:Invent 2021 - SaaS architecture patterns: From concept to implementation](https://www.youtube.com/watch?v=j7Sqt8GpYl0)                      | 2021-12-17   |
 | [AWS re:Invent 2021 - Evolutionary AWS Lambda functions with hexagonal architecture [REPEAT]](https://www.youtube.com/watch?v=uR4-zuMXElM)          | 2021-12-23   |
 | [AWS re:Invent 2021 - Evolutionary AWS Lambda functions with hexagonal architecture [REPEAT]](https://www.youtube.com/watch?v=kRFg6fkVChQ)          | 2021-12-23   |
+| [AWS re:Invent 2021 - Reliable scalability: How Amazon.com scales in the cloud](https://www.youtube.com/watch?v=_AhfV5LZmvo)                        | 2022-02-11   |
