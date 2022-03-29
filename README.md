@@ -1,4 +1,4 @@
-# AWS REINVENT 2021
+# AWS Bookmarks
 
 Website ( [https://gmarchand.github.io/aws-reinvent-2021/](https://gmarchand.github.io/aws-reinvent-2021/)
 
