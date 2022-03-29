@@ -6,6 +6,7 @@ Website ( [https://gmarchand.github.io/aws-reinvent-2021/](https://gmarchand.git
 ## AWS EMEA Media & Entertainment Symposium 
 
 [AWS EMEA Media & Entertainment Symposium Online - Working Backwards from Audience Engagement](https://www.youtube.com/watch?v=XtDGLmIPxhk)
+
 [AWS EMEA Media & Entertainment Symposium Online - Smarter Production and Data-Driven Insights](https://www.youtube.com/watch?v=geIBzoPEEwY)
 
 ## AWS REINVENT 2021 - My favorite sessions
