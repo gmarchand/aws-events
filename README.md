@@ -2,7 +2,13 @@
 
 Website ( [https://gmarchand.github.io/aws-reinvent-2021/](https://gmarchand.github.io/aws-reinvent-2021/)
 
-## My favorite sessions
+
+## AWS EMEA Media & Entertainment Symposium 
+
+[AWS EMEA Media & Entertainment Symposium Online - Working Backwards from Audience Engagement](https://www.youtube.com/watch?v=XtDGLmIPxhk)
+[AWS EMEA Media & Entertainment Symposium Online - Smarter Production and Data-Driven Insights](https://www.youtube.com/watch?v=geIBzoPEEwY)
+
+## AWS REINVENT 2021 - My favorite sessions
 
 **NET304 - Amazon Route 53 : A year in review** ( [Session Reinvent](https://virtual.reinvent.awsevents.com/session-virtual/?es_id=07f68be892&v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=2789DC0963F2F7444F74F9EF82ABADE706877660D57402DA7FAC4183681A6CF956CF3EB3DFAEA288F57A1565BEBC1C57) - 
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/drvlgwuqmmwuxypw_awsreinv21.pdf) - 
@@ -44,7 +50,7 @@ Youtube
 
 **Keynote with Peter DeSantis** ( [Youtube](https://www.youtube.com/watch?v=9NEQbFLtDmg) )
 
-## Youtube Playlists
+## AWS REINVENT 2021 : Youtube Playlists
 
 [AWS Reinvent - Sessions en Français](playlist-PLL_L4MF1Z7JVxkNOAetbK8hCmJWRanQah.md)
 
