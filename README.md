@@ -1,7 +1,9 @@
 # AWS Bookmarks
 
-Website ( [https://gmarchand.github.io/aws-reinvent-2021/](https://gmarchand.github.io/aws-reinvent-2021/)
 
+## Reinvent 2022 
+
+[Playlists Reinvent 2022](channel-UCdoadna9HFHsxXWhafhNvKw.md)
 
 ## AWS EMEA Media & Entertainment Symposium 
 
