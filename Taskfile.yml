@@ -8,5 +8,6 @@ tasks:
   default:
     
     cmds:
-      - sh youtube_playlist_md.sh
+      #- sh youtube_playlist_md.sh
+      - npm run example
     silent: true

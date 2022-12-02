@@ -1,0 +1,44 @@
+{
+  "name": "youtube-playlist-markdown",
+  "version": "1.4.9",
+  "description": "It could help you scan all playlist information and generate friendly markdown table",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js",
+    "dev": "DEBUG=youtubePlaylistMarkdown node example.js",
+    "lint": "eslint .",
+    "release": "rm -rf package-lock.json && npm version minor && npm publish",
+    "patch": "rm -rf package-lock.json && npm version patch && npm publish"
+  },
+  "keywords": [
+    "youtube",
+    "playlist",
+    "markdown"
+  ],
+  "author": {
+    "name": "alincode",
+    "email": "alincode@gmail.com",
+    "url": "https://github.com/alincode"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alincode/youtube-playlist-markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alincode/youtube-playlist-markdown/issues"
+  },
+  "homepage": "https://github.com/alincode/youtube-playlist-markdown#readme",
+  "engines": {
+    "node": ">= 8"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "markdown-table": "^2.0.0",
+    "youtube-playlist-summary": "^2.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
