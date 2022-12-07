@@ -5,6 +5,10 @@
 
 [Playlists Reinvent 2022](channel-UCdoadna9HFHsxXWhafhNvKw.md)
 
+## AWS Media Day France 2022
+
+[Playlist Youtube AWS Media Day France 2022](https://www.youtube.com/watch?v=2rQMCD0uyIQ&list=PLL_L4MF1Z7JUlTedFignU01KZbq28vZEh)
+
 ## AWS EMEA Media & Entertainment Symposium 
 
 [AWS EMEA Media & Entertainment Symposium Online - Working Backwards from Audience Engagement](https://www.youtube.com/watch?v=XtDGLmIPxhk)
