@@ -224,7 +224,7 @@
 
 #### [AWS re:Invent 2022 - Lightning Talk](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_-bwT0Xuc1kgoMlBroVU_1) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 69 
+* video count: 86 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -297,6 +297,23 @@
 | [AWS re:Invent 2022 - Secure access on AWS with ZTNA 2.0 (PRT044)](https://www.youtube.com/watch?v=_988blqp9mA)                                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Modern AppDev and AppSec cloud solution architecture strategy (PRT021)](https://www.youtube.com/watch?v=pSZXLwuany0)          | 2022-12-05   |
 | [AWS re:Invent 2022 - Best practices for platform teams to streamline Kubernetes operations (PRT002)](https://www.youtube.com/watch?v=M9w8XuuUJlI)  | 2022-12-05   |
+| [AWS re:Invent 2022 - Matillion: Increasing data productivity without infrastructure (PRT076)](https://www.youtube.com/watch?v=7APptf9NphE)         | 2022-12-07   |
+| [AWS re:Invent 2022 – How to empower software engineers to act & improve cloud efficiency (PRT077)](https://www.youtube.com/watch?v=4aLBEoxNHuk)    | 2022-12-07   |
+| [AWS re:Invent 2022 - Enabling successful MRO operations with the AWS Cloud (PRT079)](https://www.youtube.com/watch?v=Sn33qKOlUwc)                  | 2022-12-07   |
+| [AWS re:Invent 2022 - How to build a winning app modernization strategy & deliver on it (PRT080)](https://www.youtube.com/watch?v=llZEO8QrEGs)      | 2022-12-07   |
+| [AWS re:Invent 2022 - Beyond observability: Using reliability scores to drive results (PRT083)](https://www.youtube.com/watch?v=MRli7gx7DaM)        | 2022-12-07   |
+| [AWS re:Invent 2022 - Serverless order fulfillment with Stripe and AWS (PRT084)](https://www.youtube.com/watch?v=ijAvk9k_fC8)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - The nonstop way to find AWS-recommended savings opportunities (PRT086)](https://www.youtube.com/watch?v=kpFjC4MDNJs)          | 2022-12-07   |
+| [AWS re:Invent 2022 - How Starburst uses CockroachDB to power Starburst Galaxy (PRT099)](https://www.youtube.com/watch?v=7uvsjUXKDeo)               | 2022-12-07   |
+| [AWS re:Invent 2022 - Rethink data governance as strategic empowerment (PRT100)](https://www.youtube.com/watch?v=wPZvHZHawWE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Plan, scale, and operate your cloud applications (PRT101)](https://www.youtube.com/watch?v=vN6lzmLSwkE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Reduce DevOps context switching with AWS and Slack (PRT102)](https://www.youtube.com/watch?v=lIVqI25zZC4)                     | 2022-12-07   |
+| [AWS re:Invent 2022 - Meet GovSlack: The digital HQ for government work (PRT103)](https://www.youtube.com/watch?v=O7Ru5Ukrzo4)                      | 2022-12-07   |
+| [AWS re:Invent 2022 - Accelerate value for your business w/SAP & AWS reference architecture (PRT105)](https://www.youtube.com/watch?v=-u3oyOy-HxU)  | 2022-12-07   |
+| [AWS re:Invent 2022 - Virtually unlimited scale and hybrid SaaS deployments with Matillion (PRT106)](https://www.youtube.com/watch?v=FXw1dNYFs-Y)   | 2022-12-07   |
+| [AWS re:Invent 2022 - Faster drug discovery design with WEKA on AWS (PRT107)](https://www.youtube.com/watch?v=Zt8PNA5IzQs)                          | 2022-12-07   |
+| [AWS re:Invent 2022 - Prepare for the unexpected with code-to-cloud security (PRT240)](https://www.youtube.com/watch?v=saC1X7k0SU8)                 | 2022-12-07   |
+| [AWS re:Invent 2022 - Curing modern data architecture complexity (PRT087)](https://www.youtube.com/watch?v=wGbKU8hRS8A)                             | 2022-12-07   |
 
 #### [AWS re:Invent 2022 - Storage](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_22xqaqPb13gDRDOq2Sjg4) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -429,7 +446,7 @@
 
 #### [AWS re:Invent 2022 - Partner Theater](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9JTnfrO6h3U9uwwz1XhKc3) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 172 
+* video count: 189 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -473,7 +490,6 @@
 | [AWS re:Invent 2022 - Key strategies to simplify your application journey (PRT330)](https://www.youtube.com/watch?v=0rVwj0qSc0Y)                    | 2022-12-01   |
 | [AWS re:Invent 2022 - When is it time to modernize your AWS database platform? (PRT046)](https://www.youtube.com/watch?v=pnEoqZJC1j4)               | 2022-12-01   |
 | [AWS re:Invent 2022 - Identity-native infrastructure access on AWS with Teleport (PRT041)](https://www.youtube.com/watch?v=VWMCT737IIc)             | 2022-12-01   |
-| [AWS re:Invent 2022 - Modernize identity and enhance security with Okta and AWS (PRT042)](https://www.youtube.com/watch?v=-nkdy1DbD8g)              | 2022-12-01   |
 | [AWS re:Invent 2022 - How AI and ML unlock insights for financial services teams (PRT036)](https://www.youtube.com/watch?v=XfyxiI2brDw)             | 2022-12-01   |
 | [AWS re:Invent 2022 - How to build an Apache Kafka mesh (PRT037)](https://www.youtube.com/watch?v=8KibI-OoE0I)                                      | 2022-12-01   |
 | [AWS re:Invent 2022 - Open-source observability is the way forward, and here’s why (PRT039)](https://www.youtube.com/watch?v=_qG3iI5wq9o)           | 2022-12-01   |
@@ -605,6 +621,24 @@
 | [AWS re:Invent 2022 - Become an elite cloud expert and full-stack developer in 30 minutes (PRT212)](https://www.youtube.com/watch?v=OqEzon6v8s0)    | 2022-12-06   |
 | [AWS re:Invent 2022 - Boston University elevates learning w/Red Hat OpenShift Data Science (PRT208)](https://www.youtube.com/watch?v=XL00XxFAfEg)   | 2022-12-06   |
 | [AWS re:Invent 2022 - Assuring and securing AWS migrations with NETSCOUT visibility (PRT207)](https://www.youtube.com/watch?v=fSFtyKPZepI)          | 2022-12-06   |
+| [AWS re:Invent 2022 - Democratize data: The intersection of governance and analytics (PRT244)](https://www.youtube.com/watch?v=f2kUkp95Tqk)         | 2022-12-07   |
+| [AWS re:Invent 2022 - Is it ODD to shift left? Becoming elite DevSecOps performers (PRT283)](https://www.youtube.com/watch?v=Bfr_yKu6KJk)           | 2022-12-07   |
+| [AWS re:Invent 2022 - Cash is alive: How technology has enabled phygital at scale (PRT285)](https://www.youtube.com/watch?v=lWzzeg-vKYo)            | 2022-12-07   |
+| [AWS re:Invent 2022 - Future-proof your business to drive growth and transformation (PRT287)](https://www.youtube.com/watch?v=2oIBewN0-9Q)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Reliable, secure, and efficient cloud operations (PRT289)](https://www.youtube.com/watch?v=LlKLbikSYVE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Using AWS savings instruments in a FinOps journey (PRT292)](https://www.youtube.com/watch?v=BFzO2MpRqoY)                      | 2022-12-07   |
+| [AWS re:Invent 2022 - Ready, set, innovate: Building for the future (PRT316)](https://www.youtube.com/watch?v=J_tgV2bSLm8)                          | 2022-12-07   |
+| [AWS re:Invent 2022 - Detecting SSRF events on AWS using Splunk (PRT325)](https://www.youtube.com/watch?v=-fDY9FenSM4)                              | 2022-12-07   |
+| [AWS re:Invent 2022 - How a Fortune 100 firm seamlessly moved from mainframe to AWS (PRT332)](https://www.youtube.com/watch?v=Cup4yFaoER4)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Matillion: Increasing data productivity without infrastructure (PRT076)](https://www.youtube.com/watch?v=7APptf9NphE)         | 2022-12-07   |
+| [AWS re:Invent 2022 – How to empower software engineers to act & improve cloud efficiency (PRT077)](https://www.youtube.com/watch?v=4aLBEoxNHuk)    | 2022-12-07   |
+| [AWS re:Invent 2022 - Enabling successful MRO operations with the AWS Cloud (PRT079)](https://www.youtube.com/watch?v=Sn33qKOlUwc)                  | 2022-12-07   |
+| [AWS re:Invent 2022 - How to build a winning app modernization strategy & deliver on it (PRT080)](https://www.youtube.com/watch?v=llZEO8QrEGs)      | 2022-12-07   |
+| [AWS re:Invent 2022 - Beyond observability: Using reliability scores to drive results (PRT083)](https://www.youtube.com/watch?v=MRli7gx7DaM)        | 2022-12-07   |
+| [AWS re:Invent 2022 - Serverless order fulfillment with Stripe and AWS (PRT084)](https://www.youtube.com/watch?v=ijAvk9k_fC8)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - The nonstop way to find AWS-recommended savings opportunities (PRT086)](https://www.youtube.com/watch?v=kpFjC4MDNJs)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Prepare for the unexpected with code-to-cloud security (PRT240)](https://www.youtube.com/watch?v=saC1X7k0SU8)                 | 2022-12-07   |
+| [AWS re:Invent 2022 - Curing modern data architecture complexity (PRT087)](https://www.youtube.com/watch?v=wGbKU8hRS8A)                             | 2022-12-07   |
 
 #### [AWS re:Invent 2022 - Kubernetes](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-I_sgsmmp8NiGGo-QKUL0f) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -624,7 +658,7 @@
 
 #### [AWS re:Invent 2022 - Industry](https://www.youtube.com/playlist?list=PL2yQDdvlhXf83Wd-5YinHHNdN73iLyWzV) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 47 
+* video count: 48 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -675,6 +709,7 @@
 | [AWS re:Invent 2022 - Heineken brews a new connected manufacturing business (MFG203)](https://www.youtube.com/watch?v=liMA7WabMlE)                  | 2022-12-06   |
 | [AWS re:Invent 2022 - Advancing health equity with Amazon HealthLake (HLC204)](https://www.youtube.com/watch?v=udDD3e_HgtQ)                         | 2022-12-06   |
 | [AWS re:Invent 2022 - Cutting carbon where it matters the most: How SDG&E innovates with AWS (ENU306)](https://www.youtube.com/watch?v=6yAJJeWRGgk) | 2022-12-06   |
+| [AWS re:Invent 2022 - Reimagining the home experience with cloud-native 5G powered by AWS (TLC305)](https://www.youtube.com/watch?v=wdjdyQEvlvI)    | 2022-12-07   |
 
 #### [AWS re:Invent 2022 - Customer Enablement](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9F-GUSSZ2jBtelyiWRFHNV) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -724,9 +759,10 @@
 | [AWS re:Invent 2022 - Supply chain and logistics (INO105)](https://www.youtube.com/watch?v=cVgcG2c3r4E)                                             | 2022-12-06   |
 | [AWS re:Invent 2022 - AI/ML at Amazon.com (INO104)](https://www.youtube.com/watch?v=qsndwQ9-f2k)                                                    | 2022-12-06   |
 
+
 #### [AWS re:Invent 2022 - Serverless Compute](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Erryfslfo3E42QtcX-aiD) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 20 
+* video count: 21 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -750,6 +786,7 @@
 | [AWS re:Invent 2022 - What's new and what's next with Amazon ECS (CON210)](https://www.youtube.com/watch?v=El64yANTmIA)                             | 2022-12-06   |
 | [AWS re:Invent 2022 - AWS Lambda Powertools: Lessons from the road to 10 million downloads (OPN306)](https://www.youtube.com/watch?v=dH2GP6Lydj8)   | 2022-12-06   |
 | [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404-R)](https://www.youtube.com/watch?v=0_jfH6qijVY)                                          | 2022-12-06   |
+| [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One (SVS311)](https://www.youtube.com/watch?v=NZVNAEK6shc)   | 2022-12-07   |
 
 #### [AWS re:Invent 2022 - Security, Compliance, & Identity](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8bvQJuSP1DQ8vu75jdttlM) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -806,7 +843,7 @@
 
 #### [AWS re:Invent 2022 - Networking and Content Delivery](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8cWaRO0xirZHHGmxoornri) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 16 
+* video count: 15 
 
 | title                                                                                                                                          | Published At |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -814,7 +851,6 @@
 | [AWS re:Invent 2022 - Improve performance and availability with AWS Global Accelerator (NET301)](https://www.youtube.com/watch?v=s5sjsdDC0Lg)  | 2022-12-01   |
 | [AWS re:Invent 2022 - Layered VPC security and inspection (NET311)](https://www.youtube.com/watch?v=Ya4WFO9P0i8)                               | 2022-12-01   |
 | [AWS re:Invent 2022 - Amazon Route 53: What’s in a domain name? A lot! (NET206)](https://www.youtube.com/watch?v=mczl5zhQcYQ)                  | 2022-12-01   |
-| [AWS re:Invent 2022 - Build your global wide area network using AWS (NET303)](https://www.youtube.com/watch?v=rkXHxRlKfoE)                     | 2022-12-01   |
 | [AWS re:Invent 2022 - The evolution of chaos engineering at Netflix (NFX303)](https://www.youtube.com/watch?v=Xbn65E-BQhA)                     | 2022-12-01   |
 | [AWS re:Invent 2022 - Optimizing performance with CloudFront: Every millisecond matters (NET313)](https://www.youtube.com/watch?v=LkyifXYEtrg) | 2022-12-01   |
 | [AWS re:Invent 2022 - A deep dive on the current security threat landscape with AWS (NET207)](https://www.youtube.com/watch?v=h7WvCyygb8U)     | 2022-12-02   |
@@ -881,13 +917,13 @@
 | [AWS re:Invent 2022 - The Amazon Builders’ Library: 25 yrs of Amazon operational excellence (DOP301)](https://www.youtube.com/watch?v=DSRhgBd_gtw)  | 2022-12-05   |
 | [AWS re:Invent 2022 - How to reuse patterns when developing infrastructure as code (DOP302)](https://www.youtube.com/watch?v=ndd9XwQZbyM)           | 2022-12-05   |
 | [AWS re:Invent 2022 - Best practices for securing your software delivery lifecycle  (DOP316)](https://www.youtube.com/watch?v=PBxXcdchtjo)          | 2022-12-05   |
-| [AWS re:Invent 2022 - Accessing AWS from your development environment (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                        | 2022-12-05   |
+| [AWS re:Invent 2022 - Amazon CodeCatalyst Dev Environments in action (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                         | 2022-12-05   |
 | [AWS re:Invent 2022 - How Amazon Location Service enabled London Marathon runner tracking (FWM201)](https://www.youtube.com/watch?v=-AA3JKnSBvU)    | 2022-12-05   |
 | [AWS re:Invent 2022 - Accelerate GraphQL API app development & collaboration w/AWS AppSync (FWM316)](https://www.youtube.com/watch?v=LyzNM9KIJSU)   | 2022-12-05   |
 | [AWS re:Invent 2022 - Refactoring the product and engineering relationship (STP204)](https://www.youtube.com/watch?v=IlYTy98mznk)                   | 2022-12-05   |
 | [AWS re:Invent 2022 - Startups at scale: What to expect when building an engineering team (STP202)](https://www.youtube.com/watch?v=cLs7LVGLwnU)    | 2022-12-05   |
 | [AWS re:Invent 2022 - .NET open source on AWS (OPN207)](https://www.youtube.com/watch?v=NWMqBG31NqM)                                                | 2022-12-06   |
-| [AWS re:Invent 2022 - Continuous integration and delivery (CI/CD) on AWS (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                   | 2022-12-06   |
+| [AWS re:Invent 2022 - Introducing Amazon CodeCatalyst (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                                      | 2022-12-06   |
 | [AWS re:Invent 2022 - AWS Well-Architected best practices for DevOps on AWS (DOP207)](https://www.youtube.com/watch?v=hfXokRAyorA)                  | 2022-12-06   |
 
 #### [AWS re:Invent 2022 - Databases](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_BXR1wcAIn558ejhKhy-JV) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
@@ -1070,10 +1106,23 @@
 
 #### [AWS re:Invent 2022 - Breakout Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-Jdg0SkHt85s-YvTUaNmgT) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 617 
+* video count: 627 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2022 - How a Fortune 100 firm seamlessly moved from mainframe to AWS (PRT332)](https://www.youtube.com/watch?v=Cup4yFaoER4)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Detecting SSRF events on AWS using Splunk (PRT325)](https://www.youtube.com/watch?v=-fDY9FenSM4)                              | 2022-12-07   |
+| [AWS re:Invent 2022 - Ready, set, innovate: Building for the future (PRT316)](https://www.youtube.com/watch?v=J_tgV2bSLm8)                          | 2022-12-07   |
+| [AWS re:Invent 2022 - Using AWS savings instruments in a FinOps journey (PRT292)](https://www.youtube.com/watch?v=BFzO2MpRqoY)                      | 2022-12-07   |
+| [AWS re:Invent 2022 - Reliable, secure, and efficient cloud operations (PRT289)](https://www.youtube.com/watch?v=LlKLbikSYVE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Future-proof your business to drive growth and transformation (PRT287)](https://www.youtube.com/watch?v=2oIBewN0-9Q)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Cash is alive: How technology has enabled phygital at scale (PRT285)](https://www.youtube.com/watch?v=lWzzeg-vKYo)            | 2022-12-07   |
+| [AWS re:Invent 2022 - Is it ODD to shift left? Becoming elite DevSecOps performers (PRT283)](https://www.youtube.com/watch?v=Bfr_yKu6KJk)           | 2022-12-07   |
+| [AWS re:Invent 2022 - Democratize data: The intersection of governance and analytics (PRT244)](https://www.youtube.com/watch?v=f2kUkp95Tqk)         | 2022-12-07   |
+| [AWS re:Invent 2022 - [NEW LAUNCH!] Break down supply chain silos with machine learning (BIZ214)](https://www.youtube.com/watch?v=3kPPN1z0qto)      | 2022-12-07   |
+| [AWS re:Invent 2022 - How Georgia-Pacific accelerates modernization & improves resilience (ENT324)](https://www.youtube.com/watch?v=qxfm07YUIUw)    | 2022-12-07   |
+| [AWS re:Invent 2022 - Reimagining the home experience with cloud-native 5G powered by AWS (TLC305)](https://www.youtube.com/watch?v=wdjdyQEvlvI)    | 2022-12-07   |
+| [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One (SVS311)](https://www.youtube.com/watch?v=NZVNAEK6shc)   | 2022-12-07   |
 | [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404-R)](https://www.youtube.com/watch?v=0_jfH6qijVY)                                          | 2022-12-06   |
 | [AWS re:Invent 2022 - AWS Lambda Powertools: Lessons from the road to 10 million downloads (OPN306)](https://www.youtube.com/watch?v=dH2GP6Lydj8)   | 2022-12-06   |
 | [AWS re:Invent 2022 - AWS Well-Architected best practices for DevOps on AWS (DOP207)](https://www.youtube.com/watch?v=hfXokRAyorA)                  | 2022-12-06   |
@@ -1091,7 +1140,7 @@
 | [AWS re:Invent 2022 - Migrating to the cloud: What is the cost of doing nothing? (ENT325)](https://www.youtube.com/watch?v=RdtYXsg3H-U)             | 2022-12-06   |
 | [AWS re:Invent 2022 - Resiliency in the cloud: Disaster recovery with VMware Cloud on AWS (ENT223)](https://www.youtube.com/watch?v=e71lzusdPWc)    | 2022-12-06   |
 | [AWS re:Invent 2022 - Cutting carbon where it matters the most: How SDG&E innovates with AWS (ENU306)](https://www.youtube.com/watch?v=6yAJJeWRGgk) | 2022-12-06   |
-| [AWS re:Invent 2022 - Continuous integration and delivery (CI/CD) on AWS (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                   | 2022-12-06   |
+| [AWS re:Invent 2022 - Introducing Amazon CodeCatalyst (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                                      | 2022-12-06   |
 | [AWS re:Invent 2022 - Proactive governance and compliance for AWS workloads (COP204)](https://www.youtube.com/watch?v=PpUnH9Y52X0)                  | 2022-12-06   |
 | [AWS re:Invent 2022 - Advancing health equity with Amazon HealthLake (HLC204)](https://www.youtube.com/watch?v=udDD3e_HgtQ)                         | 2022-12-06   |
 | [AWS re:Invent 2022 - [NEW LAUNCH!] Transform omics data into insights with Amazon Omics (AIM219)](https://www.youtube.com/watch?v=46SLOjuMM6o)     | 2022-12-06   |
@@ -1165,7 +1214,6 @@
 | [AWS re:Invent 2022 - Correlate cloud  performance metrics directly with business impact (PRT203)](https://www.youtube.com/watch?v=v8nUyMNurpQ)     | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] How AWS Application Composer helps your team build great apps (SVS211)](https://www.youtube.com/watch?v=txzU1Go9oxc)    | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Use policies to manage permissions w/Amazon Verified Permissions (SEC335)](https://www.youtube.com/watch?v=k6pPcnLuOXY) | 2022-12-05   |
-| [AWS re:Invent 2022 - [NEW] Introducing Amazon VPC Lattice: Simplifying app networking (NET215)](https://www.youtube.com/watch?v=L6VSgiyfsMc)       | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Introducing AWS Verified Access: Secure connections to your apps (NET214)](https://www.youtube.com/watch?v=Kkxn-bAIlnI) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Enable operational analytics w/Amazon Aurora & Amazon Redshift (DAT328)](https://www.youtube.com/watch?v=H4JRz5yv694)   | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Visibility into how internet issues impact app performance (COP345)](https://www.youtube.com/watch?v=Kuc_SG_aBgQ)       | 2022-12-05   |
@@ -1261,7 +1309,7 @@
 | [AWS re:Invent 2022 - AWS Impact Accelerator: Being the megaphone (DEI207)](https://www.youtube.com/watch?v=j08R9D-Xnjw)                            | 2022-12-05   |
 | [AWS re:Invent 2022 - Data-driven outcomes in public sector workplaces (DEI206)](https://www.youtube.com/watch?v=P8geqbVgjF0)                       | 2022-12-05   |
 | [AWS re:Invent 2022 - The representation deficit: Solving bias in an AI/ML-powered future  (DEI203)](https://www.youtube.com/watch?v=phAJylLCHlA)   | 2022-12-05   |
-| [AWS re:Invent 2022 - Accessing AWS from your development environment (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                        | 2022-12-05   |
+| [AWS re:Invent 2022 - Amazon CodeCatalyst Dev Environments in action (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                         | 2022-12-05   |
 | [AWS re:Invent 2022 - Best practices for securing your software delivery lifecycle  (DOP316)](https://www.youtube.com/watch?v=PBxXcdchtjo)          | 2022-12-05   |
 | [AWS re:Invent 2022 - How to reuse patterns when developing infrastructure as code (DOP302)](https://www.youtube.com/watch?v=ndd9XwQZbyM)           | 2022-12-05   |
 | [AWS re:Invent 2022 - The Amazon Builders’ Library: 25 yrs of Amazon operational excellence (DOP301)](https://www.youtube.com/watch?v=DSRhgBd_gtw)  | 2022-12-05   |
@@ -1577,7 +1625,6 @@
 | [AWS re:Invent 2022 - How Disney processes clickstream data on Amazon EMR Serverless (ANT325)](https://www.youtube.com/watch?v=y1p0BGsPxvw)         | 2022-12-01   |
 | [AWS re:Invent 2022 - Using Amazon AppFlow to break down data silos for analytics and ML (ANT220)](https://www.youtube.com/watch?v=NF7rEo8CzpA)     | 2022-12-01   |
 | [AWS re:Invent 2022 - Building comprehensive cloud data management (PRT245)](https://www.youtube.com/watch?v=idugI8XpQYg)                           | 2022-12-01   |
-| [AWS re:Invent 2022 - Build your global wide area network using AWS (NET303)](https://www.youtube.com/watch?v=rkXHxRlKfoE)                          | 2022-12-01   |
 | [AWS re:Invent 2022 - Amazon Route 53: What’s in a domain name? A lot! (NET206)](https://www.youtube.com/watch?v=mczl5zhQcYQ)                       | 2022-12-01   |
 | [AWS re:Invent 2022 - Improving your solutions with AWS Partner technical validation (PEX205)](https://www.youtube.com/watch?v=-9EdKM0Sxa8)         | 2022-12-01   |
 | [AWS re:Invent 2022 - Discover Cloudscape, an open-source design system for the cloud (OPN204)](https://www.youtube.com/watch?v=4Dvqs8KF9B8)        | 2022-12-01   |
@@ -1620,7 +1667,6 @@
 | [AWS re:Invent 2022 - Accelerating decarbonization and sustainability transformation (SUS212)](https://www.youtube.com/watch?v=Aeb2nEZ-aio)         | 2022-12-01   |
 | [AWS re:Invent 2022 - Deep dive on accelerating HPC and ML with Amazon FSx (STG343)](https://www.youtube.com/watch?v=6848CCaIqSY)                   | 2022-12-01   |
 | [AWS re:Invent 2022 - File storage for builders and data scientists on Amazon EFS (STG216)](https://www.youtube.com/watch?v=g0f6lrmEyRM)            | 2022-12-01   |
-| [AWS re:Invent 2022 - Modernize identity and enhance security with Okta and AWS (PRT042)](https://www.youtube.com/watch?v=-nkdy1DbD8g)              | 2022-12-01   |
 | [AWS re:Invent 2022 - Identity-native infrastructure access on AWS with Teleport (PRT041)](https://www.youtube.com/watch?v=VWMCT737IIc)             | 2022-12-01   |
 | [AWS re:Invent 2022 - Network-attached storage in the cloud with Amazon FSx (STG201)](https://www.youtube.com/watch?v=nDCP7UsVrt8)                  | 2022-12-01   |
 | [AWS re:Invent 2022 - When is it time to modernize your AWS database platform? (PRT046)](https://www.youtube.com/watch?v=pnEoqZJC1j4)               | 2022-12-01   |
@@ -1723,7 +1769,7 @@
 
 #### [AWS re:Invent 2022](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 717 
+* video count: 744 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -1825,7 +1871,6 @@
 | [AWS re:Invent 2022 - When is it time to modernize your AWS database platform? (PRT046)](https://www.youtube.com/watch?v=pnEoqZJC1j4)               | 2022-12-01   |
 | [AWS re:Invent 2022 - Network-attached storage in the cloud with Amazon FSx (STG201)](https://www.youtube.com/watch?v=nDCP7UsVrt8)                  | 2022-12-01   |
 | [AWS re:Invent 2022 - Identity-native infrastructure access on AWS with Teleport (PRT041)](https://www.youtube.com/watch?v=VWMCT737IIc)             | 2022-12-01   |
-| [AWS re:Invent 2022 - Modernize identity and enhance security with Okta and AWS (PRT042)](https://www.youtube.com/watch?v=-nkdy1DbD8g)              | 2022-12-01   |
 | [AWS re:Invent 2022 - File storage for builders and data scientists on Amazon EFS (STG216)](https://www.youtube.com/watch?v=g0f6lrmEyRM)            | 2022-12-01   |
 | [AWS re:Invent 2022 - Deep dive on accelerating HPC and ML with Amazon FSx (STG343)](https://www.youtube.com/watch?v=6848CCaIqSY)                   | 2022-12-01   |
 | [AWS re:Invent 2022 - Accelerating decarbonization and sustainability transformation (SUS212)](https://www.youtube.com/watch?v=Aeb2nEZ-aio)         | 2022-12-01   |
@@ -1888,7 +1933,6 @@
 | [AWS re:Invent 2022 - Your data: How you need it, where you need it, when you need it (DAT224-L)](https://www.youtube.com/watch?v=AJlsAin7_rQ)      | 2022-12-01   |
 | [AWS re:Invent 2022 - Executive insights panel: Changing your culture in the age of cloud (ENT234-L)](https://www.youtube.com/watch?v=2g2PvPmPuQM)  | 2022-12-01   |
 | [AWS re:Invent 2022 - Amazon Route 53: What’s in a domain name? A lot! (NET206)](https://www.youtube.com/watch?v=mczl5zhQcYQ)                       | 2022-12-01   |
-| [AWS re:Invent 2022 - Build your global wide area network using AWS (NET303)](https://www.youtube.com/watch?v=rkXHxRlKfoE)                          | 2022-12-01   |
 | [AWS re:Invent 2022 - Building comprehensive cloud data management (PRT245)](https://www.youtube.com/watch?v=idugI8XpQYg)                           | 2022-12-01   |
 | [AWS re:Invent 2022 - Using Amazon AppFlow to break down data silos for analytics and ML (ANT220)](https://www.youtube.com/watch?v=NF7rEo8CzpA)     | 2022-12-01   |
 | [AWS re:Invent 2022 - How Disney processes clickstream data on Amazon EMR Serverless (ANT325)](https://www.youtube.com/watch?v=y1p0BGsPxvw)         | 2022-12-01   |
@@ -2247,7 +2291,7 @@
 | [AWS re:Invent 2022 - Navigating the infrastructure skills gap for DevOps teams (PRT089)](https://www.youtube.com/watch?v=55mOuHllXu4)              | 2022-12-05   |
 | [AWS re:Invent 2022 - Best practices for securing your software delivery lifecycle  (DOP316)](https://www.youtube.com/watch?v=PBxXcdchtjo)          | 2022-12-05   |
 | [AWS re:Invent 2022 - 5 great ways to reimagine your data layer with Redis (PRT088)](https://www.youtube.com/watch?v=CD1kvauvKII)                   | 2022-12-05   |
-| [AWS re:Invent 2022 - Accessing AWS from your development environment (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                        | 2022-12-05   |
+| [AWS re:Invent 2022 - Amazon CodeCatalyst Dev Environments in action (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                         | 2022-12-05   |
 | [AWS re:Invent 2022 - Automated data discovery: Break free from hours of manual data hunting (PRT069)](https://www.youtube.com/watch?v=L7TUZ7x_4-g) | 2022-12-05   |
 | [AWS re:Invent 2022 - The representation deficit: Solving bias in an AI/ML-powered future  (DEI203)](https://www.youtube.com/watch?v=phAJylLCHlA)   | 2022-12-05   |
 | [AWS re:Invent 2022 - Data-driven outcomes in public sector workplaces (DEI206)](https://www.youtube.com/watch?v=P8geqbVgjF0)                       | 2022-12-05   |
@@ -2352,7 +2396,6 @@
 | [AWS re:Invent 2022 - [NEW] Visibility into how internet issues impact app performance (COP345)](https://www.youtube.com/watch?v=Kuc_SG_aBgQ)       | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Enable operational analytics w/Amazon Aurora & Amazon Redshift (DAT328)](https://www.youtube.com/watch?v=H4JRz5yv694)   | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Introducing AWS Verified Access: Secure connections to your apps (NET214)](https://www.youtube.com/watch?v=Kkxn-bAIlnI) | 2022-12-05   |
-| [AWS re:Invent 2022 - [NEW] Introducing Amazon VPC Lattice: Simplifying app networking (NET215)](https://www.youtube.com/watch?v=L6VSgiyfsMc)       | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Use policies to manage permissions w/Amazon Verified Permissions (SEC335)](https://www.youtube.com/watch?v=k6pPcnLuOXY) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] How AWS Application Composer helps your team build great apps (SVS211)](https://www.youtube.com/watch?v=txzU1Go9oxc)    | 2022-12-05   |
 | [AWS re:Invent 2022 - Correlate cloud  performance metrics directly with business impact (PRT203)](https://www.youtube.com/watch?v=v8nUyMNurpQ)     | 2022-12-05   |
@@ -2426,7 +2469,7 @@
 | [AWS re:Invent 2022 - [NEW LAUNCH!] Transform omics data into insights with Amazon Omics (AIM219)](https://www.youtube.com/watch?v=46SLOjuMM6o)     | 2022-12-06   |
 | [AWS re:Invent 2022 - Advancing health equity with Amazon HealthLake (HLC204)](https://www.youtube.com/watch?v=udDD3e_HgtQ)                         | 2022-12-06   |
 | [AWS re:Invent 2022 - Proactive governance and compliance for AWS workloads (COP204)](https://www.youtube.com/watch?v=PpUnH9Y52X0)                  | 2022-12-06   |
-| [AWS re:Invent 2022 - Continuous integration and delivery (CI/CD) on AWS (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                   | 2022-12-06   |
+| [AWS re:Invent 2022 - Introducing Amazon CodeCatalyst (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                                      | 2022-12-06   |
 | [AWS re:Invent 2022 - Cutting carbon where it matters the most: How SDG&E innovates with AWS (ENU306)](https://www.youtube.com/watch?v=6yAJJeWRGgk) | 2022-12-06   |
 | [AWS re:Invent 2022 - Resiliency in the cloud: Disaster recovery with VMware Cloud on AWS (ENT223)](https://www.youtube.com/watch?v=e71lzusdPWc)    | 2022-12-06   |
 | [AWS re:Invent 2022 - Migrating to the cloud: What is the cost of doing nothing? (ENT325)](https://www.youtube.com/watch?v=RdtYXsg3H-U)             | 2022-12-06   |
@@ -2444,4 +2487,34 @@
 | [AWS re:Invent 2022 - AWS Well-Architected best practices for DevOps on AWS (DOP207)](https://www.youtube.com/watch?v=hfXokRAyorA)                  | 2022-12-06   |
 | [AWS re:Invent 2022 - AWS Lambda Powertools: Lessons from the road to 10 million downloads (OPN306)](https://www.youtube.com/watch?v=dH2GP6Lydj8)   | 2022-12-06   |
 | [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404-R)](https://www.youtube.com/watch?v=0_jfH6qijVY)                                          | 2022-12-06   |
+| [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One (SVS311)](https://www.youtube.com/watch?v=NZVNAEK6shc)   | 2022-12-07   |
+| [AWS re:Invent 2022 - Reimagining the home experience with cloud-native 5G powered by AWS (TLC305)](https://www.youtube.com/watch?v=wdjdyQEvlvI)    | 2022-12-07   |
+| [AWS re:Invent 2022 - How Georgia-Pacific accelerates modernization & improves resilience (ENT324)](https://www.youtube.com/watch?v=qxfm07YUIUw)    | 2022-12-07   |
+| [AWS re:Invent 2022 - [NEW LAUNCH!] Break down supply chain silos with machine learning (BIZ214)](https://www.youtube.com/watch?v=3kPPN1z0qto)      | 2022-12-07   |
+| [AWS re:Invent 2022 - Democratize data: The intersection of governance and analytics (PRT244)](https://www.youtube.com/watch?v=f2kUkp95Tqk)         | 2022-12-07   |
+| [AWS re:Invent 2022 - Is it ODD to shift left? Becoming elite DevSecOps performers (PRT283)](https://www.youtube.com/watch?v=Bfr_yKu6KJk)           | 2022-12-07   |
+| [AWS re:Invent 2022 - Cash is alive: How technology has enabled phygital at scale (PRT285)](https://www.youtube.com/watch?v=lWzzeg-vKYo)            | 2022-12-07   |
+| [AWS re:Invent 2022 - Future-proof your business to drive growth and transformation (PRT287)](https://www.youtube.com/watch?v=2oIBewN0-9Q)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Reliable, secure, and efficient cloud operations (PRT289)](https://www.youtube.com/watch?v=LlKLbikSYVE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Using AWS savings instruments in a FinOps journey (PRT292)](https://www.youtube.com/watch?v=BFzO2MpRqoY)                      | 2022-12-07   |
+| [AWS re:Invent 2022 - Ready, set, innovate: Building for the future (PRT316)](https://www.youtube.com/watch?v=J_tgV2bSLm8)                          | 2022-12-07   |
+| [AWS re:Invent 2022 - Detecting SSRF events on AWS using Splunk (PRT325)](https://www.youtube.com/watch?v=-fDY9FenSM4)                              | 2022-12-07   |
+| [AWS re:Invent 2022 - How a Fortune 100 firm seamlessly moved from mainframe to AWS (PRT332)](https://www.youtube.com/watch?v=Cup4yFaoER4)          | 2022-12-07   |
+| [AWS re:Invent 2022 - Matillion: Increasing data productivity without infrastructure (PRT076)](https://www.youtube.com/watch?v=7APptf9NphE)         | 2022-12-07   |
+| [AWS re:Invent 2022 – How to empower software engineers to act & improve cloud efficiency (PRT077)](https://www.youtube.com/watch?v=4aLBEoxNHuk)    | 2022-12-07   |
+| [AWS re:Invent 2022 - Enabling successful MRO operations with the AWS Cloud (PRT079)](https://www.youtube.com/watch?v=Sn33qKOlUwc)                  | 2022-12-07   |
+| [AWS re:Invent 2022 - How to build a winning app modernization strategy & deliver on it (PRT080)](https://www.youtube.com/watch?v=llZEO8QrEGs)      | 2022-12-07   |
+| [AWS re:Invent 2022 - Beyond observability: Using reliability scores to drive results (PRT083)](https://www.youtube.com/watch?v=MRli7gx7DaM)        | 2022-12-07   |
+| [AWS re:Invent 2022 - Serverless order fulfillment with Stripe and AWS (PRT084)](https://www.youtube.com/watch?v=ijAvk9k_fC8)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - The nonstop way to find AWS-recommended savings opportunities (PRT086)](https://www.youtube.com/watch?v=kpFjC4MDNJs)          | 2022-12-07   |
+| [AWS re:Invent 2022 - How Starburst uses CockroachDB to power Starburst Galaxy (PRT099)](https://www.youtube.com/watch?v=7uvsjUXKDeo)               | 2022-12-07   |
+| [AWS re:Invent 2022 - Rethink data governance as strategic empowerment (PRT100)](https://www.youtube.com/watch?v=wPZvHZHawWE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Plan, scale, and operate your cloud applications (PRT101)](https://www.youtube.com/watch?v=vN6lzmLSwkE)                       | 2022-12-07   |
+| [AWS re:Invent 2022 - Reduce DevOps context switching with AWS and Slack (PRT102)](https://www.youtube.com/watch?v=lIVqI25zZC4)                     | 2022-12-07   |
+| [AWS re:Invent 2022 - Meet GovSlack: The digital HQ for government work (PRT103)](https://www.youtube.com/watch?v=O7Ru5Ukrzo4)                      | 2022-12-07   |
+| [AWS re:Invent 2022 - Accelerate value for your business w/SAP & AWS reference architecture (PRT105)](https://www.youtube.com/watch?v=-u3oyOy-HxU)  | 2022-12-07   |
+| [AWS re:Invent 2022 - Virtually unlimited scale and hybrid SaaS deployments with Matillion (PRT106)](https://www.youtube.com/watch?v=FXw1dNYFs-Y)   | 2022-12-07   |
+| [AWS re:Invent 2022 - Faster drug discovery design with WEKA on AWS (PRT107)](https://www.youtube.com/watch?v=Zt8PNA5IzQs)                          | 2022-12-07   |
+| [AWS re:Invent 2022 - Prepare for the unexpected with code-to-cloud security (PRT240)](https://www.youtube.com/watch?v=saC1X7k0SU8)                 | 2022-12-07   |
+| [AWS re:Invent 2022 - Curing modern data architecture complexity (PRT087)](https://www.youtube.com/watch?v=wGbKU8hRS8A)                             | 2022-12-07   |
 
