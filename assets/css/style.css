@@ -15,3 +15,8 @@ footer {
     bottom: 50px;
     /* -webkit-font-smoothing: subpixel-antialiased; */
 }
+section {
+    width: 1280px;
+    float: right;
+    padding-bottom: 50px;
+}
