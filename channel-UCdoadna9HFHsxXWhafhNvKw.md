@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2022 - Analytics](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_-5YONXXqggeOL-UxcgH5C) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 34 
+* video count: 35 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -40,6 +40,7 @@
 | [AWS re:Invent 2022 - AWS Impact Accelerator: Being the megaphone (DEI207)](https://www.youtube.com/watch?v=j08R9D-Xnjw)                            | 2022-12-05   |
 | [AWS re:Invent 2022 - Building security operations with Amazon OpenSearch Service (ANT311)](https://www.youtube.com/watch?v=w4orOahPMSA)            | 2022-12-06   |
 | [AWS re:Invent 2022 - Migrate to cloud-native business analytics with Amazon QuickSight (BSI202)](https://www.youtube.com/watch?v=fbxJfGLJHE0)      | 2022-12-06   |
+| [AWS re:Invent 2022 - Differentiate your apps with Amazon QuickSight embedded analytics  (BSI203)](https://www.youtube.com/watch?v=MvDQuTvI4as)     | 2022-12-08   |
 
 #### [AWS re:Invent 2022 - SysOps - Chris Williams](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_maCuxVoAH1bbHF1oSjJFR) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -106,12 +107,12 @@
 | [AWS re:Invent 2022 - Building next-gen applications with event-driven architectures (API311-R)](https://www.youtube.com/watch?v=SbL3a9YOW7s)      | 2022-11-30   |
 | [AWS re:Invent 2022 - Deploy modern and effective data models with Amazon DynamoDB (DAT320)](https://www.youtube.com/watch?v=SC-YAPgJpms)          | 2022-12-01   |
 | [AWS re:Invent 2022 - Build production-ready prototypes rapidly using serverless patterns (ARC311-R)](https://www.youtube.com/watch?v=Q2OY55gaOjw) | 2022-12-01   |
-| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R1)](https://www.youtube.com/watch?v=eUjbLFPsATE)       | 2022-12-01   |
 | [AWS re:Invent 2022 - Building real-world serverless applications with AWS SAM (SVS303)](https://www.youtube.com/watch?v=jZcS-XRt2Mo)              | 2022-12-01   |
 | [AWS re:Invent 2022 - Best practices for advanced serverless developers (SVS401)](https://www.youtube.com/watch?v=PiQ_eZFO2GU)                     | 2022-12-01   |
 | [AWS re:Invent 2022 - Advanced serverless workflow patterns and best practices (API309)](https://www.youtube.com/watch?v=o6-7BAUWaqg)              | 2022-12-05   |
 | [AWS re:Invent 2022 - Building observable applications with OpenTelemetry (BOA310)](https://www.youtube.com/watch?v=efk8XFJrW2c)                   | 2022-12-05   |
 | [AWS re:Invent 2022 - Building Serverlesspresso: Creating event-driven architectures (SVS312)](https://www.youtube.com/watch?v=qs0U0LdNkV0)        | 2022-12-06   |
+| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R)](https://www.youtube.com/watch?v=W3Rh70jG-LM)        | 2022-12-08   |
 
 #### [AWS re:Invent 2022 - Security - Mark Nunnikhoven](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-FA2d-3jrKZFEQlElyjyhj) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -216,11 +217,11 @@
 
 * video count: 3 
 
-| title                                                                                                                                        | Published At |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R1)](https://www.youtube.com/watch?v=eUjbLFPsATE) | 2022-12-01   |
-| [AWS re:Invent 2022 - Automate everything: Options and best practices (COP209)](https://www.youtube.com/watch?v=LA7wN6mY8fE)                 | 2022-12-05   |
-| [AWS re:Invent 2022 - How to reuse patterns when developing infrastructure as code (DOP302)](https://www.youtube.com/watch?v=ndd9XwQZbyM)    | 2022-12-05   |
+| title                                                                                                                                       | Published At |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2022 - Automate everything: Options and best practices (COP209)](https://www.youtube.com/watch?v=LA7wN6mY8fE)                | 2022-12-05   |
+| [AWS re:Invent 2022 - How to reuse patterns when developing infrastructure as code (DOP302)](https://www.youtube.com/watch?v=ndd9XwQZbyM)   | 2022-12-05   |
+| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R)](https://www.youtube.com/watch?v=W3Rh70jG-LM) | 2022-12-08   |
 
 #### [AWS re:Invent 2022 - Lightning Talk](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_-bwT0Xuc1kgoMlBroVU_1) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -292,7 +293,7 @@
 | [AWS re:Invent 2022 - Automated data discovery: Break free from hours of manual data hunting (PRT069)](https://www.youtube.com/watch?v=L7TUZ7x_4-g) | 2022-12-05   |
 | [AWS re:Invent 2022 - Achieving software health in the microservices age (PRT064)](https://www.youtube.com/watch?v=SAs_zu1yP_8)                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Secure your application development with AWS and Mend (PRT052)](https://www.youtube.com/watch?v=B8IoZw4Wx7c)                  | 2022-12-05   |
-| [Private video](https://www.youtube.com/watch?v=mUYY0ZL27GA)                                                                                        | 2022-12-05   |
+| [AWS re:Invent 2022 - Ubuntu and beyond: Securely managing open source on AWS (PRT049)](https://www.youtube.com/watch?v=mUYY0ZL27GA)                | 2022-12-05   |
 | [AWS re:Invent 2022 - How to create a future-proof foundation for data protection (PRT048)](https://www.youtube.com/watch?v=0na1Pjes3AU)            | 2022-12-05   |
 | [AWS re:Invent 2022 - Secure access on AWS with ZTNA 2.0 (PRT044)](https://www.youtube.com/watch?v=_988blqp9mA)                                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Modern AppDev and AppSec cloud solution architecture strategy (PRT021)](https://www.youtube.com/watch?v=pSZXLwuany0)          | 2022-12-05   |
@@ -579,7 +580,7 @@
 | [AWS re:Invent 2022 - Automated data discovery: Break free from hours of manual data hunting (PRT069)](https://www.youtube.com/watch?v=L7TUZ7x_4-g) | 2022-12-05   |
 | [AWS re:Invent 2022 - Achieving software health in the microservices age (PRT064)](https://www.youtube.com/watch?v=SAs_zu1yP_8)                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Secure your application development with AWS and Mend (PRT052)](https://www.youtube.com/watch?v=B8IoZw4Wx7c)                  | 2022-12-05   |
-| [Private video](https://www.youtube.com/watch?v=mUYY0ZL27GA)                                                                                        | 2022-12-05   |
+| [AWS re:Invent 2022 - Ubuntu and beyond: Securely managing open source on AWS (PRT049)](https://www.youtube.com/watch?v=mUYY0ZL27GA)                | 2022-12-05   |
 | [AWS re:Invent 2022 - How to create a future-proof foundation for data protection (PRT048)](https://www.youtube.com/watch?v=0na1Pjes3AU)            | 2022-12-05   |
 | [AWS re:Invent 2022 - Secure access on AWS with ZTNA 2.0 (PRT044)](https://www.youtube.com/watch?v=_988blqp9mA)                                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Modern AppDev and AppSec cloud solution architecture strategy (PRT021)](https://www.youtube.com/watch?v=pSZXLwuany0)          | 2022-12-05   |
@@ -771,7 +772,6 @@
 | [AWS re:Invent 2022 - Accelerating innovation with serverless on AWS (SVS210-L)](https://www.youtube.com/watch?v=7bY-YH70h8g)                       | 2022-11-30   |
 | [AWS re:Invent 2022 - Your first container in the cloud (CON207)](https://www.youtube.com/watch?v=abTFdy47tP4)                                      | 2022-12-01   |
 | [AWS re:Invent 2022 - Architecting secure serverless applications (SVS302-R)](https://www.youtube.com/watch?v=A8iHQjHv8nY)                          | 2022-12-01   |
-| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R1)](https://www.youtube.com/watch?v=eUjbLFPsATE)        | 2022-12-01   |
 | [AWS re:Invent 2022 - What’s new with Amazon ECS (CON323)](https://www.youtube.com/watch?v=1_YUmq3MpYQ)                                             | 2022-12-01   |
 | [AWS re:Invent 2022 - Building real-world serverless applications with AWS SAM (SVS303)](https://www.youtube.com/watch?v=jZcS-XRt2Mo)               | 2022-12-01   |
 | [AWS re:Invent 2022 - Best practices for advanced serverless developers (SVS401)](https://www.youtube.com/watch?v=PiQ_eZFO2GU)                      | 2022-12-01   |
@@ -787,6 +787,7 @@
 | [AWS re:Invent 2022 - AWS Lambda Powertools: Lessons from the road to 10 million downloads (OPN306)](https://www.youtube.com/watch?v=dH2GP6Lydj8)   | 2022-12-06   |
 | [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404-R)](https://www.youtube.com/watch?v=0_jfH6qijVY)                                          | 2022-12-06   |
 | [AWS re:Invent 2022 - Practical experience with a serverless-first strategy at Capital One (SVS311)](https://www.youtube.com/watch?v=NZVNAEK6shc)   | 2022-12-07   |
+| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R)](https://www.youtube.com/watch?v=W3Rh70jG-LM)         | 2022-12-08   |
 
 #### [AWS re:Invent 2022 - Security, Compliance, & Identity](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8bvQJuSP1DQ8vu75jdttlM) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -843,7 +844,7 @@
 
 #### [AWS re:Invent 2022 - Networking and Content Delivery](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8cWaRO0xirZHHGmxoornri) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 15 
+* video count: 16 
 
 | title                                                                                                                                          | Published At |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -858,10 +859,11 @@
 | [AWS re:Invent 2022 - Dive deep on AWS networking infrastructure (NET402)](https://www.youtube.com/watch?v=HJNR_dX8g8c)                        | 2022-12-06   |
 | [AWS re:Invent 2022 - Deliver great experiences with QUIC on Amazon CloudFront (NET401)](https://www.youtube.com/watch?v=AFR7z_vce20)          | 2022-12-06   |
 | [AWS re:Invent 2022 - Building DDoS-resilient applications using AWS Shield (NET314)](https://www.youtube.com/watch?v=5cfVebJ8wTo)             | 2022-12-06   |
-| [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=Yi-BMmg3NQs)                                       | 2022-12-06   |
 | [AWS re:Invent 2022 - Advanced VPC design and new Amazon VPC capabilities (NET302)](https://www.youtube.com/watch?v=cbUNbK8ZdA0)               | 2022-12-06   |
 | [AWS re:Invent 2022 - Observing and diagnosing your network with AWS (NET205)](https://www.youtube.com/watch?v=80z1U1MCRiU)                    | 2022-12-06   |
 | [AWS re:Invent 2022 - Application networking foundations (NET204)](https://www.youtube.com/watch?v=WcZwWuq6FTk)                                | 2022-12-06   |
+| [AWS re:Invent 2022 - [NEW] Introducing Amazon VPC Lattice: Simplifying app networking (NET215)](https://www.youtube.com/watch?v=fRjD1JI0H5w)  | 2022-12-08   |
+| [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=u-qamiNgH7Q)                                       | 2022-12-08   |
 
 #### [AWS re:Invent 2022 - IoT & Robotics](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-JdQFeoWJVBPilaIcZwE6k) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -1032,7 +1034,7 @@
 
 #### [AWS re:Invent 2022 - Business Apps](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8XE_GgI9DvcmDvUUGVUu3X) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 9 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -1042,7 +1044,6 @@
 | [AWS re:Invent 2022 - What’s new in contact centers with Amazon Connect (BIZ202)](https://www.youtube.com/watch?v=yMuH5GdL1l8)                     | 2022-12-01   |
 | [AWS re:Invent 2022 - Improving multichannel communications  (BIZ201)](https://www.youtube.com/watch?v=hh3-lyZ9Sho)                                | 2022-12-02   |
 | [AWS re:Invent 2022 - Boost agent productivity and performance with Amazon Connect (BIZ205)](https://www.youtube.com/watch?v=LA4orUA7gQE)          | 2022-12-02   |
-| [AWS re:Invent 2022 - Engaging priority communities in population health campaigns (DEI208)](https://www.youtube.com/watch?v=CNH7kURg-SQ)          | 2022-12-02   |
 | [AWS re:Invent 2022 - AWS Wickr: Aiding Afghan refugees through secure communication (BIZ203)](https://www.youtube.com/watch?v=2v2WFkIc-F8)        | 2022-12-05   |
 | [AWS re:Invent 2022 - Optimize contact center outcomes with Amazon Connect (BIZ204)](https://www.youtube.com/watch?v=qf1rZ5zguSc)                  | 2022-12-05   |
 | [AWS re:Invent 2022 - How NAB transformed the self-service experience w/Amazon Connect & ML (BIZ207)](https://www.youtube.com/watch?v=TJcTsd1cBo0) | 2022-12-06   |
@@ -1106,10 +1107,14 @@
 
 #### [AWS re:Invent 2022 - Breakout Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-Jdg0SkHt85s-YvTUaNmgT) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 627 
+* video count: 628 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2022 - Differentiate your apps with Amazon QuickSight embedded analytics  (BSI203)](https://www.youtube.com/watch?v=MvDQuTvI4as)     | 2022-12-08   |
+| [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=u-qamiNgH7Q)                                            | 2022-12-08   |
+| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R)](https://www.youtube.com/watch?v=W3Rh70jG-LM)         | 2022-12-08   |
+| [AWS re:Invent 2022 - [NEW] Introducing Amazon VPC Lattice: Simplifying app networking (NET215)](https://www.youtube.com/watch?v=fRjD1JI0H5w)       | 2022-12-08   |
 | [AWS re:Invent 2022 - How a Fortune 100 firm seamlessly moved from mainframe to AWS (PRT332)](https://www.youtube.com/watch?v=Cup4yFaoER4)          | 2022-12-07   |
 | [AWS re:Invent 2022 - Detecting SSRF events on AWS using Splunk (PRT325)](https://www.youtube.com/watch?v=-fDY9FenSM4)                              | 2022-12-07   |
 | [AWS re:Invent 2022 - Ready, set, innovate: Building for the future (PRT316)](https://www.youtube.com/watch?v=J_tgV2bSLm8)                          | 2022-12-07   |
@@ -1169,7 +1174,6 @@
 | [AWS re:Invent 2022 - Application networking foundations (NET204)](https://www.youtube.com/watch?v=WcZwWuq6FTk)                                     | 2022-12-06   |
 | [AWS re:Invent 2022 - Observing and diagnosing your network with AWS (NET205)](https://www.youtube.com/watch?v=80z1U1MCRiU)                         | 2022-12-06   |
 | [AWS re:Invent 2022 - Advanced VPC design and new Amazon VPC capabilities (NET302)](https://www.youtube.com/watch?v=cbUNbK8ZdA0)                    | 2022-12-06   |
-| [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=Yi-BMmg3NQs)                                            | 2022-12-06   |
 | [AWS re:Invent 2022 - Building DDoS-resilient applications using AWS Shield (NET314)](https://www.youtube.com/watch?v=5cfVebJ8wTo)                  | 2022-12-06   |
 | [AWS re:Invent 2022 - Deliver great experiences with QUIC on Amazon CloudFront (NET401)](https://www.youtube.com/watch?v=AFR7z_vce20)               | 2022-12-06   |
 | [AWS re:Invent 2022 - Dive deep on AWS networking infrastructure (NET402)](https://www.youtube.com/watch?v=HJNR_dX8g8c)                             | 2022-12-06   |
@@ -1223,7 +1227,7 @@
 | [AWS re:Invent 2022 - [NEW] EventBridge Pipes simplifies connecting event-driven services (API206)](https://www.youtube.com/watch?v=xXGXCOc3cBs)    | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Accelerate workloads using parallelism w/Step Functions & Lambda (API205)](https://www.youtube.com/watch?v=SG6_oy72hh4) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Amazon Redshift: 10 yrs of integration & data sharing innovation (ANT345)](https://www.youtube.com/watch?v=eIZcoXg39tg) | 2022-12-05   |
-| [AWS re:Invent 2022 - [NEW] Democratize data w/governance: People, data & tools together (ANT344)](https://www.youtube.com/watch?v=t3LTunhYys4)     | 2022-12-05   |
+| [AWS re:Invent 2022 - [NEW LAUNCH] Amazon DataZone – Democratize data w/ governance (ANT344)](https://www.youtube.com/watch?v=t3LTunhYys4)          | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Monitor & manage data quality in your data lake with AWS Glue (ANT222)](https://www.youtube.com/watch?v=KIpky7-v4QI)    | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Improve ML governance w/deep control & transparency in SageMaker (AIM346)](https://www.youtube.com/watch?v=3lHTZHk7hDE) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Easily build, train, and deploy ML models using geospatial data (AIM218)](https://www.youtube.com/watch?v=RzgcSsdkpkc)  | 2022-12-05   |
@@ -1457,7 +1461,6 @@
 | [AWS re:Invent 2022 - Accelerating SaaS conversion of applications (EUC307)](https://www.youtube.com/watch?v=p7fN50q_RqE)                           | 2022-12-02   |
 | [AWS re:Invent 2022 - Creating flexibility & choice for VDI management w/Amazon WorkSpaces (EUC203)](https://www.youtube.com/watch?v=fuJS6LhZ90I)   | 2022-12-02   |
 | [AWS re:Invent 2022 - What’s new with Amazon WorkSpaces, AppStream 2.0 & WorkSpaces Web (EUC202)](https://www.youtube.com/watch?v=2HMPC6gXKmc)      | 2022-12-02   |
-| [AWS re:Invent 2022 - Engaging priority communities in population health campaigns (DEI208)](https://www.youtube.com/watch?v=CNH7kURg-SQ)           | 2022-12-02   |
 | [AWS re:Invent 2022 - Building on AWS with AWS tools, services, and SDKs (DOP202)](https://www.youtube.com/watch?v=xvqCGuYBEgE)                     | 2022-12-02   |
 | [AWS re:Invent 2022 - AWS infrastructure as code: A year in review (DOP201)](https://www.youtube.com/watch?v=5TTRD3yI47c)                           | 2022-12-02   |
 | [AWS re:Invent 2022 - How Intuit migrated Apache Cassandra workloads to Amazon Keyspaces  (DAT327)](https://www.youtube.com/watch?v=AjsKP0Key6U)    | 2022-12-02   |
@@ -1620,7 +1623,6 @@
 | [AWS re:Invent 2022 - Reducing your area of impact and surviving difficult days (ARC305)](https://www.youtube.com/watch?v=R6GSiliLfJU)              | 2022-12-01   |
 | [AWS re:Invent 2022 - Put your cloud cost on track (ARC209)](https://www.youtube.com/watch?v=W5-BT25bk3U)                                           | 2022-12-01   |
 | [AWS re:Invent 2022 - Establishing your cloud foundation on AWS—beyond your landing zone (ARC205)](https://www.youtube.com/watch?v=mHOtAEk-5tE)     | 2022-12-01   |
-| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R1)](https://www.youtube.com/watch?v=eUjbLFPsATE)        | 2022-12-01   |
 | [AWS re:Invent 2022 - How Riot Games processes 20 TB of analytics data daily on AWS (ANT341)](https://www.youtube.com/watch?v=5L1K_moG-dY)          | 2022-12-01   |
 | [AWS re:Invent 2022 - How Disney processes clickstream data on Amazon EMR Serverless (ANT325)](https://www.youtube.com/watch?v=y1p0BGsPxvw)         | 2022-12-01   |
 | [AWS re:Invent 2022 - Using Amazon AppFlow to break down data silos for analytics and ML (ANT220)](https://www.youtube.com/watch?v=NF7rEo8CzpA)     | 2022-12-01   |
@@ -1769,7 +1771,7 @@
 
 #### [AWS re:Invent 2022](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 744 
+* video count: 745 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -1937,7 +1939,6 @@
 | [AWS re:Invent 2022 - Using Amazon AppFlow to break down data silos for analytics and ML (ANT220)](https://www.youtube.com/watch?v=NF7rEo8CzpA)     | 2022-12-01   |
 | [AWS re:Invent 2022 - How Disney processes clickstream data on Amazon EMR Serverless (ANT325)](https://www.youtube.com/watch?v=y1p0BGsPxvw)         | 2022-12-01   |
 | [AWS re:Invent 2022 - How Riot Games processes 20 TB of analytics data daily on AWS (ANT341)](https://www.youtube.com/watch?v=5L1K_moG-dY)          | 2022-12-01   |
-| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R1)](https://www.youtube.com/watch?v=eUjbLFPsATE)        | 2022-12-01   |
 | [AWS re:Invent 2022 - Establishing your cloud foundation on AWS—beyond your landing zone (ARC205)](https://www.youtube.com/watch?v=mHOtAEk-5tE)     | 2022-12-01   |
 | [AWS re:Invent 2022 - Put your cloud cost on track (ARC209)](https://www.youtube.com/watch?v=W5-BT25bk3U)                                           | 2022-12-01   |
 | [AWS re:Invent 2022 - Reducing your area of impact and surviving difficult days (ARC305)](https://www.youtube.com/watch?v=R6GSiliLfJU)              | 2022-12-01   |
@@ -2112,7 +2113,6 @@
 | [AWS re:Invent 2022 - How Intuit migrated Apache Cassandra workloads to Amazon Keyspaces  (DAT327)](https://www.youtube.com/watch?v=AjsKP0Key6U)    | 2022-12-02   |
 | [AWS re:Invent 2022 - AWS infrastructure as code: A year in review (DOP201)](https://www.youtube.com/watch?v=5TTRD3yI47c)                           | 2022-12-02   |
 | [AWS re:Invent 2022 - Building on AWS with AWS tools, services, and SDKs (DOP202)](https://www.youtube.com/watch?v=xvqCGuYBEgE)                     | 2022-12-02   |
-| [AWS re:Invent 2022 - Engaging priority communities in population health campaigns (DEI208)](https://www.youtube.com/watch?v=CNH7kURg-SQ)           | 2022-12-02   |
 | [AWS re:Invent 2022 - What’s new with Amazon WorkSpaces, AppStream 2.0 & WorkSpaces Web (EUC202)](https://www.youtube.com/watch?v=2HMPC6gXKmc)      | 2022-12-02   |
 | [AWS re:Invent 2022 - Creating flexibility & choice for VDI management w/Amazon WorkSpaces (EUC203)](https://www.youtube.com/watch?v=fuJS6LhZ90I)   | 2022-12-02   |
 | [AWS re:Invent 2022 - Accelerating SaaS conversion of applications (EUC307)](https://www.youtube.com/watch?v=p7fN50q_RqE)                           | 2022-12-02   |
@@ -2297,7 +2297,7 @@
 | [AWS re:Invent 2022 - Data-driven outcomes in public sector workplaces (DEI206)](https://www.youtube.com/watch?v=P8geqbVgjF0)                       | 2022-12-05   |
 | [AWS re:Invent 2022 - Achieving software health in the microservices age (PRT064)](https://www.youtube.com/watch?v=SAs_zu1yP_8)                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Secure your application development with AWS and Mend (PRT052)](https://www.youtube.com/watch?v=B8IoZw4Wx7c)                  | 2022-12-05   |
-| [Private video](https://www.youtube.com/watch?v=mUYY0ZL27GA)                                                                                        | 2022-12-05   |
+| [AWS re:Invent 2022 - Ubuntu and beyond: Securely managing open source on AWS (PRT049)](https://www.youtube.com/watch?v=mUYY0ZL27GA)                | 2022-12-05   |
 | [AWS re:Invent 2022 - How to create a future-proof foundation for data protection (PRT048)](https://www.youtube.com/watch?v=0na1Pjes3AU)            | 2022-12-05   |
 | [AWS re:Invent 2022 - Secure access on AWS with ZTNA 2.0 (PRT044)](https://www.youtube.com/watch?v=_988blqp9mA)                                     | 2022-12-05   |
 | [AWS re:Invent 2022 - Modern AppDev and AppSec cloud solution architecture strategy (PRT021)](https://www.youtube.com/watch?v=pSZXLwuany0)          | 2022-12-05   |
@@ -2386,7 +2386,7 @@
 | [AWS re:Invent 2022 - [NEW] Easily build, train, and deploy ML models using geospatial data (AIM218)](https://www.youtube.com/watch?v=RzgcSsdkpkc)  | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Improve ML governance w/deep control & transparency in SageMaker (AIM346)](https://www.youtube.com/watch?v=3lHTZHk7hDE) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Monitor & manage data quality in your data lake with AWS Glue (ANT222)](https://www.youtube.com/watch?v=KIpky7-v4QI)    | 2022-12-05   |
-| [AWS re:Invent 2022 - [NEW] Democratize data w/governance: People, data & tools together (ANT344)](https://www.youtube.com/watch?v=t3LTunhYys4)     | 2022-12-05   |
+| [AWS re:Invent 2022 - [NEW LAUNCH] Amazon DataZone – Democratize data w/ governance (ANT344)](https://www.youtube.com/watch?v=t3LTunhYys4)          | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Amazon Redshift: 10 yrs of integration & data sharing innovation (ANT345)](https://www.youtube.com/watch?v=eIZcoXg39tg) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] Accelerate workloads using parallelism w/Step Functions & Lambda (API205)](https://www.youtube.com/watch?v=SG6_oy72hh4) | 2022-12-05   |
 | [AWS re:Invent 2022 - [NEW] EventBridge Pipes simplifies connecting event-driven services (API206)](https://www.youtube.com/watch?v=xXGXCOc3cBs)    | 2022-12-05   |
@@ -2440,7 +2440,6 @@
 | [AWS re:Invent 2022 - Dive deep on AWS networking infrastructure (NET402)](https://www.youtube.com/watch?v=HJNR_dX8g8c)                             | 2022-12-06   |
 | [AWS re:Invent 2022 - Deliver great experiences with QUIC on Amazon CloudFront (NET401)](https://www.youtube.com/watch?v=AFR7z_vce20)               | 2022-12-06   |
 | [AWS re:Invent 2022 - Building DDoS-resilient applications using AWS Shield (NET314)](https://www.youtube.com/watch?v=5cfVebJ8wTo)                  | 2022-12-06   |
-| [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=Yi-BMmg3NQs)                                            | 2022-12-06   |
 | [AWS re:Invent 2022 - Advanced VPC design and new Amazon VPC capabilities (NET302)](https://www.youtube.com/watch?v=cbUNbK8ZdA0)                    | 2022-12-06   |
 | [AWS re:Invent 2022 - Observing and diagnosing your network with AWS (NET205)](https://www.youtube.com/watch?v=80z1U1MCRiU)                         | 2022-12-06   |
 | [AWS re:Invent 2022 - Application networking foundations (NET204)](https://www.youtube.com/watch?v=WcZwWuq6FTk)                                     | 2022-12-06   |
@@ -2517,4 +2516,7 @@
 | [AWS re:Invent 2022 - Faster drug discovery design with WEKA on AWS (PRT107)](https://www.youtube.com/watch?v=Zt8PNA5IzQs)                          | 2022-12-07   |
 | [AWS re:Invent 2022 - Prepare for the unexpected with code-to-cloud security (PRT240)](https://www.youtube.com/watch?v=saC1X7k0SU8)                 | 2022-12-07   |
 | [AWS re:Invent 2022 - Curing modern data architecture complexity (PRT087)](https://www.youtube.com/watch?v=wGbKU8hRS8A)                             | 2022-12-07   |
-
+| [AWS re:Invent 2022 - [NEW] Introducing Amazon VPC Lattice: Simplifying app networking (NET215)](https://www.youtube.com/watch?v=fRjD1JI0H5w)       | 2022-12-08   |
+| [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge (API307-R)](https://www.youtube.com/watch?v=W3Rh70jG-LM)         | 2022-12-08   |
+| [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=u-qamiNgH7Q)                                            | 2022-12-08   |
+| [AWS re:Invent 2022 - Differentiate your apps with Amazon QuickSight embedded analytics  (BSI203)](https://www.youtube.com/watch?v=MvDQuTvI4as)     | 2022-12-08   |
