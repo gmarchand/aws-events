@@ -2,6 +2,8 @@
 
 [Playlists Reinvent 2022](channel-UCdoadna9HFHsxXWhafhNvKw.md)
 
+[My personal Playlist](my-playlist-reinvent-2022.md)
+
 # IBC 2022
 [Unleashing the value of UKTV content with AWS Media2Cloud](https://www.youtube.com/watch?v=Uaye3XkKVgo&feature=youtu.be)
 
