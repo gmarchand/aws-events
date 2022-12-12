@@ -1,5 +1,5 @@
-# My Reinvent 2022 playlist
-
+| Title     | Url   |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | AWS re:Invent 2022 - Building modern apps: Architecting for observability & resilience (ARC217-L)    | https://www.youtube.com/watch?v=GamnNc6ZMew |
 | AWS re:Invent 2022 - How Discovery increased operational efficiency with AWS observability (COP201)  | https://www.youtube.com/watch?v=zm30JNYmxlY |
 | AWS re:Invent 2022 - Building next-gen applications with event-driven architectures (API311-R)       | https://www.youtube.com/watch?v=SbL3a9YOW7s |
