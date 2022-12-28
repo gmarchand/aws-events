@@ -44,7 +44,7 @@
 | AWS re:Invent 2022 - What’s new with Amazon ECS (CON323)                                               | [https://www.youtube.com/watch?v=1\_YUmq3MpYQ](https://www.youtube.com/watch?v=1_YUmq3MpYQ) |
 | AWS re:Invent 2022 - Powering Amazon EC2: Deep dive on the AWS Nitro System (CMP301)                   | [https://www.youtube.com/watch?v=jAaqfeyvvSE](https://www.youtube.com/watch?v=jAaqfeyvvSE)  |
 | AWS re:Invent 2022 - Run large-scale graphics workloads with AWS, featuring Mircom and Snap (CMP208)   | [https://www.youtube.com/watch?v=8Sh2AT6e9x4](https://www.youtube.com/watch?v=8Sh2AT6e9x4)  |
-| AWS re:Invent 2022 - Keynote with Swami Sivasubramanian | AWS Events                                   | [https://www.youtube.com/watch?v=TL2HtX-FmiQ](https://www.youtube.com/watch?v=TL2HtX-FmiQ)  |
+| AWS re:Invent 2022 - Keynote with Swami Sivasubramanian                                                | [https://www.youtube.com/watch?v=TL2HtX-FmiQ](https://www.youtube.com/watch?v=TL2HtX-FmiQ)  |
 | AWS re:Invent 2022 - Build your global wide area network using AWS (NET303)                            | [https://www.youtube.com/watch?v=rkXHxRlKfoE](https://www.youtube.com/watch?v=rkXHxRlKfoE)  |
 | AWS re:Invent 2022 - Discover Cloudscape, an open-source design system for the cloud (OPN204)          | [https://www.youtube.com/watch?v=4Dvqs8KF9B8](https://www.youtube.com/watch?v=4Dvqs8KF9B8)  |
 | AWS re:Invent 2022 - Layered VPC security and inspection (NET311)                                      | [https://www.youtube.com/watch?v=Ya4WFO9P0i8](https://www.youtube.com/watch?v=Ya4WFO9P0i8)  |
