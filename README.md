@@ -4,6 +4,11 @@
 
 [My personal Playlist](my-playlist-reinvent-2022.md)
 
+# KubecCon 2022
+
+
+[Container Day AWS](https://www.youtube.com/playlist?list=PLehXSATXjcQFD6ZUH4o0hwoH6gmGHvqQe)
+
 # IBC 2022
 [Unleashing the value of UKTV content with AWS Media2Cloud](https://www.youtube.com/watch?v=Uaye3XkKVgo&feature=youtu.be)
 
