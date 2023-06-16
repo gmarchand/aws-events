@@ -12,3 +12,8 @@ tasks:
       - sh youtube_playlist_md.sh
       - npm run example
     silent: true
+
+  awsevent:
+    desc: AWS Event
+    cmds:
+      - ym -c UCdoadna9HFHsxXWhafhNvKw
