@@ -32,3 +32,7 @@ ym -p PLL_L4MF1Z7JVxkNOAetbK8hCmJWRanQah
 ym -p PL2yQDdvlhXf_w7ko6ux5eFhDLS1ggjWsr
 # Databases
 ym -p PL2yQDdvlhXf8R2BYrOfcp8kKUvIHc5NoQ
+# Reinforce 2023
+ym -p PL2yQDdvlhXf-g-w0uzrLGyVOvd1wkVOQ4
+
+ym -c @AWSEventsChannel
