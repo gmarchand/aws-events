@@ -1,10 +1,10 @@
 
 
 # Reinforce 2023
-[Playlist Reinforce 2023](channel-UCdoadna9HFHsxXWhafhNvKw.md)
+[Playlist Reinforce 2023](reinforce-2023.md)
 # AWSReInvent 2022 
 
-[Playlists Reinvent 2022](channel-UCdoadna9HFHsxXWhafhNvKw.md)
+[Playlists Reinvent 2022](reinvent-2022.md)
 
 [My personal Playlist](my-playlist-reinvent-2022.md)
 
