@@ -1,5 +1,7 @@
 
+# AWS Media Symposium 2023 London
 
+(AWS Media Symposium 2023 London](https://pages.awscloud.com/EMEA-field-EV-M-E-Symposium-London-on-demand.html)
 # Reinforce 2023
 [Playlist Reinforce 2023](reinforce-2023.md)
 # AWSReInvent 2022 
