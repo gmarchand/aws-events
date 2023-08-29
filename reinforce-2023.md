@@ -1,5 +1,64 @@
 ### [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
+
+#### [AWS re:Inforce 2023 | Lightning Talks](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-nusAQekNll3ah3Yfog5BC) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+
+* video count: 51 
+
+| title                                                                                                                                               | Published At |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Inforce 2023 - From security theater to DevSecOps: Why security must be ingrained (PRT222-S)](https://www.youtube.com/watch?v=5jy7Fj_H8EY)  | 2023-06-14   |
+| [AWS re:Inforce 2023 - Centralize and manage secrets with HashiCorp Cloud (PRT206-S)](https://www.youtube.com/watch?v=KR_ncj1eWxk)                  | 2023-06-14   |
+| [AWS re:Inforce 2023 - API sprawl & open API: Potential risks of application modernization (PRT303-S)](https://www.youtube.com/watch?v=BdAcQMsRqIw) | 2023-06-14   |
+| [AWS re:Inforce 2023 - Protect hybrid workforce & cloud applications w/ SASE built on AWS (PRT214-S)](https://www.youtube.com/watch?v=aBvivkqJO2o)  | 2023-06-14   |
+| [AWS re:Inforce 2023 - Going beyond AppSec integration, correlation, and orchestration (PRT231-S)](https://www.youtube.com/watch?v=TqloXH8q03M)     | 2023-06-14   |
+| [AWS re:Inforce 2023 - Helping security and developers to understand one another (PRT213-S)](https://www.youtube.com/watch?v=0GzAm05sCoA)           | 2023-06-14   |
+| [AWS re:Inforce 2023 - Drive differentiation with security and compliance automation (PRT307-S)](https://www.youtube.com/watch?v=d709ANB-lhk)       | 2023-06-14   |
+| [AWS re:Inforce 2023 - Kyndryl security operations platform with AWS (PRT401-S)](https://www.youtube.com/watch?v=0UFSqoQSfM0)                       | 2023-06-14   |
+| [AWS re:Inforce 2023 - Comprehensive data security across multiclouds with IBM and AWS (PRT305-S)](https://www.youtube.com/watch?v=mYGSm62-j-0)     | 2023-06-14   |
+| [AWS re:Inforce 2023 - Data command center for all your AWS data (sponsored by Securiti) (PRT218-S)](https://www.youtube.com/watch?v=NljTJgJ7Ke0)   | 2023-06-14   |
+| [AWS re:Inforce 2023 - Identity and permissions concerns to watch out for (PRT211-S)](https://www.youtube.com/watch?v=ufHxxjHjUqc)                  | 2023-06-14   |
+| [AWS re:Inforce 2023 - Secure the software supply chain w/ detection as code & modern SIEM (PRT210-S)](https://www.youtube.com/watch?v=Q9CIOB_xm_Q) | 2023-06-14   |
+| [AWS re:Inforce 2023 - Behind the scenes w/ SentinelOne’s MDR: Detecting cloud ransomware (PRT216-S)](https://www.youtube.com/watch?v=qS1DHikV8aY)  | 2023-06-14   |
+| [AWS re:Inforce 2023 - The origin of security challenges & a revolutionary solution (PRT227-S)](https://www.youtube.com/watch?v=8CrJ62iFDUA)        | 2023-06-15   |
+| [AWS re:Inforce 2023 - Security data gravity: Visibility & threat detection for data lakes (PRT209-S)](https://www.youtube.com/watch?v=exfFsX-uhBU) | 2023-06-19   |
+| [AWS re:Inforce 2023 - The power of preventative cloud security with Tenable and AWS (PRT212-S)](https://www.youtube.com/watch?v=ppVw7NLwKkE)       | 2023-06-19   |
+| [AWS re:Inforce 2023 - Beyond detection and response with Eviden and AWS (PRT230-S)](https://www.youtube.com/watch?v=F5tnJbaiHew)                   | 2023-06-19   |
+| [AWS re:Inforce 2023 - Static versus dynamic ML for securing modern cloud architectures (PRT313-S)](https://www.youtube.com/watch?v=GzHdzD44i_8)    | 2023-06-19   |
+| [AWS re:Inforce 2023 - Empowering cybersecurity startups: Build, collaborate & scale on AWS (STP102)](https://www.youtube.com/watch?v=Uwn7Sk9wmS8)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Securing the spotlight: Amazon Prime & the NBAs data security journey (STP203)](https://www.youtube.com/watch?v=vjV_Sxo0_NE) | 2023-06-19   |
+| [AWS re:Inforce 2023 - How CyberArk built an identity security platform with AWS Partners  (STP205)](https://www.youtube.com/watch?v=JcxvRNyx8qM)   | 2023-06-19   |
+| [AWS re:Inforce 2023 - Understanding DevSecOps: Risk defense across your SDLC (PRT204-S)](https://www.youtube.com/watch?v=vwMKSIM-rNY)              | 2023-06-19   |
+| [AWS re:Inforce 2023 - Protect your apps from digital attacks w/ a modern defense strategy (PRT220-S)](https://www.youtube.com/watch?v=Xy1m5pxRgNo) | 2023-06-19   |
+| [AWS re:Inforce 2023 - Our AWS Marketplace success story - Armis (PRT226-SR)](https://www.youtube.com/watch?v=wMqJA8UeOyo)                          | 2023-06-19   |
+| [AWS re:Inforce 2023 - Supplement your AWS security with JIT access and CNAPP (PRT221-S)](https://www.youtube.com/watch?v=O21RSVNzXJg)              | 2023-06-19   |
+| [AWS re:Inforce 2023 - Managing cloud risk with Fortinet cloud security (PRT310-S)](https://www.youtube.com/watch?v=8tHderzI3Zo)                    | 2023-06-19   |
+| [AWS re:Inforce 2023 - Get the most out of Splunk Enterprise, OCSF & Amazon Security Lake (PRT233-S)](https://www.youtube.com/watch?v=a2bReeyRJUE)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - From code to insight: Amazon Inspector & AWS Lambda in action (APS221)](https://www.youtube.com/watch?v=MJontjTwfoQ)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Improving code security analysis with AI/ML (APS222)](https://www.youtube.com/watch?v=-aSFbpCjF8M)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Increasing trust in software supply chain w/ container image signing (APS223)](https://www.youtube.com/watch?v=HxlRX2aPAYk)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - A tool to help improve your threat modeling (APS224)](https://www.youtube.com/watch?v=CaYCsmjuiHg)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Understanding the shared responsibility model and AWS KMS XKS (DAP221)](https://www.youtube.com/watch?v=4PVJlVFTY0Y)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Preventing unauth'd credential access on GitHub using AWS services (DAP321)](https://www.youtube.com/watch?v=0tIN5AG3hcQ)    | 2023-08-16   |
+| [AWS re:Inforce 2023 - Integrating AWS Private CA with SPIRE and baseca at Coinbase (DAP322)](https://www.youtube.com/watch?v=6ihB2_ErcZc)          | 2023-08-16   |
+| [AWS re:Inforce 2023 - AWS-LC: FIPS certification journey and how it’s used on AWS (DAP323)](https://www.youtube.com/watch?v=WKNGnCkZiQE)           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Autodesk’s journey to FedRAMP compliance  (GRC221)](https://www.youtube.com/watch?v=qnlXIIN2tYE)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Using AI/ML to scale governance, risk management, and audits  (GRC222)](https://www.youtube.com/watch?v=dwLFJxBonKo)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - How AWS infrastructure addresses Salesforce’s resiliency goals (GRC321)](https://www.youtube.com/watch?v=s8djIG1JafU)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Centralize user activity from external sources in AWS CloudTrail Lake (GRC322)](https://www.youtube.com/watch?v=YikKxNYdpMM) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Accelerate your business with AWS Directory Service (IAM221)](https://www.youtube.com/watch?v=qTjDmEuL4tc)                   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Move toward least privilege with IAM Access Analyzer (IAM321)](https://www.youtube.com/watch?v=GVUXS6Xiq6U)                  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Validate your IAM policies with AWS CloudFormation hooks (IAM322)](https://www.youtube.com/watch?v=Td2Gu2DRD7A)              | 2023-08-16   |
+| [AWS re:Inforce 2023 - Manage temporary elevated access with AWS IAM Identity Center (IAM323)](https://www.youtube.com/watch?v=a1Na2G7TTQ0)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Navigating a cybersecurity event in real time (NIS221)](https://www.youtube.com/watch?v=R6gqsOo-JD0)                         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Use AWS Network Firewall for enterprises: Egress & ingress inspection (NIS222)](https://www.youtube.com/watch?v=lDavmXWdBTI) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Setting up AWS Verified Access (NIS223)](https://www.youtube.com/watch?v=GaDqIZ5bQBc)                                        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Building a secure perimeter with AWS WAF  (NIS224)](https://www.youtube.com/watch?v=PCqx7MQsmwY)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Streamline security operations and improve threat detection with OCSF (TDR221)](https://www.youtube.com/watch?v=5V8XRRE584g) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Security monitoring for connected devices across OT, IoT, edge, cloud (TDR222)](https://www.youtube.com/watch?v=-2c83ql5KXg) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Bolstering incident response with AWS Wickr enterprise integrations (TDR223)](https://www.youtube.com/watch?v=n4aVvuojidQ)   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Securing the future of mobility: Automotive threat modeling (TDR224)](https://www.youtube.com/watch?v=PlCapoJn508)           | 2023-08-16   |
+
 #### [AWS re:Inforce 2023 | Breakout Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_kZMl0XZYqWfysycSXCJx8) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
 * video count: 62 
@@ -37,7 +96,7 @@
 | [AWS re:Inforce 2023 - Build your security data lake w/ Amazon Security Lake, featuring IPG (TDR205)](https://www.youtube.com/watch?v=qcXB6Y_7bNo)  | 2023-06-19   |
 | [AWS re:Inforce 2023 - Continuous innovation in AWS detection and response services (TDR204)](https://www.youtube.com/watch?v=t22IzUgPq78)          | 2023-06-19   |
 | [AWS re:Inforce 2023 - Stories from the cutting edge: Cloud security in 2023 (TDR207-S)](https://www.youtube.com/watch?v=lYuk27zia2M)               | 2023-06-19   |
-| [AWS re:Inforce 2023 - [NEW LAUNCH!] Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)      | 2023-06-19   |
+| [AWS re:Inforce 2023 - Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Clouds in the forecast: CrowdStrike cloud risk report (TDR208-S)](https://www.youtube.com/watch?v=SDD7s41V5t8)               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Supercharge your incident response with Trek10 and Datadog (TDR212-S)](https://www.youtube.com/watch?v=xgnwDZaGjAc)          | 2023-06-19   |
 | [AWS re:Inforce 2023 - How AWS and MongoDB raise the security bar with distributed ownership (APS201)](https://www.youtube.com/watch?v=PuTY0ff-SPA) | 2023-06-19   |
@@ -65,13 +124,13 @@
 | [AWS re:Inforce 2023 - How Zillow uses AWS security services to build a secure perimeter (NIS303)](https://www.youtube.com/watch?v=gdbxN09Iryw)     | 2023-06-19   |
 | [AWS re:Inforce 2023 - Achieving Zero Trust with AWS application networking (NIS307)](https://www.youtube.com/watch?v=PiCtF_XbZTM)                  | 2023-06-19   |
 | [AWS re:Inforce 2023 - Firewalls, and where to put them (NIS306)](https://www.youtube.com/watch?v=lTJxWAiQrHM)                                      | 2023-06-19   |
-| [AWS re:Inforce 2023 - (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                                                                       | 2023-06-19   |
+| [AWS re:Inforce 2023 - Help prevent account fraud with AWS WAF (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Policy and Suricata compatible rule creation for AWS Network Firewall (NIS308)](https://www.youtube.com/watch?v=67pVOv3lPlk) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Protecting your hybrid cloud with Zero Trust (NIS204-S)](https://www.youtube.com/watch?v=IGJ9lDrDiXM)                        | 2023-06-19   |
 
 #### [AWS re:Inforce 2023 | Threat Detection and Incident Response](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9g6i7Xaqzl4b6nTr45RH3y) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 21 
+* video count: 25 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -91,15 +150,19 @@
 | [AWS re:Inforce 2023 - Security data gravity: Visibility & threat detection for data lakes (PRT209-S)](https://www.youtube.com/watch?v=exfFsX-uhBU) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Stories from the cutting edge: Cloud security in 2023 (TDR207-S)](https://www.youtube.com/watch?v=lYuk27zia2M)               | 2023-06-19   |
 | [AWS re:Inforce 2023 - The power of preventative cloud security with Tenable and AWS (PRT212-S)](https://www.youtube.com/watch?v=ppVw7NLwKkE)       | 2023-06-19   |
-| [AWS re:Inforce 2023 - [NEW LAUNCH!] Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)      | 2023-06-19   |
+| [AWS re:Inforce 2023 - Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Clouds in the forecast: CrowdStrike cloud risk report (TDR208-S)](https://www.youtube.com/watch?v=SDD7s41V5t8)               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Supercharge your incident response with Trek10 and Datadog (TDR212-S)](https://www.youtube.com/watch?v=xgnwDZaGjAc)          | 2023-06-19   |
 | [AWS re:Inforce 2023 - Beyond detection and response with Eviden and AWS (PRT230-S)](https://www.youtube.com/watch?v=F5tnJbaiHew)                   | 2023-06-19   |
 | [AWS re:Inforce 2023 - Static versus dynamic ML for securing modern cloud architectures (PRT313-S)](https://www.youtube.com/watch?v=GzHdzD44i_8)    | 2023-06-19   |
+| [AWS re:Inforce 2023 - Streamline security operations and improve threat detection with OCSF (TDR221)](https://www.youtube.com/watch?v=5V8XRRE584g) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Security monitoring for connected devices across OT, IoT, edge, cloud (TDR222)](https://www.youtube.com/watch?v=-2c83ql5KXg) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Bolstering incident response with AWS Wickr enterprise integrations (TDR223)](https://www.youtube.com/watch?v=n4aVvuojidQ)   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Securing the future of mobility: Automotive threat modeling (TDR224)](https://www.youtube.com/watch?v=PlCapoJn508)           | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Network and Infrastructure Security](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-MKtYve4wwZ4suV4yHl1y-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 15 
+* video count: 19 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -113,15 +176,19 @@
 | [AWS re:Inforce 2023 - How Zillow uses AWS security services to build a secure perimeter (NIS303)](https://www.youtube.com/watch?v=gdbxN09Iryw)     | 2023-06-19   |
 | [AWS re:Inforce 2023 - Achieving Zero Trust with AWS application networking (NIS307)](https://www.youtube.com/watch?v=PiCtF_XbZTM)                  | 2023-06-19   |
 | [AWS re:Inforce 2023 - Firewalls, and where to put them (NIS306)](https://www.youtube.com/watch?v=lTJxWAiQrHM)                                      | 2023-06-19   |
-| [AWS re:Inforce 2023 - (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                                                                       | 2023-06-19   |
+| [AWS re:Inforce 2023 - Help prevent account fraud with AWS WAF (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Policy and Suricata compatible rule creation for AWS Network Firewall (NIS308)](https://www.youtube.com/watch?v=67pVOv3lPlk) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Protecting your hybrid cloud with Zero Trust (NIS204-S)](https://www.youtube.com/watch?v=IGJ9lDrDiXM)                        | 2023-06-19   |
 | [AWS re:Inforce 2023 - Managing cloud risk with Fortinet cloud security (PRT310-S)](https://www.youtube.com/watch?v=8tHderzI3Zo)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Get the most out of Splunk Enterprise, OCSF & Amazon Security Lake (PRT233-S)](https://www.youtube.com/watch?v=a2bReeyRJUE)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Navigating a cybersecurity event in real time (NIS221)](https://www.youtube.com/watch?v=R6gqsOo-JD0)                         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Use AWS Network Firewall for enterprises: Egress & ingress inspection (NIS222)](https://www.youtube.com/watch?v=lDavmXWdBTI) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Setting up AWS Verified Access (NIS223)](https://www.youtube.com/watch?v=GaDqIZ5bQBc)                                        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Building a secure perimeter with AWS WAF  (NIS224)](https://www.youtube.com/watch?v=PCqx7MQsmwY)                             | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Identity and Access Management](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_yD57B0x7TZI3cpKu0uEa2) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 14 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -135,27 +202,35 @@
 | [AWS re:Inforce 2023 - Steps toward a Zero Trust architecture on AWS (IAM307)](https://www.youtube.com/watch?v=WTJAjGKmAds)                         | 2023-06-19   |
 | [AWS re:Inforce 2023 - Scaling access with AWS IAM Identity Center, feat. Allegiant Airlines (IAM305)](https://www.youtube.com/watch?v=mAdUwbsbteI) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Fine-grained authorization for apps with Amazon Verified Permissions (IAM308)](https://www.youtube.com/watch?v=1AdkZJSmTQI)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Accelerate your business with AWS Directory Service (IAM221)](https://www.youtube.com/watch?v=qTjDmEuL4tc)                   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Move toward least privilege with IAM Access Analyzer (IAM321)](https://www.youtube.com/watch?v=GVUXS6Xiq6U)                  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Validate your IAM policies with AWS CloudFormation hooks (IAM322)](https://www.youtube.com/watch?v=Td2Gu2DRD7A)              | 2023-08-16   |
+| [AWS re:Inforce 2023 - Manage temporary elevated access with AWS IAM Identity Center (IAM323)](https://www.youtube.com/watch?v=a1Na2G7TTQ0)         | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Governance, Risk, and Compliance](https://www.youtube.com/playlist?list=PL2yQDdvlhXf88swEJuVlB6w0mJAqw8thH) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 14 
 
-| title                                                                                                                                              | Published At |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Inforce 2023 - Scaling compliance with AWS Control Tower (GRC301)](https://www.youtube.com/watch?v=m2wjmGvY2pY)                            | 2023-06-14   |
-| [AWS re:Inforce 2023 - Drive differentiation with security and compliance automation (PRT307-S)](https://www.youtube.com/watch?v=d709ANB-lhk)      | 2023-06-14   |
-| [AWS re:Inforce 2023 - Modernizing your security and GRC strategy with AWS (GRC306)](https://www.youtube.com/watch?v=jTAENQgCUBk)                  | 2023-06-14   |
-| [AWS re:Inforce 2023 - Security practices for customizing multiple environments (GRC303)](https://www.youtube.com/watch?v=uBefrcrsRpk)             | 2023-06-14   |
-| [AWS re:Inforce 2023 - Best practices for cloud governance at scale (GRC305)](https://www.youtube.com/watch?v=RBfJFINO3m8)                         | 2023-06-19   |
-| [AWS re:Inforce 2023 - Managing risk in a regulated environment, feat. Japan Digital Agency (GRC302)](https://www.youtube.com/watch?v=6ao78unSnuA) | 2023-06-19   |
-| [AWS re:Inforce 2023 - Optimizing audits with automation (GRC201)](https://www.youtube.com/watch?v=L4rgOCJRH5A)                                    | 2023-06-19   |
-| [AWS re:Inforce 2023 - Engineer application resilience with compliance in mind (GRC304)](https://www.youtube.com/watch?v=WqUrDbkgZnY)              | 2023-06-19   |
-| [AWS re:Inforce 2023 - Supplement your AWS security with JIT access and CNAPP (PRT221-S)](https://www.youtube.com/watch?v=O21RSVNzXJg)             | 2023-06-19   |
-| [AWS re:Inforce 2023 - Plan and deploy your own security architecture based on the AWS SRA (GRC307)](https://www.youtube.com/watch?v=ayvGswS72x4)  | 2023-06-19   |
+| title                                                                                                                                               | Published At |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Inforce 2023 - Scaling compliance with AWS Control Tower (GRC301)](https://www.youtube.com/watch?v=m2wjmGvY2pY)                             | 2023-06-14   |
+| [AWS re:Inforce 2023 - Drive differentiation with security and compliance automation (PRT307-S)](https://www.youtube.com/watch?v=d709ANB-lhk)       | 2023-06-14   |
+| [AWS re:Inforce 2023 - Modernizing your security and GRC strategy with AWS (GRC306)](https://www.youtube.com/watch?v=jTAENQgCUBk)                   | 2023-06-14   |
+| [AWS re:Inforce 2023 - Security practices for customizing multiple environments (GRC303)](https://www.youtube.com/watch?v=uBefrcrsRpk)              | 2023-06-14   |
+| [AWS re:Inforce 2023 - Best practices for cloud governance at scale (GRC305)](https://www.youtube.com/watch?v=RBfJFINO3m8)                          | 2023-06-19   |
+| [AWS re:Inforce 2023 - Managing risk in a regulated environment, feat. Japan Digital Agency (GRC302)](https://www.youtube.com/watch?v=6ao78unSnuA)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Optimizing audits with automation (GRC201)](https://www.youtube.com/watch?v=L4rgOCJRH5A)                                     | 2023-06-19   |
+| [AWS re:Inforce 2023 - Engineer application resilience with compliance in mind (GRC304)](https://www.youtube.com/watch?v=WqUrDbkgZnY)               | 2023-06-19   |
+| [AWS re:Inforce 2023 - Supplement your AWS security with JIT access and CNAPP (PRT221-S)](https://www.youtube.com/watch?v=O21RSVNzXJg)              | 2023-06-19   |
+| [AWS re:Inforce 2023 - Plan and deploy your own security architecture based on the AWS SRA (GRC307)](https://www.youtube.com/watch?v=ayvGswS72x4)   | 2023-06-19   |
+| [AWS re:Inforce 2023 - Autodesk’s journey to FedRAMP compliance  (GRC221)](https://www.youtube.com/watch?v=qnlXIIN2tYE)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Using AI/ML to scale governance, risk management, and audits  (GRC222)](https://www.youtube.com/watch?v=dwLFJxBonKo)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - How AWS infrastructure addresses Salesforce’s resiliency goals (GRC321)](https://www.youtube.com/watch?v=s8djIG1JafU)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Centralize user activity from external sources in AWS CloudTrail Lake (GRC322)](https://www.youtube.com/watch?v=YikKxNYdpMM) | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Data Protection](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8UV0OyBQGDpq9I8CsSCqKX) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 14 
 
 | title                                                                                                                                             | Published At |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -169,10 +244,14 @@
 | [AWS re:Inforce 2023 - Security design of the AWS Nitro System (DAP401)](https://www.youtube.com/watch?v=hhAHyc9x3M4)                             | 2023-06-19   |
 | [AWS re:Inforce 2023 - Using AWS data protection services for innovation and automation (DAP305)](https://www.youtube.com/watch?v=jpT45GrbWGE)    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Amazon S3 encryption and access control best practices (DAP306)](https://www.youtube.com/watch?v=ukk3R5DrdSs)              | 2023-06-19   |
+| [AWS re:Inforce 2023 - Understanding the shared responsibility model and AWS KMS XKS (DAP221)](https://www.youtube.com/watch?v=4PVJlVFTY0Y)       | 2023-08-16   |
+| [AWS re:Inforce 2023 - Preventing unauth'd credential access on GitHub using AWS services (DAP321)](https://www.youtube.com/watch?v=0tIN5AG3hcQ)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Integrating AWS Private CA with SPIRE and baseca at Coinbase (DAP322)](https://www.youtube.com/watch?v=6ihB2_ErcZc)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - AWS-LC: FIPS certification journey and how it’s used on AWS (DAP323)](https://www.youtube.com/watch?v=WKNGnCkZiQE)         | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Application Security](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-0NaMHtVL3_VcpvmiCJG6-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 19 
+* video count: 23 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -195,6 +274,10 @@
 | [AWS re:Inforce 2023 - Securely build generative AI apps & control data with Amazon Bedrock (APS208)](https://www.youtube.com/watch?v=5EDOTtYmkmI)  | 2023-06-19   |
 | [AWS re:Inforce 2023 - How Okta empowers devs to find & fix security issues with Snyk (APS206-S)](https://www.youtube.com/watch?v=uPHB8LxGvRk)      | 2023-06-19   |
 | [AWS re:Inforce 2023 - Our AWS Marketplace success story - Armis (PRT226-SR)](https://www.youtube.com/watch?v=wMqJA8UeOyo)                          | 2023-06-19   |
+| [AWS re:Inforce 2023 - From code to insight: Amazon Inspector & AWS Lambda in action (APS221)](https://www.youtube.com/watch?v=MJontjTwfoQ)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Improving code security analysis with AI/ML (APS222)](https://www.youtube.com/watch?v=-aSFbpCjF8M)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Increasing trust in software supply chain w/ container image signing (APS223)](https://www.youtube.com/watch?v=HxlRX2aPAYk)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - A tool to help improve your threat modeling (APS224)](https://www.youtube.com/watch?v=CaYCsmjuiHg)                           | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Keynote and Leadership Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-g-w0uzrLGyVOvd1wkVOQ4) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -252,7 +335,7 @@
 
 #### [AWS re:Inforce 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9Y-FWJdJWQf2j3ffME4U-y) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 5 
+* video count: 29 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -261,4 +344,27 @@
 | [AWS re:Inforce 2023 - Achieving End-to-end Security on AWS (SEC203-L)](https://www.youtube.com/watch?v=Khhni4Ce-Ow)                                | 2023-06-15   |
 | [AWS re:Inforce 2023 - Journeys to Zero Trust on AWS (SEC202-L)](https://www.youtube.com/watch?v=Uke2CmFaVZ8)                                       | 2023-06-15   |
 | [AWS re:Inforce 2023 - Security in the Open: OSS and AWS (SEC201-L)](https://www.youtube.com/watch?v=kMY8gGmWfAI)                                   | 2023-06-15   |
-
+| [AWS re:Inforce 2023 - Improving code security analysis with AI/ML (APS222)](https://www.youtube.com/watch?v=-aSFbpCjF8M)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - From code to insight: Amazon Inspector & AWS Lambda in action (APS221)](https://www.youtube.com/watch?v=MJontjTwfoQ)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Increasing trust in software supply chain w/ container image signing (APS223)](https://www.youtube.com/watch?v=HxlRX2aPAYk)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - A tool to help improve your threat modeling (APS224)](https://www.youtube.com/watch?v=CaYCsmjuiHg)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Understanding the shared responsibility model and AWS KMS XKS (DAP221)](https://www.youtube.com/watch?v=4PVJlVFTY0Y)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Preventing unauth'd credential access on GitHub using AWS services (DAP321)](https://www.youtube.com/watch?v=0tIN5AG3hcQ)    | 2023-08-16   |
+| [AWS re:Inforce 2023 - Integrating AWS Private CA with SPIRE and baseca at Coinbase (DAP322)](https://www.youtube.com/watch?v=6ihB2_ErcZc)          | 2023-08-16   |
+| [AWS re:Inforce 2023 - Autodesk’s journey to FedRAMP compliance  (GRC221)](https://www.youtube.com/watch?v=qnlXIIN2tYE)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Using AI/ML to scale governance, risk management, and audits  (GRC222)](https://www.youtube.com/watch?v=dwLFJxBonKo)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - How AWS infrastructure addresses Salesforce’s resiliency goals (GRC321)](https://www.youtube.com/watch?v=s8djIG1JafU)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Centralize user activity from external sources in AWS CloudTrail Lake (GRC322)](https://www.youtube.com/watch?v=YikKxNYdpMM) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Accelerate your business with AWS Directory Service (IAM221)](https://www.youtube.com/watch?v=qTjDmEuL4tc)                   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Move toward least privilege with IAM Access Analyzer (IAM321)](https://www.youtube.com/watch?v=GVUXS6Xiq6U)                  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Validate your IAM policies with AWS CloudFormation hooks (IAM322)](https://www.youtube.com/watch?v=Td2Gu2DRD7A)              | 2023-08-16   |
+| [AWS re:Inforce 2023 - Manage temporary elevated access with AWS IAM Identity Center (IAM323)](https://www.youtube.com/watch?v=a1Na2G7TTQ0)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Navigating a cybersecurity event in real time (NIS221)](https://www.youtube.com/watch?v=R6gqsOo-JD0)                         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Use AWS Network Firewall for enterprises: Egress & ingress inspection (NIS222)](https://www.youtube.com/watch?v=lDavmXWdBTI) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Setting up AWS Verified Access (NIS223)](https://www.youtube.com/watch?v=GaDqIZ5bQBc)                                        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Building a secure perimeter with AWS WAF  (NIS224)](https://www.youtube.com/watch?v=PCqx7MQsmwY)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Streamline security operations and improve threat detection with OCSF (TDR221)](https://www.youtube.com/watch?v=5V8XRRE584g) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Security monitoring for connected devices across OT, IoT, edge, cloud (TDR222)](https://www.youtube.com/watch?v=-2c83ql5KXg) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Bolstering incident response with AWS Wickr enterprise integrations (TDR223)](https://www.youtube.com/watch?v=n4aVvuojidQ)   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Securing the future of mobility: Automotive threat modeling (TDR224)](https://www.youtube.com/watch?v=PlCapoJn508)           | 2023-08-16   |
+| [AWS re:Inforce 2023 - AWS-LC: FIPS certification journey and how it’s used on AWS (DAP323)](https://www.youtube.com/watch?v=WKNGnCkZiQE)           | 2023-08-16   |
