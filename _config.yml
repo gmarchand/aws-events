@@ -4,6 +4,8 @@ source: .
 incremental: false
 gist:
   noscript: false
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
+title: [AWS Bookmarks - Guillaume Marchand]
+description: [Bookmarks of Youtube videos of AWS Events]
 plugins:
 - jekyll-remote-theme
