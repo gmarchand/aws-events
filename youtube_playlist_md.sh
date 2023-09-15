@@ -34,5 +34,7 @@ ym -p PL2yQDdvlhXf_w7ko6ux5eFhDLS1ggjWsr
 ym -p PL2yQDdvlhXf8R2BYrOfcp8kKUvIHc5NoQ
 # Reinforce 2023
 ym -p PL2yQDdvlhXf-g-w0uzrLGyVOvd1wkVOQ4
-
-ym -c @AWSEventsChannel
+# Storage Day 2023
+ym -p PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos
+# AWS Media Day 2023
+ym -p PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do

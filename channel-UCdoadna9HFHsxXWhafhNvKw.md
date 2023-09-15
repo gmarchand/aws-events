@@ -1,5 +1,108 @@
 ### [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
+#### [AWS Silicon Innovation Day 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8E08zISuWQGi9hFT4arxrx) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+
+* video count: 20 
+
+| title                                                                                                                                        | Published At |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Fireside Chat: Dave and Ruba](https://www.youtube.com/watch?v=aNODGlAVJQM)                 | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Silicon Development at AWS](https://www.youtube.com/watch?v=-EVnly-uedw)                   | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Moor Insights Strategy with Patrick Moorhead](https://www.youtube.com/watch?v=aiUOnT9rmaE) | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Nitro System Innovation](https://www.youtube.com/watch?v=lNk1ThfFFD4)                  | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Fireside Chat with Jeff and Tiffany](https://www.youtube.com/watch?v=ibUZvh_2Y24)          | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Fireside Chat: Raj and Elias](https://www.youtube.com/watch?v=gZWYfeOkwks)                 | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Generative AI Chips](https://www.youtube.com/watch?v=h3zks6iXgDE)                      | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Silicon Hugging Face collaboration](https://www.youtube.com/watch?v=tTL8KpyFGHk)       | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Confidential Compute Architecture](https://www.youtube.com/watch?v=iFjSeAqdDCM)        | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Customer Spotlight: Skyflow](https://www.youtube.com/watch?v=3QwAWDZsi7c)                  | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Graviton](https://www.youtube.com/watch?v=pErNGhgixIk)                                 | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. More Than Moore, Dr. Ian Cutress](https://www.youtube.com/watch?v=fgw4QdsFlgU)             | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Trainium and AWS Inferentia](https://www.youtube.com/watch?v=1dH0dI2Srt4)              | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Octo ML AWS Inferentia2](https://www.youtube.com/watch?v=ksjXRjYIyl8)                      | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Customer Spotlight: Johnson & Johnson](https://www.youtube.com/watch?v=K83JQ-kY63o)        | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. High Performance Computing (HPC)](https://www.youtube.com/watch?v=Gklnmf_oXSs)             | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS  Silicon and Networking](https://www.youtube.com/watch?v=QraOO9yPLPI)                  | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Using  AWS Silicon for Cost Optimization](https://www.youtube.com/watch?v=8NF8aSd5t4M)     | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Nitro SSDs and EBS](https://www.youtube.com/watch?v=6HC0CiykgIU)                       | 2023-07-31   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Silicon innovation and the modern network](https://www.youtube.com/watch?v=wZbNef3hXms)    | 2023-07-31   |
+
+#### [Developer Innovation Day 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8p05ewDnluDIlTROHWSYYK) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+
+* video count: 18 
+
+| title                                                                                                                                              | Published At |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS Developer Innovation Day - AWS On Air ft. AWS Developer Innovation Day opening keynote](https://www.youtube.com/watch?v=nVBWLg2Oj0Q)          | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Build, deploy, and host performant server-side apps](https://www.youtube.com/watch?v=mxLjqhSktGc)   | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft.  Create a cross-platform Flutter app](https://www.youtube.com/watch?v=yPLBAz1XyHk)                  | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. AWS Community Spotlight: AWS Amplify](https://www.youtube.com/watch?v=SZeV_m8QKj8)                  | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air - Build a full-stack app with GraphQL & AWS AppSync](https://www.youtube.com/watch?v=B22czAcBh_Y)       | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Build a real-time multiplayer gaming app](https://www.youtube.com/watch?v=itE_sYXRZJY)              | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. AWS Community Spotlight- AWS Application Composer](https://www.youtube.com/watch?v=a7_s6BV_4XY)     | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Level Up Your Team](https://www.youtube.com/watch?v=G8XaO4xqxy0)                                    | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Amazon CodeCatalyst in real-time](https://www.youtube.com/watch?v=RALuhl9FCxM)                      | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. AWS Community Spotlight: Amazon CodeCatalyst](https://www.youtube.com/watch?v=BSfn3KDNYdI)          | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Infrastructure as (first-class) Code](https://www.youtube.com/watch?v=gAos9D8Kb7Y)                  | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Team up without the friction with Amazon CodeCatalyst](https://www.youtube.com/watch?v=fTK_7l8md1M) | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. AWS CDK Foundations](https://www.youtube.com/watch?v=D6Igj2E-iwc)                                   | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Increasing developer productivity with Generative AI](https://www.youtube.com/watch?v=JwP-Bk8K_cs)  | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. AWS Community Spotlight: Amazon CodeWhisperer](https://www.youtube.com/watch?v=Affsm9iX9pE)         | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Demystifying generative AI](https://www.youtube.com/watch?v=jx3BmLX643Y)                            | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. The New Stack: building software without limits](https://www.youtube.com/watch?v=4DNTgU4HZ58)       | 2023-07-18   |
+| [AWS Developer Innovation Day - AWS On Air ft. Best Practices and Key Takeaways](https://www.youtube.com/watch?v=Gx7uNax4Wnk)                      | 2023-07-18   |
+
+#### [AWS Summit ANZ 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_bQdA3dTqwmapwB_2qX0GI) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+
+* video count: 44 
+
+| title                                                                                                                                               | Published At |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS Summit ANZ 2023: AWS Summit ANZ Keynote](https://www.youtube.com/watch?v=lQLqxw8FVRQ)                                                          | 2023-07-13   |
+| [AWS Summit ANZ 2023: Golden pathways for cloud builders - AWS Events](https://www.youtube.com/watch?v=Fb7okADOlkM)                                 | 2023-07-13   |
+| [AWS Summit ANZ 2023: Simplify multi-tenant microservice applications - AWS Events](https://www.youtube.com/watch?v=upfYIB6Rz0o)                    | 2023-07-13   |
+| [AWS Summit ANZ 2023: A .NET application's journey on AWS - AWS Events](https://www.youtube.com/watch?v=WXNhf204wHM)                                | 2023-07-13   |
+| [AWS Summit ANZ 2023: Pipeline patterns to aid your next deployment - AWS Events](https://www.youtube.com/watch?v=_cQ36vDgAcg)                      | 2023-07-13   |
+| [AWS Summit ANZ 2023: Modernise your monolith using strangler pattern - AWS Events](https://www.youtube.com/watch?v=m0yuZCAIYqU)                    | 2023-07-13   |
+| [AWS Summit ANZ 2023: Build on AWS with Rust - AWS Events](https://www.youtube.com/watch?v=H9MRGHaixH0)                                             | 2023-07-13   |
+| [AWS Summit ANZ 2023: The future of customer engagement is frictionless - AWS Events](https://www.youtube.com/watch?v=v5zYigrBKvE)                  | 2023-07-13   |
+| [AWS Summit ANZ 2023: Create scaled customer experiences with digital assets - AWS Events](https://www.youtube.com/watch?v=Kvwkr8I6XH8)             | 2023-07-13   |
+| [AWS Summit ANZ 2023: Build best-in-class customer experiences in Smart Cities - AWS Events](https://www.youtube.com/watch?v=biztg0OTdfU)           | 2023-07-13   |
+| [AWS Summit ANZ 2023: Super-powered customer experience using Amazon Connect - AWS Events](https://www.youtube.com/watch?v=WKN6eqlAVJc)             | 2023-07-13   |
+| [AWS Summit ANZ 2023: Use sports data to elevate fan engagement and performance - AWS Events](https://www.youtube.com/watch?v=oPcO7oXL-5I)          | 2023-07-13   |
+| [AWS Summit ANZ 2023: Personalisation at scale with AI/ML and Amazon Personalize - AWS Events](https://www.youtube.com/watch?v=0FQivP0iRJs)         | 2023-07-13   |
+| [AWS Summit ANZ 2023: How ANZ Bank is using cloud to enable digital transformation - AWS Events](https://www.youtube.com/watch?v=M1JYzUo-5fA)       | 2023-07-13   |
+| [AWS Summit ANZ 2023: Building a FinOps practice to realise the true value of cloud - AWS Events](https://www.youtube.com/watch?v=Es_EwsHvSPY)      | 2023-07-13   |
+| [AWS Summit ANZ 2023: Accelerate your cloud architectures with the right storage options - AWS Events](https://www.youtube.com/watch?v=lcHID9SufcU) | 2023-07-13   |
+| [AWS Summit ANZ 2023: Evolve your web application for scale - AWS Events](https://www.youtube.com/watch?v=s74gA6FH-lY)                              | 2023-07-13   |
+| [AWS Summit ANZ 2023: Become data driven: From data projects to data products - AWS Events](https://www.youtube.com/watch?v=cV_6-UokXC8)            | 2023-07-13   |
+| [AWS Summit ANZ 2023: Resilience strategies to level up your workloads - AWS Events](https://www.youtube.com/watch?v=EEozNYtMos8)                   | 2023-07-13   |
+| [AWS Summit ANZ 2023: Build resilient and secure global cloud networks - AWS Events](https://www.youtube.com/watch?v=tEX2nZgwH1c)                   | 2023-07-13   |
+| [AWS Summit ANZ 2023: Best practices for running applications at the edge - AWS Events](https://www.youtube.com/watch?v=YMFhtYsvkkE)                | 2023-07-13   |
+| [AWS Summit ANZ 2023: Explore fault isolation boundaries on AWS - AWS Events](https://www.youtube.com/watch?v=YUD5LqGLgAc)                          | 2023-07-13   |
+| [AWS Summit ANZ 2023: Maximise database availability - AWS Events](https://www.youtube.com/watch?v=-lIq_lq1_Yg)                                     | 2023-07-13   |
+| [AWS Summit ANZ 2023: Data protection design for business continuity - AWS Events](https://www.youtube.com/watch?v=LEN17Z0MCPA)                     | 2023-07-13   |
+| [AWS Summit ANZ 2023: How local businesses are rapidly achieving global scale on AWS - AWS Events](https://www.youtube.com/watch?v=zGjBeXASLqk)     | 2023-07-13   |
+| [AWS Summit ANZ 2023: Harness cloud elasticity by bursting to Amazon EC2 Spot - AWS Events](https://www.youtube.com/watch?v=SNnWqViamKo)            | 2023-07-13   |
+| [AWS Summit ANZ 2023: Best practices for application observability at scale - AWS Events](https://www.youtube.com/watch?v=w8bxlM_kYGA)              | 2023-07-13   |
+| [AWS Summit ANZ 2023: Build highly scalable serverless applications on AWS - AWS Events](https://www.youtube.com/watch?v=tA1FJEfqOdI)               | 2023-07-13   |
+| [AWS Summit ANZ 2023: Data strategies to enable ML and analytics at scale - AWS Events](https://www.youtube.com/watch?v=WxdeJw3kQIo)                | 2023-07-13   |
+| [AWS Summit ANZ 2023: Accelerate with confidence through AWS Distributed Load Testing - AWS Events](https://www.youtube.com/watch?v=4J6lVqa6Yh8)    | 2023-07-13   |
+| [AWS Summit ANZ 2023: Accelerate your business with AWS AI Services - AWS Events](https://www.youtube.com/watch?v=GvfhY8mgZVU)                      | 2023-07-13   |
+| [AWS Summit ANZ 2023: Growing insights through hybrid data architectures - AWS Events](https://www.youtube.com/watch?v=t4fhyTRbdVg)                 | 2023-07-13   |
+| [AWS Summit ANZ 2023: Westpac’s front line of defence: Improving human security - AWS Events](https://www.youtube.com/watch?v=_Vffw4WRKS8)          | 2023-07-13   |
+| [AWS Summit ANZ 2023: Assess your security foundation with AWS Security Onramp - AWS Events](https://www.youtube.com/watch?v=IAEJ25zwS38)           | 2023-07-13   |
+| [AWS Summit ANZ 2023: Scaling cyber threat intelligence sharing with the AUS Cyber Security Center](https://www.youtube.com/watch?v=0P8snWhCN4I)    | 2023-07-13   |
+| [AWS Summit ANZ 2023: NetDevOps: Applying lessons of DevOps to networking - AWS Events](https://www.youtube.com/watch?v=m5TJIKlM7C0)                | 2023-07-13   |
+| [AWS Summit ANZ 2023: Your journey to temporary credentials in the cloud - AWS Events](https://www.youtube.com/watch?v=jZnh9U-TA6Q)                 | 2023-07-13   |
+| [AWS Summit ANZ 2023: Turbocharge your development with agile security - AWS Events](https://www.youtube.com/watch?v=9-Ukbx5LJ9o)                   | 2023-07-13   |
+| [AWS Summit ANZ 2023:Beyond Cloud Migrations: Engineering for innovation at Macquarie Bank-AWS Events](https://www.youtube.com/watch?v=oTD-f0vY0_Y) | 2023-07-13   |
+| [AWS Summit ANZ 2023: How Vodafone NZ transformed their customer experience using AWS - AWS Events](https://www.youtube.com/watch?v=v9B0c1wRoh0)    | 2023-07-13   |
+| [AWS Summit ANZ 2023: Theory to practice: A guide to real-time architectures - AWS Events](https://www.youtube.com/watch?v=5JSTovJT68c)             | 2023-07-13   |
+| [AWS Summit ANZ 2023: From consumer to builders: SaaS in the Enterprise - AWS Events](https://www.youtube.com/watch?v=Ad27RPyQpQM)                  | 2023-07-13   |
+| [AWS Summit ANZ 2023: The transformative power of modern applications - AWS Events](https://www.youtube.com/watch?v=ZelnjOL7EOo)                    | 2023-07-13   |
+| [AWS Summit ANZ 2023: How Stockland accelerated data-driven insights on AWS - AWS Events](https://www.youtube.com/watch?v=SomnAjAFlzY)              | 2023-07-13   |
+
 #### [AWS Data Insights Day 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8wcWvOxC5_JwI2S1g4cJkL) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
 * video count: 17 
@@ -26,7 +129,7 @@
 
 #### [AWS Summit Tel Aviv 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_hpfgBarCdlLMcGA8VWcvu) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 61 
+* video count: 60 
 
 | title                                                                                                                                            | Published At |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
@@ -51,7 +154,6 @@
 | [AWS Summit Tel Aviv 2023 - From Software to SaaS to Co- Selling Opportunities with AWS (APN101)](https://www.youtube.com/watch?v=9VX1DKglwMc)   | 2023-06-15   |
 | [AWS Summit Tel Aviv 2023 - Single Pane of Glass: Unifying the Facets of Observability (APN102)](https://www.youtube.com/watch?v=Cz2fI2Due58)    | 2023-06-15   |
 | [AWS Summit Tel Aviv 2023 - How 888WH Leverages Prisma Cloud to Protect Gaming Business (APN103)](https://www.youtube.com/watch?v=KWVN3LHn9Fo)   | 2023-06-15   |
-| [AWS Summit Tel Aviv 2023 - Optimizing Real-time Sessions at Scale, FORTER Customer Story (APN104)](https://www.youtube.com/watch?v=AeLMRJjNQt4) | 2023-06-15   |
 | [AWS Summit Tel Aviv 2023 - Beyond Basics: AWS Compute, Network, and Storage (JTC201)](https://www.youtube.com/watch?v=t_8jOiJS3Ds)              | 2023-06-15   |
 | [AWS Summit Tel Aviv 2023 - The SaaS Mindset (JTC202)](https://www.youtube.com/watch?v=37KMkLGpMxk)                                              | 2023-06-15   |
 | [AWS Summit Tel Aviv 2023 - Patterns of a Migration Journey (JTC203)](https://www.youtube.com/watch?v=CbrQqupH68E)                               | 2023-06-15   |
@@ -94,7 +196,7 @@
 
 #### [AWS re:Inforce 2023 | Lightning Talks](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-nusAQekNll3ah3Yfog5BC) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 27 
+* video count: 51 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -125,6 +227,30 @@
 | [AWS re:Inforce 2023 - Supplement your AWS security with JIT access and CNAPP (PRT221-S)](https://www.youtube.com/watch?v=O21RSVNzXJg)              | 2023-06-19   |
 | [AWS re:Inforce 2023 - Managing cloud risk with Fortinet cloud security (PRT310-S)](https://www.youtube.com/watch?v=8tHderzI3Zo)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Get the most out of Splunk Enterprise, OCSF & Amazon Security Lake (PRT233-S)](https://www.youtube.com/watch?v=a2bReeyRJUE)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - From code to insight: Amazon Inspector & AWS Lambda in action (APS221)](https://www.youtube.com/watch?v=MJontjTwfoQ)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Improving code security analysis with AI/ML (APS222)](https://www.youtube.com/watch?v=-aSFbpCjF8M)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Increasing trust in software supply chain w/ container image signing (APS223)](https://www.youtube.com/watch?v=HxlRX2aPAYk)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - A tool to help improve your threat modeling (APS224)](https://www.youtube.com/watch?v=CaYCsmjuiHg)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Understanding the shared responsibility model and AWS KMS XKS (DAP221)](https://www.youtube.com/watch?v=4PVJlVFTY0Y)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Preventing unauth'd credential access on GitHub using AWS services (DAP321)](https://www.youtube.com/watch?v=0tIN5AG3hcQ)    | 2023-08-16   |
+| [AWS re:Inforce 2023 - Integrating AWS Private CA with SPIRE and baseca at Coinbase (DAP322)](https://www.youtube.com/watch?v=6ihB2_ErcZc)          | 2023-08-16   |
+| [AWS re:Inforce 2023 - AWS-LC: FIPS certification journey and how it’s used on AWS (DAP323)](https://www.youtube.com/watch?v=WKNGnCkZiQE)           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Autodesk’s journey to FedRAMP compliance  (GRC221)](https://www.youtube.com/watch?v=qnlXIIN2tYE)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Using AI/ML to scale governance, risk management, and audits  (GRC222)](https://www.youtube.com/watch?v=dwLFJxBonKo)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - How AWS infrastructure addresses Salesforce’s resiliency goals (GRC321)](https://www.youtube.com/watch?v=s8djIG1JafU)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Centralize user activity from external sources in AWS CloudTrail Lake (GRC322)](https://www.youtube.com/watch?v=YikKxNYdpMM) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Accelerate your business with AWS Directory Service (IAM221)](https://www.youtube.com/watch?v=qTjDmEuL4tc)                   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Move toward least privilege with IAM Access Analyzer (IAM321)](https://www.youtube.com/watch?v=GVUXS6Xiq6U)                  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Validate your IAM policies with AWS CloudFormation hooks (IAM322)](https://www.youtube.com/watch?v=Td2Gu2DRD7A)              | 2023-08-16   |
+| [AWS re:Inforce 2023 - Manage temporary elevated access with AWS IAM Identity Center (IAM323)](https://www.youtube.com/watch?v=a1Na2G7TTQ0)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Navigating a cybersecurity event in real time (NIS221)](https://www.youtube.com/watch?v=R6gqsOo-JD0)                         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Use AWS Network Firewall for enterprises: Egress & ingress inspection (NIS222)](https://www.youtube.com/watch?v=lDavmXWdBTI) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Setting up AWS Verified Access (NIS223)](https://www.youtube.com/watch?v=GaDqIZ5bQBc)                                        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Building a secure perimeter with AWS WAF  (NIS224)](https://www.youtube.com/watch?v=PCqx7MQsmwY)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Streamline security operations and improve threat detection with OCSF (TDR221)](https://www.youtube.com/watch?v=5V8XRRE584g) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Security monitoring for connected devices across OT, IoT, edge, cloud (TDR222)](https://www.youtube.com/watch?v=-2c83ql5KXg) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Bolstering incident response with AWS Wickr enterprise integrations (TDR223)](https://www.youtube.com/watch?v=n4aVvuojidQ)   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Securing the future of mobility: Automotive threat modeling (TDR224)](https://www.youtube.com/watch?v=PlCapoJn508)           | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Breakout Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_kZMl0XZYqWfysycSXCJx8) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -163,7 +289,7 @@
 | [AWS re:Inforce 2023 - Build your security data lake w/ Amazon Security Lake, featuring IPG (TDR205)](https://www.youtube.com/watch?v=qcXB6Y_7bNo)  | 2023-06-19   |
 | [AWS re:Inforce 2023 - Continuous innovation in AWS detection and response services (TDR204)](https://www.youtube.com/watch?v=t22IzUgPq78)          | 2023-06-19   |
 | [AWS re:Inforce 2023 - Stories from the cutting edge: Cloud security in 2023 (TDR207-S)](https://www.youtube.com/watch?v=lYuk27zia2M)               | 2023-06-19   |
-| [AWS re:Inforce 2023 - [NEW LAUNCH!] Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)      | 2023-06-19   |
+| [AWS re:Inforce 2023 - Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Clouds in the forecast: CrowdStrike cloud risk report (TDR208-S)](https://www.youtube.com/watch?v=SDD7s41V5t8)               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Supercharge your incident response with Trek10 and Datadog (TDR212-S)](https://www.youtube.com/watch?v=xgnwDZaGjAc)          | 2023-06-19   |
 | [AWS re:Inforce 2023 - How AWS and MongoDB raise the security bar with distributed ownership (APS201)](https://www.youtube.com/watch?v=PuTY0ff-SPA) | 2023-06-19   |
@@ -191,13 +317,13 @@
 | [AWS re:Inforce 2023 - How Zillow uses AWS security services to build a secure perimeter (NIS303)](https://www.youtube.com/watch?v=gdbxN09Iryw)     | 2023-06-19   |
 | [AWS re:Inforce 2023 - Achieving Zero Trust with AWS application networking (NIS307)](https://www.youtube.com/watch?v=PiCtF_XbZTM)                  | 2023-06-19   |
 | [AWS re:Inforce 2023 - Firewalls, and where to put them (NIS306)](https://www.youtube.com/watch?v=lTJxWAiQrHM)                                      | 2023-06-19   |
-| [AWS re:Inforce 2023 - (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                                                                       | 2023-06-19   |
+| [AWS re:Inforce 2023 - Help prevent account fraud with AWS WAF (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Policy and Suricata compatible rule creation for AWS Network Firewall (NIS308)](https://www.youtube.com/watch?v=67pVOv3lPlk) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Protecting your hybrid cloud with Zero Trust (NIS204-S)](https://www.youtube.com/watch?v=IGJ9lDrDiXM)                        | 2023-06-19   |
 
 #### [AWS re:Inforce 2023 | Threat Detection and Incident Response](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9g6i7Xaqzl4b6nTr45RH3y) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 21 
+* video count: 25 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -217,15 +343,19 @@
 | [AWS re:Inforce 2023 - Security data gravity: Visibility & threat detection for data lakes (PRT209-S)](https://www.youtube.com/watch?v=exfFsX-uhBU) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Stories from the cutting edge: Cloud security in 2023 (TDR207-S)](https://www.youtube.com/watch?v=lYuk27zia2M)               | 2023-06-19   |
 | [AWS re:Inforce 2023 - The power of preventative cloud security with Tenable and AWS (PRT212-S)](https://www.youtube.com/watch?v=ppVw7NLwKkE)       | 2023-06-19   |
-| [AWS re:Inforce 2023 - [NEW LAUNCH!] Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)      | 2023-06-19   |
+| [AWS re:Inforce 2023 - Streamline security analysis with Amazon Detective (TDR210)](https://www.youtube.com/watch?v=TWJtvq8pgw8)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Clouds in the forecast: CrowdStrike cloud risk report (TDR208-S)](https://www.youtube.com/watch?v=SDD7s41V5t8)               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Supercharge your incident response with Trek10 and Datadog (TDR212-S)](https://www.youtube.com/watch?v=xgnwDZaGjAc)          | 2023-06-19   |
 | [AWS re:Inforce 2023 - Beyond detection and response with Eviden and AWS (PRT230-S)](https://www.youtube.com/watch?v=F5tnJbaiHew)                   | 2023-06-19   |
 | [AWS re:Inforce 2023 - Static versus dynamic ML for securing modern cloud architectures (PRT313-S)](https://www.youtube.com/watch?v=GzHdzD44i_8)    | 2023-06-19   |
+| [AWS re:Inforce 2023 - Streamline security operations and improve threat detection with OCSF (TDR221)](https://www.youtube.com/watch?v=5V8XRRE584g) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Security monitoring for connected devices across OT, IoT, edge, cloud (TDR222)](https://www.youtube.com/watch?v=-2c83ql5KXg) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Bolstering incident response with AWS Wickr enterprise integrations (TDR223)](https://www.youtube.com/watch?v=n4aVvuojidQ)   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Securing the future of mobility: Automotive threat modeling (TDR224)](https://www.youtube.com/watch?v=PlCapoJn508)           | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Network and Infrastructure Security](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-MKtYve4wwZ4suV4yHl1y-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 15 
+* video count: 19 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -239,15 +369,19 @@
 | [AWS re:Inforce 2023 - How Zillow uses AWS security services to build a secure perimeter (NIS303)](https://www.youtube.com/watch?v=gdbxN09Iryw)     | 2023-06-19   |
 | [AWS re:Inforce 2023 - Achieving Zero Trust with AWS application networking (NIS307)](https://www.youtube.com/watch?v=PiCtF_XbZTM)                  | 2023-06-19   |
 | [AWS re:Inforce 2023 - Firewalls, and where to put them (NIS306)](https://www.youtube.com/watch?v=lTJxWAiQrHM)                                      | 2023-06-19   |
-| [AWS re:Inforce 2023 - (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                                                                       | 2023-06-19   |
+| [AWS re:Inforce 2023 - Help prevent account fraud with AWS WAF (NIS202)](https://www.youtube.com/watch?v=gGcWW6Hn374)                               | 2023-06-19   |
 | [AWS re:Inforce 2023 - Policy and Suricata compatible rule creation for AWS Network Firewall (NIS308)](https://www.youtube.com/watch?v=67pVOv3lPlk) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Protecting your hybrid cloud with Zero Trust (NIS204-S)](https://www.youtube.com/watch?v=IGJ9lDrDiXM)                        | 2023-06-19   |
 | [AWS re:Inforce 2023 - Managing cloud risk with Fortinet cloud security (PRT310-S)](https://www.youtube.com/watch?v=8tHderzI3Zo)                    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Get the most out of Splunk Enterprise, OCSF & Amazon Security Lake (PRT233-S)](https://www.youtube.com/watch?v=a2bReeyRJUE)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Navigating a cybersecurity event in real time (NIS221)](https://www.youtube.com/watch?v=R6gqsOo-JD0)                         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Use AWS Network Firewall for enterprises: Egress & ingress inspection (NIS222)](https://www.youtube.com/watch?v=lDavmXWdBTI) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Setting up AWS Verified Access (NIS223)](https://www.youtube.com/watch?v=GaDqIZ5bQBc)                                        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Building a secure perimeter with AWS WAF  (NIS224)](https://www.youtube.com/watch?v=PCqx7MQsmwY)                             | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Identity and Access Management](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_yD57B0x7TZI3cpKu0uEa2) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 14 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -261,27 +395,35 @@
 | [AWS re:Inforce 2023 - Steps toward a Zero Trust architecture on AWS (IAM307)](https://www.youtube.com/watch?v=WTJAjGKmAds)                         | 2023-06-19   |
 | [AWS re:Inforce 2023 - Scaling access with AWS IAM Identity Center, feat. Allegiant Airlines (IAM305)](https://www.youtube.com/watch?v=mAdUwbsbteI) | 2023-06-19   |
 | [AWS re:Inforce 2023 - Fine-grained authorization for apps with Amazon Verified Permissions (IAM308)](https://www.youtube.com/watch?v=1AdkZJSmTQI)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Accelerate your business with AWS Directory Service (IAM221)](https://www.youtube.com/watch?v=qTjDmEuL4tc)                   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Move toward least privilege with IAM Access Analyzer (IAM321)](https://www.youtube.com/watch?v=GVUXS6Xiq6U)                  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Validate your IAM policies with AWS CloudFormation hooks (IAM322)](https://www.youtube.com/watch?v=Td2Gu2DRD7A)              | 2023-08-16   |
+| [AWS re:Inforce 2023 - Manage temporary elevated access with AWS IAM Identity Center (IAM323)](https://www.youtube.com/watch?v=a1Na2G7TTQ0)         | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Governance, Risk, and Compliance](https://www.youtube.com/playlist?list=PL2yQDdvlhXf88swEJuVlB6w0mJAqw8thH) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 14 
 
-| title                                                                                                                                              | Published At |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Inforce 2023 - Scaling compliance with AWS Control Tower (GRC301)](https://www.youtube.com/watch?v=m2wjmGvY2pY)                            | 2023-06-14   |
-| [AWS re:Inforce 2023 - Drive differentiation with security and compliance automation (PRT307-S)](https://www.youtube.com/watch?v=d709ANB-lhk)      | 2023-06-14   |
-| [AWS re:Inforce 2023 - Modernizing your security and GRC strategy with AWS (GRC306)](https://www.youtube.com/watch?v=jTAENQgCUBk)                  | 2023-06-14   |
-| [AWS re:Inforce 2023 - Security practices for customizing multiple environments (GRC303)](https://www.youtube.com/watch?v=uBefrcrsRpk)             | 2023-06-14   |
-| [AWS re:Inforce 2023 - Best practices for cloud governance at scale (GRC305)](https://www.youtube.com/watch?v=RBfJFINO3m8)                         | 2023-06-19   |
-| [AWS re:Inforce 2023 - Managing risk in a regulated environment, feat. Japan Digital Agency (GRC302)](https://www.youtube.com/watch?v=6ao78unSnuA) | 2023-06-19   |
-| [AWS re:Inforce 2023 - Optimizing audits with automation (GRC201)](https://www.youtube.com/watch?v=L4rgOCJRH5A)                                    | 2023-06-19   |
-| [AWS re:Inforce 2023 - Engineer application resilience with compliance in mind (GRC304)](https://www.youtube.com/watch?v=WqUrDbkgZnY)              | 2023-06-19   |
-| [AWS re:Inforce 2023 - Supplement your AWS security with JIT access and CNAPP (PRT221-S)](https://www.youtube.com/watch?v=O21RSVNzXJg)             | 2023-06-19   |
-| [AWS re:Inforce 2023 - Plan and deploy your own security architecture based on the AWS SRA (GRC307)](https://www.youtube.com/watch?v=ayvGswS72x4)  | 2023-06-19   |
+| title                                                                                                                                               | Published At |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Inforce 2023 - Scaling compliance with AWS Control Tower (GRC301)](https://www.youtube.com/watch?v=m2wjmGvY2pY)                             | 2023-06-14   |
+| [AWS re:Inforce 2023 - Drive differentiation with security and compliance automation (PRT307-S)](https://www.youtube.com/watch?v=d709ANB-lhk)       | 2023-06-14   |
+| [AWS re:Inforce 2023 - Modernizing your security and GRC strategy with AWS (GRC306)](https://www.youtube.com/watch?v=jTAENQgCUBk)                   | 2023-06-14   |
+| [AWS re:Inforce 2023 - Security practices for customizing multiple environments (GRC303)](https://www.youtube.com/watch?v=uBefrcrsRpk)              | 2023-06-14   |
+| [AWS re:Inforce 2023 - Best practices for cloud governance at scale (GRC305)](https://www.youtube.com/watch?v=RBfJFINO3m8)                          | 2023-06-19   |
+| [AWS re:Inforce 2023 - Managing risk in a regulated environment, feat. Japan Digital Agency (GRC302)](https://www.youtube.com/watch?v=6ao78unSnuA)  | 2023-06-19   |
+| [AWS re:Inforce 2023 - Optimizing audits with automation (GRC201)](https://www.youtube.com/watch?v=L4rgOCJRH5A)                                     | 2023-06-19   |
+| [AWS re:Inforce 2023 - Engineer application resilience with compliance in mind (GRC304)](https://www.youtube.com/watch?v=WqUrDbkgZnY)               | 2023-06-19   |
+| [AWS re:Inforce 2023 - Supplement your AWS security with JIT access and CNAPP (PRT221-S)](https://www.youtube.com/watch?v=O21RSVNzXJg)              | 2023-06-19   |
+| [AWS re:Inforce 2023 - Plan and deploy your own security architecture based on the AWS SRA (GRC307)](https://www.youtube.com/watch?v=ayvGswS72x4)   | 2023-06-19   |
+| [AWS re:Inforce 2023 - Autodesk’s journey to FedRAMP compliance  (GRC221)](https://www.youtube.com/watch?v=qnlXIIN2tYE)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Using AI/ML to scale governance, risk management, and audits  (GRC222)](https://www.youtube.com/watch?v=dwLFJxBonKo)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - How AWS infrastructure addresses Salesforce’s resiliency goals (GRC321)](https://www.youtube.com/watch?v=s8djIG1JafU)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Centralize user activity from external sources in AWS CloudTrail Lake (GRC322)](https://www.youtube.com/watch?v=YikKxNYdpMM) | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Data Protection](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8UV0OyBQGDpq9I8CsSCqKX) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 14 
 
 | title                                                                                                                                             | Published At |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -295,10 +437,14 @@
 | [AWS re:Inforce 2023 - Security design of the AWS Nitro System (DAP401)](https://www.youtube.com/watch?v=hhAHyc9x3M4)                             | 2023-06-19   |
 | [AWS re:Inforce 2023 - Using AWS data protection services for innovation and automation (DAP305)](https://www.youtube.com/watch?v=jpT45GrbWGE)    | 2023-06-19   |
 | [AWS re:Inforce 2023 - Amazon S3 encryption and access control best practices (DAP306)](https://www.youtube.com/watch?v=ukk3R5DrdSs)              | 2023-06-19   |
+| [AWS re:Inforce 2023 - Understanding the shared responsibility model and AWS KMS XKS (DAP221)](https://www.youtube.com/watch?v=4PVJlVFTY0Y)       | 2023-08-16   |
+| [AWS re:Inforce 2023 - Preventing unauth'd credential access on GitHub using AWS services (DAP321)](https://www.youtube.com/watch?v=0tIN5AG3hcQ)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Integrating AWS Private CA with SPIRE and baseca at Coinbase (DAP322)](https://www.youtube.com/watch?v=6ihB2_ErcZc)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - AWS-LC: FIPS certification journey and how it’s used on AWS (DAP323)](https://www.youtube.com/watch?v=WKNGnCkZiQE)         | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Application Security](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-0NaMHtVL3_VcpvmiCJG6-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 19 
+* video count: 23 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -321,6 +467,10 @@
 | [AWS re:Inforce 2023 - Securely build generative AI apps & control data with Amazon Bedrock (APS208)](https://www.youtube.com/watch?v=5EDOTtYmkmI)  | 2023-06-19   |
 | [AWS re:Inforce 2023 - How Okta empowers devs to find & fix security issues with Snyk (APS206-S)](https://www.youtube.com/watch?v=uPHB8LxGvRk)      | 2023-06-19   |
 | [AWS re:Inforce 2023 - Our AWS Marketplace success story - Armis (PRT226-SR)](https://www.youtube.com/watch?v=wMqJA8UeOyo)                          | 2023-06-19   |
+| [AWS re:Inforce 2023 - From code to insight: Amazon Inspector & AWS Lambda in action (APS221)](https://www.youtube.com/watch?v=MJontjTwfoQ)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Improving code security analysis with AI/ML (APS222)](https://www.youtube.com/watch?v=-aSFbpCjF8M)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Increasing trust in software supply chain w/ container image signing (APS223)](https://www.youtube.com/watch?v=HxlRX2aPAYk)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - A tool to help improve your threat modeling (APS224)](https://www.youtube.com/watch?v=CaYCsmjuiHg)                           | 2023-08-16   |
 
 #### [AWS re:Inforce 2023 | Keynote and Leadership Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-g-w0uzrLGyVOvd1wkVOQ4) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -378,7 +528,7 @@
 
 #### [AWS re:Inforce 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9Y-FWJdJWQf2j3ffME4U-y) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 5 
+* video count: 29 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -387,6 +537,30 @@
 | [AWS re:Inforce 2023 - Achieving End-to-end Security on AWS (SEC203-L)](https://www.youtube.com/watch?v=Khhni4Ce-Ow)                                | 2023-06-15   |
 | [AWS re:Inforce 2023 - Journeys to Zero Trust on AWS (SEC202-L)](https://www.youtube.com/watch?v=Uke2CmFaVZ8)                                       | 2023-06-15   |
 | [AWS re:Inforce 2023 - Security in the Open: OSS and AWS (SEC201-L)](https://www.youtube.com/watch?v=kMY8gGmWfAI)                                   | 2023-06-15   |
+| [AWS re:Inforce 2023 - Improving code security analysis with AI/ML (APS222)](https://www.youtube.com/watch?v=-aSFbpCjF8M)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - From code to insight: Amazon Inspector & AWS Lambda in action (APS221)](https://www.youtube.com/watch?v=MJontjTwfoQ)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Increasing trust in software supply chain w/ container image signing (APS223)](https://www.youtube.com/watch?v=HxlRX2aPAYk)  | 2023-08-16   |
+| [AWS re:Inforce 2023 - A tool to help improve your threat modeling (APS224)](https://www.youtube.com/watch?v=CaYCsmjuiHg)                           | 2023-08-16   |
+| [AWS re:Inforce 2023 - Understanding the shared responsibility model and AWS KMS XKS (DAP221)](https://www.youtube.com/watch?v=4PVJlVFTY0Y)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Preventing unauth'd credential access on GitHub using AWS services (DAP321)](https://www.youtube.com/watch?v=0tIN5AG3hcQ)    | 2023-08-16   |
+| [AWS re:Inforce 2023 - Integrating AWS Private CA with SPIRE and baseca at Coinbase (DAP322)](https://www.youtube.com/watch?v=6ihB2_ErcZc)          | 2023-08-16   |
+| [AWS re:Inforce 2023 - Autodesk’s journey to FedRAMP compliance  (GRC221)](https://www.youtube.com/watch?v=qnlXIIN2tYE)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Using AI/ML to scale governance, risk management, and audits  (GRC222)](https://www.youtube.com/watch?v=dwLFJxBonKo)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - How AWS infrastructure addresses Salesforce’s resiliency goals (GRC321)](https://www.youtube.com/watch?v=s8djIG1JafU)        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Centralize user activity from external sources in AWS CloudTrail Lake (GRC322)](https://www.youtube.com/watch?v=YikKxNYdpMM) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Accelerate your business with AWS Directory Service (IAM221)](https://www.youtube.com/watch?v=qTjDmEuL4tc)                   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Move toward least privilege with IAM Access Analyzer (IAM321)](https://www.youtube.com/watch?v=GVUXS6Xiq6U)                  | 2023-08-16   |
+| [AWS re:Inforce 2023 - Validate your IAM policies with AWS CloudFormation hooks (IAM322)](https://www.youtube.com/watch?v=Td2Gu2DRD7A)              | 2023-08-16   |
+| [AWS re:Inforce 2023 - Manage temporary elevated access with AWS IAM Identity Center (IAM323)](https://www.youtube.com/watch?v=a1Na2G7TTQ0)         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Navigating a cybersecurity event in real time (NIS221)](https://www.youtube.com/watch?v=R6gqsOo-JD0)                         | 2023-08-16   |
+| [AWS re:Inforce 2023 - Use AWS Network Firewall for enterprises: Egress & ingress inspection (NIS222)](https://www.youtube.com/watch?v=lDavmXWdBTI) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Setting up AWS Verified Access (NIS223)](https://www.youtube.com/watch?v=GaDqIZ5bQBc)                                        | 2023-08-16   |
+| [AWS re:Inforce 2023 - Building a secure perimeter with AWS WAF  (NIS224)](https://www.youtube.com/watch?v=PCqx7MQsmwY)                             | 2023-08-16   |
+| [AWS re:Inforce 2023 - Streamline security operations and improve threat detection with OCSF (TDR221)](https://www.youtube.com/watch?v=5V8XRRE584g) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Security monitoring for connected devices across OT, IoT, edge, cloud (TDR222)](https://www.youtube.com/watch?v=-2c83ql5KXg) | 2023-08-16   |
+| [AWS re:Inforce 2023 - Bolstering incident response with AWS Wickr enterprise integrations (TDR223)](https://www.youtube.com/watch?v=n4aVvuojidQ)   | 2023-08-16   |
+| [AWS re:Inforce 2023 - Securing the future of mobility: Automotive threat modeling (TDR224)](https://www.youtube.com/watch?v=PlCapoJn508)           | 2023-08-16   |
+| [AWS re:Inforce 2023 - AWS-LC: FIPS certification journey and how it’s used on AWS (DAP323)](https://www.youtube.com/watch?v=WKNGnCkZiQE)           | 2023-08-16   |
 
 #### [2023 AWS Serverless Innovation Day](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9OTdxBj5T1LdZ0H4YYZMeS) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
@@ -415,12 +589,181 @@
 | [AWS Serverless Innovation Day: AWS On Air ft.Customer fireside chat Capital One](https://www.youtube.com/watch?v=tG0vlAtrf4c)                      | 2023-05-31   |
 | [AWS Serverless Innovation Day: AWS On Air ft. Building serverless apps with infrastructure as code](https://www.youtube.com/watch?v=v2nwqJiV7zQ)   | 2023-05-31   |
 
-#### [AWS On Air 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9i-4AsyOdlgVFDpBjgwNYw) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+#### [AWS Summit Berlin 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-1iDNvlMpx2YfgtY_Im6LT) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 202 
+* video count: 22 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS Summit Berlin 2023 Keynote](https://www.youtube.com/watch?v=2drrnOh7RJg)                                                                       | 2023-05-16   |
+| [AWS Summit Berlin 2023: Unlocking Business Agility with Event-Driven Architectures](https://www.youtube.com/watch?v=EZ62EKkXAhQ)                   | 2023-05-16   |
+| [AWS Summit Berlin 2023: Sending Fans 20M Personalized Real-Time Messages Per Matchday](https://www.youtube.com/watch?v=Zbal0kLShKw)                | 2023-05-16   |
+| [AWS Summit Berlin 2023: Streamlining Manufacturing Reports at Volkswagen Group](https://www.youtube.com/watch?v=OLy8CgRn8ts)                       | 2023-05-16   |
+| [AWS Summit Berlin 2023: How Deutsche Bahn stays ahead of fraudsters using ML on Amazon SageMaker](https://www.youtube.com/watch?v=H_4Uu6rMO5o)     | 2023-05-16   |
+| [AWS Summit Berlin 2023: The Amazon Software Development Process](https://www.youtube.com/watch?v=52SC80SFPOw)                                      | 2023-05-16   |
+| [AWS Summit Berlin 2023: Refactoring to serverless](https://www.youtube.com/watch?v=RfeVmXNRqDc)                                                    | 2023-05-16   |
+| [AWS Summit Berlin 2023: Empowering all – leveraging diversity for business excellence](https://www.youtube.com/watch?v=wY8-wHQ7B6k)                | 2023-05-16   |
+| [AWS Summit Berlin 2023: Volkswagen Group: Using automation to scale security](https://www.youtube.com/watch?v=q6A-z_frPBo)                         | 2023-05-16   |
+| [AWS Summit Berlin 2023: Reactive Architecture on AWS: from 0 to 1.6M events/minute](https://www.youtube.com/watch?v=N23h1rTN1fE)                   | 2023-05-16   |
+| [AWS Summit Berlin 2023: Keep calm and dive deep into newest database innovations](https://www.youtube.com/watch?v=Cq9nQFVPtn4)                     | 2023-05-16   |
+| [AWS Summit Berlin 2023: AWS 101: Rocket-fuel for Startups - AWS Events](https://www.youtube.com/watch?v=CKPdBQXGMwE)                               | 2023-05-23   |
+| [AWS Summit Berlin 2023: Go-to-Market with your startup: tips and best practices from VC investors](https://www.youtube.com/watch?v=LY63sKOiP8I)    | 2023-05-23   |
+| [AWS Summit Berlin 2023: How a partnership with AWS can fast-track your startup growth](https://www.youtube.com/watch?v=4H_luqvRsfY)                | 2023-05-23   |
+| [AWS Summit Berlin 2023: Web3: Build, launch and scale your Web3 startup on AWS featuring 1inch](https://www.youtube.com/watch?v=NHhE8gjg650)       | 2023-05-23   |
+| [AWS Summit Berlin 2023: Architecting for Success and Runway featuring Scalable Capital and Gronda](https://www.youtube.com/watch?v=IuxvSZOXfSk)    | 2023-05-23   |
+| [AWS Summit Berlin 2023: Building Generative AI Applications on AWS featuring deepset](https://www.youtube.com/watch?v=Hns424sFY7s)                 | 2023-05-23   |
+| [AWS Summit Berlin 2023: Kubernetes as a scalable foundation for SaaS in the cloud](https://www.youtube.com/watch?v=qhohNwCk7lM)                    | 2023-05-23   |
+| [AWS Summit Berlin 2023: How to Fail, Epicly: A panel about founder mindsets to avoid at all costs](https://www.youtube.com/watch?v=Mh7xnrJGRw8)    | 2023-05-23   |
+| [AWS Summit Berlin 2023: From machine to digital services: Pioneering the future of manufacturing](https://www.youtube.com/watch?v=YHo3E_-DYM8)     | 2023-06-19   |
+| [AWS Summit Berlin 2023: Frictionless Compliant Data & Analytics Environments at Merck](https://www.youtube.com/watch?v=v4iUQAQPccw)                | 2023-06-19   |
+| [AWS Summit Berlin 2023: How Delivery Hero ensures compliance & reduces fraud with Amazon Rekognition](https://www.youtube.com/watch?v=vl0Y-nT1Xdg) | 2023-06-19   |
+
+#### [AWS On Air 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9i-4AsyOdlgVFDpBjgwNYw) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+
+* video count: 340 
+
+| title                                                                                                                                               | Published At |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS Storage Day 2023 - AWS On Air ft. Storage Day wrap-up with Jeff Barr](https://www.youtube.com/watch?v=OTtwQXM-7Yg)                             | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Earn AWS Cloud Storage Knowledge badges](https://www.youtube.com/watch?v=VnSx0T5_RRc)                        | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Hybrid cloud storage and edge compute: AWS, where you need it](https://www.youtube.com/watch?v=rZee_6yADGw)  | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Identify and accelerate data migrations at scale Part 2](https://www.youtube.com/watch?v=d1kMLWh9Pao)        | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Transfer Family Identify & accelerate data migrations at scale](https://www.youtube.com/watch?v=MmSt7Gd0_Sg) | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Partner Spotlight:  NetApp](https://www.youtube.com/watch?v=OcyyTJuN5VU)                                     | 2023-09-14   |
+| [AWS Storage Day 2023- AWS On Air ft. Customer Spotlight: Phillips 66](https://www.youtube.com/watch?v=rqFl2IIIE5A)                                 | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Migrate NAS to AWS to reduce TCO and gain agility](https://www.youtube.com/watch?v=VtuNrt5B6EY)              | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Resilient block storage for mission-critical workloads](https://www.youtube.com/watch?v=ndRjaCXQ2xw)         | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Customer Spotlight: Stripe Building on EBS from the beginning](https://www.youtube.com/watch?v=UtDMOZCeTjg)  | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. 15 years of innovations with Amazon EBS](https://www.youtube.com/watch?v=jikvosSYNUY)                        | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Amazon S3 Fundamentals: Security and access control](https://www.youtube.com/watch?v=lgRRt8J05_U)            | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Amazon S3 Fundamentals: Durability and availability](https://www.youtube.com/watch?v=soZJGPtdmJQ)            | 2023-09-14   |
+| [AWS Storage Day 2023 - AWS On Air ft. Deep dive on data recovery for ransomware events](https://www.youtube.com/watch?v=bL-_Qm0ukVs)               | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Maximize the value of cold data with Amazon S3 Glacier](https://www.youtube.com/watch?v=ZNVzKsggWTw)         | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Amazon S3 Fundamentals: Deliver performance at scale](https://www.youtube.com/watch?v=ruE2lMkJGiY)           | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Unlock the value of your data with Amazon EFS](https://www.youtube.com/watch?v=H-yW2Yux5PM)                  | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Accelerate serverless app development with AWS](https://www.youtube.com/watch?v=ndyFERdYG2k)                 | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Run compute-heavy workloads at cloud scale](https://www.youtube.com/watch?v=JVlLbCs1WV0)                     | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Optimize generative AI and ML with AWS Infrastructure](https://www.youtube.com/watch?v=8k7eNx9nDlo)          | 2023-09-13   |
+| [AWS Storage Day 2023 - AWS On Air ft. Keynote](https://www.youtube.com/watch?v=l13XOAAyW2o)                                                        | 2023-09-13   |
+| [AWS On Air End User Computing innovation Day](https://www.youtube.com/watch?v=P4KeZMswRdA)                                                         | 2023-09-13   |
+| [AWS On Air ft. Brightspot](https://www.youtube.com/watch?v=crHmbJof4K0)                                                                            | 2023-09-05   |
+| [AWS On Air ft. ELASTIC](https://www.youtube.com/watch?v=EpxRuElJIcg)                                                                               | 2023-09-05   |
+| [AWS On Air ft. Introducing Real-Time Streaming with Amazon IVS](https://www.youtube.com/watch?v=-xiwrx-g01Q)                                       | 2023-09-05   |
+| [AWS On Air ft. Data retention using AWS Wickr](https://www.youtube.com/watch?v=UN5RXyFSDBY)                                                        | 2023-09-05   |
+| [AWS On Air ft. AWS Artifact Notifications](https://www.youtube.com/watch?v=yCiEdXT7HOs)                                                            | 2023-09-05   |
+| [AWS On Air ft. NVIDIA Omniverse](https://www.youtube.com/watch?v=pTDLMDHZXdw)                                                                      | 2023-08-30   |
+| [AWS On Air Hybrid Cloud Day](https://www.youtube.com/watch?v=E8y-G8W7JJs)                                                                          | 2023-08-30   |
+| [AWS New York Summit 2023 - AWS On Air ft. Introducing AWS Entity Resolution](https://www.youtube.com/watch?v=3EwRaLIvjuc)                          | 2023-08-18   |
+| [AWS New York Summit 2023 - AWS On Air ft. Generative AI in Amazon CodeCatalyst](https://www.youtube.com/watch?v=VfBYdKJpTpE)                       | 2023-08-18   |
+| [AWS New York Summit 2023 - AWS On Air ft. Cleanse and Normalize your data with AWS Glue DataBrew](https://www.youtube.com/watch?v=do3pr5xWhQM)     | 2023-08-18   |
+| [AWS NY Summit 2023 - AWS On Air ft. Step Up Your GameDay! Live at the New York Summit!](https://www.youtube.com/watch?v=u_ohREIP0p8)               | 2023-08-18   |
+| [AWS NY Summit 2023 - AWS On Air ft. Building an AWS Solution Architect Agent with Generative AI](https://www.youtube.com/watch?v=pNspIjOlSTU)      | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. DeepLearning.AI "Generative AI with Large Language Models"](https://www.youtube.com/watch?v=Ln8vZjZJB1g)       | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. Observing AWS Serverless with Datadog!](https://www.youtube.com/watch?v=hoD9Dw2jTU0)                           | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. AWS Power Hour: DevOps Engineer - Professional (Exam Prep)](https://www.youtube.com/watch?v=gCWanAYPsjo)       | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. How Kirkey AI helps anyone animate a 3D Character](https://www.youtube.com/watch?v=FOQ-TbLKHHU)                | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. AWS Predictive Maintenance Solutions](https://www.youtube.com/watch?v=ckszyV_nyXQ)                             | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. AWS Power Hour: Architecting Exam Prep](https://www.youtube.com/watch?v=vIjKZESs69s)                           | 2023-08-16   |
+| [AWS NY Summit 2023 - AWS On Air ft. Code Corner Live at the New York Summit!](https://www.youtube.com/watch?v=nNh_p1Z4y0s)                         | 2023-08-16   |
+| [AWS On Air ft. Introducing Amazon Route 53 Resolver on Outposts rack](https://www.youtube.com/watch?v=VANwIbP0_j0)                                 | 2023-08-14   |
+| [AWS On Air ft. Accelerate your CloudFormation authoring experience with Fn::ForEach looping function](https://www.youtube.com/watch?v=YSsWbHmLGTs) | 2023-08-09   |
+| [AWS On Air Storage Innovation Day](https://www.youtube.com/watch?v=CWkuIKnyhY4)                                                                    | 2023-08-09   |
+| [AWS On Air ft. Llama 2 foundation models now available in Amazon SageMaker JumpStart](https://www.youtube.com/watch?v=ZDp1fZN7uXE)                 | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Trend Micro: Trend Cloud One & Trend Vision One](https://www.youtube.com/watch?v=EhuLkwgG6og)                      | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Trellix XDR and Amazon Security Lake](https://www.youtube.com/watch?v=wnZGgqhcxdA)                                 | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. What's new with security?](https://www.youtube.com/watch?v=UCwK91L_xB4)                                            | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. FortiGate CNF – Cloud Native Firewall](https://www.youtube.com/watch?v=ed4mmAAlz9A)                                | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Women in Cybersecurity- Rutuben Ataliya](https://www.youtube.com/watch?v=3d5MJYUiUYs)                              | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Navigating Data Residency Successfully](https://www.youtube.com/watch?v=V89hPOsU6Rc)                               | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Women in Cybersecurity- Jess Modini](https://www.youtube.com/watch?v=u7M941AJi2A)                                  | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air: Under the Hood re:Inforce Day 2](https://www.youtube.com/watch?v=Xta0dIWIuos)                                         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air: Under the Hood re:Inforce Day 1](https://www.youtube.com/watch?v=wXrYZmbdzu0)                                         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Women in Cybersecurity- Inclusive Security](https://www.youtube.com/watch?v=gGkhvNMSks8)                           | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Future-Proofing Cybersecurity: Strong Academia-Industry Alliances](https://www.youtube.com/watch?v=oUTLQBwq_mE)    | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Training and Certification-Security Specialty (Exam Prep)](https://www.youtube.com/watch?v=y_xPk5Z1xXs)            | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Training and Certification: AWS Cloud Quest-Security Role](https://www.youtube.com/watch?v=sAo8Rh8e9ZQ)            | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Training and Cert--AWS Jam Journeys- Security](https://www.youtube.com/watch?v=5SOOlC-8dIY)                        | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Streamlining Mergers and acquisitions with mulit-accounts](https://www.youtube.com/watch?v=o5Jv0SYhQ4s)            | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Shifting Security Left for Dev and Ops](https://www.youtube.com/watch?v=7peoR1aTgJc)                               | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Resource Exclusion on AWS Config](https://www.youtube.com/watch?v=2NfX0Ro2Fuc)                                     | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Integrate secure cryptography  with AWS Payment Cryptography](https://www.youtube.com/watch?v=t76mjaiLWas)         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Network Configuration Recovery](https://www.youtube.com/watch?v=xAv5UoXC0XQ)                                       | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Infrastructure as Code as Security](https://www.youtube.com/watch?v=ifIwV1MtXWM)                                   | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. AWS Game Day](https://www.youtube.com/watch?v=eQpGqBpA9B8)                                                         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. AWS on Air CloudTrail Lake Dashboards](https://www.youtube.com/watch?v=aEk4re4T0Fs)                                | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. CIRT-The International Version](https://www.youtube.com/watch?v=FZj0Dih_6bA)                                       | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. CIRT-Operations Deep Dive](https://www.youtube.com/watch?v=BFIl0uRKB7M)                                            | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. CIRT-Brilliant in the basics](https://www.youtube.com/watch?v=EYeHJUN7_dM)                                         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Building Threat Detection Models with Machine Learning](https://www.youtube.com/watch?v=DTgpveIyxMw)               | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Building Persona Centric Data Lake With Amazon Security Lake](https://www.youtube.com/watch?v=6dpDjNw5Z6Q)         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. What's new with AWS Wickr?](https://www.youtube.com/watch?v=hM0FPz1C3jo)                                           | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. AWS Well-Architected Profiles](https://www.youtube.com/watch?v=qQdVsJ13XhU)                                        | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. AWS Vulnerability Reporting Program](https://www.youtube.com/watch?v=nIkn9oFyGgw)                                  | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. AWS Security Hub Automation Rules](https://www.youtube.com/watch?v=t10Mgi8ZgVw)                                    | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air: LockDown!](https://www.youtube.com/watch?v=5Nk1jua4eBQ)                                                               | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Amazon Verified Permissions](https://www.youtube.com/watch?v=XIO6dbUYwck)                                          | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Amazon OpenSearch Service Security Analytics](https://www.youtube.com/watch?v=2t2FLyb8INA)                         | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Amazon Detective expands finding groups to Amazon Inspector](https://www.youtube.com/watch?v=1rD9iEq8BiY)          | 2023-08-01   |
+| [AWS re:Inforce - AWS On Air ft. Account Creation Fraud Prevention](https://www.youtube.com/watch?v=8ceSIEnQs9o)                                    | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Scaling your multi-accounts strategy](https://www.youtube.com/watch?v=NZNYQXWOax0)                                | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Improve Security Posture with End to End Monitoring](https://www.youtube.com/watch?v=wUHnwtwPVx4)                 | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Amazon CloudWatch Logs Live Tail](https://www.youtube.com/watch?v=b32zYcnYb94)                                    | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. AWS Personalize Discovery Ed](https://www.youtube.com/watch?v=cY5w7miIJMk)                                        | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Announcing Landing Zone Accelerator for Education](https://www.youtube.com/watch?v=NKcoZ6heVcs)                   | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Migrate and modernize with AWS Cloud Operations](https://www.youtube.com/watch?v=QQFd74ehUVg)                     | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Amazon Bedrock- generative AI applications with foundation models](https://www.youtube.com/watch?v=p_e4w7dM6hs)   | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Operational Readiness review custom well architected review lens](https://www.youtube.com/watch?v=znEA3AGT2DU)    | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Set up alerts to optimize performance and manage risk](https://www.youtube.com/watch?v=ui9dv32U3jM)               | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. How to protect yourself from a ransomware event](https://www.youtube.com/watch?v=FTUP3x4rnpU)                     | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Let's Ship it - Data Analytics](https://www.youtube.com/watch?v=FaWzOHOEbzs)                                      | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Women in Cybersecurity- Startup Security Resources](https://www.youtube.com/watch?v=XzPQjeD-xYA)                  | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Amplifying Success- The Value Proposition of an AWS Partnership](https://www.youtube.com/watch?v=BBEtganFV4o)     | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Amazon Omics & Open Data](https://www.youtube.com/watch?v=NK--9d7puzQ)                                            | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. AWS Jam Journeys](https://www.youtube.com/watch?v=UhNWULnmWto)                                                    | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Operating in a dynamic regulatory environment](https://www.youtube.com/watch?v=_ZCVJAE6gc8)                       | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Decentralizing policy management in AWS Organizations](https://www.youtube.com/watch?v=ARCOOolE9ic)               | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Monitoring EMR on EKS workloads using Prometheus and Grafana](https://www.youtube.com/watch?v=MYPnqwxFa5Q)        | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Simplify operations with Amazon DevOps Guru](https://www.youtube.com/watch?v=Hd3EEp4KV6E)                         | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Elevate your Observability Strategy with AIOps](https://www.youtube.com/watch?v=XcxEFoN1Ebg)                      | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Patch it to me](https://www.youtube.com/watch?v=b3Bd6qhQjgo)                                                      | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Monitor applications across multiple accounts](https://www.youtube.com/watch?v=0YhNgWFqpxU)                       | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Everything, everywhere, all at once- Monitoring and Observability](https://www.youtube.com/watch?v=a8BbSDFuvo8)   | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Proactive Compliance with AWS](https://www.youtube.com/watch?v=Cs0itcqsPjk)                                       | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Automate ingestion of audit data from hybrid environments](https://www.youtube.com/watch?v=99kFhnm_DW8)           | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. From zero to managed and patched in 20 minutes](https://www.youtube.com/watch?v=pS1B6lBshUY)                      | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Get visibility into monitoring with Amazon CloudWatch dashboard](https://www.youtube.com/watch?v=9g5HZimBhwY)     | 2023-08-01   |
+| [AWS WWPS Summit - AWS On Air ft. Speed up AWS Observability Deployments](https://www.youtube.com/watch?v=hpy6x8CMke8)                              | 2023-08-01   |
+| [AWS On Air ft. Integrate secure cryptography  with AWS Payment Cryptography](https://www.youtube.com/watch?v=ywcCmM1Ndg8)                          | 2023-07-27   |
+| [AWS On Air - NY Summit](https://www.youtube.com/watch?v=C9i89u3znjk)                                                                               | 2023-07-26   |
+| [AWS On Air ft. Building GenAI Apps with Amazon Aurora PostgreSQL-Compatible Edition and pgvector](https://www.youtube.com/watch?v=jkHQ_540_5U)     | 2023-07-25   |
+| [AWS re:Inforce - AWS On Air ft. Accelerate SAP innovation with the AWS SDK for SAP ABAP](https://www.youtube.com/watch?v=u65Zmmm9mks)              | 2023-07-25   |
+| [AWS On Air ft. Contrast Security](https://www.youtube.com/watch?v=IK-X9g0BD1I)                                                                     | 2023-07-18   |
+| [AWS On Air ft. NVIDIA AI Enterprise on AWS Marketplace](https://www.youtube.com/watch?v=0W6mp3-nADk)                                               | 2023-07-17   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Fireside Chat: Dave and Ruba](https://www.youtube.com/watch?v=aNODGlAVJQM)                        | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Silicon Development at AWS](https://www.youtube.com/watch?v=-EVnly-uedw)                          | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Moor Insights Strategy with Patrick Moorhead](https://www.youtube.com/watch?v=aiUOnT9rmaE)        | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Nitro System Innovation](https://www.youtube.com/watch?v=lNk1ThfFFD4)                         | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Fireside Chat with Jeff and Tiffany](https://www.youtube.com/watch?v=ibUZvh_2Y24)                 | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Fireside Chat: Raj and Elias](https://www.youtube.com/watch?v=gZWYfeOkwks)                        | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Generative AI Chips](https://www.youtube.com/watch?v=h3zks6iXgDE)                             | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Silicon Hugging Face collaboration](https://www.youtube.com/watch?v=tTL8KpyFGHk)              | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Confidential Compute Architecture](https://www.youtube.com/watch?v=iFjSeAqdDCM)               | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Customer Spotlight: Skyflow](https://www.youtube.com/watch?v=3QwAWDZsi7c)                         | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Graviton](https://www.youtube.com/watch?v=pErNGhgixIk)                                        | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. More Than Moore, Dr. Ian Cutress](https://www.youtube.com/watch?v=fgw4QdsFlgU)                    | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Trainium and AWS Inferentia](https://www.youtube.com/watch?v=1dH0dI2Srt4)                     | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Octo ML AWS Inferentia2](https://www.youtube.com/watch?v=ksjXRjYIyl8)                             | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Customer Spotlight: Johnson & Johnson](https://www.youtube.com/watch?v=K83JQ-kY63o)               | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. High Performance Computing (HPC)](https://www.youtube.com/watch?v=Gklnmf_oXSs)                    | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS  Silicon and Networking](https://www.youtube.com/watch?v=QraOO9yPLPI)                         | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Silicon innovation and the modern network](https://www.youtube.com/watch?v=wZbNef3hXms)           | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. Using  AWS Silicon for Cost Optimization](https://www.youtube.com/watch?v=8NF8aSd5t4M)            | 2023-07-09   |
+| [AWS Silicon Innovation Day 2023 - AWS On Air ft. AWS Nitro SSDs and EBS](https://www.youtube.com/watch?v=6HC0CiykgIU)                              | 2023-07-09   |
+| [AWS On Air ft. Open Source Security at AWS](https://www.youtube.com/watch?v=T8X7VDmJkz4)                                                           | 2023-07-07   |
+| [AWS On Air ft. Amazon RDS Custom for SQL Server](https://www.youtube.com/watch?v=Jeliv-NuYQk)                                                      | 2023-07-07   |
+| [AWS On Air ft. NVIDIA Morpheus](https://www.youtube.com/watch?v=19pQ5hFX9_U)                                                                       | 2023-07-06   |
+| [AWS On Air ft. AWS CloudFormation StackSets skips suspended accounts for faster deployments](https://www.youtube.com/watch?v=G-kKbPHnPZU)          | 2023-07-05   |
+| [AWS On Air ft.  Get consistent performance with Multi-AZ with Standby for Amazon OpenSearch Service](https://www.youtube.com/watch?v=eUPYvMeWOVM)  | 2023-07-05   |
 | [AWS on Air ft. Under the Hood: How The NFL Uses AWS Compute to Build Its Season Schedule](https://www.youtube.com/watch?v=kcOANL5Wte0)             | 2023-06-29   |
 | [AWS London Summit 2023 - AWS On Air ft. AWS Database Migration Service (DMS) Serverless](https://www.youtube.com/watch?v=dX6eLS5zX4Q)              | 2023-06-28   |
 | [AWS London Summit 2023 - AWS On Air ft. AWS Cloud Quest: Architecting](https://www.youtube.com/watch?v=aVTeUrFL0gg)                                | 2023-06-28   |
@@ -438,8 +781,6 @@
 | [AWS London Summit 2023 - AWS On Air ft. F1 Simulator](https://www.youtube.com/watch?v=a76nCqOfThc)                                                 | 2023-06-28   |
 | [AWS GameDay- F1 League](https://www.youtube.com/watch?v=mUO0yLo93cY)                                                                               | 2023-06-28   |
 | [AWS On Air ft. Outsource IP management to SES with new features](https://www.youtube.com/watch?v=EMkuH6s4u4g)                                      | 2023-06-28   |
-| [AWS Applications Innovation day](https://www.youtube.com/watch?v=ICFBRJ_DKBY)                                                                      | 2023-06-27   |
-| [AWS On Air Fabric Innovation Day](https://www.youtube.com/watch?v=xdL3qoosjVE)                                                                     | 2023-06-27   |
 | [AWS Developer Innovation Day - AWS On Air ft. AWS Developer Innovation Day opening keynote](https://www.youtube.com/watch?v=nVBWLg2Oj0Q)           | 2023-06-27   |
 | [AWS Developer Innovation Day - AWS On Air ft. Build, deploy, and host performant server-side apps](https://www.youtube.com/watch?v=mxLjqhSktGc)    | 2023-06-27   |
 | [AWS Developer Innovation Day - AWS On Air ft.  Create a cross-platform Flutter app](https://www.youtube.com/watch?v=yPLBAz1XyHk)                   | 2023-06-27   |
@@ -1606,139 +1947,3 @@
 | [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=u-qamiNgH7Q)                                            | 2022-12-08   |
 | [AWS re:Invent 2022 - [NEW] Introducing AWS Verified Access: Secure connections to your apps (NET214)](https://www.youtube.com/watch?v=Kkxn-bAIlnI) | 2022-12-09   |
 | [AWS re:Invent 2022 - Build your global wide area network using AWS (NET303)](https://www.youtube.com/watch?v=flBieylTwvI)                          | 2022-12-09   |
-
-#### [AWS re:Invent 2022 - IoT & Robotics](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-JdQFeoWJVBPilaIcZwE6k) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
-
-* video count: 9 
-
-| title                                                                                                                                               | Published At |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2022 - Unlocking business value and operational benefits with IoT solutions (IOT211-L)](https://www.youtube.com/watch?v=dxLq27GVXpA) | 2022-11-29   |
-| [AWS re:Invent 2022 - Accelerate IoT outcomes with turnkey AWS and AWS Partner solutions (IOT314)](https://www.youtube.com/watch?v=PVtL9I98vpA)     | 2022-12-01   |
-| [AWS re:Invent 2022 - Building the industrial kitchen of the future with Miso Robotics (ROB201)](https://www.youtube.com/watch?v=a2UaDLjZs_I)       | 2022-12-01   |
-| [AWS re:Invent 2022 - Accelerate your digital twin journey with AWS (IOT203)](https://www.youtube.com/watch?v=EfmCpcM5CFA)                          | 2022-12-02   |
-| [AWS re:Invent 2022 - Building connected vehicle and mobility platforms with AWS (IOT311)](https://www.youtube.com/watch?v=Oaw_cpLBpoI)             | 2022-12-02   |
-| [AWS re:Invent 2022 - How Lockheed Martin uses AWS and Boston Dynamics to deliver tools (ROB202)](https://www.youtube.com/watch?v=nhZAs8coftM)      | 2022-12-06   |
-| [AWS re:Invent 2022 - Optimize industrial operations with AWS IoT (IOT312)](https://www.youtube.com/watch?v=gRnQnS9dGII)                            | 2022-12-06   |
-| [AWS re:Invent 2022 - How Amazon uses AWS IoT to improve sustainability across its buildings (IOT204)](https://www.youtube.com/watch?v=gPdmIOpdsRw) | 2022-12-06   |
-| [AWS re:Invent 2022 - Unlocking innovation: Differentiate your product with new IoT features (IOT201)](https://www.youtube.com/watch?v=PPRNCBZB8g8) | 2023-03-28   |
-
-#### [AWS re:Invent 2022 - Hybrid Cloud](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-ytfk6MNgBI8uGFcpgIbYc) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
-
-* video count: 9 
-
-| title                                                                                                                                            | Published At |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [AWS re:Invent 2022 - Pushing the boundary of the cloud to the edge (HYB203)](https://www.youtube.com/watch?v=MNIKWFOvibA)                       | 2022-12-01   |
-| [AWS re:Invent 2022 - AWS: A great way to run 5G networks (HYB206)](https://www.youtube.com/watch?v=fUn-z-Lw5ek)                                 | 2022-12-01   |
-| [AWS re:Invent 2022 - AWS wherever you need it  (HYB201-L)](https://www.youtube.com/watch?v=fP2aQFeMBgo)                                         | 2022-12-02   |
-| [AWS re:Invent 2022 - AWS Local Zones: Building applications for a distributed edge (HYB202)](https://www.youtube.com/watch?v=bDnh_d-slhw)       | 2022-12-02   |
-| [AWS re:Invent 2022 - How to deploy a private mobile network in days using AWS Private 5G (HYB204)](https://www.youtube.com/watch?v=tCRfRVMUETc) | 2022-12-02   |
-| [AWS re:Invent 2022 - Hybrid cloud: Cataloging objects across storage systems (NFX301)](https://www.youtube.com/watch?v=73t6wMVId00)             | 2022-12-06   |
-| [AWS re:Invent 2022 - AWS Outposts: Bringing the AWS experience on premises (HYB312)](https://www.youtube.com/watch?v=OUNJ0F73HSs)               | 2022-12-06   |
-| [AWS re:Invent 2022 - How to simplify your hybrid cloud migration strategy with AWS (HYB311)](https://www.youtube.com/watch?v=uAu500b2yTs)       | 2022-12-06   |
-| [AWS re:Invent 2022 - AWS Snow Family: Bringing AWS to rugged, mobile & disconnected edge (HYB205)](https://www.youtube.com/watch?v=rk-5G8a-_JM) | 2022-12-06   |
-
-#### [AWS re:Invent 2022 - Developer Productivity & DevOps](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_fADfZTuoxJyPh2jXSScuR) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
-
-* video count: 24 
-
-| title                                                                                                                                               | Published At |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2022 - Site suitability analysis using Amazon Location Service (FWM202)](https://www.youtube.com/watch?v=Tf5zxMKjPnE)                | 2022-12-01   |
-| [AWS re:Invent 2022 - Governance and security with infrastructure as code (DOP314)](https://www.youtube.com/watch?v=7cYzYWcDyiM)                    | 2022-12-01   |
-| [AWS re:Invent 2022 - Create real-time, event-driven apps w/Amazon EventBridge & AWS AppSync (FWM315)](https://www.youtube.com/watch?v=zFk-iePwyY8) | 2022-12-01   |
-| [AWS re:Invent 2022 - Discover Cloudscape, an open-source design system for the cloud (OPN204)](https://www.youtube.com/watch?v=4Dvqs8KF9B8)        | 2022-12-01   |
-| [AWS re:Invent 2022 – Build & run it: Streamline DevOps capabilities with machine learning (DOP205)](https://www.youtube.com/watch?v=LJ3h37ThT3k)   | 2022-12-01   |
-| [AWS re:Invent 2022 - Sustainability in the cloud with Rust and AWS Graviton (DOP315)](https://www.youtube.com/watch?v=HKAl4tSCp7o)                 | 2022-12-01   |
-| [AWS re:Invent 2022 - What’s new for frontend web and mobile developers with AWS Amplify (FWM308)](https://www.youtube.com/watch?v=ejzVeq5tkZE)     | 2022-12-01   |
-| [AWS re:Invent 2022 - Building a multi-Region serverless application with AWS AppSync (FWM310)](https://www.youtube.com/watch?v=bUvTxaqWXXs)        | 2022-12-01   |
-| [AWS re:Invent 2022 - A journey to increased developer productivity (STP205-R)](https://www.youtube.com/watch?v=a-BXJr9y1L4)                        | 2022-12-01   |
-| [AWS re:Invent 2022 - Delighting developers: Builder experience at AWS (DOP208-L)](https://www.youtube.com/watch?v=N2kZAlTcDf4)                     | 2022-12-02   |
-| [AWS re:Invent 2022 - AWS infrastructure as code: A year in review (DOP201)](https://www.youtube.com/watch?v=5TTRD3yI47c)                           | 2022-12-02   |
-| [AWS re:Invent 2022 - Building on AWS with AWS tools, services, and SDKs (DOP202)](https://www.youtube.com/watch?v=xvqCGuYBEgE)                     | 2022-12-02   |
-| [AWS re:Invent 2022 - Design to code: Build an app frontend UI in mins. w/AWS Amplify Studio (FWM309)](https://www.youtube.com/watch?v=OicGIaHxM-I) | 2022-12-02   |
-| [AWS re:Invent 2022 - The Amazon Builders’ Library: 25 yrs of Amazon operational excellence (DOP301)](https://www.youtube.com/watch?v=DSRhgBd_gtw)  | 2022-12-05   |
-| [AWS re:Invent 2022 - How to reuse patterns when developing infrastructure as code (DOP302)](https://www.youtube.com/watch?v=ndd9XwQZbyM)           | 2022-12-05   |
-| [AWS re:Invent 2022 - Best practices for securing your software delivery lifecycle  (DOP316)](https://www.youtube.com/watch?v=PBxXcdchtjo)          | 2022-12-05   |
-| [AWS re:Invent 2022 - Amazon CodeCatalyst Dev Environments in action (DOP317)](https://www.youtube.com/watch?v=eENxkDpW4Kc)                         | 2022-12-05   |
-| [AWS re:Invent 2022 - How Amazon Location Service enabled London Marathon runner tracking (FWM201)](https://www.youtube.com/watch?v=-AA3JKnSBvU)    | 2022-12-05   |
-| [AWS re:Invent 2022 - Accelerate GraphQL API app development & collaboration w/AWS AppSync (FWM316)](https://www.youtube.com/watch?v=LyzNM9KIJSU)   | 2022-12-05   |
-| [AWS re:Invent 2022 - Refactoring the product and engineering relationship (STP204)](https://www.youtube.com/watch?v=IlYTy98mznk)                   | 2022-12-05   |
-| [AWS re:Invent 2022 - Startups at scale: What to expect when building an engineering team (STP202)](https://www.youtube.com/watch?v=cLs7LVGLwnU)    | 2022-12-05   |
-| [AWS re:Invent 2022 - .NET open source on AWS (OPN207)](https://www.youtube.com/watch?v=NWMqBG31NqM)                                                | 2022-12-06   |
-| [AWS re:Invent 2022 - Introducing Amazon CodeCatalyst (DOP206-R)](https://www.youtube.com/watch?v=mKdGehrUYFI)                                      | 2022-12-06   |
-| [AWS re:Invent 2022 - AWS Well-Architected best practices for DevOps on AWS (DOP207)](https://www.youtube.com/watch?v=hfXokRAyorA)                  | 2022-12-06   |
-
-#### [AWS re:Invent 2022 - Databases](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_BXR1wcAIn558ejhKhy-JV) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
-
-* video count: 30 
-
-| title                                                                                                                                               | Published At |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2022 - Unleash developer productivity with infrastructure from code (COM301)](https://www.youtube.com/watch?v=RmwKBPCo7o4)           | 2022-11-30   |
-| [AWS re:Invent 2022 - A close look at AWS Fargate and AWS App Runner (CON406)](https://www.youtube.com/watch?v=MZBbhqt6bQs)                         | 2022-12-01   |
-| [AWS re:Invent 2022 - Modernize apps with purpose-built databases, featuring Liberty Mutual (DAT217)](https://www.youtube.com/watch?v=V-DiplATdi0)  | 2022-12-01   |
-| [AWS re:Invent 2022 - Deploy modern and effective data models with Amazon DynamoDB (DAT320)](https://www.youtube.com/watch?v=SC-YAPgJpms)           | 2022-12-01   |
-| [AWS re:Invent 2022 - Lessons learned from IT modernization and transformation (WPS205)](https://www.youtube.com/watch?v=I7Vt-6xUbxw)               | 2022-12-01   |
-| [AWS re:Invent 2022 - Unlocking benefits in moving EHR to AWS: A practical approach (HLC305-S)](https://www.youtube.com/watch?v=-6lDFdYXPck)        | 2022-12-01   |
-| [AWS re:Invent 2022 - Your data: How you need it, where you need it, when you need it (DAT224-L)](https://www.youtube.com/watch?v=AJlsAin7_rQ)      | 2022-12-01   |
-| [AWS re:Invent 2022 - HBO Max achieves scale and performance with Amazon ElastiCache (DAT214)](https://www.youtube.com/watch?v=21ERBJjjaX8)         | 2022-12-01   |
-| [AWS re:Invent 2022 - What’s new with Amazon DocumentDB (DAT219)](https://www.youtube.com/watch?v=Eg0tJEAZVhU)                                      | 2022-12-01   |
-| [AWS re:Invent 2022 - Thomson Reuters & BMC Software database modernization vision with DMA (DAT220)](https://www.youtube.com/watch?v=nX86fAjKAu8)  | 2022-12-01   |
-| [AWS re:Invent 2022 - Deep dive into Amazon RDS for SQL Server innovation, featuring iCIMS (DAT324)](https://www.youtube.com/watch?v=-fOttRL6nB0)   | 2022-12-01   |
-| [AWS re:Invent 2022 - Scaling a SaaS company for public company readiness (STP307)](https://www.youtube.com/watch?v=LL9r7-Q13kY)                    | 2022-12-01   |
-| [AWS re:Invent 2022 - Deep dive into Amazon Neptune Serverless (DAT322)](https://www.youtube.com/watch?v=WwuAfTpL7ww)                               | 2022-12-02   |
-| [AWS re:Invent 2022 - Hear from customers: Private blockchain success stories  (BLC202)](https://www.youtube.com/watch?v=4tGoH4ST8tM)               | 2022-12-02   |
-| [AWS re:Invent 2022 - How Fidelity Investments and Reltio modernized with Amazon DynamoDB  (DAT213)](https://www.youtube.com/watch?v=QUpV5MDu4Ys)   | 2022-12-02   |
-| [AWS re:Invent 2022 - Build scalable multi-tenant databases with Amazon Aurora (DAT318)](https://www.youtube.com/watch?v=tWRhDxcMLYo)               | 2022-12-02   |
-| [AWS re:Invent 2022 - How Yahoo cost optimizes their in-memory workloads with AWS (DAT321)](https://www.youtube.com/watch?v=jEwrcpq2mLM)            | 2022-12-02   |
-| [AWS re:Invent 2022 - Performance monitoring with Amazon RDS and Aurora, featuring Autodesk (DAT323)](https://www.youtube.com/watch?v=wokRbwK4YLo)  | 2022-12-02   |
-| [AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326)](https://www.youtube.com/watch?v=pzZydB78Eyc)                       | 2022-12-02   |
-| [AWS re:Invent 2022 - How Intuit migrated Apache Cassandra workloads to Amazon Keyspaces  (DAT327)](https://www.youtube.com/watch?v=AjsKP0Key6U)    | 2022-12-02   |
-| [AWS re:Invent 2022 - When to use blockchain: Private and public use cases (BLC201)](https://www.youtube.com/watch?v=zf4ziaLYBnE)                   | 2022-12-05   |
-| [AWS re:Invent 2022 - How Capital One accelerates innovation with AWS databases (DAT211)](https://www.youtube.com/watch?v=hnazVOqbLHo)              | 2022-12-05   |
-| [AWS re:Invent 2022 - How ADP & Twilio realize business vision with purpose-built databases  (DAT212)](https://www.youtube.com/watch?v=YTFnclzd3dA) | 2022-12-05   |
-| [AWS re:Invent 2022 - Samsung SmartThings powers home automation with Amazon MemoryDB (DAT215)](https://www.youtube.com/watch?v=xQL31uZ7rVY)        | 2022-12-05   |
-| [AWS re:Invent 2022 - What’s new with database migrations (DAT218)](https://www.youtube.com/watch?v=IYcI_Xo45zo)                                    | 2022-12-05   |
-| [AWS re:Invent 2022 - Amazon RDS Blue/Green Deployments, Optimized Writes & Optimized Reads (DAT222)](https://www.youtube.com/watch?v=hRNG_qCW_l0)  | 2022-12-05   |
-| [AWS re:Invent 2022 - Managed Oracle Databases w/Amazon RDS: New features & best practices (DAT325)](https://www.youtube.com/watch?v=eWlgvtk6BpQ)   | 2022-12-06   |
-| [AWS re:Invent 2022 - [NEW] Enable operational analytics w/Amazon Aurora & Amazon Redshift (DAT328)](https://www.youtube.com/watch?v=H4JRz5yv694)   | 2022-12-09   |
-| [AWS re:Invent 2022 - S&P Dow Jones Indices’ AWS journey to Amazon Aurora (DAT319)](https://www.youtube.com/watch?v=viOkXelvBsg)                    | 2022-12-09   |
-| [AWS re:Invent 2022 - Introducing Trusted Language Extensions for PostgreSQL (DAT221)](https://www.youtube.com/watch?v=gejPKbPQh74)                 | 2022-12-09   |
-
-#### [AWS re:Invent 2022 - Compute](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9A3sGKpKO85s8TSsIjvB2d) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
-
-* video count: 29 
-
-| title                                                                                                                                               | Published At |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2022 - Compute innovation to enable any application in the cloud (CMP223-L)](https://www.youtube.com/watch?v=rxcHEIDil1s)            | 2022-11-30   |
-| [AWS re:Invent 2022 - Accelerating semiconductor design, simulation, and verification (CMP320)](https://www.youtube.com/watch?v=Nk6bOR61xe8)        | 2022-11-30   |
-| [AWS re:Invent 2022 - Choosing the right accelerator for training and inference (CMP207)](https://www.youtube.com/watch?v=jbjd5yz-KTg)              | 2022-12-01   |
-| [AWS re:Invent 2022 - How AWS is making quantum technologies a practical reality  (QTC201)](https://www.youtube.com/watch?v=Q4NeICQ_IXk)            | 2022-12-01   |
-| [AWS re:Invent 2022 - Metaverse experiences come to life with EC2 accelerated computing (CMP212)](https://www.youtube.com/watch?v=IsslvfrT-IU)      | 2022-12-01   |
-| [AWS re:Invent 2022 - Build a cost-, energy-, and resource-efficient compute environment (CMP204)](https://www.youtube.com/watch?v=8zsC5e1eLCg)     | 2022-12-01   |
-| [AWS re:Invent 2022 - Run large-scale graphics workloads with AWS, featuring Mircom and Snap (CMP208)](https://www.youtube.com/watch?v=8Sh2AT6e9x4) | 2022-12-01   |
-| [AWS re:Invent 2022 - Powering Amazon EC2: Deep dive on the AWS Nitro System (CMP301)](https://www.youtube.com/watch?v=jAaqfeyvvSE)                 | 2022-12-01   |
-| [AWS re:Invent 2022 - Run high-perf storage workloads on EC2 storage optimized instances (CMP312)](https://www.youtube.com/watch?v=eLVGTb2mkWU)     | 2022-12-01   |
-| [AWS re:Invent 2022 - Modern applications: An infrastructure perspective (CMP210)](https://www.youtube.com/watch?v=ddt7WfgCRYQ)                     | 2022-12-02   |
-| [AWS re:Invent 2022 - Redefining supercomputing on AWS (CMP222)](https://www.youtube.com/watch?v=iIuqBHav260)                                       | 2022-12-02   |
-| [AWS re:Invent 2022 - Confidential computing with AWS compute (CMP302)](https://www.youtube.com/watch?v=pyRBOHYgHc0)                                | 2022-12-02   |
-| [AWS re:Invent 2022 - Accelerate deep learning and innovate faster with AWS Trainium (CMP313)](https://www.youtube.com/watch?v=YRqvfNwqUIA)         | 2022-12-02   |
-| [AWS re:Invent 2022 - AWS Graviton deep dive: The best price performance for AWS workloads (CMP327)](https://www.youtube.com/watch?v=lZkO-KelLnk)   | 2022-12-02   |
-| [AWS re:Invent 2022 - Boosting .NET application performance with Arm64 and AWS Graviton3 (XNT401)](https://www.youtube.com/watch?v=V4Lxs5TbaFk)     | 2022-12-05   |
-| [AWS re:Invent 2022 - Silicon innovation at AWS (CMP201)](https://www.youtube.com/watch?v=O6EMdeuq_s8)                                              | 2022-12-05   |
-| [AWS re:Invent 2022 - HPC on AWS: Solve complex problems with pay-as-you-go infrastructure (CMP205)](https://www.youtube.com/watch?v=ycP6vI2jspo)   | 2022-12-05   |
-| [AWS re:Invent 2022 - AI parallelism: How Amazon Search scales deep-learning training (CMP209)](https://www.youtube.com/watch?v=VPCDrVVWDLc)        | 2022-12-05   |
-| [AWS re:Invent 2022 - What’s new in Amazon EC2 (CMP225)](https://www.youtube.com/watch?v=dNhpCn8TrwY)                                               | 2022-12-05   |
-| [AWS re:Invent 2022 - How four customers reduced ML inference costs and drove innovation (CMP226)](https://www.youtube.com/watch?v=dVlNobmvoTg)     | 2022-12-05   |
-| [AWS re:Invent 2022 - How Riot Games is reinventing remote esports broadcasts (CMP311)](https://www.youtube.com/watch?v=18Opqwna6gY)                | 2022-12-05   |
-| [AWS re:Invent 2022 - How Stable Diffusion was built: Tips & tricks to train large AI models (CMP314)](https://www.youtube.com/watch?v=7I854do63Lg) | 2022-12-05   |
-| [AWS re:Invent 2022 - Habits to reduce your cloud costs (STP304-R)](https://www.youtube.com/watch?v=EU2ozJOU1zY)                                    | 2022-12-05   |
-| [AWS re:Invent 2022 - AWS optimization: Actionable steps for immediate results (STP210-R)](https://www.youtube.com/watch?v=0ifvNf2Tx3w)             | 2022-12-05   |
-| [AWS re:Invent 2022 - Quantum applications and taking POCs to production (QTC202)](https://www.youtube.com/watch?v=-jWisVz7twU)                     | 2022-12-06   |
-| [AWS re:Invent 2022 - How AWS and aerospace and geospatial companies are rethinking HPC (CMP220)](https://www.youtube.com/watch?v=5RzixxRn56s)      | 2022-12-06   |
-| [AWS re:Invent 2022 - [NEW LAUNCH!] AWS SimSpace Weaver for large-scale spatial simulation (CMP332)](https://www.youtube.com/watch?v=C3b-XFtiAn0)   | 2022-12-09   |
-| [AWS re:Invent 2022 - [NEW] Scaling network performance on next-gen Amazon EC2 instances (CMP333)](https://www.youtube.com/watch?v=jNYpWa7gf1A)     | 2022-12-09   |
-| [AWS re:Invent 2022 - [NEW LAUNCH!] Introducing AWS Inferentia2-based EC2 Inf2 instances (CMP334)](https://www.youtube.com/watch?v=jpqiG02Y2H4)     | 2022-12-09   |
