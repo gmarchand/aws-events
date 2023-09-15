@@ -1,26 +1,25 @@
 
-# AWS Media Symposium 2023 London
 
-(AWS Media Symposium 2023 London](https://pages.awscloud.com/EMEA-field-EV-M-E-Symposium-London-on-demand.html)
-# Reinforce 2023
-[Playlist Reinforce 2023](reinforce-2023.md)
+# [AWS Storage Day 2023](playlist-PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos.md)
+
+# [AWS Media Day 2023](playlist-PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do.md)
+
+# [AWS Media Symposium 2023 London](https://pages.awscloud.com/EMEA-field-EV-M-E-Symposium-London-on-demand.html)
+
+# [Reinforce 2023](reinforce-2023.md)
+
 # AWSReInvent 2022 
 
 [Playlists Reinvent 2022](reinvent-2022.md)
 
 [My personal Playlist](my-playlist-reinvent-2022.md)
 
-# KubecCon 2022
-
-
-[Container Day AWS](https://www.youtube.com/playlist?list=PLehXSATXjcQFD6ZUH4o0hwoH6gmGHvqQe)
+# [Container Day AWS](https://www.youtube.com/playlist?list=PLehXSATXjcQFD6ZUH4o0hwoH6gmGHvqQe)
 
 # IBC 2022
 [Unleashing the value of UKTV content with AWS Media2Cloud](https://www.youtube.com/watch?v=Uaye3XkKVgo&feature=youtu.be)
 
-# AWS Media Day France 2022
-
-[Playlist Youtube AWS Media Day France 2022](https://www.youtube.com/watch?v=2rQMCD0uyIQ&list=PLL_L4MF1Z7JUlTedFignU01KZbq28vZEh)
+# [AWS Media Day France 2022](https://www.youtube.com/watch?v=2rQMCD0uyIQ&list=PLL_L4MF1Z7JUlTedFignU01KZbq28vZEh)
 
 # AWS EMEA Media & Entertainment Symposium 
 
