@@ -1,35 +1,36 @@
 
+# AWS Playlists
 
-# [AWS Storage Day 2023](playlist-PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos.md)
+## [AWS Storage Day 2023](playlist-PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos.md)
 
-# [AWS Media Day 2023](playlist-PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do.md)
+## [AWS Media Day 2023](playlist-PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do.md)
 
-# [AWS Media Symposium 2023 London](https://pages.awscloud.com/EMEA-field-EV-M-E-Symposium-London-on-demand.html)
+## [AWS Media Symposium 2023 London](https://pages.awscloud.com/EMEA-field-EV-M-E-Symposium-London-on-demand.html)
 
-# [Reinforce 2023](reinforce-2023.md)
+## [Reinforce 2023](reinforce-2023.md)
 
-# AWSReInvent 2022 
+## AWSReInvent 2022 
 
 [Playlists Reinvent 2022](reinvent-2022.md)
 
 [My personal Playlist](my-playlist-reinvent-2022.md)
 
-# [Container Day AWS](https://www.youtube.com/playlist?list=PLehXSATXjcQFD6ZUH4o0hwoH6gmGHvqQe)
+## [Container Day AWS](https://www.youtube.com/playlist?list=PLehXSATXjcQFD6ZUH4o0hwoH6gmGHvqQe)
 
-# IBC 2022
+## IBC 2022
 [Unleashing the value of UKTV content with AWS Media2Cloud](https://www.youtube.com/watch?v=Uaye3XkKVgo&feature=youtu.be)
 
-# [AWS Media Day France 2022](https://www.youtube.com/watch?v=2rQMCD0uyIQ&list=PLL_L4MF1Z7JUlTedFignU01KZbq28vZEh)
+## [AWS Media Day France 2022](https://www.youtube.com/watch?v=2rQMCD0uyIQ&list=PLL_L4MF1Z7JUlTedFignU01KZbq28vZEh)
 
-# AWS EMEA Media & Entertainment Symposium 
+## AWS EMEA Media & Entertainment Symposium 
 
 [AWS EMEA Media & Entertainment Symposium Online - Working Backwards from Audience Engagement](https://www.youtube.com/watch?v=XtDGLmIPxhk)
 
 [AWS EMEA Media & Entertainment Symposium Online - Smarter Production and Data-Driven Insights](https://www.youtube.com/watch?v=geIBzoPEEwY)
 
-# AWS ReInvent 2021
+## AWS ReInvent 2021
 
-## My favorite sessions
+### My favorite sessions
 
 **NET304 - Amazon Route 53 : A year in review** ( [Session Reinvent](https://virtual.reinvent.awsevents.com/session-virtual/?es_id=07f68be892&v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=2789DC0963F2F7444F74F9EF82ABADE706877660D57402DA7FAC4183681A6CF956CF3EB3DFAEA288F57A1565BEBC1C57) - 
 [Deck](https://mplay-assets.s3.amazonaws.com/sites/awsreinv21/_uploads/assets/drvlgwuqmmwuxypw_awsreinv21.pdf) - 
@@ -71,7 +72,7 @@ Youtube
 
 **Keynote with Peter DeSantis** ( [Youtube](https://www.youtube.com/watch?v=9NEQbFLtDmg) )
 
-## Youtube Playlists
+### Youtube Playlists
 
 [AWS Reinvent - Sessions en Français](playlist-PLL_L4MF1Z7JVxkNOAetbK8hCmJWRanQah.md)
 
