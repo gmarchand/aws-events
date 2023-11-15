@@ -38,3 +38,7 @@ ym -p PL2yQDdvlhXf-g-w0uzrLGyVOvd1wkVOQ4
 ym -p PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos
 # AWS Media Day 2023
 ym -p PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do
+# AWS M&E Symposium Los Angeles 2023
+ym -p PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev
+# AWS IBC 2023
+ym -p PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn
