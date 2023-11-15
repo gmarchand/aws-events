@@ -5,7 +5,7 @@ incremental: false
 gist:
   noscript: false
 remote_theme: pages-themes/cayman@v0.2.0
-title: [AWS Bookmarks - Guillaume Marchand]
-description: [Bookmarks of Youtube videos of AWS Events]
+title: [AWS Events on Youtube]
+description: [Watch on-demand Youtube videos of engaging AWS events and save your favorite sessions to revisit anytime.]
 plugins:
 - jekyll-remote-theme
