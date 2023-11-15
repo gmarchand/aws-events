@@ -1,6 +1,10 @@
 
 # AWS Playlists
 
+## [AWS M&E Symposium Los Angeles 2023](playlist-PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev.md)
+
+## [AWS M&E at IBC 2023](playlist-PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn.md)
+
 ## [AWS Storage Day 2023](playlist-PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos.md)
 
 ## [AWS Media Day 2023](playlist-PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do.md)
