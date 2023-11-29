@@ -2,7 +2,7 @@
 
 #### [AWS - IBC 2023](https://www.youtube.com/playlist?list=PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn) created by [Guillaume Marchand](https://www.youtube.com/channel/UCcZG6x3UkU1dohACLHVJLNw)
 
-* video count: 13 
+* video count: 14 
 
 | title                                                                                                         | Published At |
 | ------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -19,3 +19,4 @@
 | [Tuned into tomorrow: Software-defined broadcast infrastructure](https://www.youtube.com/watch?v=QAw7fpdlMVk) | 2023-11-15   |
 | [Monetizing data in a privacy-first world using AWS Clean Rooms](https://www.youtube.com/watch?v=tg5QRiuyoXE) | 2023-11-15   |
 | [Building the Studio of tomorrow, today with AWS](https://www.youtube.com/watch?v=u0rxCPbL9k0)                | 2023-11-15   |
+| [Live cloud production with TNT Sports](https://www.youtube.com/watch?v=F7bvXgVEwbc)                          | 2023-11-17   |

@@ -1,6 +1,12 @@
 
 # AWS Playlists
 
+## AWS Reinvent 2023
+
+[AWS Reinvent 2023](playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md)
+
+[AWS Reinvent 2023 - Keynotes](playlist-PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR.md)
+
 ## [AWS M&E Symposium Los Angeles 2023](playlist-PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev.md)
 
 ## [AWS M&E at IBC 2023](playlist-PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn.md)

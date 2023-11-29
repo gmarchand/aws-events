@@ -42,3 +42,7 @@ ym -p PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do
 ym -p PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev
 # AWS IBC 2023
 ym -p PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn
+# AWS Reinvent 2023 - Keynotes
+ym -p PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR
+# AWS Reinvent 2023
+ym -p PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1
