@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68efab8f-d459-416b-9fd4-a994f1421434" name="Changes" comment="Reinforce">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/channel-UCdoadna9HFHsxXWhafhNvKw.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playlist-PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playlist-PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube_playlist_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_playlist_md.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +14,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gmarchand"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3092d02b-14ac-4f7e-b629-d5cff9227380" />
+        <option name="url" value="git@github.com:gmarchand/aws-events.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,7 +76,7 @@
       <workItem from="1694782104297" duration="1944000" />
       <workItem from="1700036195693" duration="3528000" />
       <workItem from="1700149633077" duration="2851000" />
-      <workItem from="1701254391842" duration="466000" />
+      <workItem from="1701254391842" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="Reinforce">
       <option name="closed" value="true" />
