@@ -2,11 +2,10 @@
 
 #### [AWS Storage Day 2023](https://www.youtube.com/playlist?list=PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos) created by [Guillaume Marchand](https://www.youtube.com/channel/UCcZG6x3UkU1dohACLHVJLNw)
 
-* video count: 26 
+* video count: 25 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Perdre Du Ventre en Seulement 21min (Rameur)](https://www.youtube.com/watch?v=g572QeUt0cI)                                                         | 2023-11-02   |
 | [AWS Storage Day: AWS On Air ft. Partner Spotlight Commvault](https://www.youtube.com/watch?v=HPBpItvDkjg)                                          | 2023-09-15   |
 | [AWS Storage Day: AWS On Air ft. Customer Spotlight: JupiterOne](https://www.youtube.com/watch?v=tR6rfaNi5Zc)                                       | 2023-09-15   |
 | [AWS Storage Day: AWS On Air ft. Reflecting on 15 years of serving Amazon EBS customers](https://www.youtube.com/watch?v=1dTm8X7PU0E)               | 2023-09-15   |
