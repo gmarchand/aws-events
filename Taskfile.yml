@@ -10,7 +10,6 @@ tasks:
     cmds:
       - npm install -g youtube-playlist-markdown-cli
       - sh youtube_playlist_md.sh
-      - npm run example
     silent: true
 
   awsevent:

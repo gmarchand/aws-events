@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68efab8f-d459-416b-9fd4-a994f1421434" name="Changes" comment="Reinforce">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskfile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskfile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,7 @@
       <workItem from="1694782104297" duration="1944000" />
       <workItem from="1700036195693" duration="3528000" />
       <workItem from="1700149633077" duration="2851000" />
-      <workItem from="1701254391842" duration="720000" />
+      <workItem from="1701254391842" duration="2037000" />
     </task>
     <task id="LOCAL-00001" summary="Reinforce">
       <option name="closed" value="true" />
