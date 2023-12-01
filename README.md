@@ -7,6 +7,12 @@
 
 [AWS Reinvent 2023 - Keynotes](playlist-PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR.md)
 
+[AWS Reinvent 2023 - Keynote customers](playlist-PL2yQDdvlhXf-bNhTjxpMzsNgsnC2TqbQT.md)
+
+[AWS Reinvent 2023 - Breakout sessions](playlist-PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV.md)
+
+[AWS Reinvent 2023 - Innovation talks](playlist-PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-.md)
+
 ## [AWS M&E Symposium Los Angeles 2023](playlist-PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev.md)
 
 ## [AWS M&E at IBC 2023](playlist-PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn.md)

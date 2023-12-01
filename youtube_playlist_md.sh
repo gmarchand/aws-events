@@ -46,3 +46,9 @@ ym -p PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn
 ym -p PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR
 # AWS Reinvent 2023
 ym -p PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1
+# AWS Reinvent 2023 - Innovation talks
+ym -p PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-
+# AWS Reinvent 2023 - Breakout Sessions
+ym -p PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV
+# AWS Reinvent 2023 - Keynote customers
+ym -p PL2yQDdvlhXf-bNhTjxpMzsNgsnC2TqbQT
