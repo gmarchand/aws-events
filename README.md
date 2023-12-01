@@ -2,6 +2,7 @@
 # AWS Playlists
 
 ## AWS Reinvent 2023
+[AWS Reinvent 2023 - My playlist](my-playlist-reinvent-2023.md)
 
 [AWS Reinvent 2023](playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md)
 

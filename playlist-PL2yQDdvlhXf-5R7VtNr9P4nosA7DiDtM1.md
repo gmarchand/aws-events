@@ -2,10 +2,30 @@
 
 #### [AWS re:Invent 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 429 
+* video count: 449 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2023 - Building scalable IoT systems with MQTT and AWS (IOT214)](https://www.youtube.com/watch?v=KT3UQYVfbVE)                        | 2023-12-01   |
+| [AWS re:Invent 2023 - Delivering ML-driven campaigns with RudderStack and Amazon Redshift (ANT221)](https://www.youtube.com/watch?v=0hU29yujW9s)    | 2023-12-01   |
+| [AWS re:Invent 2023 - Learn about AWS Cyber Insurance Partners (PEX121)](https://www.youtube.com/watch?v=lPyV8kTpBjk)                               | 2023-12-01   |
+| [AWS re:Invent 2023 - Accelerating end-to-end supply chain transparency with AI/ML (SUS203)](https://www.youtube.com/watch?v=TQ8ms2LcDg0)           | 2023-12-01   |
+| [AWS re:Invent 2023 - Designing & migrating an AWS-native mobility solution in an M&A setup (ENT104)](https://www.youtube.com/watch?v=o8-J7HeghSQ)  | 2023-12-01   |
+| [AWS re:Invent 2023 - Simplify, optimize, and enhance AWS network management (COP220)](https://www.youtube.com/watch?v=oAPiPmmwo4E)                 | 2023-12-01   |
+| [AWS re:Invent 2023 - Streamlining security investigations with Amazon Security Lake (SEC234)](https://www.youtube.com/watch?v=g5uIrAod910)         | 2023-12-01   |
+| [AWS re:Invent 2023 - Strategies for automated scaling, remediation, and smart self-healing (ENT107)](https://www.youtube.com/watch?v=nlGyIa3UQYU)  | 2023-12-01   |
+| [AWS re:Invent 2023 - AWS networking foundations (NTA307)](https://www.youtube.com/watch?v=8nNurTFy-h4)                                             | 2023-12-01   |
+| [AWS re:Invent 2023 - How Santander built a cloud-native trading platform at scale (FSI311)](https://www.youtube.com/watch?v=2ROSAZ2ieoc)           | 2023-12-01   |
+| [AWS re:Invent 2023 - Get the most out of Splunk Security, OCSF, and Amazon Security Lake (ANT212)](https://www.youtube.com/watch?v=APB48LOyTHA)    | 2023-12-01   |
+| [AWS re:Invent 2023 - Seamless observability with AWS Distro for OpenTelemetry (COM307)](https://www.youtube.com/watch?v=S4GfA2R0N_A)               | 2023-12-01   |
+| [AWS re:Invent 2023 - How to create a serverless center of excellence (SVS214)](https://www.youtube.com/watch?v=arPaSGXV0v4)                        | 2023-12-01   |
+| [AWS re:Invent 2023 - Building a machine learning team and platform at Cash App (AIM228)](https://www.youtube.com/watch?v=ZviVO81U_g4)              | 2023-12-01   |
+| [AWS re:Invent 2023 - Improve productivity by shifting more responsibility to developers (SVS309)](https://www.youtube.com/watch?v=qlz15v-gHFI)     | 2023-12-01   |
+| [AWS re:Invent 2023 - Boost developer productivity with Amazon CodeWhisperer (DOP211)](https://www.youtube.com/watch?v=Kvx3ksVFB-E)                 | 2023-12-01   |
+| [AWS re:Invent 2023 - Manage resource lifecycle events at scale with AWS Health (SUP309)](https://www.youtube.com/watch?v=VoLLNL5j9NA)              | 2023-12-01   |
+| [AWS re:Invent 2023 - Safeguarding infrastructure from DDoS attacks with AWS edge services (NET201)](https://www.youtube.com/watch?v=KpAao6ox-cM)   | 2023-12-01   |
+| [AWS re:Invent 2023 - Optimize cost and performance and track progress toward mitigation (ARC319)](https://www.youtube.com/watch?v=keAfy8f84E0)     | 2023-12-01   |
+| [AWS re:Invent 2023 - Ready for what’s next? Designing networks for growth and flexibility (NET310)](https://www.youtube.com/watch?v=FkWOhTZSfdA)   | 2023-12-01   |
 | [AWS re:Invent 2023 - Deep dive into Amazon RDS and RDS Custom for Oracle and SQL Server (DAT345)](https://www.youtube.com/watch?v=-LqCFL2zvEw)     | 2023-12-01   |
 | [AWS re:Invent 2023 - A new era: The path to generative AI in public sector (WPS206)](https://www.youtube.com/watch?v=UPvJuNudICU)                  | 2023-12-01   |
 | [AWS re:Invent 2023 - Generative AI: Asking for a friend (BOA210)](https://www.youtube.com/watch?v=jbTOnOZkCA4)                                     | 2023-12-01   |
