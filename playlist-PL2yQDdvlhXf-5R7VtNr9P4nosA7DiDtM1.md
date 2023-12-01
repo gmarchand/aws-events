@@ -2,10 +2,20 @@
 
 #### [AWS re:Invent 2023](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 449 
+* video count: 459 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2023 - Drive efficiency at scale by choosing the right CloudOps partner (PEX108)](https://www.youtube.com/watch?v=yMpN085Suwo)       | 2023-12-01   |
+| [AWS re:Invent 2023 - Digital transformation for FinServ organizations with Smarsh and AWS (PEN101)](https://www.youtube.com/watch?v=6fe8agWnLJE)   | 2023-12-01   |
+| [AWS re:Invent 2023 - Public sector actionable insights: Grow through AWS Partner Programs (PEX124)](https://www.youtube.com/watch?v=RNaWKTizAeA)   | 2023-12-01   |
+| [AWS re:Invent 2023 - Carrier case study: Abound, a connected building platform (IOT102)](https://www.youtube.com/watch?v=d-kLMXhsGXY)              | 2023-12-01   |
+| [AWS re:Invent 2023 - Accelerating ISV growth in the AWS Partner Network (PEN103)](https://www.youtube.com/watch?v=8Djlg6Dad2U)                     | 2023-12-01   |
+| [AWS re:Invent 2023 - Migrations in action with VMware Cloud on AWS (ENT235)](https://www.youtube.com/watch?v=ArqMqJrQBY4)                          | 2023-12-01   |
+| [AWS re:Invent 2023 - Disruption demands democratization: Is your iPaaS ready? (HYB104)](https://www.youtube.com/watch?v=KFhaouzZVp8)               | 2023-12-01   |
+| [AWS re:Invent 2023 - Generative BI in Amazon QuickSight (BSI103)](https://www.youtube.com/watch?v=GolPlpZ3-kI)                                     | 2023-12-01   |
+| [AWS re:Invent 2023 - Simplifying cost-optimized cyber response & recovery at massive scale (STG104)](https://www.youtube.com/watch?v=jGL5Jk-gZj0)  | 2023-12-01   |
+| [AWS re:Invent 2023 - Improve outreach with cost-effective contact center solutions (IMP104)](https://www.youtube.com/watch?v=CJBM4284Qbg)          | 2023-12-01   |
 | [AWS re:Invent 2023 - Building scalable IoT systems with MQTT and AWS (IOT214)](https://www.youtube.com/watch?v=KT3UQYVfbVE)                        | 2023-12-01   |
 | [AWS re:Invent 2023 - Delivering ML-driven campaigns with RudderStack and Amazon Redshift (ANT221)](https://www.youtube.com/watch?v=0hU29yujW9s)    | 2023-12-01   |
 | [AWS re:Invent 2023 - Learn about AWS Cyber Insurance Partners (PEX121)](https://www.youtube.com/watch?v=lPyV8kTpBjk)                               | 2023-12-01   |
