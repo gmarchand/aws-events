@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68efab8f-d459-416b-9fd4-a994f1421434" name="Changes" comment="Reinforce">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="68efab8f-d459-416b-9fd4-a994f1421434" name="Changes" comment="Reinforce" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <workItem from="1694782104297" duration="1944000" />
       <workItem from="1700036195693" duration="3528000" />
       <workItem from="1700149633077" duration="2851000" />
-      <workItem from="1701254391842" duration="6070000" />
+      <workItem from="1701254391842" duration="6376000" />
     </task>
     <task id="LOCAL-00001" summary="Reinforce">
       <option name="closed" value="true" />
