@@ -1,0 +1,1922 @@
+[
+  {
+    "title": "AWS re:Invent 2023 - 1.5 million requests per second—a story from the Brazilian elections (WPS305)",
+    "url": "https://www.youtube.com/watch?v=WhNiKtKbRzQ",
+    "summary": "Delivering critical public events at mass scale requires an infrastructure like no other. In this session, learn how AWS supported the 2022 Brazilian elections and implemented the infrastructure for the voting application for citizens, which supported more than 100 million users and a CDN solution for voting results that handled 1.5 million requests per second. Explore the unique context and user",
+    "time": "Sun, 03 Dec 2023 20:20:06 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Advanced AWS CDK: Lessons learned from 4 years of use (COM302)",
+    "url": "https://www.youtube.com/watch?v=Wzawix9bMAE",
+    "summary": "Released in July 2019, AWS CDK has become a powerful infrastructure-as-code tool to help companies build complex systems on AWS. Its greatest strength, using general purpose languages to define your infrastructure, can also be its greatest weakness. This is because there are many different ways to write your code. Should you use a single stack or multiple? How can you use external data to define y",
+    "time": "Sun, 03 Dec 2023 21:27:31 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - How to use Amazon Verified Permissions for authorization inside apps (SEC241)",
+    "url": "https://www.youtube.com/watch?v=ptzb-oBwjxM",
+    "summary": "When you decouple policy authoring from application development, you can move faster than before. Amazon Verified Permissions simplifies authorization within your applications using policy stores, policy templates, and policy testing. Join this session to learn about new features for Verified Permissions that further simplify schema editing and policy analysis. Also explore how these features help",
+    "time": "Sun, 03 Dec 2023 22:00:45 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Generative AI: Architectures and applications in depth (BOA308)",
+    "url": "https://www.youtube.com/watch?v=aEA6X_IElpc",
+    "summary": "In the fast-paced AI world, advanced generative AI concepts are crucial. To stay competitive and innovative, businesses must grapple with understanding and implementing complex methodologies. Yet, due to the nascent stage of these discussions, clear and comprehensive resources can be sparse, causing difficulties in effective utilization. This session addresses this problem by providing an in-depth",
+    "time": "Sun, 03 Dec 2023 23:24:55 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Best practices for container observability (COP319)",
+    "url": "https://www.youtube.com/watch?v=obvOzws2EOE",
+    "summary": "In the fast-paced world of containerized applications and environments, achieving comprehensive observability is crucial for ensuring optimal performance, reliability, and user experience. Join this session to delve into the best practices for container observability. Discover how to effectively monitor, analyze, and troubleshoot your Amazon EKS and Amazon ECS environments with AWS observability.",
+    "time": "Sun, 03 Dec 2023 23:40:38 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building for the future with AWS serverless services (CON320)",
+    "url": "https://www.youtube.com/watch?v=kxvVDFFiXj8",
+    "summary": "AWS serverless services help organizations accelerate their path from idea to production, allowing them to build and run modern applications at scale, all while lowering costs and driving agility. Join Holly Mesrobian, VP of Serverless Compute at AWS, to hear about the innovations AWS is making with serverless compute and containers to help organizations achieve superior outcomes for their busines",
+    "time": "Sun, 03 Dec 2023 23:42:43 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Reducing TCO and downtime by migrating to AWS Fargate (CON322)",
+    "url": "https://www.youtube.com/watch?v=XzX1LJZWtbc",
+    "summary": "Many companies, including large financial services organizations, are in the midst of cloud-enabled innovation through large-scale application modernization. These companies are often looking to lower their total cost of ownership (TCO) without compromising on their applications’ scalability, security, or operational efficiency. In this session, explore various pathways, such as AWS Fargate, that",
+    "time": "Sun, 03 Dec 2023 23:52:32 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Securing containerized workloads on Amazon ECS and AWS Fargate (CON325)",
+    "url": "https://www.youtube.com/watch?v=RLWuoAHSdis",
+    "summary": "This session provides an overview of using Amazon ECS integrations with the AWS Cloud, using AWS security services, and the benefits of AWS Fargate’s single-tenancy architecture, to help you securely run containerized workloads. Dive deep into AWS Fargate’s security considerations and discover ways to improve your security posture against potential threats and events using AWS Fargate’s latest fea",
+    "time": "Sun, 03 Dec 2023 23:53:55 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Securing Kubernetes workloads in Amazon EKS (CON335)",
+    "url": "https://www.youtube.com/watch?v=iyMcOpXRVWk",
+    "summary": "In this session, learn about features that can help you secure your Amazon EKS clusters. Get guidance on how security practitioners and cluster administrators can protect information, systems, and assets that are reliant on Amazon EKS, while delivering business value to their customers. This session covers security guidance specific to Amazon EKS on managing access to Kubernetes, AWS Identity and",
+    "time": "Sun, 03 Dec 2023 23:54:53 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building highly resilient applications with Amazon DynamoDB (DAT333)",
+    "url": "https://www.youtube.com/watch?v=ZrFb4PMNGjM",
+    "summary": "Join this session to explore how resiliency features of Amazon DynamoDB help you build scalable, reliable applications. Learn how to prepare for the unexpected with DynamoDB capabilities like redundant storage, automatic throughput scaling, and multi-active, multi-Region data replication to achieve your business continuity goals at scale. Additionally, Amazon Advertising shares why they chose to m",
+    "time": "Sun, 03 Dec 2023 23:57:11 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - [LAUNCH] Deep dive on Amazon S3 Express One Zone storage class (STG230)",
+    "url": "https://www.youtube.com/watch?v=TJp4ayDC8m0",
+    "summary": "The Amazon S3 Express One Zone storage class delivers one of the fastest and lowest-latency cloud object storage for performance-critical applications that demand consistent single-digit millisecond latency and the ability to scale to millions of requests per minute for frequently accessed datasets. In this session, learn about this new single Availability Zone storage class, its new S3 directory",
+    "time": "Mon, 04 Dec 2023 24:12:59 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Amazon VPC Lattice architecture patterns and best practices (NET326)",
+    "url": "https://www.youtube.com/watch?v=zQk9AIPVdXs",
+    "summary": "Amazon VPC Lattice is an application networking service that simplifies connecting, securing, and monitoring service-to-service communication. You can use VPC Lattice to facilitate cross-account and cross-VPC connectivity, as well as application layer load balancing for your workloads in a consistent way regardless of the underlying compute type—instances, containers, and serverless. In this sessi",
+    "time": "Mon, 04 Dec 2023 24:26:43 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - How the NY Giants use Teradata to personalize fan experiences (AIM106)",
+    "url": "https://www.youtube.com/watch?v=bq79X0H0c48",
+    "summary": "There are many customer journey touchpoints for today’s sports fans, from ticket sales and merchandise to in-stadium Wi-Fi and more. Sophisticated sports organizations are collecting, connecting, and analyzing this information to provide tailored game-day experiences that keep fans coming back for more. Join this session to discover how the New York Giants use Teradata to deliver stellar experienc",
+    "time": "Mon, 04 Dec 2023 24:47:37 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Netflix's success: Combining collaboration, hardware monitoring & AI (AIM315)",
+    "url": "https://www.youtube.com/watch?v=4EOL8W0aEAo",
+    "summary": "Netflix makes delivering countless hours of seamless streaming look easy. In this session, the experts at Netflix share how they collaborate with Intel engineers using Intel performance tools and software. From analyzing, tuning, and optimizing AI workloads on Intel Xeon-based Amazon EC2 instances, Netflix discusses situations using Intel AI accelerators, PMUs, and software in the cloud. Discover",
+    "time": "Mon, 04 Dec 2023 01:37:52 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Advanced integration patterns & trade-offs for loosely coupled systems (API309)",
+    "url": "https://www.youtube.com/watch?v=FGKGdUiZKto",
+    "summary": "Modern applications rarely live in isolation: They expose APIs, publish events, call third-party services, and externalize states. Being (typically) composed of decoupled components, such applications must address the fundamental challenges of distributed systems, including out-of-order delivery, idempotence, or partial failures. In this session, learn about common design trade-offs for distribute",
+    "time": "Sat, 02 Dec 2023 23:03:13 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Do modern cloud applications lock you in? (ARC307)",
+    "url": "https://www.youtube.com/watch?v=jykSBmnAM2I",
+    "summary": "Modern cloud applications utilize fully managed services that keep builders from having to manage infrastructure. Does having the cloud do more make it harder to move applications somewhere else? Can abstraction layers and in-house platforms give you the best of both worlds? Does decoupling your application actually increase your cloud costs? This session examines trade-offs for modern cloud appli",
+    "time": "Sat, 02 Dec 2023 23:06:09 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Best practices for creating multi-Region architectures on AWS (ARC308)",
+    "url": "https://www.youtube.com/watch?v=_vGlnzPZigU",
+    "summary": "Architecting and building a multi-Region architectures can come with a new set of challenges. These challenges include how to manage dependencies, infrastructure deployments, data replication, consistency, observability, testing, and operations. Whether you’re needing to expand to multiple Regions to improve resilience, adhere to governmental data regulations, or improve end-user latency, this ses",
+    "time": "Sat, 02 Dec 2023 23:08:05 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Using zonal autoshift to automatically recover from an AZ impairment (ARC309)",
+    "url": "https://www.youtube.com/watch?v=_0F-wdwiqZo",
+    "summary": "Building highly resilient applications in the cloud requires building across multiple Availability Zones, capacity planning for redundancy, and having mechanisms in place to ensure that requests are routed away from occasional, temporary failures—both hard and gray—in an Availability Zone. Learn how you can design and monitor applications to detect and automatically recover from failures within Av",
+    "time": "Sat, 02 Dec 2023 23:16:23 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Implementing distributed design patterns on AWS (BOA309)",
+    "url": "https://www.youtube.com/watch?v=pfAlmkzyaJQ",
+    "summary": "Legacy applications were once modern. The challenge is to have development principles and processes continuously improve and to develop applications with minimal technical debt. Developing complex modern applications requires a thorough understanding of how to extract business requirements and goals and to select the appropriate tactical design and implementation patterns that support business str",
+    "time": "Fri, 01 Dec 2023 23:30:52 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Construct your constructs: Use AWS CDK to create architecture at scale (BWP302)",
+    "url": "https://www.youtube.com/watch?v=ugtsm3Z3VgU",
+    "summary": "Learn how to rapidly scale your organization’s cloud strategy with AWS CDK. Hear the story of how Amazon’s Buy with Prime created secure-by-default CDK components to provide engineers with the building blocks needed to create incredibly secure and extensible ecommerce systems, cutting down on costs, delivery time, and overhead. Learn more about AWS re:Invent at https://go.aws/46iuzGv. Subscribe: M",
+    "time": "Fri, 01 Dec 2023 23:38:34 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Operating with AWS open source observability (COP332)",
+    "url": "https://www.youtube.com/watch?v=ziyTvW_jkxI",
+    "summary": "Open standards are becoming a popular mechanism for implementing observability for organizations that adopt the OpenTelemetry CNCF project. In this session, learn how to build an observability solution with a fully managed open source platform with AWS Distro for OpenTelemetry at its foundation. Learn how to incorporate Amazon Managed Grafana, Amazon Managed Service for Prometheus, and Amazon Open",
+    "time": "Fri, 01 Dec 2023 23:47:24 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Exiting the data center: A League of Legends and VALORANT story (GAM304)",
+    "url": "https://www.youtube.com/watch?v=8nX5bRsAYv0",
+    "summary": "Moving hundreds of thousands of players from on-premises data centers to the cloud with minimal downtime requires a unique mix of engineering, planning, and collaboration. In this session, learn how Riot Games, AWS, and Slalom globally migrated League of Legends and VALORANT from the data center to AWS Regions and AWS Local Zones. Learn more about AWS re:Invent at https://go.aws/46iuzGv. Subscribe",
+    "time": "Sat, 02 Dec 2023 24:56:03 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Scaling a multiplayer game into the millions with Mortal Kombat 1 (GAM307)",
+    "url": "https://www.youtube.com/watch?v=d1YqINr8s2o",
+    "summary": "Discover how Warner Bros. Games connects millions of online players with a centralized gaming services platform using Amazon EC2 and Amazon GameLift. In this session, explore the backend architecture and how it enriches the gaming experience with features like social media integration, multiplayer options, in-game economies while managing billions of API request daily and supporting over a million",
+    "time": "Sat, 02 Dec 2023 24:58:14 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Putting your data to work with generative AI | AIM250-INT",
+    "url": "https://www.youtube.com/watch?v=9pXpoxf_los",
+    "summary": "How can you turn your existing data architecture like data lakes into a business advantage with generative AI? In this talk, explore what is top of mind for leaders of data organizations across the globe for how they can best put proprietary datasets to work for unique, differentiated generative AI solutions. Learn from AWS customers with production generative AI applications about how data has fa",
+    "time": "Sat, 02 Dec 2023 05:18:01 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Dive deep on Amazon S3 (STG314)",
+    "url": "https://www.youtube.com/watch?v=sYDJYqvNeXU",
+    "summary": "Amazon S3 provides developers and IT teams with cloud object storage that delivers industry-leading scalability, durability, security, and performance. In this session, dive deep into the underlying architecture of S3 to see how it delivers virtually unlimited scale and elasticity. Learn about the culture and system of data durability and how it delivers consistent performance, and discover how th",
+    "time": "Sat, 02 Dec 2023 05:26:23 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Creating new analytics in sports (SPT201)",
+    "url": "https://www.youtube.com/watch?v=NyvDuuT7CvQ",
+    "summary": "The raw data of sports has transitioned from box scores to tracking data, and with that comes an opportunity to apply AI/ML to surface new insights that impact how we coach, train, and consume sports. In this session, hear the NHL and AWS discuss how new analytics are created—from conception to on-air presentation. Learn more about AWS re:Invent at https://go.aws/46iuzGv. Subscribe: More AWS video",
+    "time": "Sat, 02 Dec 2023 05:38:48 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Four APM features to elevate your observability experience",
+    "url": "https://aws.amazon.com/blogs/mt/four-apm-features-to-elevate-your-observability-experience/",
+    "summary": "Application performance monitoring (or APM) is the practice of taking key application performance indicators to ensure system availability, improve system performance, and improve the end-user experience. This week we announced Amazon CloudWatch Application Signals , a new set of features built-in to Amazon CloudWatch to help you speed up troubleshooting, reduce application disruptions, and opera",
+    "time": "Fri, 01 Dec 2023 23:44:10 GMT+1",
+    "sourceTitle": "AWS Cloud Operations & Migrations Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/mt/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Scalable load balancing and security on AWS with HAProxy Fusion (SEC225)",
+    "url": "https://www.youtube.com/watch?v=qs1C-fiXiog",
+    "summary": "An advanced load balancer and web application firewall (WAF) such as HAProxy Enterprise helps keep AWS-based applications fast, secure, and resilient. When load balancing at scale, it can be challenging to manage a large number of applications and backend servers behind load balancers. In this lightning talk, learn how HAProxy Fusion simplifies large-scale HAProxy Enterprise deployments on AWS. Le",
+    "time": "Fri, 01 Dec 2023 21:13:39 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building observability to increase resiliency (COP343)",
+    "url": "https://www.youtube.com/watch?v=6bJkYtrMMPI",
+    "summary": "Using observability effectively is essential for proving your resilient system operates the way you planned. Well-applied observability helps you find early signs of problems, before they impact customers, and react quickly to mitigate impact. In this session, learn how you can use observability best practices to improve your resilience posture in AWS. Dive deep into real-world failure modes, and",
+    "time": "Fri, 01 Dec 2023 21:15:30 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Get started with checksums in Amazon S3 for data integrity checking (STG350)",
+    "url": "https://www.youtube.com/watch?v=NNx9eZcbLnU",
+    "summary": "Organizations are constantly creating and migrating critical digital assets into Amazon S3. As assets are migrated and used across workflows, it’s important to ensure files remain unaltered by network corruption, hard drive failure, or other issues. Algorithms are used to scan files byte by byte to generate unique fingerprints, known as checksums. In this follow-up demonstration to STG201, learn h",
+    "time": "Fri, 01 Dec 2023 18:43:57 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS AppConfig Agent launches write to disk, backups, and permission mapping",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/",
+    "summary": "AWS AppConfig , a feature of AWS Systems Manager , announces four new features available in the latest release of the AWS AppConfig Agent . The Agent now supports writing feature flags and configuration data to a file on local disk in a location that the customer specifies. Secondly, to improve resiliency, the Agent can be configured to write its own local backup of the latest version of configur",
+    "time": "Fri, 01 Dec 2023 19:01:58 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - NFL Next Gen Stats: Using AI/ML to transform fan engagement (PRO304)",
+    "url": "https://www.youtube.com/watch?v=HSAJ6kAVzXY",
+    "summary": "The landscape of sports statistics has evolved over the years, transitioning from the basic box scores to more advanced metrics that provide a deeper understanding of player performance and game dynamics. With the advent of next-gen stats and data analytics, football analysts and enthusiasts are now equipped with tools to analyze the game in unprecedented detail. Join this session to learn how AWS",
+    "time": "Fri, 01 Dec 2023 19:49:45 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Ready for what’s next? Designing networks for growth and flexibility (NET310)",
+    "url": "https://www.youtube.com/watch?v=FkWOhTZSfdA",
+    "summary": "Your AWS network started with one VPC, but it’s changed a lot since then, and it’s your job to be ready for what’s next. This session looks at real-world strategies for designing outstanding and adaptable cloud networks. Drawing from the experiences of tens of thousands of AWS customers, follow a simple network as it becomes progressively larger and more complex. See how AWS Transit Gateway, AWS C",
+    "time": "Fri, 01 Dec 2023 17:32:57 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Optimize cost and performance and track progress toward mitigation (ARC319)",
+    "url": "https://www.youtube.com/watch?v=keAfy8f84E0",
+    "summary": "Do you have insight into the details of your cost and usage on AWS? Are you taking advantage of cost optimization opportunities and best practices recommendations across the AWS Well-Architected Framework? In this session, learn how organizations are using Cloud Intelligence Dashboards to optimize cost and performance, improve security and resiliency, and operate at scale in the cloud. Explore spe",
+    "time": "Fri, 01 Dec 2023 17:47:31 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Seamless observability with AWS Distro for OpenTelemetry (COM307)",
+    "url": "https://www.youtube.com/watch?v=S4GfA2R0N_A",
+    "summary": "In the past, collecting data from your applications running on AWS could be challenging. AWS support of OpenTelemetry (OTel) via APIs and AWS Distro for OpenTelemetry (ADOT) has dramatically simplified the developer experience for observability. Learn how to instrument your applications and send data to any compatible backend using Amazon CloudWatch and Amazon Kinesis Data Streams, ADOT agents, OT",
+    "time": "Fri, 01 Dec 2023 17:49:12 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "TVNZ impulses personalized advertising by protecting viewer data and privacy with AWS Clean Rooms",
+    "url": "https://tmbroadcast.com/index.php/tvnz-advertising-viewer-aws-clean-rooms/",
+    "summary": "TVNZ is the first media company in New Zealand to adopt the AWS data collaboration service to power personalized advertising At AWS re:Invent, Amazon Web Services (AWS) announced that Television New Zealand (TVNZ), the state-owned and commercially funded television broadcaster in New Zealand, is the […] The post appeared first on TM Broadcast International .",
+    "time": "Fri, 01 Dec 2023 11:15:57 GMT+1",
+    "sourceTitle": "Search Results for “aws” – TM Broadcast ... ",
+    "sourceUrl": "https://tmbroadcast.com/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Accelerate secure and reliable AWS deployments with Dynatrace (ENT230)",
+    "url": "https://www.youtube.com/watch?v=5dX4CXp6M8w",
+    "summary": "Organizations can spend a lot of time on manual and repetitive work, monitoring tools, compliance challenges, and inconsistent, undocumented approaches. DevOps teams must go beyond putting data on dashboards and manually sifting through scans and tests from observability, security, and business data. In this session, learn how Dynatrace delivers intelligent workflow-based automation that proactive",
+    "time": "Thu, 30 Nov 2023 21:59:09 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Modernization of Nintendo eShop: Microservice and platform engineering (GAM306)",
+    "url": "https://www.youtube.com/watch?v=grdawJ3icdA",
+    "summary": "Nintendo eShop is a web-based ecommerce service where you can browse and purchase digital software from Nintendo Switch and other Nintendo platforms. As the digital business continues to grow, it is essential for Nintendo Systems to modernize the service’s system to improve agility and go-to-market speed. In this session, hear from Nintendo Systems about the decision and the process of decoupling",
+    "time": "Thu, 30 Nov 2023 23:09:24 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Safely migrate databases that serve millions of requests per second (NFX307)",
+    "url": "https://www.youtube.com/watch?v=3bjnm1SXLlo",
+    "summary": "Netflix’s data platform serves tens of millions of requests per second at millisecond latency from their online data stores hosted on AWS, such as Apache Cassandra and EVCache (Memcached-based). In this session, learn how to use shadow traffic and unique capabilities of the cloud to migrate petabytes of data and millions of requests per second safely and without any risk of data loss or user-visib",
+    "time": "Thu, 30 Nov 2023 23:11:38 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Deep dive into Amazon ECS resilience and availability (CON401)",
+    "url": "https://www.youtube.com/watch?v=C7HUkG_tu90",
+    "summary": "Every application architecture relies on underlying infrastructure, and many choose Amazon ECS as the foundation to build upon. Do you know how Amazon ECS is built? What design considerations were taken while building the service? How Amazon ECS can help you minimize an outage? In this session, learn how Amazon ECS can help you address your requirements for running resilient and reliable applicati",
+    "time": "Thu, 30 Nov 2023 23:14:19 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Introducing Amazon ElastiCache Serverless: Get started in minutes (DAT209)",
+    "url": "https://www.youtube.com/watch?v=IvkHRizfXok",
+    "summary": "With Amazon ElastiCache Serverless, you no longer have to provision, plan for, or manage your cache cluster capacity. ElastiCache Serverless helps you get started in minutes with a distributed in-memory cache and instantly scales in and out to support even the most unpredictable application traffic patterns. In this follow-up demo to DAT342, learn about ElastiCache Serverless instant scaling capab",
+    "time": "Fri, 01 Dec 2023 24:27:32 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Putting your data to work with generative AI | AIM250-INT",
+    "url": "https://www.youtube.com/watch?v=rlAc5wxQ2Vs",
+    "summary": "How can you turn your existing data architecture like data lakes into a business advantage with generative AI? In this talk, explore what is top of mind for leaders of data organizations across the globe for how they can best put proprietary datasets to work for unique, differentiated generative AI solutions. Learn from AWS customers with production generative AI applications about how data has fa",
+    "time": "Fri, 01 Dec 2023 24:47:37 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Real-time RAG: How to augment LLMs with Redis and Amazon Bedrock (DAT101)",
+    "url": "https://www.youtube.com/watch?v=_EUhk49t2lw",
+    "summary": "Large language models (LLMs), such as GPT-4, use the power of vector embeddings and databases to address challenges posed by evolving data. These embeddings, when combined with a vector database or search algorithm, offer a way for LLMs to gain access to an up-to-date and ever-expanding knowledge base. This ensures LLMs remain capable of generating accurate and contextually appropriate outputs, ev",
+    "time": "Fri, 01 Dec 2023 24:51:37 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - What’s new with Amazon S3 (STG204)",
+    "url": "https://www.youtube.com/watch?v=idz2SvBHK-s",
+    "summary": "Amazon S3 continues to deliver new innovations to help you securely store your data for virtually unlimited use cases. From new security defaults and dual-layer encryption to a high-performance open source file client and more, Amazon S3 continues to innovate and differentiate from other cloud storage offerings. Join this session to learn about new features in Amazon S3 and practical tips for how",
+    "time": "Fri, 01 Dec 2023 01:30:35 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building an AWS solutions architect agent with Amazon Bedrock (BOA306)",
+    "url": "https://www.youtube.com/watch?v=kzzlchi0DzU",
+    "summary": "Navigating through complex cloud solutions can be a daunting task. In this session, see how generative AI can help solve this problem by building an AWS solutions architect agent. Using Amazon Bedrock, learn how to build a generative AI agent that can query AWS documentation, generate code, and create diagrams. The session ends with a live demo, where our generative AI agent handles a variety of t",
+    "time": "Fri, 01 Dec 2023 01:38:54 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - 5 things you should know about resilience at scale (ARC327)",
+    "url": "https://www.youtube.com/watch?v=CowAYv3qNCs",
+    "summary": "Seventeen years of operating on AWS has taught us a thing or two (or five) on how to build in mitigations for the kinds of things that can go wrong with services, particularly at scale. Join this session to go beyond the 9s to the even more important, and less broadly understood, topic of shortening time to mitigation when the unexpected happens. Hear from AWS operational leaders who have extensiv",
+    "time": "Fri, 01 Dec 2023 01:43:56 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Reducing AWS Fargate startup times by lazy loading container images (CON307)",
+    "url": "https://www.youtube.com/watch?v=5yskgXizYig",
+    "summary": "This session dives deep into Seekable OCI (SOCI). Learn how, by using SOCI indexes with AWS Fargate, you can dramatically reduce the time taken to launch Amazon ECS tasks. Hear about SOCI best practices, learn how to verify that you are using SOCI for the right workloads, and consider different ways to automate the creation of a SOCI index for existing OCI container images. Learn more about AWS re",
+    "time": "Fri, 01 Dec 2023 01:52:26 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Dive deep into Amazon DynamoDB (DAT330)",
+    "url": "https://www.youtube.com/watch?v=ld-xoehkJuU",
+    "summary": "This session provides a deep dive into Amazon DynamoDB, and it shares insights into how DynamoDB is architected to deliver the scalability and response times that customers have come to expect. Learn how popular capabilities like on-demand capacity, global tables, DynamoDB Streams, and transactions work and how you can best take advantage of them in your workloads. Learn more about AWS re:Invent a",
+    "time": "Fri, 01 Dec 2023 01:53:26 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Scaling Warhammer 40,000: Darktide from 0 to 100,000 players in 1 hour (GAM305)",
+    "url": "https://www.youtube.com/watch?v=ZgGYtuNSX4M",
+    "summary": "Learn how Fatshark developed its most complex game yet—Warhammer 40,000: Darktide—on AWS. In this session, discover how to build a game backend that scales to millions of players using a serverless infrastructure. Dive deep into how Fatshark uses Amazon GameLift FleetIQ and FlexMatch to solve real-time game server use cases with high real-time compute requirements without needing to provision for",
+    "time": "Fri, 01 Dec 2023 02:56:47 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - The real-time database to build your AI future (DAT206)",
+    "url": "https://www.youtube.com/watch?v=KEhTOeasabk",
+    "summary": "AI/ML applications crave massive datasets and are becoming mainstream. Solutions that enable you to manage constant change and satisfy the insatiable demand for data are indispensable. Learn how leading organizations are standardizing on highly efficient cloud databases built to handle exponential growth. Aerospike CEO Subbu Iyer, along with customers Guy Machlev, VP of Engineering at Riskified, a",
+    "time": "Fri, 01 Dec 2023 03:11:34 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Deploying multi-tenant SaaS applications on Amazon ECS and AWS Fargate (CON313)",
+    "url": "https://www.youtube.com/watch?v=6a8SfEhyFyk",
+    "summary": "There is a growing trend to build SaaS solutions on Amazon ECS. Developing multi-tenant SaaS applications requires addressing multiple concerns including tenant isolation, tenant onboarding, tenant-specific metering, monitoring, and other SaaS aspects. In this session, explore how to manage multi-tenancy aspects when deploying solutions on AWS Fargate. Learn more about AWS re:Invent at https://go.",
+    "time": "Fri, 01 Dec 2023 03:09:13 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Utilizing machine learning & vector databases for advanced AI search (BOA312)",
+    "url": "https://www.youtube.com/watch?v=CDFA2IXsodo",
+    "summary": "As AI continues to transform industries, the applications of generative AI and LLMs are becoming increasingly significant. This session delves into the utility of these models across a variety of sectors, from fashion to entertainment and from cheminformatics to bioinformatics. It demonstrates how you can build a similar solution by developing a product catalog similarity search solution, integrat",
+    "time": "Fri, 01 Dec 2023 03:12:24 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Live events: Moving on-premises broadcast workloads to the cloud (HYB106)",
+    "url": "https://www.youtube.com/watch?v=xXWAsg8iYO8",
+    "summary": "Global broadcasters are prioritizing cloud migration discussions, particularly those with a significant live broadcasting component. Cloud’s viability for live events, sports, and news has been established with major events like the Olympics using cloud technologies. With Amagi Dynamic on AWS, broadcasters can efficiently manage live events without large upfront hardware investments, paying only f",
+    "time": "Fri, 01 Dec 2023 03:18:24 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Partner Keynote with Dr. Ruba Borno",
+    "url": "https://www.youtube.com/watch?v=mM2HMK3ufTo",
+    "summary": "Dr. Ruba Borno, Vice President of AWS Worldwide Channels and Alliances, presents the AWS Partner Keynote. Ruba dives into the world of strategic partnerships to show how AWS and AWS Partners are achieving impossible firsts, helping customers reimagine their business models and drive business outcomes. You will hear from partners and customers on how we work together across industries and geographi",
+    "time": "Fri, 01 Dec 2023 03:34:33 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - A consistent approach to resilience analysis for critical workloads (ARC313)",
+    "url": "https://www.youtube.com/watch?v=fEOeP08cQdk",
+    "summary": "In this session, learn about a resilience analysis framework and how you can apply it to have a consistent and repeatable process for analyzing your workloads. Learn how to discover failure modes and how they could impact your workloads. Using this approach in the design process and in production can help you think about potential failure modes and design for them with preventative and corrective",
+    "time": "Fri, 01 Dec 2023 03:59:13 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Explore text-generation FMs for top use cases with Amazon Bedrock (AIM333)",
+    "url": "https://www.youtube.com/watch?v=QoaFYmpXvak",
+    "summary": "Foundation models (FMs) can be used for natural language processing tasks such as summarization, text generation, classification, open-ended Q&A, and information extraction. With Amazon Bedrock, you can choose powerful FMs from AI21 Labs, Anthropic, and Cohere to find the right FM for your use case such as the Jurassic-2, Claude, and Command families of text-generation FMs. Join this session to le",
+    "time": "Fri, 01 Dec 2023 04:00:18 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - How the PGA Tour works with AWS to enhance fan engagement (SPT206)",
+    "url": "https://www.youtube.com/watch?v=0f8bbdR-icE",
+    "summary": "Join this lightning talk for a fireside chat with Scott Gutterman, SVP of Digital Operations for the PGA Tour, as we discuss the PGA Tour’s use of AWS technologies to revolutionize the fan experience. Learn more about AWS re:Invent at https://go.aws/46iuzGv. Subscribe: More AWS videos: http://bit.ly/2O3zS75 More AWS events videos: http://bit.ly/316g9t4 ABOUT AWS Amazon Web Services (AWS) hosts eve",
+    "time": "Fri, 01 Dec 2023 04:15:18 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Solving large-scale data access challenges with Amazon S3 (STG337)",
+    "url": "https://www.youtube.com/watch?v=Ts-ZMBzGeh0",
+    "summary": "As you build a data lake or shared datasets on Amazon S3, managing access is essential. You need strong guardrails that protect your data. Within your organization, you require granular access control for your data with strong controls around authentication, authorization, encryption, and auditing. Come to this session to learn about common and successful patterns for implementing your access cont",
+    "time": "Fri, 01 Dec 2023 04:26:27 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - [LAUNCH] Achieving scale with Amazon Aurora Limitless Database (DAT344)",
+    "url": "https://www.youtube.com/watch?v=a9FfjuVJ9d8",
+    "summary": "Amazon Aurora is a relational database service built for the cloud that is designed for unparalleled high performance and availability at global scale, with full MySQL and PostgreSQL compatibility. In this session, learn how Amazon Aurora Limitless Database enables applications to scale to millions of transactions per second across petabytes of data. Explore the architecture, distributed transacti",
+    "time": "Fri, 01 Dec 2023 04:58:28 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Strategies for navigating multicloud decisions and difficulties (ENT217)",
+    "url": "https://www.youtube.com/watch?v=Hu3HeUIQTFg",
+    "summary": "As organizations seek to accelerate cloud migration and transformation, some find themselves in situations where they have to manage IT operations in a multicloud environment, or they simply struggle with whether and how to adopt a multicloud strategy in the first place. Leaders must consider how operating multiple cloud environments impacts business outcomes and their ability to innovate. In this",
+    "time": "Fri, 01 Dec 2023 05:15:51 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Improve web application performance using AWS Global Accelerator (NET327)",
+    "url": "https://www.youtube.com/watch?v=ecNDlRNWW3w",
+    "summary": "Routing user traffic over the public internet can lead to inconsistent performance due to internet weather and network congestion, so you may need a better solution. AWS Global Accelerator can improve performance by moving user traffic onto the vast AWS global network to optimize the network path from users to applications, regardless of where users are located globally. In this session, learn abo",
+    "time": "Fri, 01 Dec 2023 05:27:44 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Keynote with Dr. Werner Vogels",
+    "url": "https://www.youtube.com/watch?v=UTRBVPvzt9w",
+    "summary": "Dr. Werner Vogels, Amazon.com's VP and CTO, joins us for his twelfth re:Invent appearance. In his keynote, he covers best practices for designing resilient and cost-aware architectures. He also discusses why artificial intelligence is something every builder must consider when developing systems and the impact this will have in our world. Featuring customer speakers: Dr. Rebecca Portnoff, Head of",
+    "time": "Fri, 01 Dec 2023 24:48:28 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Expect the unexpected and build resilience with AWS (PEX116)",
+    "url": "https://www.youtube.com/watch?v=DD-7hPzesrk",
+    "summary": "Join this lightning talk for an overview of the AWS resilience best practices to help customers improve the availability and resilience of critical workloads in the cloud. Learn how AWS resilience partners help customers in achieving their resilience goals. This lightning talk is intended for AWS Partners. Learn more about AWS re:Invent at https://go.aws/46iuzGv. Subscribe: More AWS videos: http:/",
+    "time": "Thu, 30 Nov 2023 21:44:05 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Deep dive into the AWS Nitro System (CMP306)",
+    "url": "https://www.youtube.com/watch?v=Cxie0FgLogg",
+    "summary": "The AWS Nitro System is a rich collection of building-block technologies—including hardware offload and security components built by AWS—that are powering the recent and future generations of Amazon EC2 instances with an ever-broadening selection of compute, storage, memory, and networking options. In this session, dive deep into the Nitro System, review its design and architecture, explore new in",
+    "time": "Thu, 30 Nov 2023 21:24:50 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Discover seamless observability with eBPF (DOP226)",
+    "url": "https://www.youtube.com/watch?v=XvYZUGAQS4k",
+    "summary": "eBPF is changing the observability game by unlocking insights that could be missed by traditional monitoring solutions. Join this lightning talk to see how eBPF-powered observability helps you to dive deeper into application performance by using an out-of-band kernel-level sensor that requires no code changes or developer efforts. Learn about the major promises of eBPF observability, including the",
+    "time": "Thu, 30 Nov 2023 21:28:33 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Use generative AI to name your pet after your favorite song (BOA208)",
+    "url": "https://www.youtube.com/watch?v=z4N96PEFnds",
+    "summary": "Many developers haven’t been able to catch up with new jargon or best practices for generative AI. Whether you’re already getting started with AI/ML or you’re feeling like you’re behind the curve, this session is for you. Join the hosts of the ”Quick Start on AWS: Machine Learning” show, which trained over 7,000 people, to learn how to use foundation models in Amazon Bedrock to name your pet after",
+    "time": "Thu, 30 Nov 2023 21:30:32 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Best practices for operating on AWS (COP321)",
+    "url": "https://www.youtube.com/watch?v=XBKq2JXWsS4",
+    "summary": "Operating in the cloud allows IT teams to focus on business outcomes and accelerate innovation. In this session, learn how to build, manage, and operate your mission-critical applications in a secure, automated, reliable, and cost-effective way. Discover best practices for establishing a multi-account environment, automating operations, and managing your applications. Additionally, learn how to ov",
+    "time": "Thu, 30 Nov 2023 21:37:54 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Use AWS Fault Injection Service to demonstrate multi-region and multi-AZ application resilience",
+    "url": "https://aws.amazon.com/blogs/aws/use-aws-fault-injection-service-to-demonstrate-multi-region-and-multi-az-application-resilience/",
+    "summary": "AWS Fault Injection Service (FIS) helps you to put chaos engineering into practice at scale. Today we are launching new scenarios that will let you demonstrate that your applications perform as intended if an AWS Availability Zone experiences a full power interruption or connectivity from one AWS region to another is lost. You can use the scenarios to conduct experiments that will build confidenc",
+    "time": "Thu, 30 Nov 2023 19:53:14 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "AWS Fault Injection Service launches two highly requested scenarios",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/",
+    "summary": "Today, AWS Fault Injection Service (FIS) announces the availability of two new scenarios, AZ Availability: Power Interruption and Cross-Region: Connectivity. The AZ Availability: Power Interruption scenario allows you to determine how a multi-AZ application will operate while experiencing the expected symptoms of a complete power interruption in a single AZ. The Cross-Region: Connectivity scenari",
+    "time": "Thu, 30 Nov 2023 19:52:07 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Drive personalized CX using generative AI and Amazon Personalize (AIM225)",
+    "url": "https://www.youtube.com/watch?v=qwwLhbwS-rs",
+    "summary": "Delivering the best experience is critical to capture and retain customers today. With generative AI, it is possible to hyper-personalize targeted recommendations for shopping and streaming. While standard taglines like “People who bought this also bought . . .” or “Because you watched . . .” entice some, they don’t fully address individual interests. Companies must find ways to dynamically genera",
+    "time": "Thu, 30 Nov 2023 18:17:38 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Boosting efficiency: How to realize 70% cost reduction with AWS Fargate -CON318",
+    "url": "https://www.youtube.com/watch?v=WVGxnUEr1OU",
+    "summary": "In this session, discover how a leading enterprise SaaS company, using AWS Fargate and AWS Graviton, transformed their data-intensive grid service. Learn how they achieved 70% cost reduction within 6 months, grew peak traffic from 1,000 RPS to 50,000 RPS, and increased deployment velocity from once weekly to twice daily using AWS CodePipeline. Explore their cell-based architecture strategies for i",
+    "time": "Thu, 30 Nov 2023 18:19:11 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Improve your mobile and web app quality using AWS Device Farm (FWM202)",
+    "url": "https://www.youtube.com/watch?v=__93Tm0YCRg",
+    "summary": "In this session, learn how you can improve the quality of your mobile and web apps by running tests on real devices at scale with AWS Device Farm. Hear from Riot Games, a leading game developer and publisher, about how they use Device Farm to streamline their mobile app testing process, improve the quality of their mobile games and SDKs, run automated and manual tests on real devices in the cloud,",
+    "time": "Thu, 30 Nov 2023 18:33:50 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Easily build semantic image search using Amazon Titan",
+    "url": "https://aws.amazon.com/blogs/machine-learning/easily-build-semantic-image-search-using-amazon-titan/",
+    "summary": "Digital publishers are continuously looking for ways to streamline and automate their media workflows to generate and publish new content as rapidly as they can, but without foregoing quality. Adding images to capture the essence of text can improve the reading experience. Machine learning techniques can help you discover such images. “ A striking image is one of the most effective ways to captur",
+    "time": "Thu, 30 Nov 2023 18:43:22 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Recap AWS France Sports Day 2023",
+    "url": "https://www.youtube.com/watch?v=8tul5ZFBppo",
+    "summary": "Plus de 200 personnes du monde du sport français ont assisté au premier AWS France Sports Day à Roland Garros. Contacter AWS 👉 https://aws.amazon.com/fr/contact-us/",
+    "time": "Thu, 30 Nov 2023 18:21:53 GMT+1",
+    "sourceTitle": "Amazon Web Services France ",
+    "sourceUrl": "https://www.youtube.com/channel/UCDE2Dt16Asi-RiR_GNe9scA"
+  },
+  {
+    "title": "Zonal autoshift – Automatically shift your traffic away from Availability Zones when we detect potential issues",
+    "url": "https://aws.amazon.com/blogs/aws/zonal-autoshift-automatically-shift-your-traffic-away-from-availability-zones-when-we-detect-potential-issues/",
+    "summary": "Today we’re launching zonal autoshift, a new capability of Amazon Route 53 Application Recovery Controller that you can enable to automatically and safely shift your workload’s traffic away from an Availability Zone when AWS identifies a potential failure affecting that Availability Zone and shift it back once the failure is resolved. When deploying resilient applications, you typically deploy yo",
+    "time": "Thu, 30 Nov 2023 19:43:58 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Amazon CloudWatch Application Signals for automatic instrumentation of your applications (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-application-signals-for-automatic-instrumentation-of-your-applications-preview/",
+    "summary": "One of the challenges with distributed systems is that they are made up of many interdependent services, which add a degree of complexity when you are trying to monitor their performance. Determining which services and APIs are experiencing high latencies or degraded availability requires manually putting together telemetry signals. This can result in time and effort establishing the root cause o",
+    "time": "Thu, 30 Nov 2023 18:21:21 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Secure remote connectivity to AWS (NET202)",
+    "url": "https://www.youtube.com/watch?v=LDgXv6OVwg8",
+    "summary": "Explore secure and efficient ways to access your private AWS and on-premises resources without exposing them directly to the internet. Join this session to learn how to provide remote connectivity to your private corporate applications and virtual machines. Explore services like AWS Verified Access, AWS Client VPN, and Amazon EC2 Instance Connect to help you decide which one best suits your use ca",
+    "time": "Thu, 30 Nov 2023 17:46:10 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Tech predictions for 2024 and beyond",
+    "url": "https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html?utm_campaign=inbound&utm_source=rss",
+    "summary": "The coming years will be filled with innovation in areas designed to democratize access to technology and help us keep up with the increasing pace of every-day life -- and it starts with Generative AI.",
+    "time": "Thu, 30 Nov 2023 16:00:00 GMT+1",
+    "sourceTitle": "All Things Distributed ",
+    "sourceUrl": "https://www.allthingsdistributed.com/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Adding AWS (backbone) to your network (NET319)",
+    "url": "https://www.youtube.com/watch?v=GrsWSMiE264",
+    "summary": "In this session, learn how to use AWS services to build a wide area network backbone by routing traffic over the AWS global network. First, examine the role AWS services and the AWS global network play when connecting through an edge device or building a transit network between locations. Then, discover how AWS global infrastructure, AWS Local Zones, network peering, AWS Cloud WAN, AWS Direct Conn",
+    "time": "Wed, 29 Nov 2023 22:38:01 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Performance & efficiency at Pinterest: Optimizing the latest instances (COP352)",
+    "url": "https://www.youtube.com/watch?v=QSudpowE_Hs",
+    "summary": "Performance optimization is often a trade-off: you can either deliver higher throughput and better latency or maintain the current throughput and latency while reducing cost. But is it possible to do both? Learn how Pinterest’s collaboration with Intel drove up to 50% improvement in cost efficiency and hear about their experience with the latest Intel instances that enabled significant performance",
+    "time": "Wed, 29 Nov 2023 23:07:24 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Composable architecture using Amazon DynamoDB and domain-driven design (COM304)",
+    "url": "https://www.youtube.com/watch?v=DpafYmI3NQc",
+    "summary": "Enterprises building software often face multiple setbacks in the software lifecycle due to domain complexity, unclear application boundaries, and a disconnect between business needs and implemented software. Following domain-driven design (DDD) practices can help you navigate complex business domains and avoid common pitfalls. In this session, learn the core DDD concepts of ubiquitous language, a",
+    "time": "Thu, 30 Nov 2023 03:19:44 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Driving precision: Creating a tech revolution at PGA Tour events (NET101)",
+    "url": "https://www.youtube.com/watch?v=BHwvO8ZA-mU",
+    "summary": "The PGA Tour tracks the data on every ball struck during a tournament and disseminates that information from course-to-cloud for broadcast, digital video, fan experience, and sports betting. It uses radars, AI cameras, AWS Cloud services, and modern network technology to predict where each player’s shot will go in real time. In this session, learn how the PGA Tour partnered with Accenture to adopt",
+    "time": "Thu, 30 Nov 2023 03:21:19 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Making semantic search & RAG real: How to build a prod-ready app (AIM201)",
+    "url": "https://www.youtube.com/watch?v=XRB6IYvoJeY",
+    "summary": "Private data retrieval is a key to the puzzle that is making LLMs work at scale. However, is it really about the fastest kNN implementation that can return search results? For developers to build magical search experiences at scale, you’ll need fast kNN search, but you’ll also need it to be simple, repeatable, and secure. You’ll want elegant APIs that can store, sort, search, and aggregate data ac",
+    "time": "Thu, 30 Nov 2023 03:26:13 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Beyond 11 9s of durability: Data protection with Amazon S3 (STG319)",
+    "url": "https://www.youtube.com/watch?v=YsIjt88E6iw",
+    "summary": "Amazon S3 is designed for 11 9s of durability, strong resiliency, and high availability. This makes S3 an ideal storage option for cloud-native applications, analytics, and machine learning workloads where strong data protection is non-negotiable. However, even the most durable storage cannot protect against unintended or accidental deletions. Additionally, ransomware events are a primary reason t",
+    "time": "Thu, 30 Nov 2023 04:01:57 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building an AI comic video generator with Amazon Bedrock (COM202)",
+    "url": "https://www.youtube.com/watch?v=1jJD1vJYPxA",
+    "summary": "Learn how AWS Machine Learning Hero Agustinus Nalwan built Owly, an AI-powered bedtime storyteller that crafts personalized comic videos with music. In this session, discover how to use the Amazon Bedrock large language model to generate comic scripts. Learn how to fine-tune the Stable Diffusion model with the help of Amazon SageMaker JumpStart to eliminate character inconsistencies and personaliz",
+    "time": "Thu, 30 Nov 2023 04:29:41 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Introducing AWS Resilience Competency Partners",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resilience-competency-partners/",
+    "summary": "We are excited to announce the launch of the AWS Resilience Competency to highlight AWS Partners who have demonstrated technical expertise and proven customer success helping customers improve the availability and resilience of their critical workloads in the cloud. AWS Resilience Competency Partners provide professional consulting and engineering services that are validated by AWS experts across",
+    "time": "Thu, 30 Nov 2023 24:49:52 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Sony Interactive Entertainment: Generative and predictive AI on AWS (AIM226)",
+    "url": "https://www.youtube.com/watch?v=8pqBGEUgyKI",
+    "summary": "If you’re grappling with the intricacies of confidently productionizing generative AI solutions and juggling a backlog of AI projects while striving for infrastructure harmony, then this lightning talk is for you. Learn how to create a unified platform that balances both generative and predictive AI. Leaders from Sony Interactive Entertainment share how they created a seamless, governed AI platfor",
+    "time": "Thu, 30 Nov 2023 05:41:44 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Detecting and mitigating gray failures (ARC310)",
+    "url": "https://www.youtube.com/watch?v=LzIZ-dEzgEw",
+    "summary": "Gray failures can escape quick and definitive detection while impacting workloads running in the cloud. Building resilient applications that can survive single instance and single Availability Zone gray failures requires you to implement specific observability and mitigation strategies. In this session, learn what gray failures are and how they can manifest in the cloud. Explore detection capabili",
+    "time": "Thu, 30 Nov 2023 05:57:31 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Platform engineering with Amazon EKS (CON311)",
+    "url": "https://www.youtube.com/watch?v=eLxBnGoBltc",
+    "summary": "A wide range of companies, from the most innovative startups to the world’s leading enterprises, are running their internal platforms on Amazon EKS, helping them to accelerate developer velocity and increase the pace of innovation. In this session, learn about best practices that AWS has developed over years of helping thousands of customers build and scale their internal platforms on Amazon EKS.",
+    "time": "Thu, 30 Nov 2023 06:02:52 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - AWS storage cost-optimization best practices (STG202)",
+    "url": "https://www.youtube.com/watch?v=8LVKNHcA6RY",
+    "summary": "Whether you’re migrating from on premises to AWS or already in the cloud, AWS offers storage solutions that help optimize your costs and reduce TCO—all while providing storage performance that boosts productivity and accelerates business growth. The AWS storage portfolio makes it easy and cost-effective for you to launch, run, and scale storage in the cloud so that you can dedicate more of your va",
+    "time": "Thu, 30 Nov 2023 06:07:14 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Keynote with Dr. Swami Sivasubramanian",
+    "url": "https://www.youtube.com/watch?v=8clH7cbnIQw",
+    "summary": "Swami Sivasubramanian, Vice President of Data and AI at AWS explores the powerful relationship between humans, data, and AI, unfolding right before us. Generative AI is augmenting our productivity and creativity in new ways, while also being fueled by massive amounts of enterprise data and human intelligence. Swami discovers how you can use your company data to build differentiated generative AI a",
+    "time": "Thu, 30 Nov 2023 02:25:17 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Scale organizational cloud knowledge & improve builder productivity (ARC207)",
+    "url": "https://www.youtube.com/watch?v=rcRz6BOyTZY",
+    "summary": "Organizations of all sizes are building on and migrating to the cloud. Leaders at startups, enterprises, and government agencies need new ways to equip their builders with training on cloud concepts and to drive collaboration with AWS teams to define and carry out their cloud strategies at scale. Hybrid work continues to be an important work approach for many enterprises, which has led to an incre",
+    "time": "Wed, 29 Nov 2023 21:17:05 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - [LAUNCH] Introducing Amazon ElastiCache Serverless (DAT342)",
+    "url": "https://www.youtube.com/watch?v=YYStP97pbXo",
+    "summary": "Come learn about the recently announced Amazon ElastiCache Serverless. With ElastiCache Serverless, you no longer have to provision, plan for, or manage your cache cluster capacity. ElastiCache Serverless helps you get started in under a minute with a distributed in-memory cache and instantly scales in and out to support even the most unpredictable application traffic patterns. In this session, le",
+    "time": "Wed, 29 Nov 2023 21:26:52 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Amazon Bedrock now supports batch inference",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-batch-inference/",
+    "summary": "You can now use Amazon Bedrock to process prompts in batch to get responses for model evaluation, experimentation, and offline processing.",
+    "time": "Wed, 29 Nov 2023 20:24:37 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Surviving overloads: How Amazon Prime Day avoids congestion collapse (NET402)",
+    "url": "https://www.youtube.com/watch?v=fOYOvp6X10g",
+    "summary": "Congestion collapse is a situation in large distributed systems when a collection of servers hits roughly 100% CPU utilization yet provides effectively zero productive work. Worse yet, you can’t recover even when systems scale up! In this session, join a discussion of the congestion collapse phenomenon and how it applies to web applications. This session covers how to recover, with an example from",
+    "time": "Wed, 29 Nov 2023 20:41:52 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Seamless modernization and migration of media services with LG U+ (PRO101)",
+    "url": "https://www.youtube.com/watch?v=b4xW_miQmXo",
+    "summary": "Application modernization and migration with zero service disruptions requires careful planning with appropriate strategy and best practices. LG U+ collaborated with AWS Professional Services to apply best practices and define a strategy for the modernization and migration of their IPTV media services. In this session, you learn about some of the key patterns that helped LG U+ perform a seamless c",
+    "time": "Wed, 29 Nov 2023 20:15:11 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - The pragmatic serverless Python developer (OPN305)",
+    "url": "https://www.youtube.com/watch?v=52W3Qyg242Y",
+    "summary": "Are you developing AWS Lambda functions with Python? Always looking for tools to make you more productive? What if you could hear directly from practitioners? This session covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit that can help you implement serverless be",
+    "time": "Wed, 29 Nov 2023 20:25:53 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - What’s new with AWS governance and compliance (COP340)",
+    "url": "https://www.youtube.com/watch?v=O_r3-thv0pA",
+    "summary": "When you set up an environment that is optimized for governance and compliance, you can increase your productivity and operational efficiency. This in turn allows you to focus on delivering business outcomes and saving time and cost. Join this session to find out how AWS is innovating in the governance and compliance space. Learn about recent launches and how you can use them to solve a variety of",
+    "time": "Wed, 29 Nov 2023 20:33:08 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Customer insights: Apple app development with Amazon EC2 Mac instances (CMP218)",
+    "url": "https://www.youtube.com/watch?v=vXJsU1b_JQs",
+    "summary": "Hear firsthand from a customer about their experiences with Apple application development workloads on AWS—from streamlining CI/CD build fleets to securing developer environments with on-demand Amazon EC2 Mac instances. Learn how to use Amazon EC2 Mac instances with Jamf to extend endpoint security to your Apple application development fleets. Through the customer’s example, dive deep into the top",
+    "time": "Wed, 29 Nov 2023 20:35:13 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Introducing highly durable Amazon OpenSearch Service clusters with 30% price/performance improvement",
+    "url": "https://aws.amazon.com/blogs/aws/introducing-highly-durable-amazon-opensearch-service-clusters-with-30-price-performance-improvement/",
+    "summary": "You can use the new OR1 instances to create Amazon OpenSearch Service clusters that use Amazon Simple Storage Service (Amazon S3) for primary storage. You can ingest, store, index, and access just about any imaginable amount of data, while also enjoying a 30% price/performance improvement over existing instance types, eleven nines of data durability, and a zero-time Recovery Point Objective (RPO)",
+    "time": "Wed, 29 Nov 2023 20:01:46 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - “Rustifying” serverless: Boost AWS Lambda performance with Rust (COM306)",
+    "url": "https://www.youtube.com/watch?v=Mdh_2PXe9i8",
+    "summary": "Rust, renowned for its performance and security, brings considerable benefits to AWS Lambda applications. In this session, discover how to deploy Rust functions using AWS SAM and cargo-lambda, facilitating a smooth development process from your local machine. Explore how to integrate Rust into Python Lambda functions effortlessly using tools like PyO3 and maturin, along with the AWS SDK for Rust.",
+    "time": "Wed, 29 Nov 2023 19:54:11 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Amazon OpenSearch Service zero-ETL integration with Amazon S3 preview now available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-zero-etl-integration-s3-preview/",
+    "summary": "Amazon OpenSearch Service zero-ETL integration with Amazon S3, a new way for customers to query operational logs in Amazon S3 and S3-based data lakes without needing to switch between tools to analyze operational data, is available for customer preview. Customers can boost the performance of their queries and build fast-loading dashboards using the built-in query acceleration capabilities of Amaz",
+    "time": "Wed, 29 Nov 2023 18:47:51 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS announces vector search for Amazon MemoryDB for Redis (Preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/vector-search-amazon-memorydb-redis-preview/",
+    "summary": "Amazon MemoryDB for Redis now supports vector search in preview, a new capability that enables you to store, index, and search vectors. MemoryDB is a database that combines in-memory performance with multi-AZ durability. With vector search for MemoryDB, you can develop real-time machine learning (ML) and generative AI applications with the highest performance demands using the popular, open-sourc",
+    "time": "Wed, 29 Nov 2023 18:52:24 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Q generative SQL is now available in Amazon Redshift Query Editor (preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/",
+    "summary": "Amazon Redshift introduces Amazon Q generative SQL in Amazon Redshift Query Editor, an out-of-the-box web-based SQL editor for Redshift, to simplify query authoring and increase your productivity by allowing you to express queries in natural language and receive SQL code recommendations. Furthermore, it allows you to get insights faster without extensive knowledge of your organization’s complex d",
+    "time": "Wed, 29 Nov 2023 19:00:16 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Evaluate, compare, and select the best FMs for your use case in Amazon Bedrock (Preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/",
+    "summary": "Model Evaluation on Amazon Bedrock allows you to evaluate, compare, and select the best foundation models for your use case. Amazon Bedrock offers a choice of automatic evaluation and human evaluation. You can use automatic evaluation with predefined metrics such as accuracy, robustness, and toxicity. For subjective or custom metrics, such as friendliness, style, and alignment to brand voice, you",
+    "time": "Wed, 29 Nov 2023 19:22:08 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Introducing Amazon Q support for network troubleshooting (preview)",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-q-support-for-network-troubleshooting/",
+    "summary": "This blog post explores how Amazon Q , the generative artificial intelligence (AI) powered assistant from AWS, helps you troubleshoot network-related issues by working with Amazon VPC Reachability Analyzer . These are exciting times for cloud networking! We’re a long way from the days of debugging connectivity issues with ping and traceroute. Now we ask questions in conversational language like “",
+    "time": "Wed, 29 Nov 2023 18:31:24 GMT+1",
+    "sourceTitle": "AWS Networking and Content Delivery ",
+    "sourceUrl": "https://aws.amazon.com/blogs/networking-and-content-delivery/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - How the Bundesliga adopts an agile and cross-functional data strategy (SPT203)",
+    "url": "https://www.youtube.com/watch?v=IrSyvhaixe8",
+    "summary": "A data strategy is an essential element for a data-driven company. Many companies face the challenge of creating a data strategy that is aligned with strategic business objectives, focuses on value creation, and is actionable. In this session, DFL Digital Sports uncovers how they created an agile data strategy powered by AWS by using the Cloud Adoption Framework for Artificial Intelligence, Machin",
+    "time": "Wed, 29 Nov 2023 18:35:21 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - The future of Amazon EKS (CON203)",
+    "url": "https://www.youtube.com/watch?v=fkpctBpum1Q",
+    "summary": "Kubernetes has become a standard way for organizations to innovate and modernize their application portfolio. AWS developed Amazon EKS to make Kubernetes more accessible to organizations of all sizes, helping them focus on what matters most for their businesses. In this session, join Nathan Taber, Head of Product for Kubernetes, to learn about one customer who uses EKS to train their LLM models an",
+    "time": "Wed, 29 Nov 2023 18:35:34 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Llama 2 70B foundation model from Meta is now available in Amazon Bedrock",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-70b-foundation-model-meta-amazon-bedrock/",
+    "summary": "You can now access Meta’s Llama 2 model 70B in Amazon Bedrock . The Llama 2 70B model now joins the already available Llama 2 13B model in Amazon Bedrock. Llama 2 models are next generation large language models (LLMs) provided by Meta. Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models from leading AI companies, like Meta, along with a broad set o",
+    "time": "Wed, 29 Nov 2023 17:56:43 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Stable Diffusion XL 1.0 foundation model from Stability AI is now generally available in Amazon Bedrock",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/stable-diffusion-xl-1-0-foundation-model-amazon-bedrock/",
+    "summary": "Stability AI’s Stable Diffusion XL 1.0 (SDXL 1.0) foundation model is now generally available on-demand in Amazon Bedrock . SDXL 1.0 is the most advanced development in the Stable Diffusion text-to-image suite of models launched by Stability AI. The model generates images of high quality in virtually any art style and it excels at photorealism. Amazon Bedrock is a fully managed service that offer",
+    "time": "Wed, 29 Nov 2023 17:56:44 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Overspending on laptops? Introducing Amazon WorkSpaces Thin Client (EUC215)",
+    "url": "https://www.youtube.com/watch?v=Viurp8p34Eo",
+    "summary": "Procuring and managing laptops for end users can be expensive and time-consuming. In addition, end users often struggle with device setup and require help from IT to get up and running, straining IT resources and delaying time to productivity. Attend this session to hear Melissa Stein, Director of End User Computing at AWS, introduce Amazon WorkSpaces Thin Client, a new thin client from AWS that m",
+    "time": "Wed, 29 Nov 2023 18:40:50 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Vector engine for Amazon OpenSearch Serverless now generally available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-serverless-vector-engine/",
+    "summary": "Today, AWS announces the general availability of vector engine for Amazon OpenSearch Serverless . Vector engine for OpenSearch Serverless is a simple, scalable, and high-performing vector database which makes it easier for developers to build machine learning (ML)–augmented search experiences and generative artificial intelligence (AI) applications without having to manage the underlying vector d",
+    "time": "Wed, 29 Nov 2023 18:43:53 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Bedrock now provides access to Anthropic’s latest model, Claude 2.1",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/",
+    "summary": "Today, we’re announcing the availability of Anthropic’s Claude 2.1 foundation model (FM) in Amazon Bedrock . Last week, Anthropic introduced its latest model, Claude 2.1 , delivering key capabilities for enterprises such as an industry-leading 200,000 token context window (2x the context of Claude 2.0), reduced rates of hallucination, improved accuracy over long documents, system prompts, and a b",
+    "time": "Wed, 29 Nov 2023 17:43:55 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Use IAM Roles Anywhere to help you improve security in on-premises container workloads",
+    "url": "https://aws.amazon.com/blogs/security/use-iam-roles-anywhere-to-help-you-improve-security-in-on-premises-container-workloads/",
+    "summary": "This blog post demonstrates how to help meet your security goals for a containerized process running outside of Amazon Web Services (AWS) as part of a hybrid cloud architecture . Managing credentials for such systems can be challenging, including when a workload needs to access cloud resources. IAM Roles Anywhere lets you exchange static AWS Identity and Access Management (IAM) user credentials w",
+    "time": "Wed, 29 Nov 2023 17:31:32 GMT+1",
+    "sourceTitle": "AWS Security Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/security/"
+  },
+  {
+    "title": "Amazon Titan Image Generator Demo | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=v2akUur4xho",
+    "summary": "Amazon Titan Image Generator enables content creators with rapid ideation and iteration resulting in high efficiency image generation. With Titan Image Generator, customers in industries like advertising, e-commerce, media, and entertainment can generate realistic, studio-quality images in large volumes and at low cost, using natural language prompts. You can edit your generated or existing images",
+    "time": "Wed, 29 Nov 2023 17:55:48 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Advanced event-driven patterns with Amazon EventBridge (COM301-R)",
+    "url": "https://www.youtube.com/watch?v=6X4lSPkn4ps",
+    "summary": "Asynchronous communication and event-driven architecture are core to building distributed applications. Amazon EventBridge, a fully managed serverless event bus, helps to coordinate distributed and loosely coupled microservices to accomplish business functionality. In this session, gain an understanding of the characteristics of EventBridge and how it plays a pivotal role in serverless architectur",
+    "time": "Tue, 28 Nov 2023 21:41:17 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - How ELF reduced their carbon footprint by broadcasting on AWS (MAE203)",
+    "url": "https://www.youtube.com/watch?v=5slS62EQsJ4",
+    "summary": "In this session, the European League of Football (ELF) shares their journey as a new sports league to adopt a built-in-the-cloud broadcasting production pipeline on AWS. By using AWS cloud-based remote production tools and infrastructure, the 2023 season saw positive impacts including lower video latency, better video quality, increased reliability, lower operational costs, and a reduction in the",
+    "time": "Wed, 29 Nov 2023 24:06:33 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building a practice to optimize your customer’s resilience journey (PEX208)",
+    "url": "https://www.youtube.com/watch?v=OPEQcRAMs0U",
+    "summary": "Resilience is a journey that is as much a mindset as a technology solution. Everything fails eventually, and minimizing the impact to business stakeholders is the paramount goal of any company. Helping your customers shift toward an “always on, always available” mindset for their applications and services is crucial. Learn how AWS Partners can play an important role across the design, operation, a",
+    "time": "Wed, 29 Nov 2023 24:54:06 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Application modernization, microservices & the strangler fig pattern (ENT321-R)",
+    "url": "https://www.youtube.com/watch?v=ml1Yb-ddGt0",
+    "summary": "Move faster and innovate more with microservices. In this session, review patterns for modernizing your application architecture. AWS customer Affinidi shares how they moved to microservices and empowered teams to ship features independently, used consistent guardrails and governance across microservices, and reduced developer cognitive load. Moving to microservices using the strangler fig pattern",
+    "time": "Wed, 29 Nov 2023 24:51:53 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Stripe: Architecting for observability at massive scale (FSI319)",
+    "url": "https://www.youtube.com/watch?v=gNCKJUg8qEo",
+    "summary": "Stripe provides an integrated suite of financial and payments products that serve retailers, subscription-based services, and software platforms in 46 countries. To power their infrastructure and critical services, Stripe uses thousands of Amazon EC2 instances and other AWS services. Join this session to hear Stripe share the unique challenges and lessons learned on their journey to achieving obse",
+    "time": "Wed, 29 Nov 2023 02:09:21 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Using Aurora Serverless to simplify manageability and improve costs (DAT331)",
+    "url": "https://www.youtube.com/watch?v=ecRje2wFO14",
+    "summary": "In this session, learn how Amazon Aurora Serverless can help you simplify database capacity management and cost-effectively support even your most demanding workloads. Dive deep into the Aurora Serverless v2 architecture, see how you can instantly scale a database, and hear about key improvements in scaling, high availability, and disaster recovery. Learn more about AWS re:Invent at https://go.aws",
+    "time": "Wed, 29 Nov 2023 02:14:25 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Gain confidence in system correctness & resilience with formal methods (ARC315)",
+    "url": "https://www.youtube.com/watch?v=FdXZXnkMDxs",
+    "summary": "Distributed applications, systems, and services are difficult to design and test. Formal methods enable the early discovery of design bugs that can escape the guardrails of design reviews and automated testing only to get uncovered in production. Join this session to learn how AWS uses P, an open source, state machine–based programming language for formal modeling and analysis of distributed syste",
+    "time": "Wed, 29 Nov 2023 02:16:35 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - AWS journey toward intent-driven network infrastructure (NET401)",
+    "url": "https://www.youtube.com/watch?v=B3dtiSYriZc",
+    "summary": "Join this session to hear about the latest AWS networking innovations that improve AWS infrastructure’s security, reliability, and performance. Hear from senior principal engineers about the new intent-driven control plane and how it facilitates the machine learning workloads that are underpinning the generative AI boom. This deep-dive session goes into the motivation for the control plane and net",
+    "time": "Wed, 29 Nov 2023 02:19:51 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Delivering low-latency applications at the edge (HYB305)",
+    "url": "https://www.youtube.com/watch?v=isYOTxCm5w4",
+    "summary": "AWS hybrid and edge services extend AWS from Regions and Availability Zones to local metros, on premises, and the far edge, bringing AWS closer to your end users and workloads. In this session, learn how you can run latency-sensitive applications in more locations around the world with AWS Local Zones, AWS Wavelength Zones, AWS Outposts, and the AWS Snow Family. Discover how organizations are depl",
+    "time": "Wed, 29 Nov 2023 02:27:01 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Scaling on AWS for the first 10 million users (ARC206)",
+    "url": "https://www.youtube.com/watch?v=JzuNJ8OUht0",
+    "summary": "In this session, learn about patterns and techniques for architecting the ability to handle rapid growth and success in the early days of your business into your infrastructure on AWS. From implementing highly scalable AWS services to architecting proven patterns, there are a number of choices you can make early on to help you overcome some common infrastructure challenges. Learn how to adapt to g",
+    "time": "Wed, 29 Nov 2023 02:53:09 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building observability to increase resiliency (COP343)",
+    "url": "https://www.youtube.com/watch?v=MARiKxvrdmc",
+    "summary": "Using observability effectively is essential for proving your resilient system operates the way you planned. Well-applied observability helps you find early signs of problems, before they impact customers, and react quickly to mitigate impact. In this session, learn how you can use observability best practices to improve your resilience posture in AWS. Dive deep into real-world failure modes, and",
+    "time": "Wed, 29 Nov 2023 02:56:22 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Data modeling core concepts for Amazon DynamoDB (DAT329)",
+    "url": "https://www.youtube.com/watch?v=l-Urbf4BaWg",
+    "summary": "Developers experienced with Amazon DynamoDB can join this session to learn the core concepts of DynamoDB data modeling. Explore best practices for common access patterns used by DynamoDB customers for applications that need consistent, fast performance at any scale. Learn best practices and trade-offs to make when deciding on single-table and multi-table designs, indexing strategies, and more. Lea",
+    "time": "Wed, 29 Nov 2023 03:37:27 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - NBCUniversal drives media effectiveness through modernized TV (MAE205)",
+    "url": "https://www.youtube.com/watch?v=MGRxs2V82Jk",
+    "summary": "Changes in consumer behavior, fragmentation of media across new and existing platforms, and increased focus on measurable outcomes have led to growing complexity across the advertising ecosystem. With One Platform, NBCUniversal has been on a journey to build a video platform that combines the power of professionally produced, culture-defining content with the benefits of best-in-class media techno",
+    "time": "Wed, 29 Nov 2023 03:40:58 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Compute innovation for any application, anywhere (CMP219)",
+    "url": "https://www.youtube.com/watch?v=dxm93_qgRzk",
+    "summary": "AWS offers the most comprehensive set of capabilities and continually innovates across our infrastructure and services so you can build, run, and scale applications in the cloud, on premises, and at the edge. Join Dave Brown, VP of Amazon EC2 Networking and Compute Services, to hear about the moments that sparked innovations such as instances, containers, and serverless technologies as well as the",
+    "time": "Wed, 29 Nov 2023 05:18:08 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS re:Invent 2023 - CEO Keynote with Adam Selipsky",
+    "url": "https://www.youtube.com/watch?v=PMfn9_nTDbM",
+    "summary": "Adam Selipsky, CEO of Amazon Web Services, shares his perspective on cloud transformation. He highlights innovations in data, infrastructure, and artificial intelligence and machine learning that are helping AWS customers achieve their goals faster, mine untapped potential, and create a better future. Featuring customer speakers: Dario Amodei, CEO and Co-Founder, Anthropic; Stephan Durach, Senior",
+    "time": "Wed, 29 Nov 2023 02:40:34 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "Boost generative AI application development with Agents for Amazon Bedrock",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/boost-generative-ai-development-agents-bedrock/",
+    "summary": "Now generally available, fully managed Agents for Amazon Bedrock enables generative AI applications to execute multi-step tasks across company systems and data sources. Agents can plan and perform business tasks, such as answering questions about product availability or taking orders. Customers can create an agent in just a few clicks by writing a few instructions in natural language, providing a",
+    "time": "Tue, 28 Nov 2023 18:07:38 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/",
+    "summary": "Amazon Bedrock is an easy way to build and scale generative AI applications with leading foundation models (FMs). Amazon Bedrock now supports fine-tuning for Meta Llama 2 and Cohere Command Light, along with Amazon Titan Text Lite and Amazon Titan Text Express FMs, so you can use labeled datasets to increase model accuracy for particular tasks.",
+    "time": "Tue, 28 Nov 2023 18:09:20 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Knowledge Bases for Amazon Bedrock is now generally available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-knowledge-bases/",
+    "summary": "Now generally available, fully managed Knowledge Bases for Amazon Bedrock securely connects foundation models (FMs) to internal company data sources for Retrieval Augmented Generation (RAG) to deliver more relevant, context-specific, and accurate responses. Knowledge bases extend the FM’s powerful capabilities to make it more knowledgeable about your business, customers, and offerings.",
+    "time": "Tue, 28 Nov 2023 18:14:15 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS Chatbot now supports Amazon Q conversations in Microsoft Teams and Slack",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-chatbot-q-conversations-teams-slack/",
+    "summary": "We are excited to announce the public preview of Amazon Q in AWS Chatbot, which provides summarized and concise answers to customers’ AWS-related queries in a conversational experience in Microsoft Teams and Slack. Customers receive concise and trustworthy answers to their questions to accelerate their understanding of the AWS services, architect solutions, and troubleshoot issues.",
+    "time": "Tue, 28 Nov 2023 18:45:01 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Announcing Amazon Q expert capabilities for AWS (Preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-expert-capabilities-aws-preview/",
+    "summary": "Today, AWS announces a range of capabilities in preview in Amazon Q to supercharge work for developers and IT professionals and provide expert assistance when building, deploying, and operating applications and workloads on AWS. Amazon Q is a generative AI-powered assistant that can be tailored to your business, code, data, and operations.",
+    "time": "Tue, 28 Nov 2023 18:46:30 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Q offers help to optimize EC2 instance type selection (preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-optimal-ec2-instance-selection-workload/",
+    "summary": "Today, Amazon Web Services, Inc. (AWS) announced that Amazon Q can help you select Amazon EC2 instances. Amazon Q uses machine learning to help customers take quick and cost-effective decisions for their compute instance type before building their workloads. Amazon Q generates personalized EC2 instance suggestions for customers using the AWS Management Console or AWS documentation site. Its natur",
+    "time": "Tue, 28 Nov 2023 19:37:38 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Q in QuickSight simplifies data exploration with Generative BI capabilities (Preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-quicksight-data-exploration-generative-bi-capabilities-preview/",
+    "summary": "Today, Amazon QuickSight announces three new natural language capabilities enabled by Amazon Q for business users. Launching in preview, these capabilities can summarize dashboards, generate mini dashboards to answer data questions, and build stories explaining data.",
+    "time": "Tue, 28 Nov 2023 18:46:45 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Q, Your Expert Assistant for Building on AWS | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=UIkrkhuzxRg",
+    "summary": "Amazon Q is a new type of generative AI-powered assistant that is specifically designed for work and can be tailored to your business to have conversations, solve problems, generate content, and take actions using the data and expertise found in your company’s information repositories, code, and enterprise systems. Amazon Q has been trained on 17 years’ worth of high-quality AWS information so it",
+    "time": "Tue, 28 Nov 2023 18:42:54 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "Amazon Q, Your Business Expert | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=1r3MVD1xVRk",
+    "summary": "Amazon Q is a new type of generative AI-powered assistant that is specifically designed for work and can be tailored to your business to have conversations, solve problems, generate content, and take actions using the data and expertise found in your company’s information repositories, code, and enterprise systems. Watch how Amazon Q, your business expert, provides immediate, relevant, and actiona",
+    "time": "Tue, 28 Nov 2023 18:43:20 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/",
+    "summary": "Today, I’m happy to share that Amazon Q in QuickSight is available for preview. Now you can experience the Generative BI capabilities in Amazon QuickSight announced on July 26, as well as two additional capabilities for business users. Turning insights into impact faster with Amazon Q in QuickSight With this announcement, business users can now generate compelling sharable stories examining their",
+    "time": "Tue, 28 Nov 2023 18:41:41 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Amazon Q in QuickSight | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=yBHYe8ts7NQ",
+    "summary": "Amazon Q in QuickSight enhances productivity of business analysts and business users by using Generative BI capabilities to quickly build compelling visuals, summarize insights, answer data questions, and build data stories using natural language. Learn more about Amazon QuickSight at https://aws.amazon.com/quicksight/. Subscribe: More AWS videos: https://go.aws/3m5yEMW More AWS events videos: htt",
+    "time": "Tue, 28 Nov 2023 18:44:34 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Building high-performance gaming applications with Redis (BOA320)",
+    "url": "https://www.youtube.com/watch?v=jyikCMVzc-w",
+    "summary": "In this session, explore Redis data structures and the infrastructure prerequisites tailored for real-time gaming applications. These use cases encompass elements like leaderboards, in-game messaging, notifications, and more. To facilitate comprehension, see these concepts come to life with a practical example: a game you can actively engage in! By the end of this session, gain a comprehensive und",
+    "time": "Tue, 28 Nov 2023 18:58:01 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service is now available",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-zero-etl-integration-with-amazon-opensearch-service-is-now-generally-available/",
+    "summary": "Today, we are announcing the general availability of Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service , which lets you perform a search on your DynamoDB data by automatically replicating and transforming it without custom code or infrastructure. This zero-ETL integration reduces the operational burden and cost involved in writing code for a data pipeline architecture, keeping t",
+    "time": "Tue, 28 Nov 2023 19:06:25 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Knowledge Bases now delivers fully managed RAG experience in Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/",
+    "summary": "Back in September, we introduced Knowledge Bases for Amazon Bedrock in preview. Starting today, Knowledge Bases for Amazon Bedrock is generally available. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for Retrieval Augmented Generation (RAG). Access to additional data helps the model generate more relevant, context-specific, and acc",
+    "time": "Tue, 28 Nov 2023 18:01:11 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Agents for Amazon Bedrock is now available with improved control of orchestration and visibility into reasoning",
+    "url": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-is-now-available-with-improved-control-of-orchestration-and-visibility-into-reasoning/",
+    "summary": "Back in July, we introduced Agents for Amazon Bedrock in preview. Today, Agents for Amazon Bedrock is generally available. Agents for Amazon Bedrock helps you accelerate generative artificial intelligence (AI) application development by orchestrating multistep tasks. Agents uses the reasoning capability of foundation models (FMs) to break down user-requested tasks into multiple steps. They use th",
+    "time": "Tue, 28 Nov 2023 18:03:52 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Best practices for querying vector data for gen AI apps in PostgreSQL (DAT407)",
+    "url": "https://www.youtube.com/watch?v=PhIC4JlYg7A",
+    "summary": "PostgreSQL makes it easier to store and query vector data for AI/ML use cases with the pgvector extension. Learning best practices for vector search will help you deliver a high-performance experience to your customers. In this session, learn how to store data from Amazon Bedrock in an Amazon Aurora PostgreSQL-Compatible Edition database and learn what SQL queries and tuning parameters optimize th",
+    "time": "Tue, 28 Nov 2023 19:45:16 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
+    "summary": "Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service provides customers advanced search capabilities, such as full-text and vector search, on their Amazon DynamoDB data. With a few button clicks in the AWS console, customers can now seamlessly synchronize their data from Amazon DynamoDB to Amazon OpenSearch Service, eliminating the need to write any custom code to extract, transfor",
+    "time": "Tue, 28 Nov 2023 19:17:59 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Upgrade your Java applications with Amazon Q Code Transformation (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/",
+    "summary": "As our applications age, it takes more and more effort just to keep them secure and running smoothly. Developers managing the upgrades must spend time relearning the intricacies and nuances of breaking changes and performance optimizations others have already discovered in past upgrades. As a result, it’s difficult to balance the focus between new features and essential maintenance work. Today, w",
+    "time": "Tue, 28 Nov 2023 18:37:31 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Improve developer productivity with generative-AI powered Amazon Q in Amazon CodeCatalyst (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/improve-developer-productivity-with-generative-ai-powered-amazon-q-in-amazon-codecatalyst-preview/",
+    "summary": "Today, I’m excited to introduce the preview of new generative artificial intelligence (AI) capabilities within Amazon CodeCatalyst that accelerate software delivery using Amazon Q. Accelerate feature development – The feature development capability in Amazon Q can help you accelerate the implementation of software development tasks such as adding comments and READMEs, refining issue descriptions,",
+    "time": "Tue, 28 Nov 2023 18:35:08 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - How to control bots and help prevent account fraud using AWS WAF (NET321)",
+    "url": "https://www.youtube.com/watch?v=AD2PBzhzIv8",
+    "summary": "Learn how you can effectively deploy AWS WAF to filter and control requests from bots to safeguard your online applications, and discover proactive measures to combat credential stuffing and enhance user account security. Come away from this session with insights into best practices and real-world examples to help you implement robust protection mechanisms. Join this session for a comprehensive di",
+    "time": "Tue, 28 Nov 2023 20:46:22 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Introducing Amazon Q Code Transformation | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=ZlX47vu7oK8",
+    "summary": "Amazon Q Code Transformation can intelligently upgrade application language versions, starting with Java. It analyzes the entire source code of your application to be transformed, identifies mandatory package dependencies and frameworks, and replaces deprecated code with working code. It also incorporates security best practices and executes tests to validate the new upgraded application. Soon, Am",
+    "time": "Tue, 28 Nov 2023 18:46:31 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "Introducing Amazon Q, the generative AI-powered Assistant Tailored for Work | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=bZsIPinetV4",
+    "summary": "Amazon Q is a new type of generative AI-powered assistant that is specifically designed for work and can be tailored to your business to have conversations, solve problems, generate content, and take actions using the data and expertise found in your company’s information repositories, code, and enterprise systems. Watch how Amazon Q, your business expert, provides immediate, relevant, and actiona",
+    "time": "Tue, 28 Nov 2023 18:43:44 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "Amazon Q brings generative AI-powered assistance to IT pros and developers (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-q-brings-generative-ai-powered-assistance-to-it-pros-and-developers-preview/",
+    "summary": "Today, we are announcing the preview of Amazon Q , a new type of generative artificial intelligence (AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Amazon Q brings a set of capabilities to support developers and IT professionals. Now you can use Amazon Q to get started building applications on AWS, research best practices, resolve errors, and get",
+    "time": "Tue, 28 Nov 2023 18:30:35 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Announcing the Amazon S3 Express One Zone storage class",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/",
+    "summary": "The Amazon S3 Express One Zone storage class is purpose-built to deliver the fastest cloud object storage for performance-critical applications that demand consistent single-digit millisecond request latency. S3 Express One Zone can improve data access speeds by 10x and reduce request costs by 50% compared to S3 Standard and scales to process millions of requests per minute for your most frequent",
+    "time": "Tue, 28 Nov 2023 17:21:30 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "How Smartsheet optimized cost and performance with AWS Graviton and AWS Fargate",
+    "url": "https://aws.amazon.com/blogs/containers/how-smartsheet-optimized-cost-and-performance-with-aws-graviton-and-aws-fargate/",
+    "summary": "The post was co-written by Skylar Graika (Sr Principal Engineer, Smartsheet) Introduction Highly successful companies know that maintaining an accelerated pace of innovation is key to continued growth. They are increasingly looking to modernize their digital backbone of applications and development practices to support faster innovation and improved performance, security, and reliability, while m",
+    "time": "Tue, 28 Nov 2023 11:07:52 GMT+1",
+    "sourceTitle": "Containers ",
+    "sourceUrl": "https://aws.amazon.com/blogs/containers/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - Monday Night Live Keynote with Peter DeSantis",
+    "url": "https://www.youtube.com/watch?v=pJG6nmR7XxI",
+    "summary": "Peter DeSantis, Senior Vice President of AWS Utility Computing, continues the Monday Night Live tradition of diving deep into the engineering that powers AWS services. He will provide a closer look at how AWS' unique approach and culture of innovation help create leading-edge solutions across the entire spectrum, from silicon to services—without compromising on performance or cost. Featuring custo",
+    "time": "Tue, 28 Nov 2023 09:54:31 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Announcing Multi-Account Experiments for AWS Fault Injection Service",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/multi-account-experiments-aws-fault-injection-service/",
+    "summary": "Today, AWS announces the support of multi-account experiments for AWS Fault Injection Service (FIS). This feature allows you to set up and run real-world failure scenarios on an application which spans multiple AWS accounts using a single FIS experiment. You can centrally configure, monitor, and review an experiment that targets resources in multiple accounts.",
+    "time": "Mon, 27 Nov 2023 20:41:37 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS Step Functions launches support for HTTPS endpoints and a new TestState API",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-https-endpoints-teststate-api/",
+    "summary": "AWS Step Functions announces support for HTTPS endpoints, so you can now integrate with virtually any SaaS application directly from your workflows. In addition, AWS Step Functions launches a new TestState API to test a single step in your workflow, that helps accelerate development so you can deploy new features fast.",
+    "time": "Mon, 27 Nov 2023 04:31:20 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Announcing AWS Console-to-Code (Preview) to generate code for console actions",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-console-to-code-preview-generate-console-actions/",
+    "summary": "Today, Amazon Web Services, Inc. (AWS) announced AWS Console-to-Code is in preview. It is a generative AI capability that makes it simple, fast, and cost-effective to move from prototyping in the AWS Management Console to deploying production code for your workloads. Customers can now generate code for their console actions in their preferred format. The code helps customers get started and boots",
+    "time": "Mon, 27 Nov 2023 04:32:25 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS AI services enhanced with FM-powered capabilities",
+    "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/",
+    "summary": "Artificial intelligence (AI) continues to transform how we do business and serve our customers. AWS offers a range of pre-trained AI services that provide ready-to-use intelligence for your applications. In this post, we explore the new AI service capabilities and how they are enhanced using foundation models (FMs). We focus on the following major updates in this post across key AI services: Amaz",
+    "time": "Mon, 27 Nov 2023 17:03:39 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Introducing three new NVIDIA GPU-based Amazon EC2 instances",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/",
+    "summary": "Amazon Elastic Compute Cloud (Amazon EC2) accelerated computing portfolio offers the broadest choice of accelerators to power your artificial intelligence (AI), machine learning (ML), graphics, and high performance computing (HPC) workloads. We are excited to announce the expansion of this portfolio with three new instances featuring the latest NVIDIA GPUs: Amazon EC2 P5e instances powered by NVI",
+    "time": "Tue, 28 Nov 2023 24:14:48 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Simplify AWS Marketplace activity visualization with a single pane of glass",
+    "url": "https://aws.amazon.com/blogs/awsmarketplace/simplify-aws-marketplace-activity-visualization-with-a-single-pane-of-glass/",
+    "summary": "AWS Marketplace has released a new dashboard, AWS Marketplace Single Pane of Glass (SPG) , which gives buyers a unified view of their AWS Marketplace usage, cost, and subscription activity across the entire organization. SPG is a part of the AWS Cloud Intelligence dashboards framework and expands upon the existing AWS Marketplace visualizations available in the Cost and Usage dashboards Operation",
+    "time": "Tue, 28 Nov 2023 24:26:11 GMT+1",
+    "sourceTitle": "AWS Marketplace ",
+    "sourceUrl": "https://aws.amazon.com/blogs/awsmarketplace/"
+  },
+  {
+    "title": "Introducing Amazon One Enterprise (Preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-one-enterprise-preview/",
+    "summary": "Today we announce Amazon One Enterprise , a palm-based identity service for enterprise access control. The service enables organizations to provide a fast, convenient, and contactless experience for employees and authorized users to gain access to physical locations as well as digital assets such as restricted software resources. Amazon One Enterprise eliminates operational overhead associated wi",
+    "time": "Tue, 28 Nov 2023 06:02:55 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Mountpoint for Amazon S3 CSI driver is now generally available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-csi-driver/",
+    "summary": "With the new Mountpoint for Amazon S3 Container Storage Interface (CSI) driver, your Kubernetes applications can access S3 objects through a file system interface, achieving high aggregate throughput without any changes to your application. Built on Mountpoint for Amazon S3 , the CSI driver presents an S3 bucket as a volume accessible by containers in Amazon Elastic Kubernetes Service (Amazon EKS",
+    "time": "Tue, 28 Nov 2023 06:19:43 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS Audit Manager launches AWS Best Practices Framework for Generative AI",
+    "url": "https://aws.amazon.com/blogs/mt/aws-audit-manager-launches-aws-best-practices-framework-for-generative-ai/",
+    "summary": "The rapid growth of generative AI brings promising new innovation, and at the same time raises new challenges. At AWS, we are committed to developing AI responsibly while enabling customers to provide assurance regarding the security of their environment to regulators and auditors. AWS Audit Manager announces the first version of AWS best practices framework for generative AI that automates evide",
+    "time": "Tue, 28 Nov 2023 01:54:51 GMT+1",
+    "sourceTitle": "AWS Cloud Operations & Migrations Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/mt/"
+  },
+  {
+    "title": "AWS re:Invent 2023 - The power of cloud network innovation (NET208)",
+    "url": "https://www.youtube.com/watch?v=rwmAXlcHAvk",
+    "summary": "From the very beginning, the AWS network has been the foundation for how AWS delivers on the promise of cloud computing. In this talk, join Dave Brown, VP of Amazon EC2 Networking and Compute Services, as he looks at the history of AWS networking and how its growth and innovation continues to this day—helping unleash your creativity and make leaps forward in what’s possible. With a combination of",
+    "time": "Tue, 28 Nov 2023 04:45:07 GMT+1",
+    "sourceTitle": "AWS Events ",
+    "sourceUrl": "https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw"
+  },
+  {
+    "title": "Amazon ElastiCache Serverless for Redis and Memcached is now available",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/",
+    "summary": "Today, we are announcing the availability of Amazon ElastiCache Serverless , a new serverless option that allows customers to create a cache in under a minute and instantly scale capacity based on application traffic patterns. ElastiCache Serverless is compatible with two popular open-source caching solutions, Redis and Memcached. You can use ElastiCache Serverless to operate a cache for even the",
+    "time": "Tue, 28 Nov 2023 05:23:21 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Introducing Amazon ElastiCache Serverless | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=v0zozYN-mdI",
+    "summary": "Amazon ElastiCache Serverless is a serverless option that helps you create a highly available cache in under a minute without infrastructure provisioning or configuration. ElastiCache Serverless eliminates capacity management by continuously monitoring a cache's compute, memory, and network utilization and instantly scales vertically and horizontally to meet demand without downtime or performance",
+    "time": "Tue, 28 Nov 2023 05:32:00 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "Amazon Managed Service for Prometheus launches an agentless collector for Prometheus metrics from Amazon EKS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-managed-service-prometheus-agentless-collector-metrics-eks/",
+    "summary": "We are excited to announce Amazon Managed Service for Prometheus collector, a fully-managed agentless collector customers can use to collect Prometheus metrics from their workloads running on Amazon EKS. Customers can now enable the discovery and collection of Prometheus metrics from their Amazon EKS applications and infrastructure through the EKS console or through an API call, without having to",
+    "time": "Sun, 26 Nov 2023 21:18:25 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Announcing the general availability of AWS re:Post Private",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/general-availability-aws-re-post-private/",
+    "summary": "Today, AWS announces the general availability of AWS re:Post Private, a fully managed, secure knowledge service for enterprises to accelerate cloud adoption and improve developer productivity. Using re:Post Private, enterprises can create their own private version of AWS re:Post to collaborate with their company and with AWS. This allows you to streamline collaboration and knowledge sharing withi",
+    "time": "Sun, 26 Nov 2023 21:18:45 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Managed Service for Prometheus collector provides agentless metric collection for Amazon EKS",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-managed-service-for-prometheus-collector-provides-agentless-metric-collection-for-amazon-eks/",
+    "summary": "Today, I’m happy to announce a new capability, Amazon Managed Service for Prometheus collector, to automatically and agentlessly discover and collect Prometheus metrics from Amazon Elastic Kubernetes Service (Amazon EKS) . Amazon Managed Service for Prometheus collector consists of a scraper that discovers and collects metrics from Amazon EKS applications and infrastructure without needing to run",
+    "time": "Sun, 26 Nov 2023 20:39:18 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
+    "summary": "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a fully managed machine learning (ML) service that makes it easy for developers to deliver personali",
+    "time": "Sun, 26 Nov 2023 20:41:05 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Mutual authentication for Application Load Balancer reliably verifies certificate-based client identities",
+    "url": "https://aws.amazon.com/blogs/aws/mutual-authentication-for-application-load-balancer-to-reliably-verify-certificate-based-client-identities/",
+    "summary": "Today, we are announcing support for mutually authenticating clients that present X509 certificates to Application Load Balancer . With this new feature, you can now offload client authentication to the load balancer, ensuring only trusted clients communicate with their backend applications. This new capability is built on S2N , AWS’s open source Transport Layer Security (TLS) implementation that",
+    "time": "Sun, 26 Nov 2023 20:55:37 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Application Load Balancer can authenticate X.509 certificate based identities with Mutual TLS support",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-authenticate-x509-certificate-based-identities/",
+    "summary": "Application Load Balancer (ALB) now supports Mutual TLS enabling you to authenticate clients while establishing TLS encrypted connections.",
+    "time": "Sun, 26 Nov 2023 21:20:50 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Introducing Cost Optimization Hub",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/cost-optimization-hub/",
+    "summary": "Today we are announcing Cost Optimization Hub, a new AWS Billing and Cost Management feature that helps you consolidate and prioritize cost optimization recommendations across your AWS Organizations member accounts and AWS Regions, so that you can get the most out of your AWS spend.",
+    "time": "Sun, 26 Nov 2023 21:21:10 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Using ENA Express to improve workload performance on AWS",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-ena-express-to-improve-workload-performance-on-aws/",
+    "summary": "In this blog post, we highlight how Elastic Network Adapter (ENA) Express can improve workload performance in conventional network applications, such as databases, file systems, and media encoding. We begin by demonstrating how ENA Express can significantly improve tail latency when used with in-memory databases. From there, we will explore the advantages it offers to file systems, with a special",
+    "time": "Sun, 26 Nov 2023 20:56:32 GMT+1",
+    "sourceTitle": "AWS Networking and Content Delivery ",
+    "sourceUrl": "https://aws.amazon.com/blogs/networking-and-content-delivery/"
+  },
+  {
+    "title": "Powered by foundation model, Amazon Transcribe now supports over 100 languages",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/",
+    "summary": "Today, we are excited to announce Amazon Transcribe’s next generation, multi-billion parameter speech foundation model-powered system that expands automatic speech recognition (ASR) to over 100 languages . Amazon Transcribe is a fully managed ASR service that makes it easy for customers to add speech-to-text capabilities to their applications. Our speech foundation model is trained using best-in-",
+    "time": "Sun, 26 Nov 2023 21:21:10 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "ENA Express supports 58 new instances with sizes as small as 16 vCPUs",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/ena-express-58-instances-sizes-16-vcpus/",
+    "summary": "ENA Express now supports 58 new instance types ranging from 16 to 192 vCPUs. With this launch, ENA Express is adding support for 20 new memory optimized instances, 15 new compute optimized instances, 15 new general purpose instances, and 8 new storage instances. Before today, ENA Express supported only the largest instance size, totaling 27 instances as small as 64 vCPUs.",
+    "time": "Sun, 26 Nov 2023 21:21:40 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon EKS Pod Identity simplifies IAM permissions for applications on Amazon EKS clusters",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/",
+    "summary": "Starting today, you can use Amazon EKS Pod Identity to simplify your applications that access AWS services. This enhancement provides you with a seamless and easy to configure experience that lets you define required IAM permissions for your applications in Amazon Elastic Kubernetes Service (Amazon EKS) clusters so you can connect with AWS services outside the cluster. Amazon EKS Pod Identity hel",
+    "time": "Mon, 27 Nov 2023 03:33:34 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Use natural language to query Amazon CloudWatch logs and metrics (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/use-natural-language-to-query-amazon-cloudwatch-logs-and-metrics-preview/",
+    "summary": "To make it easy to interact with your operational data, Amazon CloudWatch is introducing today natural language query generation for Logs and Metrics Insights. With this capability, powered by generative artificial intelligence (AI) , you can describe in English the insights you are looking for, and a Logs or Metrics Insights query will be automatically generated. This feature provides three main",
+    "time": "Sun, 26 Nov 2023 21:55:36 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "External endpoints and testing of task states now available in AWS Step Functions",
+    "url": "https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/",
+    "summary": "Now AWS Step Functions HTTPS endpoints let you integrate third-party APIs and external services to your workflows. HTTPS endpoints provide a simpler way of making calls to external APIs and integrating with existing SaaS providers, like Stripe for handling payments, GitHub for code collaboration and repository management, and Salesforce for sales and marketing insights. Before this launch, custom",
+    "time": "Mon, 27 Nov 2023 03:36:54 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "AWS Lambda functions now scale 12 times faster when handling high-volume requests",
+    "url": "https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/",
+    "summary": "Now AWS Lambda scales up to 12 times faster. Each synchronously invoked Lambda function now scales by 1,000 concurrent executions every 10 seconds until the aggregate concurrency across all functions reaches the account’s concurrency limit. In addition, each function within an account now scales independently from each other, no matter how the functions are invoked . These improvements come at no",
+    "time": "Mon, 27 Nov 2023 03:45:52 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Amazon WorkSpaces Thin Client End-user Setup Video | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=lyTNqZewqe8",
+    "summary": "Video provides step-by-step instructions an end user can follow to set up Amazon WorkSpaces Thin Client device in minutes. Learn more about Amazon WorkSpaces Thin Client at https://go.aws/3R4z4im. Subscribe: More AWS videos: https://go.aws/3m5yEMW More AWS events videos: https://go.aws/3ZHq4BK Do you have technical AWS questions? Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb",
+    "time": "Mon, 27 Nov 2023 04:10:25 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops",
+    "url": "https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/",
+    "summary": "The new Amazon WorkSpaces Thin Client improves end-user and IT staff productivity with cost-effective, secure, easy-to-manage access to virtual desktops. The devices are preconfigured and shipped directly to the end user, ready to deploy, connect, and use. Here’s my testing setup: The Thin Client is a small cube that connects directly to a monitor, keyboard, mouse, and other USB peripherals such",
+    "time": "Mon, 27 Nov 2023 03:29:27 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Improving availability with Application Load Balancer automatic target weights",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/improving-availability-with-application-load-balancer-automatic-target-weights/",
+    "summary": "In this blog, we explore Automatic Target Weights (ATW), which can reduce the number of errors web application users experience. ATW provides the ability to detect and mitigate gray failures for targets behind Application Load Balancers (ALB). A gray failure occurs when an ALB target passes active load balancer health checks, making it look healthy, but still returns errors. This scenario could b",
+    "time": "Sun, 26 Nov 2023 18:02:50 GMT+1",
+    "sourceTitle": "AWS Networking and Content Delivery ",
+    "sourceUrl": "https://aws.amazon.com/blogs/networking-and-content-delivery/"
+  },
+  {
+    "title": "Logs support now available in AWS Distro for OpenTelemetry",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/logs-support-aws-distro-opentelemetry/",
+    "summary": "Today, we are announcing the general availability of logs in the AWS Distro for OpenTelemetry (ADOT). ADOT is a secure, production-ready, AWS supported distribution of the OpenTelemetry project. With this launch, customers can use the ADOT collector and supported OpenTelemetry SDKs (for Java, JavaScript, .NET, and Python) to collect and send logs to Amazon CloudWatch and backends supporting OpenT",
+    "time": "Wed, 22 Nov 2023 20:52:34 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Mountpoint for Amazon S3 optimizes for repeated data access",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-optimizes-repeated-data-access/",
+    "summary": "Mountpoint for Amazon S3 can now cache data in Amazon EC2 instance storage, instance memory, or an Amazon EBS volume for repeated data access. This avoids redundant requests to Amazon S3 when you need to read the same data multiple times, which improves both the cost and performance of your application. For example, by using Mountpoint for Amazon S3 and caching data in Amazon EC2 instance storage",
+    "time": "Thu, 23 Nov 2023 24:31:22 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
+    "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
+    "summary": "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent. And although generative AI has appeared in previous events, this year we’re taking it to the",
+    "time": "Wed, 22 Nov 2023 23:47:25 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Amazon CloudFront announces CloudFront KeyValueStore, a globally managed key value datastore",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/",
+    "summary": "Amazon CloudFront announces general availability of CloudFront KeyValueStore, a global, low-latency, key value datastore. KeyValueStore allows you to retrieve key value data from within CloudFront Functions making functions more customizable by allowing independent data updates. The key value data is available across all CloudFront edge locations and provides a highly efficient, in-memory, key-va",
+    "time": "Wed, 22 Nov 2023 24:30:50 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions",
+    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/",
+    "summary": "Amazon CloudFront allows you to securely deliver static and dynamic content with low latency and high transfer speeds. With CloudFront Functions, you can perform latency-sensitive customizations for millions of requests per second. For example, you can use CloudFront Functions to modify headers, normalize cache keys, rewrite URLs, or authorize requests. Today, we are introducing CloudFront KeyVal",
+    "time": "Tue, 21 Nov 2023 22:12:33 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Text embedding and sentence similarity retrieval at scale with Amazon SageMaker JumpStart",
+    "url": "https://aws.amazon.com/blogs/machine-learning/text-embedding-and-sentence-similarity-retrieval-at-scale-with-amazon-sagemaker-jumpstart/",
+    "summary": "Text vectors or embeddings are numerical vector representations of text that are generated by large language models (LLMs). After LLMs are fully pre-trained on a large dataset or fine-tuned from different tasks, including text completion, question answering, and translations, text embeddings capture semantic information of the input text. Different downstream applications are made possible by tex",
+    "time": "Tue, 21 Nov 2023 20:37:50 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Build scalable and serverless RAG workflows with a vector engine for Amazon OpenSearch Serverless and Amazon Bedrock Claude models",
+    "url": "https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/",
+    "summary": "In pursuit of a more efficient and customer-centric support system, organizations are deploying cutting-edge generative AI applications. These applications are designed to excel in four critical areas: multi-lingual support, sentiment analysis, personally identifiable information (PII) detection, and conversational search capabilities. Customers worldwide can now engage with the applications in t",
+    "time": "Tue, 21 Nov 2023 18:29:31 GMT+1",
+    "sourceTitle": "AWS Big Data Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/big-data/"
+  },
+  {
+    "title": "Migrating Wasabi Object Storage to Amazon S3 using AWS DataSync",
+    "url": "https://aws.amazon.com/blogs/storage/migrating-wasabi-object-storage-to-amazon-s3-using-aws-datasync/",
+    "summary": "Many organizations find themselves faced with the task of transferring a substantial amount of object data between cloud service providers, there are various scenarios behind such transfers. These scenarios include data consolidation, workload migration, acquisition, and cost optimization efforts. Achieving a successful migration involves several crucial components, including comprehensive data e",
+    "time": "Tue, 21 Nov 2023 24:59:50 GMT+1",
+    "sourceTitle": "AWS Storage Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/storage/"
+  },
+  {
+    "title": "Introducing Amazon CodeWhisperer for command line (preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/",
+    "summary": "Today, AWS announces the preview of Amazon CodeWhisperer for command line. CodeWhisperer now helps developers be more productive in the command line with contextual CLI completions and AI natural-language-to-bash translation.",
+    "time": "Tue, 21 Nov 2023 24:39:39 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Use Amazon SageMaker Studio to build a RAG question answering solution with Llama 2, LangChain, and Pinecone for fast experimentation",
+    "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-to-build-a-rag-question-answering-solution-with-llama-2-langchain-and-pinecone-for-fast-experimentation/",
+    "summary": "Retrieval Augmented Generation (RAG) allows you to provide a large language model (LLM) with access to data from external knowledge sources such as repositories, databases, and APIs without the need to fine-tune it. When using generative AI for question answering, RAG enables LLMs to answer questions with the most relevant, up-to-date information and optionally cite their data sources for verific",
+    "time": "Mon, 20 Nov 2023 21:58:17 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Amazon ECR pull through cache now supports additional upstream registries",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-pull-through-cache-additional-upstream-registries/",
+    "summary": "Amazon Elastic Container Registry (ECR) now includes Docker Hub, Azure Container Registry, and GitHub Container Registry as supported upstream registries for ECR’s pull through cache feature. With today's release, customers can configure a rule that is designed to automatically sync images from the newly supported upstream registries to their private ECR repositories.",
+    "time": "Fri, 17 Nov 2023 23:40:10 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Retrieval-Augmented Generation with LangChain, Amazon SageMaker JumpStart, and MongoDB Atlas semantic search",
+    "url": "https://aws.amazon.com/blogs/machine-learning/retrieval-augmented-generation-with-langchain-amazon-sagemaker-jumpstart-and-mongodb-atlas-semantic-search/",
+    "summary": "Generative AI models have the potential to revolutionize enterprise operations, but businesses must carefully consider how to harness their power while overcoming challenges such as safeguarding data and ensuring the quality of AI-generated content. The Retrieval-Augmented Generation (RAG) framework augments prompts with external data from multiple sources, such as document repositories, database",
+    "time": "Fri, 17 Nov 2023 17:25:16 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
+    "url": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
+    "summary": "Amazon Interactive Video Service (Amazon IVS) is a managed live streaming solution that is designed to provide a quick and straightforward setup to let you build interactive video experiences and handles interactive video content from ingestion to delivery. With the increased usage of live streaming, the need for effective content moderation becomes even more crucial. User-generated content (UGC)",
+    "time": "Fri, 17 Nov 2023 17:27:58 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Live cloud production with TNT Sports",
+    "url": "https://www.youtube.com/watch?v=F7bvXgVEwbc",
+    "summary": "Learn how Warner Bros. Discovery Sports has been migrating their media workflows to gain operational flexibility, have the opportunity to present more data-led stories, and continue to drive deeper audience engagement for TNT Sports. #awscloud #mediaentertainment #broadcast #awsfordata #livecloudproduction",
+    "time": "Fri, 17 Nov 2023 17:19:09 GMT+1",
+    "sourceTitle": "AWS for Media & Entertainment ",
+    "sourceUrl": "https://www.youtube.com/channel/UCj7FkILntTrAzITWw4MWEFA"
+  },
+  {
+    "title": "AWS Integrated Application Test Kit (preview)",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-integrated-application-test-kit-preview/",
+    "summary": "AWS announces the preview of AWS Integrated Application Test Kit (IATK) , a new open-source test library that makes it easier for developers to create tests for cloud applications with increased speed and accuracy. With AWS IATK, developers can quickly write tests that exercise their code and its AWS integrations against an environment in the cloud, making it easier to catch mistakes early in the",
+    "time": "Thu, 16 Nov 2023 21:59:46 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon IVS now supports server-side composition",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ivs-server-side-composition/",
+    "summary": "With server-side composition in Amazon Interactive Video Service (Amazon IVS), you can combine audio and video from stage participants into a composited view. This composited view can then be broadcast to an Amazon IVS channel (e.g., to reach a larger audience) or stored in Amazon Simple Storage Service (Amazon S3) for video on-demand (VOD) viewing.",
+    "time": "Thu, 16 Nov 2023 22:13:14 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon FSx for Lustre now enables you to adjust the throughput tier of your file systems",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-lustre-adjust-throughput-tier-file-systems/",
+    "summary": "Amazon FSx for Lustre, a service that provides cost-effective, high-performance, scalable file storage for compute workloads, now supports throughput scaling. This capability enables you to adjust the throughput tier of your file systems to meet changing performance requirements with greater agility and lower cost.",
+    "time": "Thu, 16 Nov 2023 22:48:52 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Scalable and Cost-Effective Event-Driven Workloads with KEDA and Karpenter on Amazon EKS",
+    "url": "https://aws.amazon.com/blogs/containers/scalable-and-cost-effective-event-driven-workloads-with-keda-and-karpenter-on-amazon-eks/",
+    "summary": "In today’s cloud-native landscape, efficient management of event-driven workloads is essential for real-time data processing. Traditional autoscaling often falls short amidst unpredictable event volumes, leading to inefficiencies and increased costs. Amazon Elastic Kubernetes Service (EKS) , which is a managed container orchestration platform and is well-suited for deploying container-based appli",
+    "time": "Fri, 17 Nov 2023 24:41:48 GMT+1",
+    "sourceTitle": "Containers ",
+    "sourceUrl": "https://aws.amazon.com/blogs/containers/"
+  },
+  {
+    "title": "Happy anniversary, Amazon CloudFront: 15 years of evolution and internet advancements",
+    "url": "https://aws.amazon.com/blogs/aws/happy-anniversary-amazon-cloudfront-15-years-of-evolution-and-internet-advancements/",
+    "summary": "I can’t believe it’s been 15 years since Amazon CloudFront was launched! When Amazon S3 became available in 2006, developers loved the flexibility and started to build a new kind of globally distributed applications where storage was not a bottleneck. These applications needed to be performant, reliable, and cost-efficient for every user on the planet. So in 2008 a small team (a “ two-pizza team",
+    "time": "Thu, 16 Nov 2023 22:52:19 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Optimize AZ traffic costs using Amazon EKS, Karpenter, and Istio",
+    "url": "https://aws.amazon.com/blogs/containers/optimize-az-traffic-costs-using-amazon-eks-karpenter-and-istio/",
+    "summary": "In the evolving cloud-native landscape, enterprises utilizing Amazon Elastic Kubernetes Service (Amazon EKS) often encounter challenges that hinder their pursuit of operational efficiency and cost-effectiveness. Notable among these challenges are the costs associated with Cross Availability Zone (AZ) traffic, with difficulties associated with achieving seamless scalability, hurdles in provisionin",
+    "time": "Fri, 17 Nov 2023 24:47:04 GMT+1",
+    "sourceTitle": "Containers ",
+    "sourceUrl": "https://aws.amazon.com/blogs/containers/"
+  },
+  {
+    "title": "Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/",
+    "summary": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for you to add speech-to-text capabilities to your applications. Today, we are excited to announce automatic language identification support for multi-lingual streams. If you operate in a country with multiple official languages or across multiple regions, your audio streams can contain different languages and s",
+    "time": "Thu, 16 Nov 2023 20:14:38 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Standing on the shoulders of giants: Colm on constant work",
+    "url": "https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html?utm_campaign=inbound&utm_source=rss",
+    "summary": "The Builders' Library gathers the expertise of Amazon's most experience builders in one place. One article that really got me thinking was Colm MacCárthaigh's \"Reliability, constant work, and a good cup of coffee\" which is about an anti-fragility pattern that he developed for building simple, more robust, and cost-effective systems.",
+    "time": "Wed, 15 Nov 2023 14:30:00 GMT+1",
+    "sourceTitle": "All Things Distributed ",
+    "sourceUrl": "https://www.allthingsdistributed.com/"
+  },
+  {
+    "title": "Amazon EKS and Kubernetes sessions at AWS re:Invent 2023",
+    "url": "https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/",
+    "summary": "Introduction AWS re:Invent 2023 is right around the corner, offering a full track of sessions focused on Kubernetes and cloud-native related topics. To help you discover and select the right sessions for you, we’ve listed the sessions below grouped by core focus area with links to the re:Invent sessions catalog. Note that it takes a moment to see the details after selecting the link. One session",
+    "time": "Thu, 16 Nov 2023 24:48:20 GMT+1",
+    "sourceTitle": "Containers ",
+    "sourceUrl": "https://aws.amazon.com/blogs/containers/"
+  },
+  {
+    "title": "Extend your Amazon Managed Grafana experience with Grafana community plugins",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-managed-grafana-community-plugins/",
+    "summary": "Amazon Managed Grafana now features a new self-service plugin management experience for Grafana community plugins. With this release, Amazon Managed Grafana administrators can discover and install Grafana community plugins directly from their workspace. Plugins enable you to extend your Grafana experience, unifying data from a wider variety of data sources with visualizations tailored to analyze",
+    "time": "Wed, 15 Nov 2023 22:05:33 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Best prompting practices for using the Llama 2 Chat LLM through Amazon SageMaker JumpStart",
+    "url": "https://aws.amazon.com/blogs/machine-learning/best-prompting-practices-for-using-the-llama-2-chat-llm-through-amazon-sagemaker-jumpstart/",
+    "summary": "Llama 2 stands at the forefront of AI innovation, embodying an advanced auto-regressive language model developed on a sophisticated transformer foundation. It’s tailored to address a multitude of applications in both the commercial and research domains with English as the primary linguistic concentration. Its model parameters scale from an impressive 7 billion to a remarkable 70 billion. Llama 2",
+    "time": "Wed, 15 Nov 2023 18:37:18 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "The serverless attendee’s guide to AWS re:Invent 2023",
+    "url": "https://aws.amazon.com/blogs/compute/the-serverless-attendees-guide-to-aws-reinvent-2023/",
+    "summary": "AWS re:Invent 2023 is fast approaching, bringing together tens of thousands of Builders in Las Vegas in November. However, even if you can’t attend in person, you can catch up with sessions on-demand. Breakout sessions are lecture-style 60-minute informative sessions presented by AWS experts, customers, or partners. These sessions cover beginner (100 level) topics to advanced and expert (300–400",
+    "time": "Tue, 14 Nov 2023 11:48:30 GMT+1",
+    "sourceTitle": "AWS Compute Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/compute/"
+  },
+  {
+    "title": "Achieve over 500 million requests per second per cluster with Amazon ElastiCache for Redis 7.1",
+    "url": "https://aws.amazon.com/blogs/database/achieve-over-500-million-requests-per-second-per-cluster-with-amazon-elasticache-for-redis-7-1/",
+    "summary": "Amazon ElastiCache for Redis is a fully managed service compatible with the Redis API. ElastiCache is a fast in-memory data store, and many customers choose it to power some of their most performance-sensitive, real-time applications. Today, we are excited to share that you can now effectively maximize your performance by upgrading from ElastiCache for Redis 7.0 to 7.1, and can scale to 500 milli",
+    "time": "Tue, 14 Nov 2023 18:48:19 GMT+1",
+    "sourceTitle": "AWS Database Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/database/"
+  },
+  {
+    "title": "Harness large language models in fake news detection",
+    "url": "https://aws.amazon.com/blogs/machine-learning/harness-large-language-models-in-fake-news-detection/",
+    "summary": "Fake news, defined as news that conveys or incorporates false, fabricated, or deliberately misleading information, has been around as early as the emergence of the printing press. The rapid spread of fake news and disinformation online is not only deceiving to the public, but can also have a profound impact on society, politics, economy, and culture. Examples include: Cultivating distrust in the",
+    "time": "Tue, 14 Nov 2023 18:00:29 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Cohere’s Command Light, Embed English, and multilingual models now available in Amazon Bedrock",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-coheres-light-english-multilingual/",
+    "summary": "You can now access Cohere Command Light, Cohere Embed English, and Cohere Embed multilingual models in Amazon Bedrock . Command is Cohere’s flagship text generation model and is trained to follow user commands and to be useful in business applications. Cohere Embed offers a set of models trained to produce high-quality embeddings from text documents.",
+    "time": "Mon, 13 Nov 2023 21:19:17 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Bedrock now provides access to Meta’s Llama 2 Chat 13B model",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/",
+    "summary": "Today, we’re announcing the availability of Meta’s Llama 2 Chat 13B large language model (LLM) on Amazon Bedrock . With this launch, Amazon Bedrock becomes the first public cloud service to offer a fully managed API for Llama 2, Meta’s next-generation LLM. Now, organizations of all sizes can access Llama 2 Chat models on Amazon Bedrock without having to manage the underlying infrastructure. This",
+    "time": "Mon, 13 Nov 2023 21:15:12 GMT+1",
+    "sourceTitle": "AWS News Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/aws/"
+  },
+  {
+    "title": "Implement real-time personalized recommendations using Amazon Personalize",
+    "url": "https://aws.amazon.com/blogs/machine-learning/implement-real-time-personalized-recommendations-using-amazon-personalize/",
+    "summary": "At a basic level, Machine Learning (ML) technology learns from data to make predictions. Businesses use their data with an ML-powered personalization service to elevate their customer experience. This approach allows businesses to use data to derive actionable insights and help grow their revenue and brand loyalty. Amazon Personalize accelerates your digital transformation with ML, making it easi",
+    "time": "Mon, 13 Nov 2023 20:22:22 GMT+1",
+    "sourceTitle": "AWS Machine Learning Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/"
+  },
+  {
+    "title": "Your guide to AWS Analytics at AWS re:Invent 2023",
+    "url": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2023/",
+    "summary": "Join the AWS Analytics team at AWS re:Invent this year, where new ideas and exciting innovations come together. For those in the data world, this post provides a curated guide for all analytics sessions that you can use to quickly schedule and build your itinerary. Book your spot early for the sessions you do not want to miss. You can do this through the attendee portal , and if you cannot make i",
+    "time": "Mon, 13 Nov 2023 20:29:08 GMT+1",
+    "sourceTitle": "AWS Big Data Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/big-data/"
+  },
+  {
+    "title": "Efficient Vector Search with Amazon OpenSearch",
+    "url": "https://medium.com/trackit/efficient-vector-search-with-amazon-opensearch-c88083051168?source=rss----d39762e03b65---4",
+    "summary": "Amazon OpenSearch , derived from a mature version of Elasticsearch, is a highly scalable, fully managed search and analytics service that has become a cornerstone for businesses seeking to extract valuable insights from their data. With the advent of serverless computing, the landscape of deploying and managing OpenSearch has evolved significantly. One of the most exciting developments in this sp",
+    "time": "Mon, 06 Nov 2023 12:01:42 GMT+1",
+    "sourceTitle": "TrackIt ",
+    "sourceUrl": "https://medium.com/trackit?source=rss----d39762e03b65---4"
+  },
+  {
+    "title": "Generative AI Trends and Opportunities for AWS Partners: A Conversation with McKinsey & Company",
+    "url": "https://aws.amazon.com/blogs/apn/generative-ai-trends-and-opportunities-for-aws-partners-a-conversation-with-mckinsey-and-company/",
+    "summary": "By Priya Arora, Global Head of Generative AI Center of Excellence – AWS Partner Organization As the AWS Partner community continues to build and evolve its generative artificial intelligence (AI) offerings to meet customer needs, consistent areas of inquiry have emerged that require insights to inform partners’ investments and where and how they recommend their customers invest. These insights in",
+    "time": "Thu, 09 Nov 2023 21:44:16 GMT+1",
+    "sourceTitle": "AWS Partner Network (APN) Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/apn/"
+  },
+  {
+    "title": "Amazon Aurora Global Database for PostgreSQL now supports write forwarding",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-global-database-postgresql-forwarding/",
+    "summary": "Amazon Aurora Global Database for PostgreSQL now lets you forward write requests from a secondary to a primary Region, simplifying writing from multiple Regions and making it easier to develop globally distributed applications. With this launch, write forwarding is now available on both Aurora Global Database for MySQL and PostgreSQL.",
+    "time": "Fri, 10 Nov 2023 24:12:44 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon OpenSearch Service introduces Neural Search",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-neural-search/",
+    "summary": "Amazon OpenSearch Service now supports Neural Search on OpenSearch 2.9, enabling builders to create and operationalize semantic search applications with reduced undifferentiated heavy-lifting. For years, customers have been building semantic search applications on OpenSearch k-NN, but they’ve been burdened with building middleware to integrate text embedding models into search and ingest pipeline",
+    "time": "Thu, 09 Nov 2023 21:17:29 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Best practices for sizing your Amazon ElastiCache for Redis clusters",
+    "url": "https://aws.amazon.com/blogs/database/best-practices-for-sizing-your-amazon-elasticache-for-redis-clusters/",
+    "summary": "Amazon ElastiCache for Redis is a fully managed Redis- and Memcached-compatible service delivering real-time, cost-optimized performance for modern applications. It scales to hundreds of millions of operations per second with microsecond response time, and offers enterprise-grade security and reliability. You can scale ElastiCache for Redis seamlessly to accommodate changes in your application us",
+    "time": "Thu, 09 Nov 2023 20:24:27 GMT+1",
+    "sourceTitle": "AWS Database Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/database/"
+  },
+  {
+    "title": "Announcing next generation Resiliency Scores for AWS Resilience Hub",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/next-generation-resiliency-scores-aws-resilience-hub/",
+    "summary": "Today, AWS Resilience Hub announces enhancements to its Resiliency Score capability, which now provides more actionable recommendations customers can implement to improve their application resilience and increase their score. Combined with the Exclude Recommendation capability, customer can emphasize different parts of the Resiliency Score that are most relevant to their application. Amazon Elast",
+    "time": "Thu, 09 Nov 2023 20:25:42 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "CPU vs GPU for Video Transcoding: Challenging the Cost-Speed Myth",
+    "url": "https://towardsaws.com/cpu-vs-gpu-for-video-transcoding-challenging-the-cost-speed-myth-b5e0726ce3e8?source=rss----5da0267791b1---4",
+    "summary": "A Cost-Centric Benchmarking Never Done Before Using FFmpeg on AWS Introduction When evaluating computational power, especially in terms of CPUs and GPUs, there’s a prevailing narrative. A general belief is, that CPUs may take longer to process, but they’re cost-effective, whereas GPUs might be faster but operate at a higher cost. How true is this widely accepted notion? To challenge this belief,",
+    "time": "Sun, 15 Oct 2023 09:30:57 GMT+2",
+    "sourceTitle": "Towards AWS ",
+    "sourceUrl": "https://towardsaws.com/?source=rss----5da0267791b1---4"
+  },
+  {
+    "title": "AWS announces Amazon Aurora PostgreSQL Optimized Reads",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-optimized-reads/",
+    "summary": "AWS announces Amazon Aurora Optimized Reads for Aurora PostgreSQL, a new price-performance capability available on new r6gd and r6id instances that delivers up to 8x improved query latency and up to 30% cost savings compared to instances without it, for applications with large datasets that exceed the memory capacity of a database instance.",
+    "time": "Wed, 08 Nov 2023 22:23:02 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Amazon Kinesis Video Streams WebRTC Ingestion is now generally available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-video-streams-webrtc-ingestion/",
+    "summary": "Amazon Kinesis Video Streams now offers fully managed capabilities to stream video and audio in real-time from Web Real-time Communication (WebRTC) standards compliant cameras, IoT devices and browsers to the cloud for secure storage, playback and analytical processing. Customers can now use our enhanced WebRTC SDK and cloud APIs to enable real-time streaming as well as media ingestion to the clo",
+    "time": "Wed, 08 Nov 2023 20:07:24 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS Audit Manager introduces framework for generative AI on Amazon Bedrock",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-framework-generative-ai-bedrock/",
+    "summary": "Available today, AWS Audit Manager customers can now access a prebuilt standard framework to help gain visibility into how their generative AI implementation on Amazon Bedrock is working against AWS recommended best practices. With this framework, Amazon Bedrock customers can now start auditing their generative AI usage and automating evidence collection, providing a consistent approach for track",
+    "time": "Wed, 08 Nov 2023 19:02:23 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS App Runner is now available in London, Mumbai, and Paris AWS regions",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-london-mumbai-paris-regions/",
+    "summary": "AWS App Runner expands availability to the AWS Europe (London), AWS Asia Pacific (Mumbai), and AWS Europe (Paris) regions, enabling customers to build, deploy, and run web applications and API services in AWS cloud, at scale, and without managing infrastructure.",
+    "time": "Wed, 08 Nov 2023 19:36:22 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "AWS Fault Injection Simulator announces scenarios and scheduled experiments",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/",
+    "summary": "Today, AWS announces the general availability of scenarios and scheduled experiments for AWS Fault Injection Simulator (FIS) . Scenarios define events or conditions that customers can apply to test the resilience of their applications, such as the interruption of compute resources on which the application is running. Scenarios are created and owned by AWS, and minimize undifferentiated heavy lift",
+    "time": "Tue, 07 Nov 2023 23:40:18 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Streamlining Third-party add-on management in Amazon EKS cluster using Terraform and Amazon EKS add-on catalog",
+    "url": "https://aws.amazon.com/blogs/awsmarketplace/streamlining-third-party-add-on-management-amazon-eks-cluster-using-terraform-amazon-eks-add-on-catalog/",
+    "summary": "Customers using Amazon Elastic Kubernetes Service ( Amazon EKS ) want to install and manage operational tools for making the cluster production ready. You can choose from a curated list of operational software from the Amazon EKS add-on catalog , which contains both Amazon EKS’s native add-ons and third-party add-ons from AWS Marketplace . Lifecycle of these add-ons can be done using different me",
+    "time": "Mon, 06 Nov 2023 18:12:06 GMT+1",
+    "sourceTitle": "AWS Marketplace ",
+    "sourceUrl": "https://aws.amazon.com/blogs/awsmarketplace/"
+  },
+  {
+    "title": "Creating a correction of errors document",
+    "url": "https://aws.amazon.com/blogs/mt/creating-a-correction-of-errors-document/",
+    "summary": "This blog post will walk you through an example of creating a Correction of Errors (COE) document. At Amazon, operational excellence is in our DNA. One best practice that we have learned at Amazon is to have a standard mechanism for post-incident analysis. The COE process facilitates learning from an event to avoid reoccurrences in the future. This is a follow up to a previous blog post introduci",
+    "time": "Mon, 06 Nov 2023 22:34:53 GMT+1",
+    "sourceTitle": "AWS Cloud Operations & Migrations Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/mt/"
+  },
+  {
+    "title": "Amazon CloudWatch Container Insights launches enhanced observability for Amazon EKS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-container-insights-enhanced-observability-eks/",
+    "summary": "Amazon CloudWatch Container Insights now delivers enhanced observability for Amazon Elastic Kubernetes Service (EKS) with out-of-the-box detailed health and performance metrics, including container level EKS performance metrics, Kube-state metrics and EKS control plane metrics for faster problem isolation and troubleshooting.",
+    "time": "Mon, 06 Nov 2023 19:26:48 GMT+1",
+    "sourceTitle": "AWS What's New ",
+    "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/recent/"
+  },
+  {
+    "title": "Special Report: Will the Cloud Change Everything for Live Sports Production?",
+    "url": "https://www.sportsvideo.org/2023/11/06/special-report-will-the-cloud-change-everything-for-live-sports-production/",
+    "summary": "By SVG Staff | Monday, November 6, 2023 - 3:23 pm The Fall 2023 edition of the SVG SportsTech Journal is now available! Among the plethora of content in this free, digital edition is a special report on cloud production. Live sports […] More (Feed generated with FetchRSS )",
+    "time": "Tue, 07 Nov 2023 07:31:40 GMT+1",
+    "sourceTitle": "Search for \"AWS\" ",
+    "sourceUrl": "https://www.sportsvideo.org/?s=AWS"
+  },
+  {
+    "title": "Managing configurable parameters in AWS CDK | Amazon Web Services",
+    "url": "https://www.youtube.com/watch?v=vExjVRKDC1c",
+    "summary": "Learn how to manage configurable parameters in a AWS CDK project using AWS Systems Manager. Learn more at: https://go.aws/46f1KL7 Subscribe: More AWS videos: https://go.aws/3m5yEMW More AWS events videos: https://go.aws/3ZHq4BK Do you have technical AWS questions? Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb ABOUT AWS Amazon Web Services (AWS) is the world’s most comprehensi",
+    "time": "Sat, 04 Nov 2023 01:05:40 GMT+1",
+    "sourceTitle": "AWS Youtube ",
+    "sourceUrl": "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg"
+  },
+  {
+    "title": "DFL, AWS Add New ‘Shot Speed’ Stat to Bundesliga Match Facts",
+    "url": "https://www.sportsvideo.org/2023/11/03/dfl-aws-add-new-shot-speed-stat-to-bundesliga-match-facts/",
+    "summary": "By SVG Staff | Friday, November 3, 2023 - 12:23 pm The DFL and Amazon Web Services (AWS) have announced the newest Bundesliga Match Facts (BMF) powered by AWS which will debut during Matchday 10 (Nov. 3-5). The DFL Deutsche Fußball […] More (Feed generated with FetchRSS )",
+    "time": "Sat, 04 Nov 2023 02:41:09 GMT+1",
+    "sourceTitle": "Search for \"AWS\" ",
+    "sourceUrl": "https://www.sportsvideo.org/?s=AWS"
+  },
+  {
+    "title": "Building Cross-Account Deployment in GitLab Pipelines Using AWS CDK",
+    "url": "https://aws.amazon.com/blogs/apn/building-cross-account-deployment-in-gitlab-pipelines-using-aws-cdk/",
+    "summary": "By Muni Annachi, DevOps Consultant – AWS By Mert Simsek, Sr. Cloud Application Architect – AWS By Ashmeet Singh Pahwa, Security Consultant – AWS By Darwin Sanoy, Principal Partner Solution Architect – GitLab GitLab Many organizations use GitLab as a continuous integration and continuous deployment (CI/CD) platform for their cloud infrastructure and application deployments on Amazon Web Services (",
+    "time": "Fri, 03 Nov 2023 18:28:37 GMT+1",
+    "sourceTitle": "AWS Partner Network (APN) Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/apn/"
+  },
+  {
+    "title": "How to use chaos engineering in incident response",
+    "url": "https://aws.amazon.com/blogs/security/how-to-use-chaos-engineering-in-incident-response/",
+    "summary": "Simulations, tests, and game days are critical parts of preparing and verifying incident response processes. Customers often face challenges getting started and building their incident response function as the applications they build become increasingly complex. In this post, we will introduce the concept of chaos engineering and how you can use it to accelerate your incident response preparation",
+    "time": "Fri, 03 Nov 2023 14:30:33 GMT+1",
+    "sourceTitle": "AWS Security Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/security/"
+  },
+  {
+    "title": "IAM Roles Anywhere with an external certificate authority",
+    "url": "https://aws.amazon.com/blogs/security/iam-roles-anywhere-with-an-external-certificate-authority/",
+    "summary": "AWS Identity and Access Management Roles Anywhere allows you to use temporary Amazon Web Services (AWS) credentials outside of AWS by using X.509 Certificates issued by your certificate authority (CA). Faraz Angabini goes deep into using IAM Roles Anywhere in his blog post Extend AWS IAM roles to workloads outside of AWS with IAM Roles Anywhere . In this blog post, I take a step back from his pos",
+    "time": "Fri, 20 Oct 2023 21:59:50 GMT+2",
+    "sourceTitle": "AWS Security Blog ",
+    "sourceUrl": "https://aws.amazon.com/blogs/security/"
+  },
+  {
+    "title": "Elastic Load Balancer: Maximizing Benefits and Keeping Costs Low",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/elb-maximizing-benefits-and-keeping-costs-low/",
+    "summary": "This post provides guidance on optimizing Elastic Load Balancer (ELB) cost and performance for your workloads. You can find recommendations for achieving optimal throughput and low latency, implementing efficient connection management, and ensuring performance and reliability during periods of high demand. Organizations building technology solutions on AWS should be well acquainted with the six p",
+    "time": "Wed, 25 Oct 2023 23:15:50 GMT+2",
+    "sourceTitle": "AWS Networking and Content Delivery ",
+    "sourceUrl": "https://aws.amazon.com/blogs/networking-and-content-delivery/"
+  },
+  {
+    "title": "Hybrid cloud architectures using AWS Direct Connect gateway",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/hybrid-cloud-architectures-using-aws-direct-connect-gateway/",
+    "summary": "In April 2023, AWS increased several AWS Direct Connect quota limits , as you have asked for increased scale and capacity for hybrid cloud connectivity. With the new limits, you can now create up to four Transit Virtual interfaces (VIFs) per AWS Direct Connect dedicated connection. The maximum number of prefixes has increased to 200 for a single AWS Transit Gateway association to a Direct Connect",
+    "time": "Mon, 30 Oct 2023 13:48:46 GMT+1",
+    "sourceTitle": "AWS Networking and Content Delivery ",
+    "sourceUrl": "https://aws.amazon.com/blogs/networking-and-content-delivery/"
+  }
+]

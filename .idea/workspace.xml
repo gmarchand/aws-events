@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68efab8f-d459-416b-9fd4-a994f1421434" name="Changes" comment="Reinforce">
+      <change afterPath="$PROJECT_DIR$/FeedlySavedForLater1701691966152.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Taskfile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskfile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json_to_markdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/json_to_markdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-playlist-reinvent-2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-playlist-reinvent-2023.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-.md" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gmarchand"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gmarchand&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -44,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/gmarchan/Documents/PROJECT/aws-events",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gmarchan/Documents/PROJECT/aws-events&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -78,7 +85,8 @@
       <workItem from="1694782104297" duration="1944000" />
       <workItem from="1700036195693" duration="3528000" />
       <workItem from="1700149633077" duration="2851000" />
-      <workItem from="1701254391842" duration="7758000" />
+      <workItem from="1701254391842" duration="8588000" />
+      <workItem from="1701691869475" duration="423000" />
     </task>
     <task id="LOCAL-00001" summary="Reinforce">
       <option name="closed" value="true" />
