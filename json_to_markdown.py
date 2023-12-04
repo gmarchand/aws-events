@@ -15,14 +15,18 @@ def main(file_path_json,file_path_markdown ):
     with open(file_path_json, 'r') as f:
         data = json.load(f)
     # delete values
+    result = []
     for line in data:
-        line.pop("sourceTitle")
-        line.pop("sourceUrl")
-        line.pop("time")
-        line["title"] = f"[{line['title']}]({line['url']})".replace("|","-")
-        line.pop("url")
+        if line["url"].startswith("https://www.youtube.com"):
+            line.pop("sourceTitle")
+            line.pop("sourceUrl")
+            line.pop("time")
+            line["title"] = f"[{line['title']}]({line['url']})".replace("|","-")
+            line.pop("url")
+            result.append(line)
 
-    markdown = Tomark.table(data)
+
+    markdown = Tomark.table(result)
     # save text to file
     with open(file_path_markdown, 'w') as f:
         f.write(markdown)
