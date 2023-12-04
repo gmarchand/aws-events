@@ -2,6 +2,7 @@ import click
 import json
 from tomark import Tomark
 
+# https://github.com/Barabazs/Feedly-Export-Save4Later/blob/main/SaveSavedEntries.js
 """ Create a cli to convert json to markdown table"""
 @click.command()
 @click.argument('file_path_json')
@@ -25,7 +26,7 @@ def main(file_path_json,file_path_markdown ):
             line.pop("url")
             result.append(line)
 
-
+    print("number of entries:", len(result))
     markdown = Tomark.table(result)
     # save text to file
     with open(file_path_markdown, 'w') as f:

@@ -10,7 +10,7 @@ tasks:
     cmds:
       - npm install -g youtube-playlist-markdown-cli
       - sh youtube_playlist_md.sh
-      - python3 json_to_markdown.py ./FeedlySavedForLater1701691966152.json my-playlist-reinvent-2023.md
+      - python3 feedly_to_markdown.py ./FeedlySavedForLater1701691966152.json my-playlist-reinvent-2023.md
       - git add .
       - git commit -m 'update'
       - git push
