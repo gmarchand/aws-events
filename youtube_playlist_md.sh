@@ -52,3 +52,40 @@ ym -p PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-
 ym -p PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV
 # AWS Reinvent 2023 - Keynote customers
 ym -p PL2yQDdvlhXf-bNhTjxpMzsNgsnC2TqbQT
+# AWS Reinvent 2023 - Storage
+ym -p PL2yQDdvlhXf83bp752n992F52HWaR_js3
+# AWS Reinvent 2023 - Serverless
+ym -p PL2yQDdvlhXf_rloSt34Uh37PBzTti6aFc
+# AWS Reinvent 2023 - Security
+ym -p PL2yQDdvlhXf-901GvlqhZJ3pIQtw6aeZq
+# AWS Reinvent 2023 -  Networking
+ym -p PL2yQDdvlhXf-z265uBFVcvoAG-OXy7530
+# AWS Reinvent 2023 - Kubernetes
+ym -p PL2yQDdvlhXf-XK9yXKcJ8Jf0TVplCazUz
+# AWS Reinvent 2023 - Industry
+ym -p PL2yQDdvlhXf_HQ1BmWQHoe1o5-SQMCUfl
+# AWS Reinvent 2023 - Hybrid
+ym -p PL2yQDdvlhXf8ZslpFYqYySfVV4Lu3MDhu
+# AWS Reinvent 2023 - EUC
+ym -p PL2yQDdvlhXf8FVrowjoxmg38NCBO0CYI5
+# AWS Reinvent 2023 - Developer Productivity
+ym -p PL2yQDdvlhXf9Wa5bgk7_K82rYWn2Nom4I
+# AWS Reinvent 2023 - Databases
+ym -p PL2yQDdvlhXf9KjNup2pbyxba2XeKelNFg
+# AWS Reinvent 2023 - Customer Enablement
+ym -p PL2yQDdvlhXf_CgVU23a0cmJMohU9GcpSE
+# AWS Reinvent 2023 - Compute
+ym -p PL2yQDdvlhXf-CN3ykMq_dYH9nmPRRbR7O
+# AWS Reinvent 2023 - Cloud Operations
+ym -p PL2yQDdvlhXf-MKQE31qHsOE_eSDR1T2Kq
+# AWS Reinvent 2023 - Business Apps
+ym -p PL2yQDdvlhXf8r-2SvM2pmCzd62_umw_FJ
+# AWS Reinvent 2023 - Architecture
+ym -p PL2yQDdvlhXf8qWcdB_8mKLyAOHk0cVK6B
+# AWS Reinvent 2023 - Analytics
+ym -p PL2yQDdvlhXf8_GOWzkJwOsoDLgBw80nfi
+# AWS Reinvent 2023 - AIML
+ym -p PL2yQDdvlhXf8iyzg7ziZI924PxC8a8M-U
+# AWS Reinvent 2023 - Lighting talks
+ym -p PL2yQDdvlhXf88GSCQS4wvT2eB5Cq1RJ9Q
+
