@@ -13,6 +13,42 @@
 [AWS Reinvent 2023 - Breakout sessions](playlist-PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV.md)
 
 [AWS Reinvent 2023 - Innovation talks](playlist-PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-.md)
+[ AWS Reinvent 2023 - Storage](playlist-PL2yQDdvlhXf83bp752n992F52HWaR_js3.md)
+
+[ AWS Reinvent 2023 - Serverless](playlist-PL2yQDdvlhXf_rloSt34Uh37PBzTti6aFc.md)
+
+[ AWS Reinvent 2023 - Security](playlist-PL2yQDdvlhXf-901GvlqhZJ3pIQtw6aeZq.md)
+
+[ AWS Reinvent 2023 -  Networking](playlist-PL2yQDdvlhXf-z265uBFVcvoAG-OXy7530.md)
+
+[ AWS Reinvent 2023 - Kubernetes](playlist-PL2yQDdvlhXf-XK9yXKcJ8Jf0TVplCazUz.md)
+
+[ AWS Reinvent 2023 - Industry](playlist-PL2yQDdvlhXf_HQ1BmWQHoe1o5-SQMCUfl.md)
+
+[ AWS Reinvent 2023 - Hybrid](playlist-PL2yQDdvlhXf8ZslpFYqYySfVV4Lu3MDhu.md)
+
+[ AWS Reinvent 2023 - EUC](playlist-PL2yQDdvlhXf8FVrowjoxmg38NCBO0CYI5.md)
+
+[ AWS Reinvent 2023 - Developer Productivity](playlist-PL2yQDdvlhXf9Wa5bgk7_K82rYWn2Nom4I.md)
+
+[ AWS Reinvent 2023 - Databases](playlist-PL2yQDdvlhXf9KjNup2pbyxba2XeKelNFg.md)
+
+[ AWS Reinvent 2023 - Customer Enablement](playlist-PL2yQDdvlhXf_CgVU23a0cmJMohU9GcpSE.md)
+
+[ AWS Reinvent 2023 - Compute](playlist-PL2yQDdvlhXf-CN3ykMq_dYH9nmPRRbR7O.md)
+
+[ AWS Reinvent 2023 - Cloud Operations](playlist-PL2yQDdvlhXf-MKQE31qHsOE_eSDR1T2Kq.md)
+
+[ AWS Reinvent 2023 - Business Apps](playlist-PL2yQDdvlhXf8r-2SvM2pmCzd62_umw_FJ.md)
+
+[ AWS Reinvent 2023 - Architecture](playlist-PL2yQDdvlhXf8qWcdB_8mKLyAOHk0cVK6B.md)
+
+[ AWS Reinvent 2023 - Analytics](playlist-PL2yQDdvlhXf8_GOWzkJwOsoDLgBw80nfi.md)
+
+[ AWS Reinvent 2023 - AIML](playlist-PL2yQDdvlhXf8iyzg7ziZI924PxC8a8M-U.md)
+
+[ AWS Reinvent 2023 - Lighting talks](playlist-PL2yQDdvlhXf88GSCQS4wvT2eB5Cq1RJ9Q.md)
+
 
 [AWS Reinvent 2023 - Launch Summary](decks/REINVENT_2023/REINVENT20223_Launch.pdf)
 
