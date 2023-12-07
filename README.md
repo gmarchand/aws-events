@@ -14,6 +14,10 @@
 
 [AWS Reinvent 2023 - Innovation talks](playlist-PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-.md)
 
+[AWS Reinvent 2023 - Launch Summary](decks/REINVENT_2023/REINVENT20223_Launch.pdf)
+
+[AWS Reinvent 2023 - M&E Broadcast playlist](decks/REINVENT_2023/broadcast.pdf)
+
 ## [AWS M&E Symposium Los Angeles 2023](playlist-PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev.md)
 
 ## [AWS M&E at IBC 2023](playlist-PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn.md)
