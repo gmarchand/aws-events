@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Business Apps](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8r-2SvM2pmCzd62_umw_FJ) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 20 
+* video count: 19 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -11,7 +11,6 @@
 | [AWS re:Invent 2023 - Personalize omnichannel customer experience with Amazon Connect (BIZ218)](https://www.youtube.com/watch?v=B5p8xb5n8-0)       | 2023-11-30   |
 | [AWS re:Invent 2023 - Immersive shopping experience with Amazon Anywhere (AMZ201)](https://www.youtube.com/watch?v=sOy-6fXHU8s)                    | 2023-11-30   |
 | [AWS re:Invent 2023 - AWS Supply Chain: Helping Woodside Energy optimize their supply chain (BIZ105)](https://www.youtube.com/watch?v=NQvYnUcTOdg) | 2023-12-01   |
-| [DNP-VYT - AWS re:Invent 2023 - (BIZ209)](https://www.youtube.com/watch?v=lDeMUC1pcvw)                                                             | 2023-12-01   |
 | [AWS re:Invent 2023 - How Amazon.com enhanced shopping with gen AI and foundation models (AMZ301)](https://www.youtube.com/watch?v=BNHa1LrXhPM)    | 2023-12-01   |
 | [AWS re:Invent 2023 - How the U.S. Army uses AWS Wickr to deliver lifesaving telemedicine (BIZ103)](https://www.youtube.com/watch?v=yYCTLr9YqO8)   | 2023-12-01   |
 | [AWS re:Invent 2023 - How generative AI features of AWS AppFabric help SaaS app developers (BIZ112)](https://www.youtube.com/watch?v=7xV-OIO_RCE)  | 2023-12-01   |

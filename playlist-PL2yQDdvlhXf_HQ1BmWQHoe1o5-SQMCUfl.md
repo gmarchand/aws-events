@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Industry](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_HQ1BmWQHoe1o5-SQMCUfl) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 86 
+* video count: 85 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -68,7 +68,6 @@
 | [AWS re:Invent 2023 - Scaling the platform that issues 70% of US mortgage securities (WPS210)](https://www.youtube.com/watch?v=epJ1FgOPT2E)         | 2023-12-02   |
 | [AWS re:Invent 2023 - Creating new analytics in sports (SPT201)](https://www.youtube.com/watch?v=NyvDuuT7CvQ)                                       | 2023-12-02   |
 | [AWS re:Invent 2023 - Northvolt’s software-defined factories (MFG202)](https://www.youtube.com/watch?v=ojHIYr9EAxk)                                 | 2023-12-03   |
-| [DNP-VYT - AWS re:Invent 2023 - (WPS305)](https://www.youtube.com/watch?v=WhNiKtKbRzQ)                                                              | 2023-12-03   |
 | [AWS re:Invent 2023 - Accelerate innovation with AWS and AWS Partner solutions for telcos (TLC202)](https://www.youtube.com/watch?v=hbWiHEp5vdU)    | 2023-12-03   |
 | [AWS re:Invent 2023 - NextEra Energy & AWS: Renewable energy innovation & grid modernization (ENU203)](https://www.youtube.com/watch?v=hRBv7SkKfQE) | 2023-12-03   |
 | [AWS re:Invent 2023 - Building a precision medicine platform using AWS HealthOmics (HLC305)](https://www.youtube.com/watch?v=-DMYmdYCfGw)           | 2023-12-03   |

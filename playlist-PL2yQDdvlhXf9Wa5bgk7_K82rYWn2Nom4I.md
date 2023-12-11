@@ -28,4 +28,4 @@
 | [AWS re:Invent 2023 - The next-generation application-building experience from AWS Amplify (FWM203)](https://www.youtube.com/watch?v=UfYWGYbmV3s)  | 2023-12-05   |
 | [AWS re:Invent 2023 - Amazon Q: Your new assistant and expert guide for building with AWS (DOP228)](https://www.youtube.com/watch?v=lBJHJmkotcI)   | 2023-12-05   |
 | [AWS re:Invent 2023 - Realizing the developer productivity benefits of Amazon CodeWhisperer (DOP202)](https://www.youtube.com/watch?v=eP1I6S0UMkc) | 2023-12-06   |
-| [AWS re:Invent 2023 - New AWS generative AI features and tools for developers (DOP212)](https://www.youtube.com/watch?v=-a1xL35GeDo)               | 2023-12-06   |
+| [AWS re:Invent 2023 - New AWS generative AI features and tools for developers (DOP212)](https://www.youtube.com/watch?v=pVtVGcVH8iw)               | 2023-12-07   |

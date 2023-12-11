@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Compute](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-CN3ykMq_dYH9nmPRRbR7O) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 24 
+* video count: 23 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -21,7 +21,6 @@
 | [AWS re:Invent 2023 - How to choose the right block storage for your workload (CMP202)](https://www.youtube.com/watch?v=ge44Wqb1HEY)                | 2023-12-01   |
 | [AWS re:Invent 2023 - Migrating to AWS Graviton with AWS container services (CMP404)](https://www.youtube.com/watch?v=9JZVomrx6uQ)                  | 2023-12-01   |
 | [AWS re:Invent 2023 - Amazon Linux 2023 and beyond (CMP336)](https://www.youtube.com/watch?v=VRqazCsTbZk)                                           | 2023-12-03   |
-| [DNP-VYT - AWS re:Invent 2023 - (CMP201)](https://www.youtube.com/watch?v=PwK_JfWgTfw)                                                              | 2023-12-04   |
 | [AWS re:Invent 2023 - AWS Graviton: The best price performance for your AWS workloads (CMP313)](https://www.youtube.com/watch?v=DY9ENcGQRto)        | 2023-12-05   |
 | [AWS re:Invent 2023 - Migrating critical business applications to AWS Graviton with ease (CMP315)](https://www.youtube.com/watch?v=9W0j__k5afg)     | 2023-12-05   |
 | [AWS re:Invent 2023 - New Amazon EC2 generative AI capabilities in AWS Management Console (CMP222)](https://www.youtube.com/watch?v=sSpJ8tWCEiA)    | 2023-12-05   |
