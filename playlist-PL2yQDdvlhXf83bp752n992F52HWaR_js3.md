@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2023 - Storage](https://www.youtube.com/playlist?list=PL2yQDdvlhXf83bp752n992F52HWaR_js3) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 32 
+* video count: 33 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2023 - Optimizing storage price and performance with Amazon S3 (STG211)](https://www.youtube.com/watch?v=RxgYNrXPOLw)                | 2023-12-08   |
 | [AWS re:Invent 2023 - Get started with checksums in Amazon S3 for data integrity checking (STG350)](https://www.youtube.com/watch?v=NNx9eZcbLnU)    | 2023-12-06   |
 | [AWS re:Invent 2023 - Implement proactive data protection using Amazon EBS snapshots (STG226)](https://www.youtube.com/watch?v=d7C6XsUnmHc)         | 2023-12-06   |
 | [AWS re:Invent 2023 - Meet performance demands for your business-critical applications (STG341)](https://www.youtube.com/watch?v=QDuM9hGx72U)       | 2023-12-06   |

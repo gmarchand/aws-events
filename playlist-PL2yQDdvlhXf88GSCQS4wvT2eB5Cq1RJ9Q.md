@@ -163,7 +163,6 @@
 | [AWS re:Invent 2023 - Implementing your AI strategy with PyTorch Lightning in the cloud (AIM112)](https://www.youtube.com/watch?v=Zusnh2gnrro)      | 2023-12-04   |
 | [AWS re:Invent 2023 - Accelerate generative AI development with integrated data platforms (AIM210)](https://www.youtube.com/watch?v=eb6WlHaOCtI)    | 2023-12-04   |
 | [AWS re:Invent 2023 - Transform customer experience with an array of AI agents (AIM254)](https://www.youtube.com/watch?v=hfjSPr2Mj34)               | 2023-12-04   |
-| [AWS re:Invent 2023 - How to build a platform for AI and analytics based on Apache Iceberg (ANT101)](https://www.youtube.com/watch?v=rWGHG2PwgXU)   | 2023-12-04   |
 | [AWS re:Invent 2023 - Building your green future today: Unlocking secrets to sustainability (COP229)](https://www.youtube.com/watch?v=75eE93l25iw)  | 2023-12-04   |
 | [AWS re:Invent 2023 - Rethinking your data stack: The future of AI apps and vector databases (DAT103)](https://www.youtube.com/watch?v=7duT5-hPL5A) | 2023-12-04   |
 | [AWS re:Invent 2023 - How to use generative AI to deliver self-service data products (HYB105)](https://www.youtube.com/watch?v=0VBGiVLOC50)         | 2023-12-04   |
@@ -199,3 +198,4 @@
 | [AWS re:Invent 2023 - Demonstration of what’s new with AWS governance and compliance (COP348)](https://www.youtube.com/watch?v=-dLJj7DTVeI)         | 2023-12-06   |
 | [AWS re:Invent 2023 - Plan for better results (BIZ111)](https://www.youtube.com/watch?v=CAV-A8NMSCQ)                                                | 2023-12-06   |
 | [AWS re:Invent 2023 - Building a next-gen 5G telecom network with AWS (COP230)](https://www.youtube.com/watch?v=QyL2A5k6epU)                        | 2023-12-06   |
+| [AWS re:Invent 2023 - How to build a platform for AI and analytics based on Apache Iceberg (ANT101)](https://www.youtube.com/watch?v=RS3Aoc3_IH8)   | 2023-12-08   |

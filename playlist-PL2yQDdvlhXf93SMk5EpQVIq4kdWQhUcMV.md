@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Breakout Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 686 
+* video count: 683 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -106,7 +106,7 @@
 | [AWS re:Invent 2023 - Improving manufacturing at Panasonic Energy (MFG101)](https://www.youtube.com/watch?v=r8nsY0N5wi4)                            | 2023-11-29   |
 | [AWS re:Invent 2023 - Continuous integration and delivery for AWS (DOP208)](https://www.youtube.com/watch?v=25w9uJPt0SA)                            | 2023-11-29   |
 | [AWS re:Invent 2023 - Building an effective observability strategy (COP325)](https://www.youtube.com/watch?v=7PQv9eYCJW8)                           | 2023-11-29   |
-| [AWS re:Invent 2023 - Demystifying and mitigating AWS Lambda cold starts (COM305)](https://www.youtube.com/watch?v=8un6y5L2LPU)                     | 2023-11-29   |
+| [Private video](https://www.youtube.com/watch?v=8un6y5L2LPU)                                                                                        | 2023-11-29   |
 | [AWS re:Invent 2023 - How to deliver business value in financial services with generative AI (FSI201)](https://www.youtube.com/watch?v=W4Xd8mPqqKU) | 2023-11-29   |
 | [AWS re:Invent 2023 - What is the path to becoming a cloud solutions architect? (ARC211)](https://www.youtube.com/watch?v=bviIa28UUiE)              | 2023-11-29   |
 | [AWS re:Invent 2023 - APN technical validations to grow your practice & delight customers (PEX204)](https://www.youtube.com/watch?v=JXuPCDWnOIs)    | 2023-11-29   |
@@ -195,7 +195,6 @@
 | [AWS re:Invent 2023 - Cutting-edge AI with AWS and NVIDIA (CMP208)](https://www.youtube.com/watch?v=ud4-z_sb_ps)                                    | 2023-11-30   |
 | [AWS re:Invent 2023 - Driving advertising and marketing innovation with generative AI (ADM303)](https://www.youtube.com/watch?v=hpipo-u0ajY)        | 2023-11-30   |
 | [AWS re:Invent 2023 - Understand your data with business context (ANT207)](https://www.youtube.com/watch?v=iG8yJN9WNPQ)                             | 2023-11-30   |
-| [DNP-VYT - AWS re:Invent 2023 - (NET202)](https://www.youtube.com/watch?v=LDgXv6OVwg8)                                                              | 2023-11-30   |
 | [AWS re:Invent 2023 - Meet performance demands for your business-critical applications (STG341)](https://www.youtube.com/watch?v=QDuM9hGx72U)       | 2023-11-30   |
 | [AWS re:Invent 2023 - How to optimize continuous compliance processes in your deployments (SEC101)](https://www.youtube.com/watch?v=jpJ7H9ohPFg)    | 2023-11-30   |
 | [AWS re:Invent 2023 - Maximize the value of cold data with Amazon S3 Glacier (STG201)](https://www.youtube.com/watch?v=rcBVKZN-uUE)                 | 2023-11-30   |
@@ -358,7 +357,6 @@
 | [AWS re:Invent 2023 - Accelerating industrial transformation with IoT on AWS (IOT206)](https://www.youtube.com/watch?v=BN_r2o-I5qY)                 | 2023-12-01   |
 | [AWS re:Invent 2023 - Compute innovations enabled by the AWS Nitro System (CMP309)](https://www.youtube.com/watch?v=E4Oxx5J3FT8)                    | 2023-12-01   |
 | [AWS re:Invent 2023 - Discover how to amplify your AWS re:Invent experience (GBL202-CMN)](https://www.youtube.com/watch?v=3ncm1F6VkZA)              | 2023-12-01   |
-| [DNP-VYT - AWS re:Invent 2023 - (BIZ209)](https://www.youtube.com/watch?v=lDeMUC1pcvw)                                                              | 2023-12-01   |
 | [AWS re:Invent 2023 - The next generation of smart home solutions powered by AWS IoT (IOT207)](https://www.youtube.com/watch?v=z0uqt0PgqNk)         | 2023-12-01   |
 | [AWS re:Invent 2023 - Accelerate innovation with real-time data (ANT201)](https://www.youtube.com/watch?v=yqpFRWjilrU)                              | 2023-12-01   |
 | [AWS re:Invent 2023 - Accelerate EDI data integration at scale with AWS B2B Data Interchange (STG216)](https://www.youtube.com/watch?v=mAEDCV8FRL8) | 2023-12-01   |
@@ -448,7 +446,6 @@
 | [AWS re:Invent 2023 - How to build a responsible and sustainable generative AI chatbot (IMP103)](https://www.youtube.com/watch?v=85smQWgPaKc)       | 2023-12-03   |
 | [AWS re:Invent 2023 - Northvolt’s software-defined factories (MFG202)](https://www.youtube.com/watch?v=ojHIYr9EAxk)                                 | 2023-12-03   |
 | [AWS re:Invent 2023 - Optimizing with AWS Trusted Advisor and AWS Well-Architected Framework (SUP311)](https://www.youtube.com/watch?v=oq8eppXs880) | 2023-12-03   |
-| [DNP-VYT - AWS re:Invent 2023 - (WPS305)](https://www.youtube.com/watch?v=WhNiKtKbRzQ)                                                              | 2023-12-03   |
 | [AWS re:Invent 2023 - Interactive cost reporting with Amazon QuickSight (BSI207)](https://www.youtube.com/watch?v=Z8T149nP5cg)                      | 2023-12-03   |
 | [AWS re:Invent 2023 - Amazon Linux 2023 and beyond (CMP336)](https://www.youtube.com/watch?v=VRqazCsTbZk)                                           | 2023-12-03   |
 | [AWS re:Invent 2023 - Accelerate innovation with AWS and AWS Partner solutions for telcos (TLC202)](https://www.youtube.com/watch?v=hbWiHEp5vdU)    | 2023-12-03   |
@@ -509,7 +506,6 @@
 | [AWS re:Invent 2023 - Modern digital experiences to accelerate mission impact (IMP205)](https://www.youtube.com/watch?v=v7pDaFrfeoU)                | 2023-12-04   |
 | [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215)](https://www.youtube.com/watch?v=2kzJPhgDkDE)                               | 2023-12-04   |
 | [AWS re:Invent 2023 - How Fetch built world-class ML models to power their business (SEG301)](https://www.youtube.com/watch?v=S0rltBHGMjw)          | 2023-12-04   |
-| [DNP-VYT - AWS re:Invent 2023 - (CMP201)](https://www.youtube.com/watch?v=PwK_JfWgTfw)                                                              | 2023-12-04   |
 | [AWS re:Invent 2023 - Running sustainable real-time advertising workloads in the cloud (ADM302)](https://www.youtube.com/watch?v=hYg5FxPu3PE)       | 2023-12-04   |
 | [AWS re:Invent 2023 - Easily and securely prepare, share, and query data (ANT324)](https://www.youtube.com/watch?v=CvQ3Onz5CMA)                     | 2023-12-04   |
 | [AWS re:Invent 2023 - Resilience lifecycle: A mental model for resilience on AWS (ARC312)](https://www.youtube.com/watch?v=i-0XJZLvq6U)             | 2023-12-04   |
@@ -687,8 +683,9 @@
 | [AWS re:Invent 2023 - Building serverless-first applications with MAPFRE [Spanish] (GBL203-ES)](https://www.youtube.com/watch?v=hlVXZwknZNc)        | 2023-12-06   |
 | [AWS re:Invent 2023 - Innovative multicloud world: Tmax's CLAS on AWS (DAT204)](https://www.youtube.com/watch?v=rSnYyzRmwkE)                        | 2023-12-06   |
 | [AWS re:Invent 2023 - AI/ML: A trigger for innovation at speed and scale (INO104)](https://www.youtube.com/watch?v=zYX2aeHYXko)                     | 2023-12-06   |
-| [AWS re:Invent 2023 - New AWS generative AI features and tools for developers (DOP212)](https://www.youtube.com/watch?v=-a1xL35GeDo)                | 2023-12-06   |
 | [AWS re:Invent 2023 - Generative AI in medicine: Improving patient & provider experiences (AIM109)](https://www.youtube.com/watch?v=jXGsfR3bMDE)    | 2023-12-06   |
 | [AWS re:Invent 2023 - 1.5 million requests per second—a story from the Brazilian elections (WPS305)](https://www.youtube.com/watch?v=fGyvsNE4vh8)   | 2023-12-06   |
 | [AWS re:Invent 2023 - Demystifying and mitigating AWS Lambda cold starts (COM305)](https://www.youtube.com/watch?v=2EDNcPvR45w)                     | 2023-12-06   |
 | [AWS re:Invent 2023 - Reimagine data integration with generative AI and machine learning (ANT216)](https://www.youtube.com/watch?v=ttYMbFU6rQk)     | 2023-12-06   |
+| [AWS re:Invent 2023 - New AWS generative AI features and tools for developers (DOP212)](https://www.youtube.com/watch?v=pVtVGcVH8iw)                | 2023-12-07   |
+| [AWS re:Invent 2023 - Optimizing storage price and performance with Amazon S3 (STG211)](https://www.youtube.com/watch?v=RxgYNrXPOLw)                | 2023-12-08   |
