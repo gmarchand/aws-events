@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Industry](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_HQ1BmWQHoe1o5-SQMCUfl) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 85 
+* video count: 86 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -91,3 +91,4 @@
 | [AWS re:Invent 2023 - Building a simulation platform for AD testing with Torc (AUT206)](https://www.youtube.com/watch?v=SRtm08Ix9cM)                | 2023-12-06   |
 | [AWS re:Invent 2023 - How Netflix uses AWS for multi-Region cache replication (NFX304)](https://www.youtube.com/watch?v=85TiFrDhCR4)                | 2023-12-06   |
 | [AWS re:Invent 2023 - 1.5 million requests per second—a story from the Brazilian elections (WPS305)](https://www.youtube.com/watch?v=fGyvsNE4vh8)   | 2023-12-06   |
+| [AWS re:Invent 2023 - Meet digital sovereignty needs with AWS Dedicated Local Zones (WPS214)](https://www.youtube.com/watch?v=nU4HkNmpG8w)          | 2023-12-11   |

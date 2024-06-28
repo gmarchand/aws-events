@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68efab8f-d459-416b-9fd4-a994f1421434" name="Changes" comment="Reinforce">
-      <change afterPath="$PROJECT_DIR$/youtube-playlist-markdown.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taskfile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskfile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +84,8 @@
       <workItem from="1701721162810" duration="354000" />
       <workItem from="1701762168251" duration="5063000" />
       <workItem from="1702040812463" duration="3929000" />
+      <workItem from="1702309904551" duration="2009000" />
+      <workItem from="1702373769350" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Reinforce">
       <option name="closed" value="true" />

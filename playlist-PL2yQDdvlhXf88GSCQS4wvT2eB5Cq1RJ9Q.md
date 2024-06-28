@@ -6,9 +6,7 @@
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2023 - Siemens Healthineers: How to achieve citizen integration at scale (BIZ215-S)](https://www.youtube.com/watch?v=GeG7zdhwDhQ)    | 2023-11-28   |
 | [AWS re:Invent 2023 - The shortest path to Red Hat Enterprise Linux on AWS (ENT105-S)](https://www.youtube.com/watch?v=4-pyPt-jFZM)                 | 2023-11-28   |
-| [AWS re:Invent 2023 - Enable better performance and reduce storage cost with InfluxDB 3.0 (STG102-S)](https://www.youtube.com/watch?v=Kw12_9AoZgs)  | 2023-11-29   |
 | [AWS re:Invent 2023 - Secure your cloud in real time (SEC107)](https://www.youtube.com/watch?v=FMrcFnn_Uq8)                                         | 2023-11-29   |
 | [AWS re:Invent 2023 - Okta Privileged Access: Zero standing privilege is no longer a myth (SEC106)](https://www.youtube.com/watch?v=_pyjuIFH7tk)    | 2023-11-29   |
 | [AWS re:Invent 2023 - Workday Extend: Build people and money apps with low-code tooling (BIZ108)](https://www.youtube.com/watch?v=t4x7OpqqAgQ)      | 2023-11-29   |
@@ -199,3 +197,5 @@
 | [AWS re:Invent 2023 - Plan for better results (BIZ111)](https://www.youtube.com/watch?v=CAV-A8NMSCQ)                                                | 2023-12-06   |
 | [AWS re:Invent 2023 - Building a next-gen 5G telecom network with AWS (COP230)](https://www.youtube.com/watch?v=QyL2A5k6epU)                        | 2023-12-06   |
 | [AWS re:Invent 2023 - How to build a platform for AI and analytics based on Apache Iceberg (ANT101)](https://www.youtube.com/watch?v=RS3Aoc3_IH8)   | 2023-12-08   |
+| [AWS re:Invent 2023 - Siemens Healthineers: How to achieve citizen integration at scale (BIZ215)](https://www.youtube.com/watch?v=-D2KCJrRZsk)      | 2023-12-13   |
+| [AWS re:Invent 2023 - Enable better performance and reduce storage cost with InfluxDB 3.0 (STG102-S)](https://www.youtube.com/watch?v=W-s08Z6lZXE)  | 2024-03-18   |
