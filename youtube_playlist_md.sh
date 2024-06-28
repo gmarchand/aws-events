@@ -105,10 +105,13 @@ ym -p PL2yQDdvlhXf8Q4ZXUvRP8VxvBN7_vXAnY
 ym -p PL2yQDdvlhXf8QI-TxYVwqfOUxPDwJfsIp
 # AWS Reinforce 2024 -  Data Protection
 ym -p PL2yQDdvlhXf_l1OwouK5rj0hMeSfNEExL
-# AWS Reinvent 2023 - Focus Area: DevSecOps
+# AWS Reinforce 2024 - Focus Area: DevSecOps
 ym -p PL2yQDdvlhXf_7oO5-WmZYI6nUClc3BXYw
 # AWS Reinvent 2023 - Governance, Risk, and Compliance
 ym -p PL2yQDdvlhXf8ilLz3LJ7A3WxMbjLEHDff
-# AWS Reinvent 2023 - Application Security
+# AWS Reinforce 2024 - Application Security
 ym -p PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr
+# AWS Reinforce 2024 - Keynote and Innovation Talks
+ym -p PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM
+
 
