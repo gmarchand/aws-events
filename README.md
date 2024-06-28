@@ -1,7 +1,23 @@
 
 # AWS Playlists
 
+## AWS Reinforce 2024
+
+[AWS Reinforce 2024 - Full](playlist-PL2yQDdvlhXf-a63_o1-mAya81ZwuRkmAu)
+[AWS Reinforce 2024 - Breakout Sessions](playlist-PL2yQDdvlhXf924bBNnRHA9RdbNJI6En3V)
+[AWS Reinforce 2024 - Identity and Access Management](playlist-PL2yQDdvlhXf-XqcUqLn0avm_N-lvhsHXB)
+[AWS Reinforce 2024 - Focus Area: Generative AI](playlist-PL2yQDdvlhXf-b4hbQhg2iTwU-ot2knOzh)
+[AWS Reinforce 2024 - Lighting talks](playlist-PL2yQDdvlhXf-zg2Vw9YHxoqsfsJFUq7tR)
+[AWS Reinforce 2024 - Threat Detection and Incident Response](playlist-PL2yQDdvlhXf8Q4ZXUvRP8VxvBN7_vXAnY)
+[AWS Reinforce 2024 - Focus Area: Culture of Security](playlist-PL2yQDdvlhXf8QI-TxYVwqfOUxPDwJfsIp)
+[AWS Reinforce 2024 - Data Protection](playlist-PL2yQDdvlhXf_l1OwouK5rj0hMeSfNEExL)
+[AWS Reinforce 2024 - Focus Area: DevSecOps](playlist-PL2yQDdvlhXf_7oO5-WmZYI6nUClc3BXYw)
+[AWS Reinforce 2024 - Governance, Risk, and Compliance](playlist-PL2yQDdvlhXf8ilLz3LJ7A3WxMbjLEHDff)
+[AWS Reinforce 2024 - Application Security](playlist-PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr)
+[AWS Reinforce 2024 - Keynote and Innovation Talks](playlist-PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM)
+
 ## AWS Reinvent 2023
+
 [AWS Reinvent 2023 - My playlist](my-playlist-reinvent-2023.md)
 
 [AWS Reinvent 2023](playlist-PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1.md)
@@ -13,6 +29,7 @@
 [AWS Reinvent 2023 - Breakout sessions](playlist-PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV.md)
 
 [AWS Reinvent 2023 - Innovation talks](playlist-PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-.md)
+
 [ AWS Reinvent 2023 - Storage](playlist-PL2yQDdvlhXf83bp752n992F52HWaR_js3.md)
 
 [ AWS Reinvent 2023 - Serverless](playlist-PL2yQDdvlhXf_rloSt34Uh37PBzTti6aFc.md)

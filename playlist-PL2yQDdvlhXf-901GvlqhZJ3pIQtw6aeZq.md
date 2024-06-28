@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Security Compliance & Identity](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-901GvlqhZJ3pIQtw6aeZq) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 19 
+* video count: 20 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -25,3 +25,4 @@
 | [AWS re:Invent 2023 - Better together: Using encryption & authorization for data protection (SEC333)](https://www.youtube.com/watch?v=T4_rqwfngfU) | 2023-12-05   |
 | [AWS re:Invent 2023 - AWS European Sovereign Cloud: A closer look (SEC216)](https://www.youtube.com/watch?v=qNHWeDf-fTQ)                           | 2023-12-05   |
 | [AWS re:Invent 2023 - The AWS data-driven perspective on threat landscape trends (SEC236)](https://www.youtube.com/watch?v=suRmdeiThrc)            | 2023-12-06   |
+| [AWS re:Invent 2023 - How security teams can strengthen security using generative AI (SEC210)](https://www.youtube.com/watch?v=iiBUiC-2nPM)        | 2024-03-07   |

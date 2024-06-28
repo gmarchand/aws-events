@@ -6,6 +6,7 @@
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2023 - Optimizing performance for machine learning training on Amazon S3 (STG358)](https://www.youtube.com/watch?v=PbvlHdBitLs)      | 2023-12-19   |
 | [AWS re:Invent 2023 - Optimizing storage price and performance with Amazon S3 (STG211)](https://www.youtube.com/watch?v=RxgYNrXPOLw)                | 2023-12-08   |
 | [AWS re:Invent 2023 - Get started with checksums in Amazon S3 for data integrity checking (STG350)](https://www.youtube.com/watch?v=NNx9eZcbLnU)    | 2023-12-06   |
 | [AWS re:Invent 2023 - Implement proactive data protection using Amazon EBS snapshots (STG226)](https://www.youtube.com/watch?v=d7C6XsUnmHc)         | 2023-12-06   |
@@ -34,7 +35,6 @@
 | [AWS re:Invent 2023 - AWS storage cost-optimization best practices (STG202)](https://www.youtube.com/watch?v=8LVKNHcA6RY)                           | 2023-12-06   |
 | [AWS re:Invent 2023 - Maximize the value of cold data with Amazon S3 Glacier (STG201)](https://www.youtube.com/watch?v=rcBVKZN-uUE)                 | 2023-12-06   |
 | [AWS re:Invent 2023 - Build with the efficiency, agility & innovation of the cloud with AWS (STG103)](https://www.youtube.com/watch?v=AMrXMfYYVXs)  | 2023-12-06   |
-| [AWS re:Invent 2023 - Optimizing performance for machine learning training on Amazon S3 (STG358)](https://www.youtube.com/watch?v=VGrgPu03oBs)      | 2023-12-06   |
 | [AWS re:Invent 2023 - [LAUNCH] Deep dive on Amazon S3 Express One Zone storage class (STG230)](https://www.youtube.com/watch?v=TJp4ayDC8m0)         | 2023-12-06   |
 | [AWS re:Invent 2023 - Deep dive on Amazon FSx for NetApp ONTAP scale-out file systems (STG229)](https://www.youtube.com/watch?v=FiSjlvn1B8s)        | 2023-12-06   |
 | [AWS re:Invent 2023 - [LAUNCH] Lower costs by up to 97% with Amazon EFS Archive (STG228)](https://www.youtube.com/watch?v=u0M1SYmC2_A)              | 2023-12-06   |

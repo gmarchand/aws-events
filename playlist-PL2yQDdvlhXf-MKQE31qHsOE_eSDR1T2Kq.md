@@ -2,11 +2,10 @@
 
 #### [AWS re:Invent 2023 - Cloud Operations](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-MKQE31qHsOE_eSDR1T2Kq) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 28 
+* video count: 27 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2023 - Building observability to increase resiliency (COP343)](https://www.youtube.com/watch?v=MARiKxvrdmc)                         | 2023-11-29   |
 | [AWS re:Invent 2023 - Drive innovation and accelerate business outcomes with benchmarking (GDS101)](https://www.youtube.com/watch?v=T9Tr3MGiBzU)   | 2023-11-29   |
 | [AWS re:Invent 2023 - What’s new with AWS governance and compliance (COP340)](https://www.youtube.com/watch?v=O_r3-thv0pA)                         | 2023-11-29   |
 | [AWS re:Invent 2023 - Accelerate insights using Amazon CloudWatch Logs ML-powered analytics (COP350)](https://www.youtube.com/watch?v=UY4YYoPnMfg) | 2023-11-29   |

@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: tomark
+Version: 0.1.4
+Summary: Convert a list of dictionaries to a markdown formatted table.
+Home-page: https://github.com/codazoda/tomark
+Author: Joel Dare
+Author-email: joel@joeldare.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Text Processing :: Markup
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# tomark
+
+A Python module that converts a list of dictionaries to a markdown formatted table.
+
+Note: Each dict in the list must have the same number of elements.
+
+Installing
+
+`!python3 -m pip install --upgrade tomark`
+
+Usage:
+
+```
+from tomark import Tomark
+
+data = [
+  {
+    'pr': 291, 
+    'status': 'closed', 
+    'date': 'None', 
+    'title': 'Adds new wiz bang feature'
+  },
+  {
+    'pr': 290, 
+    'status': 'v1.0', 
+    'date': 'None', 
+    'title': 'Updates UI to be more awesome'
+  }
+]
+
+markdown = Tomark.table(data)
+print(markdown)
+```
+
+Example table output:
+
+| PR  | Status | Date | Title |
+|----|----|----|----|
+| 292 | open | None | Adds new wiz bang feature |
+| 286 | v1.0 | None | Updates UI to be more awesome |
+
+Example raw ouput:
+
+```
+| PR  | Status | Date | Title |
+|----|----|----|----|
+| 292 | open | None | Adds new wiz bang feature |
+| 286 | v1.0 | None | Updates UI to be more awesome |
+
+```
+
+

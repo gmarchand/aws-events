@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2023 - Customer Enablement](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_CgVU23a0cmJMohU9GcpSE) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 89 
+* video count: 90 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -95,3 +95,4 @@
 | [AWS re:Invent 2023 - Harnessing 110 years of insights: Using AI in content classification (PRO303)](https://www.youtube.com/watch?v=0Wng0iqgqv0)   | 2023-12-06   |
 | [AWS re:Invent 2023 - Building applications with generative AI and live data (BOA307)](https://www.youtube.com/watch?v=Rjq2_Yamkuc)                 | 2023-12-06   |
 | [AWS re:Invent 2023 - AI/ML: A trigger for innovation at speed and scale (INO104)](https://www.youtube.com/watch?v=zYX2aeHYXko)                     | 2023-12-06   |
+| [AWS re:Invent 2023 - BMO’s 1.5 PB migration & modernization journey with AWS ProServe (PRO302)](https://www.youtube.com/watch?v=YnUteI6XSTs)       | 2023-12-14   |
