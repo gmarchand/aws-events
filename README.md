@@ -3,18 +3,30 @@
 
 ## AWS Reinforce 2024
 
-[AWS Reinforce 2024 - Full](playlist-PL2yQDdvlhXf-a63_o1-mAya81ZwuRkmAu)
-[AWS Reinforce 2024 - Breakout Sessions](playlist-PL2yQDdvlhXf924bBNnRHA9RdbNJI6En3V)
-[AWS Reinforce 2024 - Identity and Access Management](playlist-PL2yQDdvlhXf-XqcUqLn0avm_N-lvhsHXB)
-[AWS Reinforce 2024 - Focus Area: Generative AI](playlist-PL2yQDdvlhXf-b4hbQhg2iTwU-ot2knOzh)
-[AWS Reinforce 2024 - Lighting talks](playlist-PL2yQDdvlhXf-zg2Vw9YHxoqsfsJFUq7tR)
-[AWS Reinforce 2024 - Threat Detection and Incident Response](playlist-PL2yQDdvlhXf8Q4ZXUvRP8VxvBN7_vXAnY)
-[AWS Reinforce 2024 - Focus Area: Culture of Security](playlist-PL2yQDdvlhXf8QI-TxYVwqfOUxPDwJfsIp)
-[AWS Reinforce 2024 - Data Protection](playlist-PL2yQDdvlhXf_l1OwouK5rj0hMeSfNEExL)
-[AWS Reinforce 2024 - Focus Area: DevSecOps](playlist-PL2yQDdvlhXf_7oO5-WmZYI6nUClc3BXYw)
-[AWS Reinforce 2024 - Governance, Risk, and Compliance](playlist-PL2yQDdvlhXf8ilLz3LJ7A3WxMbjLEHDff)
-[AWS Reinforce 2024 - Application Security](playlist-PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr)
-[AWS Reinforce 2024 - Keynote and Innovation Talks](playlist-PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM)
+[AWS Reinforce 2024 - Full](playlist-PL2yQDdvlhXf-a63_o1-mAya81ZwuRkmAu.md)
+
+[AWS Reinforce 2024 - Breakout Sessions](playlist-PL2yQDdvlhXf924bBNnRHA9RdbNJI6En3V.md)
+
+[AWS Reinforce 2024 - Identity and Access Management](playlist-PL2yQDdvlhXf-XqcUqLn0avm_N-lvhsHXB.md)
+
+[AWS Reinforce 2024 - Focus Area: Generative AI](playlist-PL2yQDdvlhXf-b4hbQhg2iTwU-ot2knOzh.md)
+
+[AWS Reinforce 2024 - Lighting talks](playlist-PL2yQDdvlhXf-zg2Vw9YHxoqsfsJFUq7tR.md)
+
+[AWS Reinforce 2024 - Threat Detection and Incident Response](playlist-PL2yQDdvlhXf8Q4ZXUvRP8VxvBN7_vXAnY.md)
+
+[AWS Reinforce 2024 - Focus Area: Culture of Security](playlist-PL2yQDdvlhXf8QI-TxYVwqfOUxPDwJfsIp.md)
+
+[AWS Reinforce 2024 - Data Protection](playlist-PL2yQDdvlhXf_l1OwouK5rj0hMeSfNEExL.md)
+
+[AWS Reinforce 2024 - Focus Area: DevSecOps](playlist-PL2yQDdvlhXf_7oO5-WmZYI6nUClc3BXYw.md)
+
+[AWS Reinforce 2024 - Governance, Risk, and Compliance](playlist-PL2yQDdvlhXf8ilLz3LJ7A3WxMbjLEHDff.md)
+
+[AWS Reinforce 2024 - Application Security](playlist-PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr.md)
+
+[AWS Reinforce 2024 - Keynote and Innovation Talks](playlist-PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM.md)
+
 
 ## AWS Reinvent 2023
 
