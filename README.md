@@ -1,5 +1,5 @@
 
-# AWS Video Playlists
+# AWS Video Playlist
 
 ## AWS Reinvent 2023
 [AWS Reinvent 2023 - My playlist](my-playlist-reinvent-2023.md)
