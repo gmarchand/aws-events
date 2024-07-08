@@ -6,6 +6,8 @@
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Inforce 2024 - AWS Well-Architected for network security, featuring Mercado Libre (NIS301)](https://www.youtube.com/watch?v=R4_hRzH4drI)    | 2024-06-18   |
+| [AWS re:Inforce 2024 - Establishing a data perimeter on AWS, featuring Capital One (IAM305)](https://www.youtube.com/watch?v=te8GsFjB6Fw)           | 2024-06-18   |
 | [AWS re:Inforce 2024 - Navigating privacy and compliance while securing gen AI applications (GAI201)](https://www.youtube.com/watch?v=3tndVt8W-Tk)  | 2024-06-18   |
 | [AWS re:Inforce 2024 - Capital One’s approach for secure and resilient applications (DAP302)](https://www.youtube.com/watch?v=W7OTRZphSi8)          | 2024-06-14   |
 | [AWS re:Inforce 2024 - Traffic safety: Auditing and enforcing IAM best practices (IAM303-S)](https://www.youtube.com/watch?v=ymAxs8iKm3o)           | 2024-06-14   |
@@ -32,8 +34,6 @@
 | [AWS re:Inforce 2024 - Building a secure MLOps pipeline, featuring PathAI (APS302)](https://www.youtube.com/watch?v=LjCU4V2da3U)                    | 2024-06-14   |
 | [AWS re:Inforce 2024 - How NatWest uses AWS services to manage vulnerabilities at scale (TDR201)](https://www.youtube.com/watch?v=7RacD3j4bc8)      | 2024-06-14   |
 | [AWS re:Inforce 2024 - Automation in action: Strategies for risk mitigation (GRC301)](https://www.youtube.com/watch?v=gbo-Z01NTc8)                  | 2024-06-14   |
-| [AWS re:Inforce 2024 - Establishing a data perimeter on AWS, featuring Capital One (IAM305)](https://www.youtube.com/watch?v=te8GsFjB6Fw)           | 2024-06-18   |
-| [AWS re:Inforce 2024 - AWS Well-Architected for network security, featuring Mercado Libre (NIS301)](https://www.youtube.com/watch?v=R4_hRzH4drI)    | 2024-06-18   |
 | [AWS re:Inforce 2024 - Secure your container environment with CrowdStrike Falcon security (TDR203-S)](https://www.youtube.com/watch?v=foFsOwCEHA8)  | 2024-06-13   |
 | [AWS re:Inforce 2024 - Diversity and accessibility in the age of generative AI (ABW101)](https://www.youtube.com/watch?v=tc92qoRFMPA)               | 2024-06-12   |
 | [AWS re:Inforce 2024 - Developing an autonomous framework with Security Lake & Torc Robotics (TDR301)](https://www.youtube.com/watch?v=qxOFmqmzAY8) | 2024-06-12   |
