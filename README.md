@@ -27,6 +27,9 @@
 
 [AWS Reinforce 2024 - Keynote and Innovation Talks](playlist-PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM.md)
 
+## AWS Summit Paris 2024
+
+[AWS Summit Paris 2024](playlist-PLL_L4MF1Z7JVoRINWdkdvyJVkH-i0Qq1Q.md)
 
 ## AWS Reinvent 2023
 

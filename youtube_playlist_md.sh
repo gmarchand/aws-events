@@ -114,4 +114,6 @@ ym -p PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr
 # AWS Reinforce 2024 - Keynote and Innovation Talks
 ym -p PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM
 
+# AWS Summit Paris 2024
+ym -p PLL_L4MF1Z7JVoRINWdkdvyJVkH-i0Qq1Q
 

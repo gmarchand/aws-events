@@ -15,10 +15,7 @@ tasks:
       - git push
     silent: true
 
-  awsevent:
-    desc: AWS Event
-    cmds:
-      - ym -c UCdoadna9HFHsxXWhafhNvKw
+
 
   python:
     cmds:
