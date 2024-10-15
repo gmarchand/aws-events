@@ -35,7 +35,7 @@
 | [AWS re:Inforce 2024 - Security controls for generative AI use cases (GAI221)](https://www.youtube.com/watch?v=qt38XTSAG50)                         | 2024-06-12   |
 | [AWS re:Inforce 2024 - Building PCI-compliant real-time payment processing with AsapCard (DAP222)](https://www.youtube.com/watch?v=cCXY_drokyc)     | 2024-06-12   |
 | [AWS re:Inforce 2024 - Enhance AppSec: Generative AI integration in AWS testing (APS301)](https://www.youtube.com/watch?v=fyQyn4zvRf8)              | 2024-06-12   |
-| [AWS re:Inforce 2024 - Access management: Customer use of Cedar policy & Verified Permissions (IAM201](https://www.youtube.com/watch?v=vDLI9w9Z-R8) | 2024-06-12   |
+| [AWS re:Inforce 2024 - Access management: Customer use of Cedar policy & Verified Permissions IAM201](https://www.youtube.com/watch?v=vDLI9w9Z-R8)  | 2024-06-12   |
 | [AWS re:Inforce 2024 - Staying ahead of threat actors with Amazon Cognito, featuring Dynata (IAM302)](https://www.youtube.com/watch?v=tPHJ8o1hkKA)  | 2024-06-12   |
 | [AWS re:Inforce 2024 - Building resilient event-driven architectures, feat. United Airlines (DAP301)](https://www.youtube.com/watch?v=BusVHD5WS8E)  | 2024-06-12   |
 | [AWS re:Inforce 2024 - Balancing responsible AI: Privacy and data protection on AWS (GAI223)](https://www.youtube.com/watch?v=AOi6uomSHY0)          | 2024-06-12   |

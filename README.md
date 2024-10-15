@@ -1,6 +1,14 @@
 
 # AWS Playlists
 
+### IBC 2024
+
+#### IBC videos with AWS
+[Building the future of tech](https://www.ibc.org/video/building-the-future-of-tech/11540.article)
+
+
+[AWS IBC 2024 - Demos](playlist-PLSfK4vylaJMg82HDGMb4zg_eEpDLJVFoT.md)
+
 ## AWS Reinforce 2024
 
 [AWS Reinforce 2024 - Full](playlist-PL2yQDdvlhXf-a63_o1-mAya81ZwuRkmAu.md)

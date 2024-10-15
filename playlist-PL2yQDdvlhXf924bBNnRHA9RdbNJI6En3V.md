@@ -47,7 +47,7 @@
 | [AWS re:Inforce 2024 - Accelerate securely: The Generative AI Security Scoping Matrix (APS201)](https://www.youtube.com/watch?v=G3YjjAbKZ-Y)        | 2024-06-12   |
 | [AWS re:Inforce 2024 - Building resilient event-driven architectures, feat. United Airlines (DAP301)](https://www.youtube.com/watch?v=BusVHD5WS8E)  | 2024-06-12   |
 | [AWS re:Inforce 2024 - Staying ahead of threat actors with Amazon Cognito, featuring Dynata (IAM302)](https://www.youtube.com/watch?v=tPHJ8o1hkKA)  | 2024-06-12   |
-| [AWS re:Inforce 2024 - Access management: Customer use of Cedar policy & Verified Permissions (IAM201](https://www.youtube.com/watch?v=vDLI9w9Z-R8) | 2024-06-12   |
+| [AWS re:Inforce 2024 - Access management: Customer use of Cedar policy & Verified Permissions IAM201](https://www.youtube.com/watch?v=vDLI9w9Z-R8)  | 2024-06-12   |
 | [AWS re:Inforce 2024 - Enhance AppSec: Generative AI integration in AWS testing (APS301)](https://www.youtube.com/watch?v=fyQyn4zvRf8)              | 2024-06-12   |
 | [AWS re:Inforce 2024 - Discover emerging threats in cloud security (NIS201)](https://www.youtube.com/watch?v=38Z9csvyFDg)                           | 2024-06-12   |
 | [AWS re:Inforce 2024 - Detecting and responding to threats in generative AI workloads (TDR302)](https://www.youtube.com/watch?v=GPMo7KvqckI)        | 2024-06-11   |
