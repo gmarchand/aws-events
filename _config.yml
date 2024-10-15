@@ -1,6 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-seo-tag
 title: [AWS Events on Youtube]
 description: [Watch on-demand Youtube videos of engaging AWS events and save your favorite sessions to revisit anytime.]
