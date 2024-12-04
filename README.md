@@ -1,6 +1,53 @@
 
 # AWS Playlists
 
+### AWS re:Invent 2024
+[AWS re:Invent 2024 - Networking & Content Delivery](playlist-PL2yQDdvlhXf-2FD5J6FzCy2bgf3C7E0TQ.md)
+
+[AWS re:Invent 2024 - Analytics](playlist-PL2yQDdvlhXf-8Xf_C2hJKEBbHPPr6q8Fo.md)
+
+[AWS re:Invent 2024 - Partner Sessions](playlist-PL2yQDdvlhXf-ZPFF45fKOCoRXdW11NcaT.md)
+
+[AWS re:Invent 2024 - Architecture](playlist-PL2yQDdvlhXf87XP-v6toFBLROmrJqApP7.md)
+
+[AWS re:Invent 2024 - Business Apps](playlist-PL2yQDdvlhXf8ME7oJDTz2vhcfGepYa-j7.md)
+
+[AWS re:Invent 2024 - Migration & Modernization](playlist-PL2yQDdvlhXf8ahMXG-QmuWCkhjX2tQfmp.md)
+
+[AWS re:Invent 2024 - Community](playlist-PL2yQDdvlhXf8lbgluOyOWckjc5iYJgUCP.md)
+
+[AWS re:Invent 2024 - New to AWS](playlist-PL2yQDdvlhXf8qFSTZBFOcbdzuMGb--yWK.md)
+
+[AWS re:Invent 2024 - Compute](playlist-PL2yQDdvlhXf9-pNfjMjlU8uk7C4qu-HI-.md)
+
+[AWS re:Invent 2024 - Kubernetes](playlist-PL2yQDdvlhXf9A21fHF45j_sciYhGuuWXb.md)
+
+[AWS re:Invent 2024 - Hybrid Cloud](playlist-PL2yQDdvlhXf9CaAAwh0xonYlZ42LUFx2z.md)
+
+[AWS re:Invent 2024 - Storage](playlist-PL2yQDdvlhXf9EbbweFH0wgqnX8D-co-52.md)
+
+[AWS re:Invent 2024 - Developer Productivity & DevOps](playlist-PL2yQDdvlhXf9FUBlLQdRg3xPFx8jS0Zvi.md)
+
+[AWS re:Invent 2024 - Industry ](playlist-PL2yQDdvlhXf9IS3DSz6q--R--o79oXpov.md)
+
+[AWS re:Invent 2024 - Databases](playlist-PL2yQDdvlhXf9IiD_yeNFVZxzQfDPqEMRu.md)
+
+[AWS re:Invent 2024 - End-User Computing](playlist-PL2yQDdvlhXf9lfKWNMmc6DNBDbwqt57FN.md)
+
+[AWS re:Invent 2024 - IoT & Robotics](playlist-PL2yQDdvlhXf9v8c_vYMdMukFsctIVanTG.md)
+
+[AWS re:Invent 2024 - Partner Enablement ](playlist-PL2yQDdvlhXf_4FI9Vv6iiez3zDQhP6RAJ.md)
+
+[AWS re:Invent 2024 - AI/ML](playlist-PL2yQDdvlhXf_AG2Tt0CK-d4-eY6PgjKFr.md)
+
+[AWS re:Invent 2024 - Customer Enablement](playlist-PL2yQDdvlhXf_Djy46p_AEzQmIKVfhE4hp.md)
+
+[AWS re:Invent 2024 - Serverless Compute](playlist-PL2yQDdvlhXf_Ezjnq7A7LfHBgCYSqzrZS.md)
+
+[AWS re:Invent 2024 - Cloud Operations](playlist-PL2yQDdvlhXf_Tf2RdMc_CG73PdGVIV2uZ.md)
+
+[AWS re:Invent 2024 - Security Compliance & Identity](playlist-PL2yQDdvlhXf_rE-y8urR6VmH0-2HmeysH.md)
+
 ### IBC 2024
 
 #### IBC videos with AWS
