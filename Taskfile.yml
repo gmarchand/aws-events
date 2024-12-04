@@ -5,31 +5,31 @@ version: '3'
 dotenv: ['.env', '{{.ENV}}/.env.', '{{.HOME}}/.env']
 
 tasks:
-  # build:
-  #   cmds:
-  #     - npm install -g youtube-playlist-markdown-cli
-  #     - sh youtube_playlist_md.sh
-  #     - python3 feedly_to_markdown.py ./FeedlySavedForLater1701691966152.json my-playlist-reinvent-2023.md
-  #     - git add .
-  #     - git commit -m 'update'
-  #     - git push
-  #   silent: true
+  build:
+    cmds:
+      - npm install -g youtube-playlist-markdown-cli
+      - sh youtube_playlist_md.sh
+      - python3 feedly_to_markdown.py ./FeedlySavedForLater1701691966152.json my-playlist-reinvent-2023.md
+      - git add .
+      - git commit -m 'update'
+      - git push
+    silent: true
 
 
 
-  # python:
-  #   cmds:
-  #     - python youtube-playlist-markdown.py --playlist=PL2yQDdvlhXf8iyzg7ziZI924PxC8a8M-U
+  python:
+    cmds:
+      - python youtube-playlist-markdown.py --playlist=PL2yQDdvlhXf8iyzg7ziZI924PxC8a8M-U
 
 
-  # venv:
-  #   desc: Create local python virtual env
-  #   cmds:
-  #     - rm -rf .venv/ || true
-  #     - python3 -m venv 3.11.0 .venv
-  #     - .venv/bin/python3 -m pip install --upgrade --quiet pip
-  #     - .venv/bin/pip3 install --quiet --requirement requirements.txt
-  #   sources:
-  #     - requirements.txt
-  #   generates:
-  #     - .venv/bin/activate
+  venv:
+    desc: Create local python virtual env
+    cmds:
+      - rm -rf .venv/ || true
+      - python3 -m venv 3.11.0 .venv
+      - .venv/bin/python3 -m pip install --upgrade --quiet pip
+      - .venv/bin/pip3 install --quiet --requirement requirements.txt
+    sources:
+      - requirements.txt
+    generates:
+      - .venv/bin/activate

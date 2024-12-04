@@ -118,4 +118,27 @@ ym -p PLL_L4MF1Z7JVoRINWdkdvyJVkH-i0Qq1Q
 # AWS IBC 2024 
 ym -p PLSfK4vylaJMg82HDGMb4zg_eEpDLJVFoT
 
-
+# AWS Reinvent 2024
+ym -p PL2yQDdvlhXf_AG2Tt0CK-d4-eY6PgjKFr
+ym -p PL2yQDdvlhXf-8Xf_C2hJKEBbHPPr6q8Fo
+ym -p PL2yQDdvlhXf87XP-v6toFBLROmrJqApP7
+ym -p PL2yQDdvlhXf8ME7oJDTz2vhcfGepYa-j7
+ym -p PL2yQDdvlhXf8lbgluOyOWckjc5iYJgUCP
+ym -p PL2yQDdvlhXf9-pNfjMjlU8uk7C4qu-HI-
+ym -p PL2yQDdvlhXf_Djy46p_AEzQmIKVfhE4hp
+ym -p PL2yQDdvlhXf_Tf2RdMc_CG73PdGVIV2uZ
+ym -p PL2yQDdvlhXf9IiD_yeNFVZxzQfDPqEMRu
+ym -p PL2yQDdvlhXf9FUBlLQdRg3xPFx8jS0Zvi
+ym -p PL2yQDdvlhXf9lfKWNMmc6DNBDbwqt57FN
+ym -p PL2yQDdvlhXf9CaAAwh0xonYlZ42LUFx2z
+ym -p PL2yQDdvlhXf9IS3DSz6q--R--o79oXpov
+ym -p PL2yQDdvlhXf9v8c_vYMdMukFsctIVanTG
+ym -p PL2yQDdvlhXf9A21fHF45j_sciYhGuuWXb
+ym -p PL2yQDdvlhXf-2FD5J6FzCy2bgf3C7E0TQ
+ym -p PL2yQDdvlhXf8qFSTZBFOcbdzuMGb--yWK
+ym -p PL2yQDdvlhXf8ahMXG-QmuWCkhjX2tQfmp
+ym -p PL2yQDdvlhXf_4FI9Vv6iiez3zDQhP6RAJ
+ym -p PL2yQDdvlhXf-ZPFF45fKOCoRXdW11NcaT
+ym -p PL2yQDdvlhXf_rE-y8urR6VmH0-2HmeysH
+ym -p PL2yQDdvlhXf_Ezjnq7A7LfHBgCYSqzrZS
+ym -p PL2yQDdvlhXf9EbbweFH0wgqnX8D-co-52
