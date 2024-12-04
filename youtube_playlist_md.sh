@@ -119,6 +119,8 @@ ym -p PLL_L4MF1Z7JVoRINWdkdvyJVkH-i0Qq1Q
 ym -p PLSfK4vylaJMg82HDGMb4zg_eEpDLJVFoT
 
 # AWS Reinvent 2024
+ym -p PL2yQDdvlhXf_IKBiqK54xnYrg_NPDcv51
+ym -p PL2yQDdvlhXf_aPLMfxECsw-UIbEg6uy42
 ym -p PL2yQDdvlhXf_AG2Tt0CK-d4-eY6PgjKFr
 ym -p PL2yQDdvlhXf-8Xf_C2hJKEBbHPPr6q8Fo
 ym -p PL2yQDdvlhXf87XP-v6toFBLROmrJqApP7

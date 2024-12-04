@@ -2,6 +2,11 @@
 # AWS Playlists
 
 ### AWS re:Invent 2024
+
+[AWS re:Invent 2024 - Keynotes](playlist-PL2yQDdvlhXf_aPLMfxECsw-UIbEg6uy42.md)
+
+[AWS re:Invent 2024 - Innovation Talks](playlist-PL2yQDdvlhXf_IKBiqK54xnYrg_NPDcv51.md)
+
 [AWS re:Invent 2024 - Networking & Content Delivery](playlist-PL2yQDdvlhXf-2FD5J6FzCy2bgf3C7E0TQ.md)
 
 [AWS re:Invent 2024 - Analytics](playlist-PL2yQDdvlhXf-8Xf_C2hJKEBbHPPr6q8Fo.md)
