@@ -2,10 +2,62 @@
 
 #### [AWS re:Invent 2024 - Partner Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-ZPFF45fKOCoRXdW11NcaT) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 32 
+* video count: 84 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Patient-centric healthcare: Harnessing data, analytics & gen AI (AIM119)](https://www.youtube.com/watch?v=TIqAhIuSjyE)        | 2024-12-05   |
+| [AWS re:Invent 2024 - Responding to cloud incidents: Tales from the front lines (SEC313)](https://www.youtube.com/watch?v=5vvQaS1Iyvs)              | 2024-12-05   |
+| [AWS re:Invent 2024 - Shifting left in security policy design (SEC215)](https://www.youtube.com/watch?v=9IFMH6-yvK8)                                | 2024-12-05   |
+| [AWS re:Invent 2024 - The new paradigm: Human plus and playing to win in the age of AI (MAM231)](https://www.youtube.com/watch?v=NRegCfWhSew)       | 2024-12-05   |
+| [AWS re:Invent 2024 - Pixar & healthcare organizations’ optimized migration journeys to AMD (MAM227)](https://www.youtube.com/watch?v=ZnLztK9mOF4)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Build for massive scale & security with the HashiCorp Cloud Platform (DOP301)](https://www.youtube.com/watch?v=c5LiyO20hgI)   | 2024-12-05   |
+| [AWS re:Invent 2024 - Tech vs. business: How first-movers embrace emerging tech (AIM225)](https://www.youtube.com/watch?v=zg--LnUioCE)              | 2024-12-05   |
+| [AWS re:Invent 2024 - From observability to automation: Transforming enterprises with AI (AIM238)](https://www.youtube.com/watch?v=9qwUBrk80YE)     | 2024-12-05   |
+| [AWS re:Invent 2024 - Modernizing & integrating ExxonMobil's ERP systems & apps with ROSA (HYB101)](https://www.youtube.com/watch?v=DmMi2ytHjKE)    | 2024-12-05   |
+| [AWS re:Invent 2024 - Build resilience using learnings from incident communication patterns (DOP107)](https://www.youtube.com/watch?v=Zbvei0SDehk)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Reimagine your business with enterprise AI, powered by the cloud (AIM399)](https://www.youtube.com/watch?v=--iB5BWyZbM)       | 2024-12-05   |
+| [AWS re:Invent 2024 - Unlocking mission-critical new lines of business with AWS and gen AI (AIM117)](https://www.youtube.com/watch?v=9saXQCTYS1k)   | 2024-12-05   |
+| [AWS re:Invent 2024 - PwC, AWS, and Engine by Starling: A digital transformation in banking (COP216)](https://www.youtube.com/watch?v=cILNAHpKe1U)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Cross-engine governance for a data lakehouse built on open standards (ARC332)](https://www.youtube.com/watch?v=2y6y_gIkPpc)   | 2024-12-05   |
+| [AWS re:Invent 2024 - NVIDIA accelerated computing platform on AWS (AIM110)](https://www.youtube.com/watch?v=0nv3VhjToKc)                           | 2024-12-05   |
+| [AWS re:Invent 2024 - Accelerate business decisions and cyber resiliency with RAG and AI  (COP207)](https://www.youtube.com/watch?v=97lNClWwApk)    | 2024-12-05   |
+| [AWS re:Invent 2024 - Turning data into action: Cisco & Splunk's strategic blueprint on AWS (SEC106)](https://www.youtube.com/watch?v=e4sWroNy9kI)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Securing AI-driven applications with Auth0 by Okta and Amazon Bedrock (AIM246)](https://www.youtube.com/watch?v=NX5gzz1Exw4)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Bring AI to life with DataStax, NVIDIA, and Wikimedia (AIM219)](https://www.youtube.com/watch?v=E9byadj0uko)                  | 2024-12-05   |
+| [AWS re:Invent 2024 - Best practices for customizing Amazon Q Developer  (DOP217)](https://www.youtube.com/watch?v=L2mmGKxAorQ)                     | 2024-12-05   |
+| [AWS re:Invent 2024 - Design patterns for multi-Region applications and data in AWS (DAT207)](https://www.youtube.com/watch?v=pbrR9IBcx2E)          | 2024-12-05   |
+| [AWS re:Invent 2024 - Become the API hero of your organization's AI story (AIM126)](https://www.youtube.com/watch?v=_sR-nrdt8Z8)                    | 2024-12-05   |
+| [AWS re:Invent 2024 - Data's renaissance: Gen AI and the new value of data (AIM247)](https://www.youtube.com/watch?v=xSO5V7wOqHE)                   | 2024-12-05   |
+| [AWS re:Invent 2024 - Accelerate your AI journey with Splunk and AWS (AIM224)](https://www.youtube.com/watch?v=DSe2Joex85w)                         | 2024-12-05   |
+| [AWS re:Invent 2024 - From zero to billion: The Zoho success story fueled by ManageEngine (COP102)](https://www.youtube.com/watch?v=w1TmgO0C3zU)    | 2024-12-05   |
+| [AWS re:Invent 2024 - 5 reasons why runtime is the key to shifting both left & right (SEC318)](https://www.youtube.com/watch?v=zlvls9Rq1bQ)         | 2024-12-05   |
+| [AWS re:Invent 2024 - Enhancing the United Airline experience for today’s digital consumer (AIM254)](https://www.youtube.com/watch?v=gngKouGjT0c)   | 2024-12-05   |
+| [AWS re:Invent 2024 - Operations platform for pharmaceutical R&D powered by AWS (AIM266)](https://www.youtube.com/watch?v=2T92CfctGfY)              | 2024-12-05   |
+| [AWS re:Invent 2024 - Revolutionize Kubernetes management with Zesty's optimization platform (KUB102)](https://www.youtube.com/watch?v=YAFmC1yk8L4) | 2024-12-04   |
+| [AWS re:Invent 2024 - Production-grade gen AI solutions at Nissan with Snowflake Cortex AI (AIM252)](https://www.youtube.com/watch?v=75um7hIGFyk)   | 2024-12-04   |
+| [AWS re:Invent 2024 - Infrastructure at the speed of AI (AIM102)](https://www.youtube.com/watch?v=yKLXCUwZ5Jk)                                      | 2024-12-05   |
+| [AWS re:Invent 2024 - Dive into poolside: AI models just for software engineering (AIM133)](https://www.youtube.com/watch?v=1vj_5H0aCV8)            | 2024-12-05   |
+| [AWS re:Invent 2024 - Real-world applications of Amazon Q in data science and development (AIM243)](https://www.youtube.com/watch?v=mlg0XqHsHH4)    | 2024-12-04   |
+| [AWS re:Invent 2024 - Toyota, Deloitte & AWS: Enhancing customer experiences & market share (AIM383)](https://www.youtube.com/watch?v=xW-YNnBSbA0)  | 2024-12-04   |
+| [AWS re:Invent 2024 - The GraphRAG fast track with Amazon Bedrock and Neo4j AuraDB (AIM390)](https://www.youtube.com/watch?v=HJAGy-PA2fY)           | 2024-12-04   |
+| [AWS re:Invent 2024 - Securing the software supply chain with AWS and SUSE (SEC312)](https://www.youtube.com/watch?v=xAc8CJ69g3k)                   | 2024-12-04   |
+| [AWS re:Invent 2024 - AI on AMD in public cloud: Increased access at optimized cost & power (AIM230)](https://www.youtube.com/watch?v=3Dbh6sxO91M)  | 2024-12-04   |
+| [AWS re:Invent 2024 - AI at production scale: Cloudera’s inference service with NVIDIA (AIM221)](https://www.youtube.com/watch?v=0aahLrTfsRw)       | 2024-12-04   |
+| [AWS re:Invent 2024 - Feed your AI strategy with data products (AIM259)](https://www.youtube.com/watch?v=KELCQ6B_msI)                               | 2024-12-04   |
+| [AWS re:Invent 2024 - Cloud security in the age of generative AI (SEC104)](https://www.youtube.com/watch?v=Hx6aOhgf2FM)                             | 2024-12-04   |
+| [AWS re:Invent 2024 -Hours to minutes: The gen AI evolution in Convera's customer experience (AIM331)](https://www.youtube.com/watch?v=QOEe3_G1LkU) | 2024-12-04   |
+| [AWS re:Invent 2024 - Zero-day data security: Protecting your Amazon S3 buckets in real time (SEC213)](https://www.youtube.com/watch?v=6f4_qTxwhdY) | 2024-12-04   |
+| [AWS re:Invent 2024 - How to get dynamic with secrets management (SEC204)](https://www.youtube.com/watch?v=sirp8bTHucc)                             | 2024-12-04   |
+| [AWS re:Invent 2024 - Unlocking efficiency: Transformed claims processing with generative AI (MAM228)](https://www.youtube.com/watch?v=qcDlM_4MqPk) | 2024-12-04   |
+| [AWS re:Invent 2024 - Disrupt the status quo: How to stop waiting & start innovating on AWS (MAM233)](https://www.youtube.com/watch?v=UJF5ifbf-tc)  | 2024-12-04   |
+| [AWS re:Invent 2024 - Creating a data foundation using Amazon Bedrock for gen AI and RAG (AIM231)](https://www.youtube.com/watch?v=kK-n57uFznY)     | 2024-12-04   |
+| [AWS re:Invent 2024 - Securing hybrid networks: A critical aerospace services example (COP104)](https://www.youtube.com/watch?v=qGXTfzUEOmQ)        | 2024-12-04   |
+| [AWS re:Invent 2024 - Transform troubleshooting in manufacturing with AWS gen AI services (IOT204)](https://www.youtube.com/watch?v=0wtJWYEUw_c)    | 2024-12-04   |
+| [AWS re:Invent 2024 - Advancing physical AI: NVIDIA Isaac Lab and AWS for next-gen robotics (AIM113)](https://www.youtube.com/watch?v=LafWpmrqahY)  | 2024-12-04   |
+| [AWS re:Invent 2024 - Modernize financial service apps with the cloud & as-a-service models (MAM217)](https://www.youtube.com/watch?v=lnJ7jKYMFBo)  | 2024-12-04   |
+| [AWS re:Invent 2024 - Building for the future: Enterprise-scale AI and analytics (AIM125)](https://www.youtube.com/watch?v=ZcjRk-nykF0)             | 2024-12-04   |
+| [AWS re:Invent 2024 - Using gen AI to increase efficiency for cloud security teams (AIM209)](https://www.youtube.com/watch?v=E4cZTTiqpZE)           | 2024-12-04   |
 | [AWS re:Invent 2024 - Build, customize, and deploy generative AI with NVIDIA on AWS (AIM241)](https://www.youtube.com/watch?v=lPTHsZw1CmQ)          | 2024-12-04   |
 | [AWS re:Invent 2024 -Shipping gen AI faster & safer in high tech with LaunchDarkly & Poka.io (AIM262)](https://www.youtube.com/watch?v=OMajbMp0J3g) | 2024-12-04   |
 | [AWS re:Invent 2024 - Optimizing data workflows for AI with SnapLogic and AWS (AIM386)](https://www.youtube.com/watch?v=wjPSoUN9kjQ)                | 2024-12-04   |

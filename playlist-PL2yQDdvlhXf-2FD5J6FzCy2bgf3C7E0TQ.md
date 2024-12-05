@@ -2,10 +2,16 @@
 
 #### [AWS re:Invent 2024 - Networking & Content Delivery](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-2FD5J6FzCy2bgf3C7E0TQ) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 8 
+* video count: 14 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Amazon CloudFront Hosting Toolkit: A new tool for frontend hosting (CDN312)](https://www.youtube.com/watch?v=pmWhspx4ppw)     | 2024-12-05   |
+| [AWS re:Invent 2024 - You are under a DDOS attack! Are you ready to respond? (CDN306)](https://www.youtube.com/watch?v=oXw0vLOSIY4)                 | 2024-12-05   |
+| [AWS re:Invent 2024 - Dive into the depths of routing on AWS (NET318)](https://www.youtube.com/watch?v=zWZNyMRYoxQ)                                 | 2024-12-05   |
+| [AWS re:Invent 2024 - Go codeless and replatform Windows applications on Amazon EKS (XNT311)](https://www.youtube.com/watch?v=4rquMWa3qp0)          | 2024-12-04   |
+| [AWS re:Invent 2024 - The art and culture of modernizing a .NET monolith (XNT202)](https://www.youtube.com/watch?v=GSWBO776rGQ)                     | 2024-12-04   |
+| [AWS re:Invent 2024 - Design well-architected networks on AWS (NET202)](https://www.youtube.com/watch?v=Pd5p-fzwsLA)                                | 2024-12-04   |
 | [AWS re:Invent 2024 - Optimizing ELB traffic distribution for high availability (NET401)](https://www.youtube.com/watch?v=EhbFossuQhI)              | 2024-12-04   |
 | [AWS re:Invent 2024 - AWS application networking: Build simple, secure, and reliable apps (NET317)](https://www.youtube.com/watch?v=-obQxSPclrw)    | 2024-12-04   |
 | [AWS re:Invent 2024 - Amazon VPC: Advanced design and what’s new (NET301)](https://www.youtube.com/watch?v=7qaSfmnFiI0)                             | 2024-12-04   |
