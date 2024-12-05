@@ -2,10 +2,13 @@
 
 #### [AWS re:Invent 2024 - Migration & Modernization](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8ahMXG-QmuWCkhjX2tQfmp) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 8 
+* video count: 11 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Versuni rapidly reinvented their enterprise with RISE with SAP on AWS (MAM223)](https://www.youtube.com/watch?v=LdyFuXVKkTE) | 2024-12-04   |
+| [AWS re:Invent 2024 - AWS for VMware migrations: Successes, roadmaps, & strategies (MAM104)](https://www.youtube.com/watch?v=UwNMCmUJfRM)          | 2024-12-04   |
+| [AWS re:Invent 2024 - Event-driven architectures with strangler and leave/layer patterns (MAM304)](https://www.youtube.com/watch?v=tC8UEe51hgU)    | 2024-12-04   |
 | [AWS re:Invent 2024 - Amazon MGM Studios automates financial close process with SAP and AWS (MAM219)](https://www.youtube.com/watch?v=kxXQCNTeEgM) | 2024-12-04   |
 | [AWS re:Invent 2024 - Accelerating cloud transformation: Lessons from industry leaders (MAM101)](https://www.youtube.com/watch?v=XHcGCam6NIw)      | 2024-12-04   |
 | [AWS re:Invent 2024 - Unlocking innovation: Reimagining mainframe applications with gen AI (MAM113)](https://www.youtube.com/watch?v=ORQtCUb2Xes)  | 2024-12-04   |
