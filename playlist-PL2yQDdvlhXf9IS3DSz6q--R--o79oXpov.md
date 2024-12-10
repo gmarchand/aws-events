@@ -2,10 +2,64 @@
 
 #### [AWS re:Invent 2024 - Industry](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9IS3DSz6q--R--o79oXpov) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 38 
+* video count: 92 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - An open collaboration for HPC acceleration (ENU305)](https://www.youtube.com/watch?v=xcJsPuN-3DA)                             | 2024-12-09   |
+| [AWS re:Invent 2024 - Braving the storm: TJRS’s 3-week cloud migration amid disaster (WPS205)](https://www.youtube.com/watch?v=srBFjywC6-U)         | 2024-12-09   |
+| [AWS re:Invent 2024 - Launching a new league: The blueprint for tech-driven sports (SPT210)](https://www.youtube.com/watch?v=jqQKj9wDLcs)           | 2024-12-09   |
+| [AWS re:Invent 2024 - Driving operational excellence: F1’s AI-fueled race-day transformation (SPT206)](https://www.youtube.com/watch?v=6NoyacHWbV0) | 2024-12-09   |
+| [AWS re:Invent 2024 - Scaling technology for millions of cricket fans on AWS (MAE309)](https://www.youtube.com/watch?v=SOgX572YinQ)                 | 2024-12-09   |
+| [AWS re:Invent 2024 - Creating powerful member experiences: Cigna’s AWS HealthLake journey (HLS220)](https://www.youtube.com/watch?v=ZkVqCudak7k)   | 2024-12-08   |
+| [AWS re:Invent 2024 -Volkswagen’s platform strategy enables production performance & quality (MFG207)](https://www.youtube.com/watch?v=3uJiILPOXbc) | 2024-12-08   |
+| [AWS re:Invent 2024 - Accelerate healthcare innovation: TriZetto's data-powered approach (HLS208)](https://www.youtube.com/watch?v=iwmmBTMpEHo)     | 2024-12-08   |
+| [AWS re:Invent 2024 - Leveraging technology and leadership to accelerate energy innovation (ENU201)](https://www.youtube.com/watch?v=-14nNmcl58w)   | 2024-12-08   |
+| [AWS re:Invent 2024 - Optimizing production schedules for flexible manufacturing  (MFG101)](https://www.youtube.com/watch?v=YRjz81MYuzc)            | 2024-12-08   |
+| [AWS re:Invent 2024 - Netflix’s efficient network configuration for millions of containers (NFX306)](https://www.youtube.com/watch?v=fmUM9bMoCNE)   | 2024-12-08   |
+| [AWS re:Invent 2024 - Netflix's massive multi-account journey: Year two (NFX402)](https://www.youtube.com/watch?v=7eSZj3D9NRE)                      | 2024-12-08   |
+| [AWS re:Invent 2024 - Froedtert Health transforms patient engagement with generative AI (HLS214)](https://www.youtube.com/watch?v=mlP_oP5LrIQ)      | 2024-12-08   |
+| [AWS re:Invent 2024 - S&P Global: Scaling data insights with fine-tuned foundational models (FSI313)](https://www.youtube.com/watch?v=wY8M0uCYxL4)  | 2024-12-08   |
+| [AWS re:Invent 2024 - Optimizing network efficiency & strengthening multicloud connectivity (MAE308)](https://www.youtube.com/watch?v=t4Hm3ru9TAI)  | 2024-12-08   |
+| [AWS re:Invent 2024 - NHL Unlocked: Live cloud production, sports data, and alternate feeds (MAE201)](https://www.youtube.com/watch?v=neCFSR_KPzU)  | 2024-12-08   |
+| [AWS re:Invent 2024 - The evolution story of game architecture: PUBG: Battlegrounds, Krafton (GAM311)](https://www.youtube.com/watch?v=GhYUjTxSOkE) | 2024-12-08   |
+| [AWS re:Invent 2024 - All-in on AWS: Transforming production operations with AWS (ENU307)](https://www.youtube.com/watch?v=2oRl6OqEy-M)             | 2024-12-08   |
+| [AWS re:Invent 2024 - Transforming AV/ADAS development at Continental with generative AI (AUT307)](https://www.youtube.com/watch?v=kbAS9TiMMrA)     | 2024-12-08   |
+| [AWS re:Invent 2024 - Building an AI-powered shopping assistant  (RCG204)](https://www.youtube.com/watch?v=6-43vOTi2GI)                             | 2024-12-08   |
+| [AWS re:Invent 2024 - Closing the machine-to-cloud gap to jump-start digital transformation (MFG206)](https://www.youtube.com/watch?v=GxJw2wctEZE)  | 2024-12-08   |
+| [AWS re:Invent 2024 - Breaking barriers: Harnessing generative AI in telecom (TLC207)](https://www.youtube.com/watch?v=Fyh5C067WQA)                 | 2024-12-08   |
+| [AWS re:Invent 2024 - Honda’s EV charging experience with Amazon Bedrock and AWS IoT Core (AUT202)](https://www.youtube.com/watch?v=o73GxyDlQVk)    | 2024-12-08   |
+| [AWS re:Invent 2024 - Empowering the next-generation industrial operator with generative AI (MFG201)](https://www.youtube.com/watch?v=wOJIwS43ThM)  | 2024-12-08   |
+| [AWS re:Invent 2024 - Scaling generative AI models for millions of users in Roblox  (GAM310)](https://www.youtube.com/watch?v=PR_BdCR-s8o)          | 2024-12-08   |
+| [AWS re:Invent 2024 - JPMorganChase: Real-time fraud screening at massive scale (FSI315)](https://www.youtube.com/watch?v=p_OGzemxyBA)              | 2024-12-08   |
+| [AWS re:Invent 2024 - How generative AI can transform service delivery (WPS321)](https://www.youtube.com/watch?v=Va3muRxMv-I)                       | 2024-12-08   |
+| [AWS re:Invent 2024 - How Arccos Golf is using AWS and generative AI to transform the game (SPT211)](https://www.youtube.com/watch?v=qt7SwZy434I)   | 2024-12-08   |
+| [AWS re:Invent 2024 - SK Telecom's TelClaude: Redefining telco CX with generative AI on AWS (TLC203)](https://www.youtube.com/watch?v=pDur8Y724Io)  | 2024-12-08   |
+| [AWS re:Invent 2024 - Generative AI in advertising and marketing with Blueshift and VidMob (ADM202)](https://www.youtube.com/watch?v=H4KoNIa99w0)   | 2024-12-07   |
+| [AWS re:Invent 2024 - Driving transformation for California’s workforce (WPS322)](https://www.youtube.com/watch?v=ak2aorqtyeQ)                      | 2024-12-07   |
+| [AWS re:Invent 2024 - Democratizing access to higher education for 1.2 million students (WPS319)](https://www.youtube.com/watch?v=oFvOrmlU8vE)      | 2024-12-07   |
+| [AWS re:Invent 2024 - How Netflix benchmarks FMs and LLMs across hardware chipsets (NFX307)](https://www.youtube.com/watch?v=zUjWhiRrp0Y)           | 2024-12-07   |
+| [AWS re:Invent 2024 - Getting better image analysis with generative AI (AES307)](https://www.youtube.com/watch?v=uOyBuoCjFe4)                       | 2024-12-07   |
+| [AWS re:Invent 2024 - Fidelity Investments: Building for mission-critical resilience (FSI318)](https://www.youtube.com/watch?v=mYKNR0UXwMc)         | 2024-12-06   |
+| [AWS re:Invent 2024 - Powering the future: NextEra Energy’s journey with generative AI (ENU309)](https://www.youtube.com/watch?v=9vSlR_vwe2I)       | 2024-12-06   |
+| [AWS re:Invent 2024 - Accelerate control system upgrades through AWS and evergreen testing (ENU306)](https://www.youtube.com/watch?v=H4XJSbYwrSY)   | 2024-12-06   |
+| [AWS re:Invent 2024 - The journey and challenges of operationalizing generative AI at FINRA (WPS320)](https://www.youtube.com/watch?v=mNNIWz60nTg)  | 2024-12-06   |
+| [AWS re:Invent 2024 - Bloomberg: Lessons learned from building and training LLMs on AWS (FSI320)](https://www.youtube.com/watch?v=kf4gkXXZs2Q)      | 2024-12-06   |
+| [AWS re:Invent 2024 - Security strategies in the ever-evolving media industry (SPT208)](https://www.youtube.com/watch?v=kuGnBCq3f0k)                | 2024-12-06   |
+| [AWS re:Invent 2024 - How Star Wars: Hunters got to the next level with Amazon GameLift (GAM308)](https://www.youtube.com/watch?v=LMoHFlZeQes)      | 2024-12-06   |
+| [AWS re:Invent 2024 - Armed Forces unite: Connecting data across domains (WPS212)](https://www.youtube.com/watch?v=GLITiw4ni_s)                     | 2024-12-06   |
+| [AWS re:Invent 2024 - AI-managed telecom ecosystem: Closer than ever (TLC205)](https://www.youtube.com/watch?v=aghlPPPtp2E)                         | 2024-12-05   |
+| [AWS re:Invent 2024 - How the PGA TOUR is transforming live player commentary in golf (SPT209)](https://www.youtube.com/watch?v=nB9iUZXJqQk)        | 2024-12-05   |
+| [AWS re:Invent 2024 - Allianz Germany: Accelerating legacy migration with generative AI (FSI323)](https://www.youtube.com/watch?v=97-hu-EBcv8)      | 2024-12-05   |
+| [AWS re:Invent 2024 - Scaling secure large language models with Robinhood (FSI317)](https://www.youtube.com/watch?v=R9hY1YDlwfk)                    | 2024-12-05   |
+| [AWS re:Invent 2024 - Achieving dynamic power grid operations with AWS (ENU101)](https://www.youtube.com/watch?v=YP-qTiuyV3o)                       | 2024-12-05   |
+| [AWS re:Invent 2024 - Revolutionizing sports with generative AI: The Bundesliga trailblazer (SPT207)](https://www.youtube.com/watch?v=6_iz5crkGx0)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Practical application of generative AI chatbots in the public sector  (WPS206)](https://www.youtube.com/watch?v=nD8rfh06pwI)  | 2024-12-05   |
+| [AWS re:Invent 2024 - Sky: Enhancing sports experiences with automation and generative AI (MAE202)](https://www.youtube.com/watch?v=fJfxCftCF48)    | 2024-12-05   |
+| [AWS re:Invent 2024 - Drive innovation by implementing an industrial data strategy (MFG316)](https://www.youtube.com/watch?v=pLBBtkR521Y)           | 2024-12-05   |
+| [AWS re:Invent 2024 - Grab innovates with generative AI and secure data collaboration  (ADM203)](https://www.youtube.com/watch?v=vRRQkFuKrz8)       | 2024-12-05   |
+| [AWS re:Invent 2024 - How Rivian accelerated ADAS development on AWS (AUT318)](https://www.youtube.com/watch?v=cUf7A-nWX5o)                         | 2024-12-05   |
+| [AWS re:Invent 2024 - Streamline ad monetization with Prebid Server Deployment on AWS (ADM302)](https://www.youtube.com/watch?v=oshiVGh1Ty0)        | 2024-12-05   |
 | [AWS re:Invent 2024 - O2 Telefónica Germany: 5G Core on AWS (TLC206)](https://www.youtube.com/watch?v=ugetY8CCQgA)                                  | 2024-12-05   |
 | [AWS re:Invent 2024 - How Merck improves drug design with biological foundation models (HLS215)](https://www.youtube.com/watch?v=f5Bmf_axRNw)       | 2024-12-05   |
 | [AWS re:Invent 2024 - Beyond productivity: Using generative AI to grow in financial services (FSI202)](https://www.youtube.com/watch?v=G8b8LrfXSik) | 2024-12-05   |
@@ -13,8 +67,8 @@
 | [AWS re:Invent 2024 - Learnings from BMW's global software development platform on AWS (AUT319)](https://www.youtube.com/watch?v=Bz6cKpUJiUw)       | 2024-12-05   |
 | [AWS re:Invent 2024 - How ICEYE uses satellite data & generative AI to speed flood response (AES305)](https://www.youtube.com/watch?v=ZZQAPGItct8)  | 2024-12-05   |
 | [AWS re:Invent 2024 - Boost fundraising with hyper-personalization powered by Amazon Bedrock (WPS201)](https://www.youtube.com/watch?v=zDWEFsYgKG4) | 2024-12-05   |
-| [AWS re:Invent 2024 - How Vanguard rebuilt its mission-critical trading application on AWS (FSI322)](https://www.youtube.com/watch?v=WpkpqE2Nub8)   | 2024-12-05   |
 | [AWS re:Invent 2024 - New York Life: Data platform modernization to generative AI innovation (FSI324)](https://www.youtube.com/watch?v=aGbNFwI0-ko) | 2024-12-05   |
+| [AWS re:Invent 2024 - How Vanguard rebuilt its mission-critical trading application on AWS (FSI322)](https://www.youtube.com/watch?v=WpkpqE2Nub8)   | 2024-12-05   |
 | [AWS re:Invent 2024 - Claude's role in streamlining drug development (HLS213)](https://www.youtube.com/watch?v=goqWzBW7hrM)                         | 2024-12-05   |
 | [AWS re:Invent 2024 - Accelerate business and mission outcomes with AWS Government Regions (WPS315)](https://www.youtube.com/watch?v=rewe47vq8xM)   | 2024-12-05   |
 | [AWS re:Invent 2024 - How Stripe achieves five and a half 9s of availability (FSI321)](https://www.youtube.com/watch?v=7vn49exuYxo)                 | 2024-12-05   |
@@ -23,9 +77,10 @@
 | [AWS re:Invent 2024 - Improve clinical trial coverage analysis with generative AI (HLS212)](https://www.youtube.com/watch?v=jVu6WQ0qM_k)            | 2024-12-04   |
 | [AWS re:Invent 2024 - Geisinger's epic journey: Scaling EHR operations on AWS (HLS207)](https://www.youtube.com/watch?v=ASwIw-lS7Mw)                | 2024-12-04   |
 | [AWS re:Invent 2024 - Scale clinical diagnostic operations: Natera's genomic innovation (HLS206)](https://www.youtube.com/watch?v=csbfwFbg8zE)      | 2024-12-04   |
-| [AWS re:Invent 2024 - Running a complex design environment on AWS (MFG205)](https://www.youtube.com/watch?v=FwZDdy0lHdM)                            | 2024-12-04   |
-| [AWS re:Invent 2024 - Scaling and evolving media storage at Netflix with Amazon S3 (NFX302)](https://www.youtube.com/watch?v=Nd9ebOzucj4)           | 2024-12-04   |
+| [AWS re:Invent 2024 - Generative AI for public good: Empowering governments and the UN (WPS104)](https://www.youtube.com/watch?v=Ln8aZI2Lkhs)       | 2024-12-04   |
 | [AWS re:Invent 2024 - Replatforming for reinvention: Modernizing mainframes at Goldman Sachs (FSI312)](https://www.youtube.com/watch?v=lscQmFvnL5M) | 2024-12-04   |
+| [AWS re:Invent 2024 - Running a complex design environment on AWS (MFG205)](https://www.youtube.com/watch?v=FwZDdy0lHdM)                            | 2024-12-04   |
+| [Private video](https://www.youtube.com/watch?v=Nd9ebOzucj4)                                                                                        | 2024-12-04   |
 | [AWS re:Invent 2024 - How Supercell’s newest game launched with tens of millions of players (GAM309)](https://www.youtube.com/watch?v=e7ou_bPqWBA)  | 2024-12-04   |
 | [AWS re:Invent 2024 - How Ford unlocked real-time insights using Apache Iceberg on AWS (AUT311)](https://www.youtube.com/watch?v=bDx3SNR_Dck)       | 2024-12-04   |
 | [AWS re:Invent 2024 - How Gousto reduces food waste and increases workforce productivity (MFG202)](https://www.youtube.com/watch?v=GMTlqvsbYSs)     | 2024-12-04   |
@@ -37,7 +92,6 @@
 | [AWS re:Invent 2024 - Efficient incremental processing with Apache Iceberg at Netflix (NFX303)](https://www.youtube.com/watch?v=s1ySnxVg5rk)        | 2024-12-04   |
 | [AWS re:Invent 2024 - Scepter, Inc. uses big data to reduce methane emissions (AES301)](https://www.youtube.com/watch?v=6gHD3kB0780)                | 2024-12-04   |
 | [AWS re:Invent 2024 - Kellanova and WK Kellogg’s cloud-powered transformation with AWS (RCG201)](https://www.youtube.com/watch?v=wkrToNXA6lU)       | 2024-12-03   |
-| [AWS re:Invent 2024 - Generative AI for public good: Empowering governments and the UN (WPS104)](https://www.youtube.com/watch?v=Ln8aZI2Lkhs)       | 2024-12-04   |
 | [AWS re:Invent 2024 - Klarna: Accelerating credit decisioning with real-time data processing (FSI319)](https://www.youtube.com/watch?v=DLYuoyL9bwE) | 2024-12-03   |
 | [AWS re:Invent 2024 - Toyota drives innovation & enhances operational efficiency with gen AI (AUT201)](https://www.youtube.com/watch?v=_NXc1MJenw4) | 2024-12-03   |
 | [AWS re:Invent 2024 - NatWest: Personalizing customer experience with Amazon Connect & AI/ML (FSI316)](https://www.youtube.com/watch?v=zbrLI6ktTcg) | 2024-12-03   |

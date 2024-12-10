@@ -2,10 +2,11 @@
 
 #### [AWS re:Inforce 2024 | Lightning Talks](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-zg2Vw9YHxoqsfsJFUq7tR) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 95 
+* video count: 96 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - AWS Partners accelerating industry modernization through LoB (PEX214)](https://www.youtube.com/watch?v=BkP4nwXLdNw)           | 2024-12-08   |
 | [AWS re:Inforce 2024 - Not another chatbot: How Trellix virtual analyst automatically scales TDR328-S](https://www.youtube.com/watch?v=-oK0LGIFblU) | 2024-06-17   |
 | [AWS re:Inforce 2024 - Centralized security analysis in hybrid & multicloud with partners (CFS225)](https://www.youtube.com/watch?v=au41UxdXQK8)    | 2024-06-14   |
 | [AWS re:Inforce 2024 - Safeguarding sensitive data used in generative AI with RAG (DAP223)](https://www.youtube.com/watch?v=eDr_F3JrS7E)            | 2024-06-14   |
