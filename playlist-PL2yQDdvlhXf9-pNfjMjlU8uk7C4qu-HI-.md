@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2024 - Compute](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9-pNfjMjlU8uk7C4qu-HI-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 19 
+* video count: 20 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Conquer AI performance, cost, and scale with AWS AI chips (CMP209)](https://www.youtube.com/watch?v=u2jDFYvXgDE)              | 2024-12-11   |
 | [AWS re:Invent 2024 - Customer stories: Optimizing AI performance and cost with AWS AI chips (CMP208)](https://www.youtube.com/watch?v=cdrZHimJY2k) | 2024-12-08   |
 | [AWS re:Invent 2024 - Amazon EC2 High Memory portfolio for SAP HANA (CMP322)](https://www.youtube.com/watch?v=8hbmuK2zSE4)                          | 2024-12-08   |
 | [AWS re:Invent 2024 - Modernize Apple platform development with AWS and EC2 Mac (CMP210)](https://www.youtube.com/watch?v=pBvekh31xkA)              | 2024-12-08   |

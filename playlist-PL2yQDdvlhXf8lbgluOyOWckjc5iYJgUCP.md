@@ -7,13 +7,13 @@
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [AWS re:Invent 2024 - Simplify, deploy, and scale an event platform: A community case study (DEV320)](https://www.youtube.com/watch?v=jExY381C91U)  | 2024-12-09   |
-| [AWS re:Invent 2024 - Security invariants: From enterprise chaos to cloud order (DEV401)](https://www.youtube.com/watch?v=aljwG4N5a-0)              | 2024-12-08   |
 | [AWS re:Invent 2024 - AI-powered monitoring: Prometheus meets Amazon Bedrock (DEV209)](https://www.youtube.com/watch?v=HJjowDW5Rw8)                 | 2024-12-08   |
 | [AWS re:Invent 2024 - How an analytics engineer uses AWS in a financial company (DEV212)](https://www.youtube.com/watch?v=UHvwjmhFKUw)              | 2024-12-08   |
+| [AWS re:Invent 2024 - Security invariants: From enterprise chaos to cloud order (DEV401)](https://www.youtube.com/watch?v=aljwG4N5a-0)              | 2024-12-08   |
 | [AWS re:Invent 2024 - Demystifying containers on AWS: What’s right for you? (DEV307)](https://www.youtube.com/watch?v=CBfMUlswNjQ)                  | 2024-12-08   |
+| [AWS re:Invent 2024 - Collaboratively build insightful apps without sharing raw data (DEV203)](https://www.youtube.com/watch?v=EOFoI7iIO-A)         | 2024-12-08   |
 | [AWS re:Invent 2024 - Serverless scalability unleashed (DEV319)](https://www.youtube.com/watch?v=7Lxz6yoIzwA)                                       | 2024-12-08   |
 | [AWS re:Invent 2024 - Build a cloud-powered cross-platform app with AWS Amplify (DEV304)](https://www.youtube.com/watch?v=QN5dsmklU98)              | 2024-12-08   |
-| [AWS re:Invent 2024 - Collaboratively build insightful apps without sharing raw data (DEV203)](https://www.youtube.com/watch?v=EOFoI7iIO-A)         | 2024-12-08   |
 | [AWS re:Invent 2024 - Implementing Amazon Q Developer: Lessons from the field (DEV310)](https://www.youtube.com/watch?v=6-MlALaPX9A)                | 2024-12-08   |
 | [AWS re:Invent 2024 - The art of transforming foundation models into domain experts (DEV301)](https://www.youtube.com/watch?v=qqy30GInxb4)          | 2024-12-08   |
 | [AWS re:Invent 2024 - Build LLMs for low-resource languages with SageMaker HyperPod clusters (DEV340)](https://www.youtube.com/watch?v=4-YXkQXksa4) | 2024-12-08   |

@@ -2,17 +2,18 @@
 
 #### [AWS re:Invent 2024 - Serverless Compute](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_Ezjnq7A7LfHBgCYSqzrZS) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 31 
+* video count: 32 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Scaling and securing private workloads using Amazon API Gateway (SVS318)](https://www.youtube.com/watch?v=GvyyJQ5m7x0)        | 2024-12-11   |
 | [AWS re:Invent 2024 - Navigating the cloud compute landscape with Amazon ECS (SVS327)](https://www.youtube.com/watch?v=i_ioBnDuaiU)                 | 2024-12-08   |
 | [AWS re:Invent 2024 - Streamline web application deployment on AWS Lambda (SVS214)](https://www.youtube.com/watch?v=2jL1PO6zdCA)                    | 2024-12-08   |
 | [AWS re:Invent 2024 - Balance consistency and developer freedom with platform engineering (SVS208)](https://www.youtube.com/watch?v=GKM7tv0A-9Y)    | 2024-12-08   |
 | [AWS re:Invent 2024 - Building an integration strategy for the future (API208)](https://www.youtube.com/watch?v=CLBlmazHeIE)                        | 2024-12-08   |
-| [AWS re:Invent 2024 - Develop serverless applications with Amazon Q Developer (SVS213)](https://www.youtube.com/watch?v=NnTu95mW3Zc)                | 2024-12-08   |
-| [AWS re:Invent 2024 - Building state machines with AWS Step Functions Workflow Studio (API217)](https://www.youtube.com/watch?v=o9tn7ZxPYhc)        | 2024-12-08   |
 | [AWS re:Invent 2024 - Integrating applications with Amazon EventBridge Pipes (API218)](https://www.youtube.com/watch?v=FxMVkdBumfE)                 | 2024-12-08   |
+| [AWS re:Invent 2024 - Building state machines with AWS Step Functions Workflow Studio (API217)](https://www.youtube.com/watch?v=o9tn7ZxPYhc)        | 2024-12-08   |
+| [AWS re:Invent 2024 - Develop serverless applications with Amazon Q Developer (SVS213)](https://www.youtube.com/watch?v=NnTu95mW3Zc)                | 2024-12-08   |
 | [AWS re:Invent 2024 - Enhancing observability in Amazon ECS to gain actionable insights (SVS328)](https://www.youtube.com/watch?v=8ABbfHlYTJ4)      | 2024-12-08   |
 | [AWS re:Invent 2024 - Celebrating 10 years of pioneering serverless and containers (SVS211)](https://www.youtube.com/watch?v=WquDOzxGDCQ)           | 2024-12-08   |
 | [AWS re:Invent 2024 - Integration patterns for distributed systems (API306)](https://www.youtube.com/watch?v=W_4n27sRluY)                           | 2024-12-07   |

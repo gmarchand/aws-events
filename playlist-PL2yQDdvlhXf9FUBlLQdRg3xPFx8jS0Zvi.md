@@ -2,17 +2,18 @@
 
 #### [AWS re:Invent 2024 - Developer Productivity & DevOps](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9FUBlLQdRg3xPFx8jS0Zvi) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 25 
+* video count: 26 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Continuous integration and continuous delivery (CI/CD) for AWS (DOP202)](https://www.youtube.com/watch?v=SDrW7ORp4r8)         | 2024-12-10   |
 | [AWS re:Invent 2024 - Elevating the developer experience with Backstage on AWS (OPN405)](https://www.youtube.com/watch?v=0eGaa7EQkxM)               | 2024-12-08   |
 | [AWS re:Invent 2024 - Amazon Q Developer, Amazon Inspector & AI remediation for secure SDLC (DOP213)](https://www.youtube.com/watch?v=D7l-XYH78MI)  | 2024-12-08   |
 | [AWS re:Invent 2024 - How Mercado Libre engineers achieve a NoOps experience with Amazon EKS (DOP328)](https://www.youtube.com/watch?v=07yE3Onnqf8) | 2024-12-08   |
 | [AWS re:Invent 2024 - Infrastructure as Kubernetes APIs (OPN312)](https://www.youtube.com/watch?v=PDb9nLsjFzY)                                      | 2024-12-07   |
 | [AWS re:Invent 2024 - Optimizing the world's top apps: How Meta tests using AWS Device Farm (FWM204)](https://www.youtube.com/watch?v=oOBKnkE8w0Y)  | 2024-12-07   |
-| [AWS re:Invent 2024 - Optimize your AWS operations with generative AI and Amazon Q Developer (DOP211)](https://www.youtube.com/watch?v=TCdBnKK_Tyw) | 2024-12-06   |
 | [AWS re:Invent 2024 - Startup to enterprise: Build frontend and fullstack apps that scale (FWM205)](https://www.youtube.com/watch?v=eeNDCzL7O7A)    | 2024-12-06   |
+| [AWS re:Invent 2024 - Optimize your AWS operations with generative AI and Amazon Q Developer (DOP211)](https://www.youtube.com/watch?v=TCdBnKK_Tyw) | 2024-12-06   |
 | [AWS re:Invent 2024 - What's new in AWS for frontend developers (FWM311)](https://www.youtube.com/watch?v=vHY2fcC0d6M)                              | 2024-12-06   |
 | [AWS re:Invent 2024 - Accelerate multistep SDLC tasks with Amazon Q Developer Agent (DOP210)](https://www.youtube.com/watch?v=ovo0A8AqSIc)          | 2024-12-06   |
 | [AWS re:Invent 2024 - GitLab Duo with Amazon Q: AI-driven DevSecOps for your SDLC (DOP204)](https://www.youtube.com/watch?v=_tKK5lAufCo)            | 2024-12-06   |
