@@ -2,11 +2,10 @@
 
 #### [AWS re:Invent 2024 - Innovation Talks](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_IKBiqK54xnYrg_NPDcv51) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 17 
+* video count: 16 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2024 - Igniting public sector innovation for a better tomorrow (WPS202)](https://www.youtube.com/watch?v=WDX44-_tzmE)                | 2024-12-09   |
 | [AWS re:Invent 2024 - Reimagining the developer experience at AWS (DOP220)](https://www.youtube.com/watch?v=0efIsUYu4CA)                            | 2024-12-09   |
 | [AWS re:Invent 2024 - The power of cloud network innovation (NET201)](https://www.youtube.com/watch?v=MzpzJLBUZDc)                                  | 2024-12-07   |
 | [AWS re:Invent 2024 - Accelerating healthcare & life sciences innovation with generative AI (HLS201)](https://www.youtube.com/watch?v=0EG0PYuxGAg)  | 2024-12-06   |

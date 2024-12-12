@@ -2,22 +2,23 @@
 
 #### [AWS re:Invent 2024 - Databases](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9IiD_yeNFVZxzQfDPqEMRu) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 29 
+* video count: 30 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Optimizing for high performance with Amazon ElastiCache Serverless (DAT327)](https://www.youtube.com/watch?v=iJMajVNrOdE)     | 2024-12-10   |
 | [AWS re:Invent 2024 - Deep dive into Amazon DynamoDB zero-ETL integrations (DAT348)](https://www.youtube.com/watch?v=rsBZDCMDcqU)                   | 2024-12-08   |
 | [AWS re:Invent 2024 - Deep dive into Amazon Neptune and its innovations (DAT317)](https://www.youtube.com/watch?v=hha8rzO0dA4)                      | 2024-12-08   |
 | [AWS re:Invent 2024 - Powering the grid: GE’s 600 TB migration to Amazon Keyspaces (DAT318)](https://www.youtube.com/watch?v=vo8H8OpCox4)           | 2024-12-08   |
 | [AWS re:Invent 2024 - Serverless scaling with Amazon Aurora PostgreSQL Limitless Database (DAT338)](https://www.youtube.com/watch?v=1X_rgSXV6Jg)    | 2024-12-08   |
-| [AWS re:Invent 2024 - Scaling from monoliths to microservices with Amazon Aurora (DAT325)](https://www.youtube.com/watch?v=2LDm-12rXvw)             | 2024-12-08   |
 | [AWS re:Invent 2024 - Optimize gen AI apps with durable semantic caching in Amazon MemoryDB (DAT329)](https://www.youtube.com/watch?v=2mNXSv7cTLI)  | 2024-12-08   |
+| [AWS re:Invent 2024 - Scaling from monoliths to microservices with Amazon Aurora (DAT325)](https://www.youtube.com/watch?v=2LDm-12rXvw)             | 2024-12-08   |
 | [AWS re:Invent 2024 - Gain insights from Web3 data with AWS Public Blockchain datasets (BLC307)](https://www.youtube.com/watch?v=eBsD-Egct9E)       | 2024-12-08   |
 | [AWS re:Invent 2024 - Analyze Amazon Aurora & RDS data in Amazon Redshift with zero-ETL (DAT331)](https://www.youtube.com/watch?v=2cwzFQweGkY)      | 2024-12-07   |
 | [AWS re:Invent 2024 - Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL (DAT326)](https://www.youtube.com/watch?v=g5-hcwwuzn0) | 2024-12-07   |
 | [AWS re:Invent 2024 - Boost performance and reduce costs in Amazon Aurora and Amazon RDS (DAT315)](https://www.youtube.com/watch?v=YGFWbS9ZJZk)     | 2024-12-06   |
-| [AWS re:Invent 2024 - An insider’s look into architecture choices for Amazon DynamoDB (DAT419)](https://www.youtube.com/watch?v=csvPepC6tKk)        | 2024-12-06   |
 | [AWS re:Invent 2024 - Build scalable and cost-optimized apps with Amazon Aurora Serverless (DAT316)](https://www.youtube.com/watch?v=YkQYqGuICt4)   | 2024-12-06   |
+| [AWS re:Invent 2024 - An insider’s look into architecture choices for Amazon DynamoDB (DAT419)](https://www.youtube.com/watch?v=csvPepC6tKk)        | 2024-12-06   |
 | [AWS re:Invent 2024 - Accelerating Web3: Blockchain innovation with AWS Cloud infrastructure (BLC306)](https://www.youtube.com/watch?v=_6U9JPcI8c0) | 2024-12-06   |
 | [AWS re:Invent 2024 - Get started with Amazon Aurora DSQL (DAT424)](https://www.youtube.com/watch?v=9wx5qNUJdCE)                                    | 2024-12-06   |
 | [AWS re:Invent 2024 - Achieving scale with Amazon Aurora PostgreSQL Limitless Database (DAT420)](https://www.youtube.com/watch?v=pUqVCK7Ggh0)       | 2024-12-05   |

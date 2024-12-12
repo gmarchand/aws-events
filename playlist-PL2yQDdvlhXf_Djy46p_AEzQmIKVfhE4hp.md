@@ -6,29 +6,29 @@
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Pitching better: Workshop for founders to overcome bias in fundraising (IDE103)](https://www.youtube.com/watch?v=SDRD_tX4XWg) | 2024-12-08   |
 | [AWS re:Invent 2024 - EQ, Amazon leadership principles, and building self-confidence (IDE106)](https://www.youtube.com/watch?v=vr0wL5xcH90)         | 2024-12-08   |
 | [AWS re:Invent 2024 - Scaling tech talent for the automotive industry via AWS Tech Alliance (IDE207)](https://www.youtube.com/watch?v=FtrrBUgPc-s)  | 2024-12-08   |
-| [AWS re:Invent 2024 - Pitching better: Workshop for founders to overcome bias in fundraising (IDE103)](https://www.youtube.com/watch?v=SDRD_tX4XWg) | 2024-12-08   |
 | [AWS re:Invent 2024 - Supercharge your innovation: Automate for operational excellence (SUP307)](https://www.youtube.com/watch?v=xfNXvB3hQHs)       | 2024-12-08   |
 | [AWS re:Invent 2024 - Swimming Australia and AWS power elite outcomes (PRO204)](https://www.youtube.com/watch?v=DzgV7XRie2c)                        | 2024-12-08   |
 | [AWS re:Invent 2024 - Grindr’s AI-first approach with AWS: Enable inclusive user connection (IDE101)](https://www.youtube.com/watch?v=yRzoEQRIbvc)  | 2024-12-08   |
 | [AWS re:Invent 2024 - Wired differently: Generative AI for neurodiversity (IDE107)](https://www.youtube.com/watch?v=DEt5aSGsVoY)                    | 2024-12-08   |
 | [AWS re:Invent 2024 - Fidelity Investments: Operating Tier 0 trading databases on AWS (SUP310)](https://www.youtube.com/watch?v=Fdjuy2_S5QM)        | 2024-12-08   |
 | [AWS re:Invent 2024 - Scale your high-traffic events to gen AI deployments with AWS Support (SUP308)](https://www.youtube.com/watch?v=m24yXUGnZxs)  | 2024-12-08   |
+| [AWS re:Invent 2024 - Power up your customer experience with end-to-end data strategy (IMP209)](https://www.youtube.com/watch?v=uRPjnqbEqNI)        | 2024-12-08   |
+| [AWS re:Invent 2024 - Strengthening the safety net: Transforming 211 with Amazon Connect (IMP207)](https://www.youtube.com/watch?v=74sQS_bTOpQ)     | 2024-12-08   |
 | [AWS re:Invent 2024 - How Duolingo's culture of experimentation drives innovation (INO112)](https://www.youtube.com/watch?v=W2xhh6SieKs)            | 2024-12-08   |
 | [AWS re:Invent 2024 - Inclusive wellness: Leveraging Amazon One Medical for LGBTQIA+ care (IDE104)](https://www.youtube.com/watch?v=TIEHv7KX3P8)    | 2024-12-08   |
 | [AWS re:Invent 2024 - Application modernization to meet a growing global demand (IMP211)](https://www.youtube.com/watch?v=dTPoBYbXAmc)              | 2024-12-08   |
 | [AWS re:Invent 2024 - SCC Public Health & AWS: Collaborative public health data platform (PRO208)](https://www.youtube.com/watch?v=SGK7S9Y5DCM)     | 2024-12-08   |
-| [AWS re:Invent 2024 - Strengthening the safety net: Transforming 211 with Amazon Connect (IMP207)](https://www.youtube.com/watch?v=74sQS_bTOpQ)     | 2024-12-08   |
-| [AWS re:Invent 2024 - Power up your customer experience with end-to-end data strategy (IMP209)](https://www.youtube.com/watch?v=uRPjnqbEqNI)        | 2024-12-08   |
 | [AWS re:Invent 2024 - Warehouse automation with cutting-edge supply chain solutions (PRO205)](https://www.youtube.com/watch?v=RoxEz6rOMN4)          | 2024-12-08   |
 | [AWS re:Invent 2024 - Unleashing compassion: AWS for child protection & data governance (IMP210)](https://www.youtube.com/watch?v=tlJjfw0OFog)      | 2024-12-08   |
 | [AWS re:Invent 2024 - Reskilling at the speed of cloud: Turning employees into entrepreneurs (SEG204)](https://www.youtube.com/watch?v=JAWmHdps924) | 2024-12-08   |
-| [AWS re:Invent 2024 - Integrating generative AI effectively into sustainability strategies (SUS205)](https://www.youtube.com/watch?v=8vAMOPLnN-w)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Harnessing AWS for natural disaster early warning at scale (IMP212)](https://www.youtube.com/watch?v=OIfhSn2Hhro)             | 2024-12-08   |
+| [AWS re:Invent 2024 - Integrating generative AI effectively into sustainability strategies (SUS205)](https://www.youtube.com/watch?v=8vAMOPLnN-w)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Code with a generative AI–powered assistant: Amazon Q Developer (TNC110)](https://www.youtube.com/watch?v=IOYYSMh4cu8)        | 2024-12-08   |
-| [AWS re:Invent 2024 - Driving operational excellence: F1’s AI-fueled race-day transformation (INO107)](https://www.youtube.com/watch?v=2N0fQg-pMVw) | 2024-12-07   |
 | [AWS re:Invent 2024 - Gen AI in the workplace: Productivity, ethics, and change management (INO104)](https://www.youtube.com/watch?v=3aSdiSqjOys)   | 2024-12-07   |
+| [AWS re:Invent 2024 - Driving operational excellence: F1’s AI-fueled race-day transformation (INO107)](https://www.youtube.com/watch?v=2N0fQg-pMVw) | 2024-12-07   |
 | [AWS re:Invent 2024 - Responsible AI with Amazon Bedrock Guardrails (IDE205)](https://www.youtube.com/watch?v=nTlR-2q1lOE)                          | 2024-12-07   |
 | [AWS re:Invent 2024 - Strategies to mitigate social bias when implementing gen AI workloads (IDE108)](https://www.youtube.com/watch?v=xkk8cO4Kl04)  | 2024-12-07   |
 | [AWS re:Invent 2024 - Gilead Sciences: Operational excellence for cloud, data, and AI/ML (PRO302)](https://www.youtube.com/watch?v=1uNEV8HwOpY)     | 2024-12-07   |
@@ -40,8 +40,8 @@
 | [AWS re:Invent 2024 - Generative AI for decision-makers (TNC102)](https://www.youtube.com/watch?v=E9O6Z9yi72w)                                      | 2024-12-06   |
 | [AWS re:Invent 2024 - Iveco Group and AWS: A story of continuous innovation (PRO202)](https://www.youtube.com/watch?v=XIbwLTne2Zk)                  | 2024-12-06   |
 | [AWS re:Invent 2024 - BMW speeds car development with a new app for defect ticket routing (PRO201)](https://www.youtube.com/watch?v=ScTLkWMKfIs)    | 2024-12-06   |
-| [AWS re:Invent 2024 - Grupo Boticário’s AI-accessibility journey for inclusive e-commerce (IDE202)](https://www.youtube.com/watch?v=9JZ8ZGfmEjg)    | 2024-12-06   |
 | [AWS re:Invent 2024 - Pioneering gen AI in aviation: MAG's intelligent airport revolution (INO110)](https://www.youtube.com/watch?v=EXvEmQpy8H0)    | 2024-12-06   |
+| [AWS re:Invent 2024 - Grupo Boticário’s AI-accessibility journey for inclusive e-commerce (IDE202)](https://www.youtube.com/watch?v=9JZ8ZGfmEjg)    | 2024-12-06   |
 | [AWS re:Invent 2024 - AWS Amplify-hosted frontend for higher ed: Enhance student experiences (IDE201)](https://www.youtube.com/watch?v=R5gKyVc9dcw) | 2024-12-06   |
 | [AWS re:Invent 2024 - Breaking the code: Women redefining the future with AWS (IDE109)](https://www.youtube.com/watch?v=nSf8koKX38Q)                | 2024-12-06   |
 | [AWS re:Invent 2024 - AWS Global Passport: Your passport to international growth (SEG205)](https://www.youtube.com/watch?v=RCkb1w47ZuY)             | 2024-12-05   |

@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2024 - Migration & Modernization](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8ahMXG-QmuWCkhjX2tQfmp) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 18 
+* video count: 19 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - How HP Inc. scales and manages mission-critical SAP workloads on AWS (MAM241)](https://www.youtube.com/watch?v=CdSUVyuT_ss)  | 2024-12-11   |
 | [AWS re:Invent 2024 - Refactor mainframe applications faster with AI and managed services (MAM109)](https://www.youtube.com/watch?v=Y739StnVQ_k)   | 2024-12-09   |
 | [AWS re:Invent 2024 - Lockheed Martin's path to digital transformation through innovation (MAM105)](https://www.youtube.com/watch?v=h3ZeeJJYpz4)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Flexible modernization pathways with AWS Mainframe Modernization (MAM110)](https://www.youtube.com/watch?v=y8-j9FhVx0A)      | 2024-12-08   |

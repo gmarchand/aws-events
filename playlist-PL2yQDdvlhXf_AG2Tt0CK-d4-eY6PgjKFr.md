@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2024 - AI/ML](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_AG2Tt0CK-d4-eY6PgjKFr) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 30 
+* video count: 31 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - What’s new with Amazon Q Business (AIM237)](https://www.youtube.com/watch?v=ytaJPyRCYlw)                                      | 2024-12-11   |
 | [AWS re:Invent 2024 - Making great products with generative AI (SEG102)](https://www.youtube.com/watch?v=euXq7zwXs68)                               | 2024-12-09   |
 | [AWS re:Invent 2024 - Responsible generative AI: Evaluation best practices and tools (AIM342)](https://www.youtube.com/watch?v=wuVpCc5a81Y)         | 2024-12-08   |
 | [AWS re:Invent 2024 - Streamline RAG and model evaluation with Amazon Bedrock (AIM359)](https://www.youtube.com/watch?v=7BP9nwFlFws)                | 2024-12-08   |

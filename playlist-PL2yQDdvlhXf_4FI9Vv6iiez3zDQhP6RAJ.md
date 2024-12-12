@@ -2,18 +2,19 @@
 
 #### [AWS re:Invent 2024 - Partner Enablement](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_4FI9Vv6iiez3zDQhP6RAJ) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 53 
+* video count: 54 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Future horizons: How AWS and partners drive public sector missions (PEX212)](https://www.youtube.com/watch?v=LFUBgMR60KY)     | 2024-12-10   |
 | [AWS re:Invent 2024 - Accelerate your customer’s gen AI journey with ROI best practices (PEX209)](https://www.youtube.com/watch?v=RuesgGTbH1Y)      | 2024-12-09   |
 | [AWS re:Invent 2024 - Build a culture of efficiency and innovation in your organization (PEX105)](https://www.youtube.com/watch?v=UzFQGfsB3FA)      | 2024-12-08   |
 | [AWS re:Invent 2024 - Capitalizing on the opportunity for migrations and modernization (PEX206)](https://www.youtube.com/watch?v=yLCBqEiILgY)       | 2024-12-08   |
 | [AWS re:Invent 2024 - Buy with AWS: Accelerate sales cycles with AWS Marketplace storefronts (PEX221)](https://www.youtube.com/watch?v=-B3XYt8PbDo) | 2024-12-08   |
 | [AWS re:Invent 2024 - Continued enhancements to the AWS Partner experience (PEX210)](https://www.youtube.com/watch?v=i0zvaHjSYVw)                   | 2024-12-08   |
+| [AWS re:Invent 2024 - Igniting SMB new customer engagement, growth, and retention (PEX109)](https://www.youtube.com/watch?v=upj-els3hcw)            | 2024-12-08   |
 | [AWS re:Invent 2024 - Automating sales cycles (PEX211)](https://www.youtube.com/watch?v=92g5w2a2C60)                                                | 2024-12-08   |
 | [AWS re:Invent 2024 - AWS Partners accelerating industry modernization through LoB (PEX214)](https://www.youtube.com/watch?v=BkP4nwXLdNw)           | 2024-12-08   |
-| [AWS re:Invent 2024 - Igniting SMB new customer engagement, growth, and retention (PEX109)](https://www.youtube.com/watch?v=upj-els3hcw)            | 2024-12-08   |
 | [AWS re:Invent 2024 - AWS Partner solutions: AI-based insight transforms radiology workflows (PEX218)](https://www.youtube.com/watch?v=ChWpGJBthJw) | 2024-12-08   |
 | [AWS re:Invent 2024 - Transform your cloud MSP with the power of AWS AI (PEX201)](https://www.youtube.com/watch?v=JU65rgbdoAk)                      | 2024-12-08   |
 | [AWS re:Invent 2024 - Build a profitable business for migration of SAP workloads (PEX205)](https://www.youtube.com/watch?v=J6Tf-PwhCpc)             | 2024-12-08   |

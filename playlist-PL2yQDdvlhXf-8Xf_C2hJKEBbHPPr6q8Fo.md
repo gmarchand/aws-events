@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2024 - Analytics](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-8Xf_C2hJKEBbHPPr6q8Fo) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 31 
+* video count: 32 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Monitor and manage data quality (ANT343)](https://www.youtube.com/watch?v=da5oBKEfJj8)                                        | 2024-12-10   |
 | [AWS re:Invent 2024 - Innovate with analytics and governance: Customer Panel (ANT203)](https://www.youtube.com/watch?v=CgxQtmYEuzU)                 | 2024-12-09   |
 | [AWS re:Invent 2024 - Achieve seamless and secure data sharing (ANT325)](https://www.youtube.com/watch?v=VFQjR2JQCQM)                               | 2024-12-08   |
 | [AWS re:Invent 2024 - Revolutionize your search applications for generative AI (ANT340)](https://www.youtube.com/watch?v=89NHOTlK63Q)               | 2024-12-08   |

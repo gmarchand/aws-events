@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2024 - Architecture](https://www.youtube.com/playlist?list=PL2yQDdvlhXf87XP-v6toFBLROmrJqApP7) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 28 
+* video count: 29 
 
 | title                                                                                                                                              | Published At |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - Building core capabilities: The secret to innovation at scale (SEG206)](https://www.youtube.com/watch?v=JGP1iwixoY8)         | 2024-12-10   |
 | [AWS re:Invent 2024 - The ideal micro-frontends platform (ARC325)](https://www.youtube.com/watch?v=J_y4-haLf8s)                                    | 2024-12-09   |
 | [AWS re:Invent 2024 - How not to sabotage your transformation (SEG104)](https://www.youtube.com/watch?v=fn2LYSwwfMs)                               | 2024-12-08   |
 | [AWS re:Invent 2024 - Accelerating multi-tenant development with the SaaS Builder Toolkit (SAS406)](https://www.youtube.com/watch?v=gDFK3oBRICw)   | 2024-12-08   |
