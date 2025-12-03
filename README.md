@@ -1,6 +1,34 @@
 
 # AWS Playlists
 
+### AWS re:Invent 2025
+
+[AWS re:Invent 2025 - Senior Leaders](playlist-PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-.md)
+
+[AWS re:Invent 2025 - Code Talks](playlist-PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R.md)
+
+[AWS re:Invent 2025 - Partner Sessions](playlist-PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn.md)
+
+[AWS re:Invent 2025 - Networking & Content Delivery](playlist-PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK.md)
+
+[AWS re:Invent 2025 - Migration & Modernization](playlist-PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a.md)
+
+[AWS re:Invent 2025 - Independent Software Vendor (ISV)](playlist-PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ.md)
+
+[AWS re:Invent 2025 - Industry Solutions](playlist-PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM.md)
+
+[AWS re:Invent 2025 - Developer Tools](playlist-PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1.md)
+
+[AWS re:Invent 2025 - Databases](playlist-PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip.md)
+
+[AWS re:Invent 2025 - Compute](playlist-PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy.md)
+
+[AWS re:Invent 2025 - Artificial Intelligence](playlist-PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ.md)
+
+[AWS re:Invent 2025 - Latest Breakout Sessions](playlist-PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet.md)
+
+[AWS re:Invent 2025 - Innovation Talks](playlist-PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G.md)
+
 ### AWS re:Invent 2024
 
 [AWS re:Invent 2024 - Keynotes](playlist-PL2yQDdvlhXf_aPLMfxECsw-UIbEg6uy42.md)
