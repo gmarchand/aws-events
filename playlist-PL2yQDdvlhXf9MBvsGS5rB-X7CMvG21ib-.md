@@ -1,0 +1,13 @@
+
+
+#### [AWS re:Invent 2025 - Senior Leaders](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+
+* video count: 5 
+
+| title                                                                                                                                               | Published At |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - A leader's guide to achieving compliance through software excellence (SNR304)](https://www.youtube.com/watch?v=uWLaSR6YqjA)   | 2025-12-03   |
+| [AWS re:Invent 2025 - A leader's guide to advanced team structures in an agentic world (SNR307)](https://www.youtube.com/watch?v=j5TOWVNJx50)       | 2025-12-03   |
+| [AWS re:Invent 2025 - A leader's guide to emerging technologies: From insights to rapid action-SNR203](https://www.youtube.com/watch?v=NwkH_F3yUiY) | 2025-12-03   |
+| [AWS re:Invent 2025 - A leader's guide to agentic AI (SNR201)](https://www.youtube.com/watch?v=rG8OKTYK6o8)                                         | 2025-12-03   |
+| [AWS re:Invent 2025 - A leader's guide to AI strategy and implementation (SNR305)](https://www.youtube.com/watch?v=_tv1sP9jJzI)                     | 2025-12-03   |

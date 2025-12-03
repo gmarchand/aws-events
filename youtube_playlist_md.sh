@@ -144,3 +144,31 @@ ym -p PL2yQDdvlhXf-ZPFF45fKOCoRXdW11NcaT
 ym -p PL2yQDdvlhXf_rE-y8urR6VmH0-2HmeysH
 ym -p PL2yQDdvlhXf_Ezjnq7A7LfHBgCYSqzrZS
 ym -p PL2yQDdvlhXf9EbbweFH0wgqnX8D-co-52
+
+# AWS Reinvent 2025
+# AWS re:Invent 2025 - Senior Leaders
+ym -p PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-
+# AWS re:Invent 2025 - Code Talks
+ym -p PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R
+# AWS re:Invent 2025 - Partner Sessions
+ym -p PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn
+# AWS re:Invent 2025 - Networking & Content Delivery
+ym -p PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK
+# AWS re:Invent 2025 - Migration & Modernization
+ym -p PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a
+# AWS re:Invent 2025 - Independent Software Vendor (ISV)
+ym -p PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ
+# AWS re:Invent 2025 - Industry Solutions
+ym -p PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM
+# AWS re:Invent 2025 - Developer Tools
+ym -p PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1
+# AWS re:Invent 2025 - Databases
+ym -p PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip
+# AWS re:Invent 2025 - Compute
+ym -p PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy
+# AWS re:Invent 2025 - Artificial Intelligence
+ym -p PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ
+# AWS re:Invent 2025 - Latest Breakout Sessions
+ym -p PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet
+# AWS re:Invent 2025 - Innovation Talks
+ym -p PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G
