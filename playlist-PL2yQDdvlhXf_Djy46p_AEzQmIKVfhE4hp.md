@@ -6,8 +6,9 @@
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [AWS re:Invent 2024 - Pitching better: Workshop for founders to overcome bias in fundraising (IDE103)](https://www.youtube.com/watch?v=SDRD_tX4XWg) | 2024-12-08   |
+| [AWS re:Invent 2024 - Introduction to MLOps engineering on AWS (TNC207)](https://www.youtube.com/watch?v=SS9_DusYvus)                               | 2024-12-04   |
 | [AWS re:Invent 2024 - EQ, Amazon leadership principles, and building self-confidence (IDE106)](https://www.youtube.com/watch?v=vr0wL5xcH90)         | 2024-12-08   |
+| [AWS re:Invent 2024 - Pitching better: Workshop for founders to overcome bias in fundraising (IDE103)](https://www.youtube.com/watch?v=SDRD_tX4XWg) | 2024-12-08   |
 | [AWS re:Invent 2024 - Scaling tech talent for the automotive industry via AWS Tech Alliance (IDE207)](https://www.youtube.com/watch?v=FtrrBUgPc-s)  | 2024-12-08   |
 | [AWS re:Invent 2024 - Supercharge your innovation: Automate for operational excellence (SUP307)](https://www.youtube.com/watch?v=xfNXvB3hQHs)       | 2024-12-08   |
 | [AWS re:Invent 2024 - Swimming Australia and AWS power elite outcomes (PRO204)](https://www.youtube.com/watch?v=DzgV7XRie2c)                        | 2024-12-08   |
@@ -54,7 +55,6 @@
 | [AWS re:Invent 2024 - Merck advances healthcare data extraction using text-to-SQL on AWS (PRO203)](https://www.youtube.com/watch?v=cBz-LpFtq3g)     | 2024-12-05   |
 | [AWS re:Invent 2024 - Creating top-tier customer support: Insights from experience (SUP309)](https://www.youtube.com/watch?v=h4FffG8lYTc)           | 2024-12-04   |
 | [AWS re:Invent 2024 - Intel and AWS: Democratizing generative AI together (PRO209)](https://www.youtube.com/watch?v=XaLcq89gf7M)                    | 2024-12-04   |
-| [AWS re:Invent 2024 - Introduction to MLOps engineering on AWS (TNC207)](https://www.youtube.com/watch?v=SS9_DusYvus)                               | 2024-12-04   |
 | [AWS re:Invent 2024 - Transforming humanitarian aid with AI (IMP103)](https://www.youtube.com/watch?v=2FmouoUjggA)                                  | 2024-12-04   |
 | [AWS re:Invent 2024 - Harnessing generative AI for impact: Mapping pathways out of poverty (IMP203)](https://www.youtube.com/watch?v=GyM9CWmkSLw)   | 2024-12-04   |
 | [AWS re:Invent 2024 - Lessons in acceleration: PrivatBank’s transformation in times of war (INO113)](https://www.youtube.com/watch?v=kdPLomytlv4)   | 2024-12-04   |

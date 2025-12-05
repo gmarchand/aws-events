@@ -2,7 +2,7 @@
 
 #### [AWS re:Invent 2024 - Security Compliance & Identity](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_rE-y8urR6VmH0-2HmeysH) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 19 
+* video count: 22 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -19,8 +19,11 @@
 | [AWS re:Invent 2024 - How AWS scales active defense (SEC361)](https://www.youtube.com/watch?v=65mXutXPzUw)                                          | 2024-12-08   |
 | [AWS re:Invent 2024 - Digital sovereignty: Overcome complexity and enable future-readiness (SEC229)](https://www.youtube.com/watch?v=5M8SfFfGF-o)   | 2024-12-07   |
 | [AWS re:Invent 2024 - Innovations in AWS detection and response (SEC321)](https://www.youtube.com/watch?v=BpJShlPM8EY)                              | 2024-12-07   |
+| [AWS re:Invent 2024-Zero trust access over non-HTTP(S) protocols using AWS Verified Access-SEC358-NEW](https://www.youtube.com/watch?v=30K_xrmNxwU) | 2024-12-13   |
 | [AWS re:Invent 2024 - Better together: Protecting data through culture and technology (SEC302)](https://www.youtube.com/watch?v=1vqaZBgPOiE)        | 2024-12-06   |
 | [AWS re:Invent 2024 - How Amazon threat intelligence helps protect your infrastructure (SEC317)](https://www.youtube.com/watch?v=9loKiJ_YfuE)       | 2024-12-05   |
+| [AWS re:Invent 2024 - Respond and recover faster with AWS Security Incident Response (SEC360-NEW)](https://www.youtube.com/watch?v=5Bx7f_e4dDM)     | 2024-12-13   |
+| [AWS re:Invent 2024 - Accelerate security analytics across hybrid environments with AWS  (SEC235-NEW)](https://www.youtube.com/watch?v=aZT1bfusVAE) | 2024-12-13   |
 | [AWS re:Invent 2024 - Reduce costs and operational overhead by building enterprise-scale PKI (SEC341)](https://www.youtube.com/watch?v=bL8EGTDQBxM) | 2024-12-04   |
 | [AWS re:Invent 2024 - AWS and NVIDIA: Connecting workforce identity for gen AI and analytics (SEC315)](https://www.youtube.com/watch?v=LuZKiKwKmP0) | 2024-12-03   |
 | [AWS re:Invent 2024 - How Rocket Mortgage elevates client experiences with secure AI (SEC214)](https://www.youtube.com/watch?v=KVHp2VhhCfw)         | 2024-12-03   |

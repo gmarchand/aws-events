@@ -2,10 +2,11 @@
 
 #### [AWS re:Inforce 2024 | Breakout Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf924bBNnRHA9RdbNJI6En3V) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 50 
+* video count: 51 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - What's new with AWS cost optimization (COP204)](https://www.youtube.com/watch?v=tQewsywPztY)                                  | 2024-12-24   |
 | [AWS re:Invent 2024 - “Black swan” vs. “green swan”: Powering sustainability with data & AI (AIM116)](https://www.youtube.com/watch?v=qFgxNCNu9I4)  | 2024-12-07   |
 | [AWS re:Inforce 2024 - AWS Well-Architected for network security, featuring Mercado Libre (NIS301)](https://www.youtube.com/watch?v=R4_hRzH4drI)    | 2024-06-18   |
 | [AWS re:Inforce 2024 - Establishing a data perimeter on AWS, featuring Capital One (IAM305)](https://www.youtube.com/watch?v=te8GsFjB6Fw)           | 2024-06-18   |

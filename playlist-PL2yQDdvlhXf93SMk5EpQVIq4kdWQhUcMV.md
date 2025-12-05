@@ -642,7 +642,6 @@
 | [AWS re:Invent 2023 - Your journey with AWS: Executive lens into your organization journey (NTA101)](https://www.youtube.com/watch?v=zKLpUWu_N74)   | 2023-12-05   |
 | [AWS re:Invent 2023 - The real-time database to build your AI future (DAT206)](https://www.youtube.com/watch?v=NJ47ZoDYSjs)                         | 2023-12-05   |
 | [AWS re:Invent 2023 - A Go developer's guide to building on AWS (BOA201)](https://www.youtube.com/watch?v=W9bNN7etyKw)                              | 2023-12-05   |
-| [AWS re:Invent 2023 - AWS European Sovereign Cloud: A closer look (SEC216)](https://www.youtube.com/watch?v=qNHWeDf-fTQ)                            | 2023-12-05   |
 | [AWS re:Invent 2023 - AWS product innovation approach: Bring your best ideas to life faster (INO109)](https://www.youtube.com/watch?v=vMMn9B4PDqE)  | 2023-12-05   |
 | [AWS re:Invent 2023 - Unlock supplier diversity: Scaling diverse-owned businesses (IDE203)](https://www.youtube.com/watch?v=BEIG4umhNSE)            | 2023-12-05   |
 | [AWS re:Invent 2023 - Secure remote connectivity to AWS (NET202)](https://www.youtube.com/watch?v=yHEhrkGdnj0)                                      | 2023-12-05   |
@@ -689,3 +688,4 @@
 | [AWS re:Invent 2023 - OpsRamp: Innovations in AI for automating IT operations (AIM204)](https://www.youtube.com/watch?v=YQF4jlLM_mk)                | 2023-12-14   |
 | [AWS re:Invent 2023 - Optimizing performance for machine learning training on Amazon S3 (STG358)](https://www.youtube.com/watch?v=PbvlHdBitLs)      | 2023-12-19   |
 | [AWS re:Invent 2023 - How security teams can strengthen security using generative AI (SEC210)](https://www.youtube.com/watch?v=iiBUiC-2nPM)         | 2024-03-07   |
+| [AWS re:Invent 2025 - Shaping the future of procurement through a community driven AI-as-a-Service](https://www.youtube.com/watch?v=aHMzJ3C0sVU)    | 2025-12-04   |
