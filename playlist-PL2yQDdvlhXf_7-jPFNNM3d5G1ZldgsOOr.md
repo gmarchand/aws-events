@@ -2,10 +2,11 @@
 
 #### [AWS re:Inforce 2024 | Application Security](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 16 
+* video count: 17 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Staying Ahead: Smart Strategies for Effective Vulnerability Management (SEC316)](https://www.youtube.com/watch?v=XnwrWIzSW8I) | 2025-12-03   |
 | [AWS re:Inforce 2024 - Elevate your AWS security with CloudFastener, assisted by gen AI (APS225-S)](https://www.youtube.com/watch?v=oElg6YV4KWc)    | 2024-06-14   |
 | [AWS re:Inforce 2024 - Verifying code using automated reasoning (APS402)](https://www.youtube.com/watch?v=XIcaCV3yWk4)                              | 2024-06-14   |
 | [AWS re:Inforce 2024 - Keeping your code secure (APS401)](https://www.youtube.com/watch?v=I8sZFvGhDIs)                                              | 2024-06-14   |

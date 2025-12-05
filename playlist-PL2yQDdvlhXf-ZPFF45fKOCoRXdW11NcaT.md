@@ -2,10 +2,16 @@
 
 #### [AWS re:Invent 2024 - Partner Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-ZPFF45fKOCoRXdW11NcaT) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 238 
+* video count: 239 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2024 - How bpx streamlines cloud migration with AWS and Dynatrace (MAM216)](https://www.youtube.com/watch?v=mU2eFX5BVO4)             | 2024-12-16   |
+| [AWS re:Invent 2024 - Revolutionizing Audi's tender process with generative AI (AIM120)](https://www.youtube.com/watch?v=ZBVUv3uKWn0)               | 2024-12-08   |
+| [AWS re:Invent 2024 - How to ensure code accountability & trust in the age of generative AI (AIM275)](https://www.youtube.com/watch?v=WKMaw77TYDA)  | 2024-12-08   |
+| [AWS re:Invent 2024 - How ICE implemented a developer-focused DevSecOps workflow (SEC211)](https://www.youtube.com/watch?v=sUGHjxd_IuI)             | 2024-12-08   |
+| [AWS re:Invent 2024 - Cloud security novice to expert in 10 steps: Actionable CNAPP approach (SEC205)](https://www.youtube.com/watch?v=Uq_wgrnN1IM) | 2024-12-08   |
+| [AWS re:Invent 2024 - How to build a real-time gen AI app with AWS, Confluent & Anthropic (AIM341)](https://www.youtube.com/watch?v=ooR7_jXwTM8)    | 2024-12-06   |
 | [AWS re:Invent 2024- Discover how automotive industry drives user adoption in smart mobility (COP210)](https://www.youtube.com/watch?v=a3_ZLHRXKj4) | 2024-12-10   |
 | [AWS re:Invent 2024 - Building resilient applications and environments: Is less more? (SEC208)](https://www.youtube.com/watch?v=6VXOJuNMo_k)        | 2024-12-10   |
 | [AWS re:Invent 2024 - What is an AI-first company? Finding the path to AI transformation (AIM270)](https://www.youtube.com/watch?v=dujFkEW6zYU)     | 2024-12-09   |
@@ -36,7 +42,6 @@
 | [AWS re:Invent 2024 - Refine RAG performance: Use Unstructured for enhanced data ingestion (AIM223)](https://www.youtube.com/watch?v=z6LfUbB-EMg)   | 2024-12-08   |
 | [AWS re:Invent 2024 - What gen AI does to analytics (AIM217)](https://www.youtube.com/watch?v=ekh7z-Vo4Uk)                                          | 2024-12-08   |
 | [AWS re:Invent 2024 - The power of generative AI in IT project and program management (BIZ103)](https://www.youtube.com/watch?v=pWHDW0RWIg8)        | 2024-12-08   |
-| [AWS re:Invent 2024 - How to ensure code accountability & trust in the age of generative AI (AIM275)](https://www.youtube.com/watch?v=WKMaw77TYDA)  | 2024-12-08   |
 | [AWS re:Invent 2024 - Developing an enterprise strategy for generative AI (AIM129)](https://www.youtube.com/watch?v=uWBYJyrvCs0)                    | 2024-12-08   |
 | [AWS re:Invent 2024 - Building resilient supply chains: A data-driven journey with AWS (ANT103)](https://www.youtube.com/watch?v=Us2GIk27vyM)       | 2024-12-08   |
 | [AWS re:Invent 2024 - Aerospace and defense: MRO repairs and inspection industrialization (BIZ228)](https://www.youtube.com/watch?v=S1tpMAO4sJQ)    | 2024-12-08   |
@@ -70,12 +75,10 @@
 | [AWS re:Invent 2024 - Powering technology lifecycle innovation with AWS services & Amazon Q (AIM124)](https://www.youtube.com/watch?v=p1zIsGTQyEE)  | 2024-12-08   |
 | [AWS re:Invent 2024 - Data mesh at Moderna: One dbt to unify data and people (DAT206)](https://www.youtube.com/watch?v=Vb6qSMN2AoU)                 | 2024-12-08   |
 | [AWS re:Invent 2024 - KONE’s digital transformation: Achieving excellence with PwC and AWS (MAM232)](https://www.youtube.com/watch?v=LltYqnIKeXY)   | 2024-12-08   |
-| [AWS re:Invent 2024 - Cloud security novice to expert in 10 steps: Actionable CNAPP approach (SEC205)](https://www.youtube.com/watch?v=Uq_wgrnN1IM) | 2024-12-08   |
 | [AWS re:Invent 2024 - Inside Tripadvisor’s real-time personalization with ScyllaDB and AWS (DAT204)](https://www.youtube.com/watch?v=fttwnNaIUYI)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Explore SAP BTP and AI use cases for extending your SAP applications (BIZ210)](https://www.youtube.com/watch?v=YxgUrYaoQV4)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Cigna’s sales and client onboarding transformation journey (CEN201)](https://www.youtube.com/watch?v=HzS4ba1yJzA)             | 2024-12-08   |
 | [AWS re:Invent 2024 - Accelerating gen AI success: From pilot to production in under 6 weeks (MAM330)](https://www.youtube.com/watch?v=OHepStPie70) | 2024-12-08   |
-| [AWS re:Invent 2024 - How ICE implemented a developer-focused DevSecOps workflow (SEC211)](https://www.youtube.com/watch?v=sUGHjxd_IuI)             | 2024-12-08   |
 | [AWS re:Invent 2024 - Building your AI stack with MongoDB, Anyscale, Cohere & Fireworks AI (AIM104)](https://www.youtube.com/watch?v=QC78TZ6fS6w)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Empowering you to create a complete developer experience with GitHub (DOP327)](https://www.youtube.com/watch?v=FO8r9hx8368)   | 2024-12-08   |
 | [AWS re:Invent 2024 - Building RAG applications with Elasticsearch and Amazon Bedrock (AIM381)](https://www.youtube.com/watch?v=2Qa7PWTrjdY)        | 2024-12-08   |
@@ -85,7 +88,6 @@
 | [AWS re:Invent 2024 - Build and deploy production-quality generative AI apps (AIM257)](https://www.youtube.com/watch?v=jyKUxKYhshw)                 | 2024-12-08   |
 | [AWS re:Invent 2024 - RAG and route: Enhancing networks to support Amazon Bedrock (NET211)](https://www.youtube.com/watch?v=KNxUf15QNvE)            | 2024-12-08   |
 | [AWS re:Invent 2024 - Reshaping customer & employee experiences with Anthropic and Amazon Q (AIM122)](https://www.youtube.com/watch?v=984O_Ey5-u0)  | 2024-12-08   |
-| [AWS re:Invent 2024 - Revolutionizing Audi's tender process with generative AI (AIM120)](https://www.youtube.com/watch?v=ZBVUv3uKWn0)               | 2024-12-08   |
 | [AWS re:Invent 2024 - Elastic serverless: Stateless architecture for speed and scale (COP336)](https://www.youtube.com/watch?v=SvfO2NaYfF4)         | 2024-12-08   |
 | [AWS re:Invent 2024 - Building multi-account, multi-region apps with Terraform Stacks (DOP206)](https://www.youtube.com/watch?v=gSM9g1v9bSU)        | 2024-12-08   |
 | [AWS re:Invent 2024 - Aisera and AWS breaking boundaries: A dive into enterprise agentic AI (AIM274)](https://www.youtube.com/watch?v=wyBEUtDdUSI)  | 2024-12-08   |
@@ -131,7 +133,6 @@
 | [AWS re:Invent 2024 - Accelerate your "Road to 3X" with Fujitsu’s AI-driven modernization  (MAM115)](https://www.youtube.com/watch?v=ZLjLazDU2AE)   | 2024-12-06   |
 | [AWS re:Invent 2024 - Modernizing digital operations for efficiency and resilience (MAM106)](https://www.youtube.com/watch?v=EqGw1eaZ_80)           | 2024-12-06   |
 | [AWS re:Invent 2024 - Transforming customer service with data, AI, and Amazon Connect (AIM118)](https://www.youtube.com/watch?v=k0PhEOuYV_Y)        | 2024-12-06   |
-| [AWS re:Invent 2024 - How to build a real-time gen AI app with AWS, Confluent & Anthropic (AIM341)](https://www.youtube.com/watch?v=ooR7_jXwTM8)    | 2024-12-06   |
 | [AWS re:Invent 2024 - Improving finance analyst efficiency with AI-driven resolutions (AIM107)](https://www.youtube.com/watch?v=fVD9bJauYSM)        | 2024-12-06   |
 | [AWS re:Invent 2024 - Achieving learning excellence for the AWS tech stack (TNC225)](https://www.youtube.com/watch?v=3rSfCGeVBXM)                   | 2024-12-05   |
 | [AWS re:Invent 2024 - No-compromise security on AWS with HAProxy’s app delivery platform (SEC102)](https://www.youtube.com/watch?v=Naz0guWgY2M)     | 2024-12-05   |

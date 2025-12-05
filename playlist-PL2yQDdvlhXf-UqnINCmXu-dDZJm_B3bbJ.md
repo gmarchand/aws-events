@@ -2,10 +2,47 @@
 
 #### [AWS re:Invent 2025 - Artificial Intelligence](https://www.youtube.com/playlist?list=PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 47 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations(AIM3348)](https://www.youtube.com/watch?v=Gcje6pRGr1g) | 2025-12-05   |
+| [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance(AIM3335)](https://www.youtube.com/watch?v=c_1FhdXNUSE) | 2025-12-05   |
+| [AWS re:Invent 2025 - Beyond web browsers: HITL and tool integration for Nova Agents (AIM3334)](https://www.youtube.com/watch?v=uOMh88Fz40M)        | 2025-12-05   |
+| [AWS re:Invent 2025 - Amazon Nova Forge: Build your own frontier models using Amazon Nova (AIM3325)](https://www.youtube.com/watch?v=osY67gy-BT4)   | 2025-12-05   |
+| [AWS re:Invent 2025 - [NEW LAUNCH] Amazon Nova 2 Omni: A new frontier in multimodal AI (AIM3324)](https://www.youtube.com/watch?v=-nMiqOgQbHc)      | 2025-12-05   |
+| [AWS re:Invent 2025 - Agents in the enterprise: Best practices with Amazon Bedrock AgentCore(AIM3310)](https://www.youtube.com/watch?v=w5XJxCpUADY) | 2025-12-05   |
+| [AWS re:Invent 2025 - Balance cost, performance & reliability for AI at enterprise scale (AIM3304)](https://www.youtube.com/watch?v=Lwvv8Q33eeE)    | 2025-12-05   |
+| [AWS re:Invent 2025 - Using Strands Agents to build autonomous, self-improving AI agents (AIM426)](https://www.youtube.com/watch?v=RQfW7eQsXqk)     | 2025-12-05   |
+| [AWS re:Invent 2025 - Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod (AIM362)](https://www.youtube.com/watch?v=4LR7wkddw1o) | 2025-12-05   |
+| [AWS re:Invent 2025 - Mastering model choice: The 3-step Amazon Bedrock advantage (AIM391)](https://www.youtube.com/watch?v=WWTHcgkZceY)            | 2025-12-05   |
+| [AWS re:Invent 2025 - Build AI your way with Amazon Nova customization (AIM382)](https://www.youtube.com/watch?v=T8T8QPiJgnw)                       | 2025-12-05   |
+| [AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock (AIM381)](https://www.youtube.com/watch?v=OwcwLZPJ43s) | 2025-12-05   |
+| [AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding (AIM375)](https://www.youtube.com/watch?v=ZHF0oNwNhig)  | 2025-12-05   |
+| [AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic (AIM374)](https://www.youtube.com/watch?v=o92D2x2Zfw8)    | 2025-12-05   |
+| [AWS re:Invent 2025 - Accelerating AI innovation with NVIDIA GPUs on AWS (AIM251)](https://www.youtube.com/watch?v=xDgGBSyZG3g)                     | 2025-12-05   |
+| [AWS re:Invent 2025 - Build agentic workflows on AWS with third-party agents and tools (AIM3311)](https://www.youtube.com/watch?v=kfgt1uJE-E4)      | 2025-12-04   |
+| [AWS re:Invent 2025 - Build autonomous code improvement agents with Amazon Nova 2 Lite (AIM429)](https://www.youtube.com/watch?v=_akY6uISm4o)       | 2025-12-04   |
+| [AWS re:Invent 2025 - How customers build AI at scale with AWS AI infrastructure (AIM252)](https://www.youtube.com/watch?v=_RAFKrdTHQQ)             | 2025-12-04   |
+| [AWS re:Invent 2025 - Building autonomous AI at scale with Amazon Bedrock (AIM390)](https://www.youtube.com/watch?v=cPru70ADRg8)                    | 2025-12-04   |
+| [AWS re:Invent 2025 - Keep Your Agents Out of Trouble with Amazon Bedrock AgentCore (AIM3330)](https://www.youtube.com/watch?v=ymwpOYMg1ng)         | 2025-12-04   |
+| [AWS re:Invent 2025 - Performance engineering on Neuron: How to optimize your LLM with NKI (AIM414)](https://www.youtube.com/watch?v=e09mW8e8G-s)   | 2025-12-04   |
+| [AWS re:Invent 2025 - From idea to impact: Harness AI agents and tools in AWS Marketplace (AIM3318)](https://www.youtube.com/watch?v=guoI9nKexMA)   | 2025-12-04   |
+| [AWS re:Invent 2025 - Build useful, reliable agents with Amazon Nova (AIM372)](https://www.youtube.com/watch?v=SF-fxd9fzpo)                         | 2025-12-04   |
+| [AWS re:Invent 2025 - Optimizing generative AI workloads for sustainability and cost (AIM253)](https://www.youtube.com/watch?v=9SV_rIFrFh8)         | 2025-12-04   |
+| [AWS re:Invent 2025 - Advanced agentic RAG Systems: Deep dive with Amazon Bedrock (AIM425)](https://www.youtube.com/watch?v=bu2cD1pCFTs)            | 2025-12-04   |
+| [AWS re:Invent 2025 - End-to-end foundation model lifecycle on AWS Trainium (AIM351)](https://www.youtube.com/watch?v=M5ClIj4wamg)                  | 2025-12-04   |
+| [AWS re:Invent 2025 - AI agents for cloud ops: Automating infrastructure management (AIM340)](https://www.youtube.com/watch?v=JRu2GqRe9sg)          | 2025-12-04   |
+| [AWS re:Invent 2025 - Architecting for sustainable IT at scale (AIM255)](https://www.youtube.com/watch?v=kqU-NAN-dmo)                               | 2025-12-04   |
+| [AWS re:Invent 2025 - Nova 2: Enterprise intelligence optimized for the real world (AIM3342)](https://www.youtube.com/watch?v=6T7HkQ5OsKg)          | 2025-12-03   |
+| [AWS re:Invent 2025 - From principles to practice: Scaling AI responsibly with Indeed (AIM3323)](https://www.youtube.com/watch?v=7nY-BifCorI)       | 2025-12-03   |
+| [AWS re:Invent 2025 - Slack securely powers internal AI dev tools with Bedrock and Strands (AIM3309)](https://www.youtube.com/watch?v=Zl4dRW31AoE)  | 2025-12-03   |
+| [AWS re:Invent 2025 - Bridging from POC to production: An intro to Amazon Bedrock AgentCore (AIM2204)](https://www.youtube.com/watch?v=oDjESsByBmM) | 2025-12-03   |
+| [AWS re:Invent 2025 - Architecting scalable and secure agentic AI with Bedrock AgentCore (AIM431)](https://www.youtube.com/watch?v=wqmeZOT6mmc)     | 2025-12-03   |
+| [AWS re:Invent 2025 - Scaling foundation model inference on Amazon SageMaker AI (AIM424)](https://www.youtube.com/watch?v=nHaLbyLPK7s)              | 2025-12-03   |
+| [AWS re:Invent 2025 - Sustainable and cost-efficient generative AI with agentic workflows (AIM333)](https://www.youtube.com/watch?v=tFiDkSG2ess)    | 2025-12-03   |
+| [AWS re:Invent 2025 - Accelerating sustainability compliance with AI-powered document review (AIM237)](https://www.youtube.com/watch?v=7WmXIPzWu8g) | 2025-12-03   |
+| [AWS re:Invent 2025 - Scale agent tools with Amazon Bedrock AgentCore Gateway (AIM3313)](https://www.youtube.com/watch?v=DlIHB8i6uyE)               | 2025-12-03   |
 | [AWS re:Invent 2025 - Train high-performing AI models at scale on AWS (AIM365)](https://www.youtube.com/watch?v=H0USzIVQr0U)                        | 2025-12-03   |
 | [AWS re:Invent 2025 - Streamline AI model development lifecycle with Amazon SageMaker AI (AIM364)](https://www.youtube.com/watch?v=9bx09qdNSAg)     | 2025-12-03   |
 | [AWS re:Invent 2025 - Data protection strategies for AI data foundation (AIM339)](https://www.youtube.com/watch?v=hnHKG8Fo-0A)                      | 2025-12-03   |

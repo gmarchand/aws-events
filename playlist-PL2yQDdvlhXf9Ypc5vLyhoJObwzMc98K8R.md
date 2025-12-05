@@ -2,10 +2,44 @@
 
 #### [AWS re:Invent 2025 - Code Talks](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 27 
+* video count: 61 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry (NTA406)](https://www.youtube.com/watch?v=qJxF4XfMLhk) | 2025-12-05   |
+| [AWS re:Invent 2025 -Agentic Code Generation for Industrial Analytics & Predictive Maintenance-PEX320](https://www.youtube.com/watch?v=LzQE3N45l0U) | 2025-12-05   |
+| [AWS re:Invent 2025 - Using Strands Agents to build autonomous, self-improving AI agents (AIM426)](https://www.youtube.com/watch?v=RQfW7eQsXqk)     | 2025-12-05   |
+| [AWS re:Invent 2025 - Building smarter AI coding assistants: real-world implementation guide (SPS322)](https://www.youtube.com/watch?v=0fmSVXvYz_k) | 2025-12-05   |
+| [AWS re:Invent 2025 - Supercharge ML and Inference on Apple Silicon with EC2 Mac (CMP346)](https://www.youtube.com/watch?v=-nOYLs77aKc)             | 2025-12-05   |
+| [AWS re:Invent 2025 - Best practices for performing custom code transformation with agentic AI-MAM344](https://www.youtube.com/watch?v=7nXXHuxtVVM) | 2025-12-04   |
+| [AWS re:Invent 2025 - Build autonomous code improvement agents with Amazon Nova 2 Lite (AIM429)](https://www.youtube.com/watch?v=_akY6uISm4o)       | 2025-12-04   |
+| [AWS re:Invent 2025 - Accelerate Game Design Reviews with Generative AI and LLM Agents (IND395)](https://www.youtube.com/watch?v=u199i6iMO6A)       | 2025-12-04   |
+| [AWS re:Invent 2025 - Coding an MCP server for Amazon Aurora  (DAT429)](https://www.youtube.com/watch?v=H6_YsMnFZRE)                                | 2025-12-04   |
+| [AWS re:Invent 2025 - BYOK: The Key to Meeting Enterprise SaaS Security Demands (ISV405)](https://www.youtube.com/watch?v=uUsMiZ3_0zE)              | 2025-12-04   |
+| [AWS re:Invent 2025 - Networks at scale and how to automate operations  (NET323)](https://www.youtube.com/watch?v=_nOKPOTJqko)                      | 2025-12-04   |
+| [AWS re:Invent 2025 - Build resilient SaaS: multi-account resilience testing patterns (ISV404)](https://www.youtube.com/watch?v=2pfSB4yxg-E)        | 2025-12-04   |
+| [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro (MAM343)](https://www.youtube.com/watch?v=Ff32zqeOKcg)     | 2025-12-04   |
+| [AWS re:Invent 2025 - From Code to Market: Build and Launch AI Agents on AWS Marketplace (ISV314)](https://www.youtube.com/watch?v=DTQD2LxtywI)     | 2025-12-04   |
+| [AWS re:Invent 2025 - Managing Bots vs Humans with CloudFront and AWS WAF (NET324)](https://www.youtube.com/watch?v=IiJz-NIA_Xg)                    | 2025-12-05   |
+| [AWS re:Invent 2025 - Building AI Agents with Serverless, Strands, and MCP (NTA405)](https://www.youtube.com/watch?v=M3KAmqX-0d8)                   | 2025-12-04   |
+| [AWS re:Invent 2025 - Modernize containers for AI agents using AgentCore Gateway (CNS422)](https://www.youtube.com/watch?v=6autfsn1fy8)             | 2025-12-04   |
+| [AWS re:Invent 2025 - Accelerate code delivery: Dev containers and Amazon Q Developer  (SPS324)](https://www.youtube.com/watch?v=X7PhEmmp9rc)       | 2025-12-04   |
+| [AWS re:Invent 2025 - Build real-time full-stack Generative AI applications  (DEV310)](https://www.youtube.com/watch?v=1O_r2-Yn7Jo)                 | 2025-12-04   |
+| [AWS re:Invent 2025 - Accelerate multi-step SDLC with Kiro (DVT321)](https://www.youtube.com/watch?v=eLyFTbVtY64)                                   | 2025-12-04   |
+| [AWS re:Invent 2025 - Advanced multicloud cost reporting with FOCUS (COP419)](https://www.youtube.com/watch?v=YxkmvQxjWFk)                          | 2025-12-04   |
+| [AWS re:Invent 2025 - Demystify attestation: Cryptographically verify execution environment (CMP317)](https://www.youtube.com/watch?v=Acr-OoA7jew)  | 2025-12-04   |
+| [AWS re:Invent 2025 - Performance engineering on Neuron: How to optimize your LLM with NKI (AIM414)](https://www.youtube.com/watch?v=e09mW8e8G-s)   | 2025-12-04   |
+| [AWS re:Invent 2025 - Architecting Compliant GenAI Systems for Healthcare Workflows (PEX319)](https://www.youtube.com/watch?v=bx33VGPgjK4)          | 2025-12-04   |
+| [AWS re:Invent 2025 - Automating Certificate Management with Exportable Public Certificates (SEC322)](https://www.youtube.com/watch?v=IMe7SjVwdm8)  | 2025-12-04   |
+| [AWS re:Invent 2025 - Advanced agentic RAG Systems: Deep dive with Amazon Bedrock (AIM425)](https://www.youtube.com/watch?v=bu2cD1pCFTs)            | 2025-12-04   |
+| [AWS re:Invent 2025 - AI agents for cloud ops: Automating infrastructure management (AIM340)](https://www.youtube.com/watch?v=JRu2GqRe9sg)          | 2025-12-04   |
+| [AWS re:Invent 2025 - Build an Agent Factory: An Agent that can Create any Agent On-Demand  (SMB309)](https://www.youtube.com/watch?v=2w2vCdiOleI)  | 2025-12-03   |
+| [AWS re:Invent 2025 - Building agentic workflows for augmented observability (COP405)](https://www.youtube.com/watch?v=fLDjHr6eEIw)                 | 2025-12-03   |
+| [AWS re:Invent 2025 - How Amazon Teams Use AI Assistants to Accelerate Development  (DEV403)](https://www.youtube.com/watch?v=cf-WOKVn768)          | 2025-12-03   |
+| [AWS re:Invent 2025 - Maximizing EC2 Performance: A Hands-on Guide to Instance Optimization  (CMP333)](https://www.youtube.com/watch?v=mSrDZuxWFtw) | 2025-12-03   |
+| [AWS re:Invent 2025 - Building Customer Trust with AI Agents: Transform Your MSP Operations (PEX318)](https://www.youtube.com/watch?v=wZ8yX8OkJbQ)  | 2025-12-03   |
+| [AWS re:Invent 2025 - Build a multi-agent role-playing Game Master with Strands Agents  (DEV330)](https://www.youtube.com/watch?v=UxjPAufBuVQ)      | 2025-12-03   |
+| [AWS re:Invent 2025 - Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation (STG419)](https://www.youtube.com/watch?v=qwOob9s3kaI)      | 2025-12-03   |
 | [AWS re:Invent 2025 - Solving the Observability Mystery with AWS Step Functions (API321)](https://www.youtube.com/watch?v=-7B31Edtn5M)              | 2025-12-03   |
 | [AWS re:Invent 2025 - Data protection strategies for AI data foundation (AIM339)](https://www.youtube.com/watch?v=hnHKG8Fo-0A)                      | 2025-12-03   |
 | [AWS re:Invent 2025 - Everything you've wanted to know about performance on EC2 instances  (CMP405)](https://www.youtube.com/watch?v=BKgG8DSdNUo)   | 2025-12-03   |
