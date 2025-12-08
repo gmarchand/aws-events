@@ -1,5 +1,10 @@
 .env
 
+# YouTube API tokens
+youtube_token.pickle
+token.pickle
+*.pickle
+
 # Logs
 logs
 *.log
