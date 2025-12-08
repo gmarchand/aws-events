@@ -1,0 +1,74 @@
+{
+  "mcpServers": {
+    "youtube-transcript": {
+      "command": "npx",
+      "args": ["-y", "@kimtaeyoon83/mcp-server-youtube-transcript"]
+    },
+    "aws-knowledge-mcp-server": {
+      "url": "https://knowledge-mcp.global.api.aws",
+      "disabled": false,
+      "autoApprove": [
+        "aws___search_documentation"
+      ]
+    },
+    "awslabs.aws-documentation-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-documentation-mcp-server@latest"
+      ],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest",
+        "--browserUrl=http://localhost:9222"
+      ],
+      "disabled": false,
+      "autoApprove": [
+        "navigate_page",
+        "take_snapshot",
+        "click",
+        "list_pages",
+        "select_page",
+        "list_console_messages",
+        "list_network_requests",
+        "wait_for",
+        "evaluate_script",
+        "get_console_message",
+        "get_network_request",
+        "take_screenshot",
+        "new_page"
+      ]
+    },
+    "mcp-wait-timer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-wait-timer"
+      ],
+      "disabled": false,
+      "autoApprove": [
+        "wait"
+      ]
+    },
+    "linkup": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "linkup-mcp-server",
+        "apiKey=YOUR_LINKUP_API_KEY_HERE"
+      ],
+      "disabled": false,
+      "autoApprove": [
+        "linkup-search",
+        "linkup-fetch"
+      ]
+    }
+  }
+}
