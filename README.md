@@ -2,7 +2,18 @@
 
 This README is automatically generated from `playlists.yaml`.
 
-To regenerate: `python youtube_extractor.py generate-readme`
+## Usage
+
+```bash
+# Generate/update README from playlists.yaml
+python youtube_extractor.py generate-readme
+
+# Find all re:Invent playlists from AWS Events channel
+python find_reinvent_playlists.py
+
+# Extract videos and transcripts
+python youtube_extractor.py extract --category reinvent-2025
+```
 
 ## Reinvent 2025
 
