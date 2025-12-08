@@ -6,6 +6,10 @@ token.pickle
 *.pickle
 client_secrets.json
 
+# Kiro MCP settings (may contain API keys)
+.kiro/settings/mcp.json
+**/.kiro/settings/mcp.json
+
 # Logs
 logs
 *.log
