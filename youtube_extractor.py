@@ -174,7 +174,13 @@ def convert_to_pdf(md_path: Path, pdf_path: Path):
 
 @click.group()
 def cli():
-    """YouTube Playlist Extractor CLI."""
+    """YouTube Playlist Extractor CLI.
+    
+    Commands:
+      extract          Extract playlists and generate markdown/PDF files
+      list-playlists   List all playlists in config
+      generate-readme  Generate README.md from playlists config
+    """
     pass
 
 
@@ -301,6 +307,64 @@ def list_playlists(config):
         click.echo(f"\n{cat_name}:")
         for pl_id in playlist_ids:
             click.echo(f"  - {pl_id}")
+
+
+@cli.command()
+@click.option('--config', '-c', default='playlists.yaml', help='Config file path')
+@click.option('--output', '-o', default='README.md', help='Output README file')
+def generate_readme(config, output):
+    """Generate README.md from playlists config."""
+    config_path = Path(config)
+    if not config_path.exists():
+        raise click.ClickException(f"Config file not found: {config}")
+    
+    with open(config_path) as f:
+        cfg = yaml.safe_load(f)
+    
+    youtube = get_youtube_service()
+    base_dir = config_path.parent
+    output_path = base_dir / output
+    
+    click.echo(f"Generating {output}...")
+    
+    with open(output_path, 'w') as f:
+        f.write("# AWS Playlists\n\n")
+        f.write("This README is automatically generated from `playlists.yaml`.\n\n")
+        f.write("To regenerate: `python youtube_extractor.py generate-readme`\n\n")
+        
+        playlists_cfg = cfg.get('playlists', {})
+        
+        for cat_name, playlist_ids in playlists_cfg.items():
+            # Format category name
+            cat_title = cat_name.replace('-', ' ').title()
+            f.write(f"## {cat_title}\n\n")
+            
+            for pl_id in playlist_ids:
+                try:
+                    # Get playlist info
+                    pl_resp = youtube.playlists().list(part='snippet', id=pl_id).execute()
+                    if pl_resp['items']:
+                        snippet = pl_resp['items'][0]['snippet']
+                        pl_title = snippet['title']
+                        video_count = youtube.playlists().list(
+                            part='contentDetails', 
+                            id=pl_id
+                        ).execute()['items'][0]['contentDetails']['itemCount']
+                        
+                        # Write playlist link
+                        md_file = f"playlist-{pl_id}.md"
+                        f.write(f"- [{pl_title}]({md_file}) ({video_count} videos)\n")
+                        click.echo(f"  ✓ {pl_title}")
+                    else:
+                        f.write(f"- [Playlist {pl_id}](playlist-{pl_id}.md)\n")
+                        click.echo(f"  ⚠ Playlist {pl_id} not found")
+                except Exception as e:
+                    f.write(f"- [Playlist {pl_id}](playlist-{pl_id}.md)\n")
+                    click.echo(f"  ✗ Error fetching {pl_id}: {e}")
+            
+            f.write("\n")
+    
+    click.echo(f"\n✓ README generated: {output_path}")
 
 
 if __name__ == '__main__':
