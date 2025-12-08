@@ -10,6 +10,10 @@ client_secrets.json
 .kiro/settings/mcp.json
 **/.kiro/settings/mcp.json
 
+# Generated videos and transcripts
+videos/
+pdfs/
+
 # Logs
 logs
 *.log
