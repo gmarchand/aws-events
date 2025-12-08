@@ -1,9 +1,10 @@
 .env
 
-# YouTube API tokens
+# YouTube API tokens and secrets
 youtube_token.pickle
 token.pickle
 *.pickle
+client_secrets.json
 
 # Logs
 logs
