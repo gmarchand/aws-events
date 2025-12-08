@@ -2,8 +2,14 @@
 import os
 import re
 import glob
+from dotenv import load_dotenv
 from youtube_transcript_api import YouTubeTranscriptApi
-from yt_dlp import YoutubeDL
+from googleapiclient.discovery import build
+
+load_dotenv()
+
+YOUTUBE_API_KEY = os.getenv('GOOGLE_API_KEY')
+youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY) if YOUTUBE_API_KEY else None
 
 def sanitize_filename(title):
     clean = re.sub(r'[^\w\s-]', '', title)
@@ -32,10 +38,12 @@ def format_timestamp(seconds):
     return f"{h:02d}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
 
 def get_video_info(video_id):
-    opts = {'quiet': True, 'no_warnings': True, 'skip_download': True}
-    with YoutubeDL(opts) as ydl:
-        info = ydl.extract_info(f'https://www.youtube.com/watch?v={video_id}', download=False)
-        return info.get('title', ''), info.get('description', '')
+    if youtube:
+        resp = youtube.videos().list(part='snippet', id=video_id).execute()
+        if resp['items']:
+            snippet = resp['items'][0]['snippet']
+            return snippet.get('title', ''), snippet.get('description', '')
+    return '', ''
 
 def get_transcript(video_id):
     try:
@@ -55,21 +63,19 @@ def get_transcript(video_id):
 def create_video_markdown(video_id, title, output_dir):
     print(f"  Processing: {title[:50]}...")
     
-    try:
-        real_title, description = get_video_info(video_id)
-    except Exception as e:
-        print(f"    Error getting info: {e}")
-        real_title, description = title, ""
+    real_title, description = get_video_info(video_id)
+    if not real_title:
+        real_title = title
     
     transcript = get_transcript(video_id)
     
-    filename = sanitize_filename(real_title or title) + '.md'
+    filename = sanitize_filename(real_title) + '.md'
     filepath = os.path.join(output_dir, filename)
     
     base_url = f"https://www.youtube.com/watch?v={video_id}"
     
     with open(filepath, 'w') as f:
-        f.write(f"# {real_title or title}\n\n")
+        f.write(f"# {real_title}\n\n")
         f.write(f"[Video Link]({base_url})\n\n")
         
         f.write("## Description\n\n")
@@ -93,7 +99,6 @@ def create_video_markdown(video_id, title, output_dir):
             f.write("No subtitles available.\n")
     
     print(f"    Created: {filename}")
-    return filepath
 
 def process_playlist(playlist_file, base_output_dir):
     channel, playlist_name, videos = extract_video_ids_from_playlist(playlist_file)
@@ -122,6 +127,7 @@ def main():
     playlist_files = glob.glob(os.path.join(base_dir, 'playlist-*.md'))
     
     print(f"Found {len(playlist_files)} playlist files")
+    print(f"Using Google API: {'Yes' if youtube else 'No'}")
     
     for pf in playlist_files:
         process_playlist(pf, output_dir)

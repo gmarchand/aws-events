@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2025 - Networking & Content Delivery](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 20 
+* video count: 21 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Hassle-free multicloud connectivity with AWS Interconnect - Multicloud (NET205)](https://www.youtube.com/watch?v=yfxS9Lizu5M) | 2025-12-05   |
 | [AWS re:Invent 2025 - Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront (NET316)](https://www.youtube.com/watch?v=2RWJejXdc-A)              | 2025-12-05   |
 | [AWS re:Invent 2025 - Advanced VPC design and new capabilities (NET340)](https://www.youtube.com/watch?v=40QfxdvDGsw)                               | 2025-12-05   |
 | [AWS re:Invent 2025 - Deep dive into advanced routing policy with AWS Cloud WAN (NET401)](https://www.youtube.com/watch?v=yvLmJS-ayyM)              | 2025-12-05   |

@@ -2,10 +2,21 @@
 
 #### [AWS re:Invent 2025 - Developer Tools](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 13 
+* video count: 24 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Accelerate Terraform Provider development workflows with Kiro (DVT216)](https://www.youtube.com/watch?v=jEJrOMU5nQU)          | 2025-12-07   |
+| [AWS re:Invent 2025 - Designing Agent-Native Dev Teams: Coding Agents in Real Workflows (DVT226)](https://www.youtube.com/watch?v=FAbm2MXYaqc)      | 2025-12-07   |
+| [AWS re:Invent 2025-Unlock the power of Kiro steering: Your blueprint for scalable development-DVT340](https://www.youtube.com/watch?v=Ap0tXXvyn3k) | 2025-12-07   |
+| [AWS re:Invent 2025 - Generative AI, agents, MCP, and the future of AI-powered software development](https://www.youtube.com/watch?v=Kq0Se1nnT3U)   | 2025-12-07   |
+| [AWS re:Invent 2025 - Building software like never before with Agentic AI (DVT220)](https://www.youtube.com/watch?v=Fer2DKJ2jNA)                    | 2025-12-06   |
+| [AWS re:Invent 2025 - [NEW LAUNCH] Kiro powers: Empower agents with specialized expertise (DVT343)](https://www.youtube.com/watch?v=14se2WpEaCo)    | 2025-12-06   |
+| [AWS re:Invent 2025 - Accelerate development with Kiro's new agentic AI capabilities (DVT228)](https://www.youtube.com/watch?v=XpgcpsGKIio)         | 2025-12-06   |
+| [AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)](https://www.youtube.com/watch?v=XxAaidwyNNM)                | 2025-12-05   |
+| [AWS re:Invent 2025 - Extend Kiro with MCP support for richer context (DVT213)](https://www.youtube.com/watch?v=s4sRgzNBlbU)                        | 2025-12-05   |
+| [AWS re:Invent 2025 - Kiro: Your agentic IDE for spec-driven development (DVT209)](https://www.youtube.com/watch?v=S8G0qRuWweA)                     | 2025-12-05   |
+| [AWS re:Invent 2025 - Accelerate .NET application modernization with generative AI (DVT211)](https://www.youtube.com/watch?v=LvvSs0qDmM8)           | 2025-12-05   |
 | [AWS re:Invent 2025 - Introducing AI driven development lifecycle (AI-DLC) (DVT214)](https://www.youtube.com/watch?v=1HNUH6j5t4A)                   | 2025-12-04   |
 | [AWS re:Invent 2025 - Spec-driven development: Shaping the next generation of AI software (DVT212)](https://www.youtube.com/watch?v=p0BLnE9CJcA)    | 2025-12-04   |
 | [AWS re:Invent 2025 - Scaling Globally: Priority Pass's Journey with AWS Amplify (DVT319)](https://www.youtube.com/watch?v=50hKzkjRErE)             | 2025-12-04   |

@@ -1,0 +1,120 @@
+output_dir: videos
+pdf_output_dir: pdfs
+
+playlists:
+  reinvent-2025:
+    - PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-
+    - PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R
+    - PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn
+    - PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK
+    - PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a
+    - PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ
+    - PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM
+    - PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1
+    - PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip
+    - PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy
+    - PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ
+    - PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet
+    - PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G
+
+  reinvent-2024:
+    - PL2yQDdvlhXf_aPLMfxECsw-UIbEg6uy42
+    - PL2yQDdvlhXf_IKBiqK54xnYrg_NPDcv51
+    - PL2yQDdvlhXf-2FD5J6FzCy2bgf3C7E0TQ
+    - PL2yQDdvlhXf-8Xf_C2hJKEBbHPPr6q8Fo
+    - PL2yQDdvlhXf-ZPFF45fKOCoRXdW11NcaT
+    - PL2yQDdvlhXf87XP-v6toFBLROmrJqApP7
+    - PL2yQDdvlhXf8ME7oJDTz2vhcfGepYa-j7
+    - PL2yQDdvlhXf8ahMXG-QmuWCkhjX2tQfmp
+    - PL2yQDdvlhXf8lbgluOyOWckjc5iYJgUCP
+    - PL2yQDdvlhXf8qFSTZBFOcbdzuMGb--yWK
+    - PL2yQDdvlhXf9-pNfjMjlU8uk7C4qu-HI-
+    - PL2yQDdvlhXf9A21fHF45j_sciYhGuuWXb
+    - PL2yQDdvlhXf9CaAAwh0xonYlZ42LUFx2z
+    - PL2yQDdvlhXf9EbbweFH0wgqnX8D-co-52
+    - PL2yQDdvlhXf9FUBlLQdRg3xPFx8jS0Zvi
+    - PL2yQDdvlhXf9IS3DSz6q--R--o79oXpov
+    - PL2yQDdvlhXf9IiD_yeNFVZxzQfDPqEMRu
+    - PL2yQDdvlhXf9lfKWNMmc6DNBDbwqt57FN
+    - PL2yQDdvlhXf9v8c_vYMdMukFsctIVanTG
+    - PL2yQDdvlhXf_4FI9Vv6iiez3zDQhP6RAJ
+    - PL2yQDdvlhXf_AG2Tt0CK-d4-eY6PgjKFr
+    - PL2yQDdvlhXf_Djy46p_AEzQmIKVfhE4hp
+    - PL2yQDdvlhXf_Ezjnq7A7LfHBgCYSqzrZS
+    - PL2yQDdvlhXf_Tf2RdMc_CG73PdGVIV2uZ
+    - PL2yQDdvlhXf_rE-y8urR6VmH0-2HmeysH
+
+  reinforce-2024:
+    - PL2yQDdvlhXf-a63_o1-mAya81ZwuRkmAu
+    - PL2yQDdvlhXf924bBNnRHA9RdbNJI6En3V
+    - PL2yQDdvlhXf-XqcUqLn0avm_N-lvhsHXB
+    - PL2yQDdvlhXf-b4hbQhg2iTwU-ot2knOzh
+    - PL2yQDdvlhXf-zg2Vw9YHxoqsfsJFUq7tR
+    - PL2yQDdvlhXf8Q4ZXUvRP8VxvBN7_vXAnY
+    - PL2yQDdvlhXf8QI-TxYVwqfOUxPDwJfsIp
+    - PL2yQDdvlhXf_l1OwouK5rj0hMeSfNEExL
+    - PL2yQDdvlhXf_7oO5-WmZYI6nUClc3BXYw
+    - PL2yQDdvlhXf8ilLz3LJ7A3WxMbjLEHDff
+    - PL2yQDdvlhXf_7-jPFNNM3d5G1ZldgsOOr
+    - PL2yQDdvlhXf_-WuiG0HwlDSfKGzdRVItM
+
+  summit-paris-2024:
+    - PLL_L4MF1Z7JVoRINWdkdvyJVkH-i0Qq1Q
+
+  ibc-2024:
+    - PLSfK4vylaJMg82HDGMb4zg_eEpDLJVFoT
+
+  reinvent-2023:
+    - PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1
+    - PL2yQDdvlhXf_yTJdRlfK7K1ARdhYHhUvR
+    - PL2yQDdvlhXf-bNhTjxpMzsNgsnC2TqbQT
+    - PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV
+    - PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-
+    - PL2yQDdvlhXf83bp752n992F52HWaR_js3
+    - PL2yQDdvlhXf_rloSt34Uh37PBzTti6aFc
+    - PL2yQDdvlhXf-901GvlqhZJ3pIQtw6aeZq
+    - PL2yQDdvlhXf-z265uBFVcvoAG-OXy7530
+    - PL2yQDdvlhXf-XK9yXKcJ8Jf0TVplCazUz
+    - PL2yQDdvlhXf_HQ1BmWQHoe1o5-SQMCUfl
+    - PL2yQDdvlhXf8ZslpFYqYySfVV4Lu3MDhu
+    - PL2yQDdvlhXf8FVrowjoxmg38NCBO0CYI5
+    - PL2yQDdvlhXf9Wa5bgk7_K82rYWn2Nom4I
+    - PL2yQDdvlhXf9KjNup2pbyxba2XeKelNFg
+    - PL2yQDdvlhXf_CgVU23a0cmJMohU9GcpSE
+    - PL2yQDdvlhXf-CN3ykMq_dYH9nmPRRbR7O
+    - PL2yQDdvlhXf-MKQE31qHsOE_eSDR1T2Kq
+    - PL2yQDdvlhXf8r-2SvM2pmCzd62_umw_FJ
+    - PL2yQDdvlhXf8qWcdB_8mKLyAOHk0cVK6B
+    - PL2yQDdvlhXf8_GOWzkJwOsoDLgBw80nfi
+    - PL2yQDdvlhXf8iyzg7ziZI924PxC8a8M-U
+    - PL2yQDdvlhXf88GSCQS4wvT2eB5Cq1RJ9Q
+
+  storage-day-2023:
+    - PLSfK4vylaJMg3nKxvs66pFCAkb_rfdRos
+
+  media-day-2023:
+    - PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do
+
+  me-symposium-la-2023:
+    - PLSfK4vylaJMivlKdK2GgYrvUmjocpKoev
+
+  ibc-2023:
+    - PLSfK4vylaJMhYgc5tzKpKLA02uG7CIdsn
+
+  reinvent-2021:
+    - PLL_L4MF1Z7JVxkNOAetbK8hCmJWRanQah
+    - PL2yQDdvlhXf_b_a3X0Bd58WbEZGDau-lW
+    - PL2yQDdvlhXf8LwUXEjfwfT9Yd0fFf4H-G
+    - PL2yQDdvlhXf9h--iJ3AEr6r7R6EsgjKNm
+    - PL2yQDdvlhXf84XEw3vxTFxW9cc0U7kj_G
+    - PL2yQDdvlhXf8IJuIGCoPbO2HXxWFFml8Z
+    - PL2yQDdvlhXf_iYtj8AVNbR7TfBgVoMQGA
+    - PL2yQDdvlhXf8Y3Po6kztYpyKxhy6XEV-_
+    - PL2yQDdvlhXf_NlTmZ2Yc1alpZ-cjZyz-W
+    - PL2yQDdvlhXf-zvXglx6Vs1wvtczIR_b61
+    - PL2yQDdvlhXf-C9OQaL0ndFpj0ZuvPkyAb
+    - PL2yQDdvlhXf8r4Szoi7TvfbH6KXk5SlM1
+    - PL2yQDdvlhXf9Cg4McKSCdJ-uroabfib16
+    - PL2yQDdvlhXf9o8C35r5MpmYou-qLuWhMt
+    - PL2yQDdvlhXf_w7ko6ux5eFhDLS1ggjWsr
+    - PL2yQDdvlhXf8R2BYrOfcp8kKUvIHc5NoQ

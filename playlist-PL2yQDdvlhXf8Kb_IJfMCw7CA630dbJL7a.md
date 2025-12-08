@@ -2,12 +2,23 @@
 
 #### [AWS re:Invent 2025 - Migration & Modernization](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 25 
+* video count: 36 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Grupo Tress Internacional's .NET modernization with AWS Transform (MAM320)](https://www.youtube.com/watch?v=NiQaqnrq1lc)      | 2025-12-07   |
+| [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI (MAM327)](https://www.youtube.com/watch?v=_wpjJWm8KBQ)                    | 2025-12-07   |
+| [AWS re:Invent 2025 - Simplify discovery and deployment of software with AWS Marketplace (MAM107)](https://www.youtube.com/watch?v=art8eIAd98A)     | 2025-12-07   |
+| [AWS re:Invent 2025 - 3x faster data migration with AWS Data Transfer Terminal (MAM224)](https://www.youtube.com/watch?v=EZKgN72E-ys)               | 2025-12-07   |
+| [AWS re:Invent 2025 - A Leader's Guide to High-Performance Organizations (MAM225)](https://www.youtube.com/watch?v=sCyb1V0CBQ0)                     | 2025-12-07   |
+| [AWS re:Invent 2025 - AWS migration journey: 2025 itinerary for Microsoft workloads (MAM309)](https://www.youtube.com/watch?v=6cuUx_KfZK4)          | 2025-12-06   |
+| [AWS re:Invent 2025 - Derisk your mainframe exit with agentic AI-powered refactoring ft BMW & Fiserv](https://www.youtube.com/watch?v=AoJPmwwezVk)  | 2025-12-05   |
+| [AWS re:Invent 2025 - AI-Driven Design at Scale: Tempo Labs' Move to AWS Bedrock (MAM325)](https://www.youtube.com/watch?v=xFNz-UdB-Q4)             | 2025-12-05   |
+| [AWS re:Invent 2025 - Circuit Breaker, Saga & Strangler Fig: Patterns for Transformation (MAM358)](https://www.youtube.com/watch?v=UJGbzjxfaw8)     | 2025-12-05   |
+| [AWS re:Invent 2025 - Pioneering Agentic AI Transformation: CSL VMware & SAP modernization (MAM346)](https://www.youtube.com/watch?v=Wk4xch8s1MA)   | 2025-12-05   |
 | [AWS re:Invent 2025 - Agentic AI for VMware migrations with AWS Transform for VMware (MAM202)](https://www.youtube.com/watch?v=BHO_45PxguI)         | 2025-12-05   |
 | [AWS re:Invent 2025 - Best practices for performing custom code transformation with agentic AI-MAM344](https://www.youtube.com/watch?v=7nXXHuxtVVM) | 2025-12-04   |
+| [AWS re:Invent 2025 - LSEG's migration & modernization journey: blueprint for cloud success (MAM206)](https://www.youtube.com/watch?v=Q7upRhn4U_o)  | 2025-12-05   |
 | [AWS re:Invent 2025 - Reimagining large-scale migration planning with agentic AI (MAM226)](https://www.youtube.com/watch?v=8PBNaDa0TUw)             | 2025-12-04   |
 | [AWS re:Invent 2025 - Modernize SQL Server & .NET Together with AWS Transform's New AI Agent (MAM340)](https://www.youtube.com/watch?v=t1JP8lwG5lU) | 2025-12-04   |
 | [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro (MAM343)](https://www.youtube.com/watch?v=Ff32zqeOKcg)     | 2025-12-04   |
