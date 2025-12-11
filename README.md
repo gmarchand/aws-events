@@ -2,52 +2,41 @@
 
 This README is automatically generated from `playlists.yaml`.
 
-## Usage
-
-```bash
-# Generate/update README from playlists.yaml
-python youtube_extractor.py generate-readme
-
-# Find all re:Invent playlists from AWS Events channel
-python find_reinvent_playlists.py
-
-# Extract videos and transcripts
-python youtube_extractor.py extract --category reinvent-2025
-```
+To regenerate: `python youtube_extractor.py generate-readme`
 
 ## Reinvent 2025
 
-- [AWS re:Invent 2025 - Senior Leaders](playlist-PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-.md) (10 videos)
-- [AWS re:Invent 2025 - Code Talks](playlist-PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R.md) (78 videos)
-- [AWS re:Invent 2025 - Partner Sessions](playlist-PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn.md) (221 videos)
-- [AWS re:Invent 2025 - Networking & Content Delivery](playlist-PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK.md) (21 videos)
-- [AWS re:Invent 2025 - Migration & Modernization](playlist-PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a.md) (36 videos)
-- [AWS re:Invent 2025 - Independent Software Vendor (ISV)](playlist-PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ.md) (15 videos)
-- [AWS re:Invent 2025 - Industry Solutions](playlist-PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM.md) (85 videos)
-- [AWS re:Invent 2025 - Developer Tools](playlist-PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1.md) (24 videos)
-- [AWS re:Invent 2025 - Databases](playlist-PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip.md) (35 videos)
-- [AWS re:Invent 2025 - Compute](playlist-PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy.md) (23 videos)
-- [AWS re:Invent 2025 - Artificial Intelligence](playlist-PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ.md) (67 videos)
-- [AWS re:Invent 2025 - Latest Breakout Sessions](playlist-PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet.md) (537 videos)
-- [AWS re:Invent 2025 - Innovation Talks](playlist-PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G.md) (14 videos)
-- [AWS re:Invent 2025 - New to AWS](playlist-PL2yQDdvlhXf_bh3ol1Obzb3P8n6BQENH9.md) (12 videos)
-- [AWS re:Invent 2025 - Analytics](playlist-PL2yQDdvlhXf8hzMmCGt2F--Oa6rF2rktF.md) (30 videos)
+- [AWS re:Invent 2025 - Analytics](playlist-PL2yQDdvlhXf8hzMmCGt2F--Oa6rF2rktF.md) (33 videos)
 - [AWS re:Invent 2025 - Application Integration](playlist-PL2yQDdvlhXf9m3loOlzEtdpobt-85B04t.md) (11 videos)
-- [AWS re:Invent 2025 - Architecture](playlist-PL2yQDdvlhXf9t-nSD6dYTv-szvZxsBeh0.md) (10 videos)
+- [AWS re:Invent 2025 - Architecture](playlist-PL2yQDdvlhXf9t-nSD6dYTv-szvZxsBeh0.md) (15 videos)
+- [AWS re:Invent 2025 - Artificial Intelligence](playlist-PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ.md) (67 videos)
 - [AWS re:Invent 2025 - Cloud Operations](playlist-PL2yQDdvlhXf8fUGVeljVNpQwugV7XBZRt.md) (37 videos)
-- [AWS re:Invent 2025 - Customer Keynotes](playlist-PL2yQDdvlhXf9UcI79HO5qmfxvHlzMh9y9.md) (9 videos)
-- [AWS re:Invent 2025 - Developer Community](playlist-PL2yQDdvlhXf-SZMaPAmK7huvDT6GBF18B.md) (43 videos)
+- [AWS re:Invent 2025 - Code Talks](playlist-PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R.md) (81 videos)
+- [AWS re:Invent 2025 - Compute](playlist-PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy.md) (24 videos)
+- [AWS re:Invent 2025 - Databases](playlist-PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip.md) (37 videos)
+- [AWS re:Invent 2025 - Developer Community](playlist-PL2yQDdvlhXf-SZMaPAmK7huvDT6GBF18B.md) (45 videos)
+- [AWS re:Invent 2025 - Developer Tools](playlist-PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1.md) (26 videos)
 - [AWS re:Invent 2025 - Hybrid Cloud & Multicloud](playlist-PL2yQDdvlhXf9Vml7a6_rh4BNrLTTU0euv.md) (18 videos)
-- [AWS re:Invent 2025 - Learning from Amazon](playlist-PL2yQDdvlhXf-_r_unK-mfNSsvq1eEdNRO.md) (8 videos)
-- [AWS re:Invent 2025 - Lightning Talks](playlist-PL2yQDdvlhXf9iyxIQQf-E4tXlGI0Fr_P7.md) (260 videos)
-- [AWS re:Invent 2025 - Open Source](playlist-PL2yQDdvlhXf-a5wgEXBveQkE0MpHprsQt.md) (7 videos)
-- [AWS re:Invent 2025 - Partner Enablement](playlist-PL2yQDdvlhXf9iOBmyb15YPGkoMK1hAX_x.md) (28 videos)
+- [AWS re:Invent 2025 - Independent Software Vendor (ISV)](playlist-PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ.md) (15 videos)
+- [AWS re:Invent 2025 - Industry Solutions](playlist-PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM.md) (88 videos)
+- [AWS re:Invent 2025 - Innovation Talks](playlist-PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G.md) (15 videos)
+- [AWS re:Invent 2025 - Keynote Customers](playlist-PL2yQDdvlhXf9UcI79HO5qmfxvHlzMh9y9.md) (9 videos)
+- [AWS re:Invent 2025 - Latest Breakout Sessions](playlist-PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet.md) (580 videos)
+- [AWS re:Invent 2025 - Learning from Amazon](playlist-PL2yQDdvlhXf-_r_unK-mfNSsvq1eEdNRO.md) (9 videos)
+- [AWS re:Invent 2025 - Lightning Talks](playlist-PL2yQDdvlhXf9iyxIQQf-E4tXlGI0Fr_P7.md) (282 videos)
+- [AWS re:Invent 2025 - Migration & Modernization](playlist-PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a.md) (38 videos)
+- [AWS re:Invent 2025 - Networking & Content Delivery](playlist-PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK.md) (23 videos)
+- [AWS re:Invent 2025 - New to AWS](playlist-PL2yQDdvlhXf_bh3ol1Obzb3P8n6BQENH9.md) (13 videos)
+- [AWS re:Invent 2025 - Open Source](playlist-PL2yQDdvlhXf-a5wgEXBveQkE0MpHprsQt.md) (8 videos)
+- [AWS re:Invent 2025 - Partner Enablement](playlist-PL2yQDdvlhXf9iOBmyb15YPGkoMK1hAX_x.md) (30 videos)
+- [AWS re:Invent 2025 - Partner Sessions](playlist-PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn.md) (250 videos)
 - [AWS re:Invent 2025 - SaaS](playlist-PL2yQDdvlhXf9q8MC_iy2NGXaQiLhQgNdD.md) (6 videos)
-- [AWS re:Invent 2025 - Security & Identity](playlist-PL2yQDdvlhXf_1rHZpRPA6MDUBv_OKz6Qk.md) (29 videos)
-- [AWS re:Invent 2025 - Serverless & Containers](playlist-PL2yQDdvlhXf-Gzj7psv0r9d1u9_yYAGus.md) (34 videos)
+- [AWS re:Invent 2025 - Security & Identity](playlist-PL2yQDdvlhXf_1rHZpRPA6MDUBv_OKz6Qk.md) (32 videos)
+- [AWS re:Invent 2025 - Senior Leaders](playlist-PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-.md) (11 videos)
+- [AWS re:Invent 2025 - Serverless & Containers](playlist-PL2yQDdvlhXf-Gzj7psv0r9d1u9_yYAGus.md) (38 videos)
 - [AWS re:Invent 2025 - Small & Medium Business](playlist-PL2yQDdvlhXf_Chz_eS8KUdzzbuACSV0CE.md) (10 videos)
-- [AWS re:Invent 2025 - Startup](playlist-PL2yQDdvlhXf-yRZ2GBW1PJzz5cneMld9Z.md) (8 videos)
-- [AWS re:Invent 2025 - Storage](playlist-PL2yQDdvlhXf8sqGuKk7yatvGdCbkIH_qM.md) (35 videos)
+- [AWS re:Invent 2025 - Startup](playlist-PL2yQDdvlhXf-yRZ2GBW1PJzz5cneMld9Z.md) (9 videos)
+- [AWS re:Invent 2025 - Storage](playlist-PL2yQDdvlhXf8sqGuKk7yatvGdCbkIH_qM.md) (34 videos)
 - [Latest AWS Keynotes](playlist-PL2yQDdvlhXf8xcKr0-BHEyg_8VB4tWdu1.md) (74 videos)
 
 ## Reinvent 2024

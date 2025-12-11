@@ -7,8 +7,8 @@ dotenv: ['.env', '{{.ENV}}/.env.', '{{.HOME}}/.env']
 tasks:
   build:
     cmds:
-      - npm install -g youtube-playlist-markdown-cli
-      - sh youtube_playlist_md.sh
+      - python youtube_extractor.py extract --category reinvent-2025 --skip-videos --skip-transcript
+      - python youtube_extractor.py generate-readme
       - git add .
       - git commit -m 'update'
       - git push
