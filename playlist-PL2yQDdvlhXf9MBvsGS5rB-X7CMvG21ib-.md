@@ -2,10 +2,11 @@
 
 #### [AWS re:Invent 2025 - Senior Leaders](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 10 
+* video count: 11 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - A leader's guide to navigating multicloud strategies and decisions (SNR204)](https://www.youtube.com/watch?v=h19GuaGEVPc)     | 2025-12-08   |
 | [AWS re:Invent 2025 - A leader's guide to data strategy in the era of agentic AI (SNR202)](https://www.youtube.com/watch?v=YUYwsUhNfBY)             | 2025-12-07   |
 | [AWS re:Invent 2025 - A leader's guide to advanced mental models and mechanisms (SNR303)](https://www.youtube.com/watch?v=mppIWlm5BA0)              | 2025-12-05   |
 | [AWS re:Invent 2025 - A leader's guide to accelerating large-scale migration (SNR301)](https://www.youtube.com/watch?v=yivLE18g0hk)                 | 2025-12-04   |

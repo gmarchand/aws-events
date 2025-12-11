@@ -2,10 +2,12 @@
 
 #### [AWS re:Invent 2025 - Databases](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 35 
+* video count: 37 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Web3 + AI: Agents that mean business (DAT318)](https://www.youtube.com/watch?v=wuB3Sq5AWo8)                                   | 2025-12-09   |
+| [AWS re:Invent 2025 - A tale of two transactions (DAT455)](https://www.youtube.com/watch?v=SNnUpYvBfow)                                             | 2025-12-08   |
 | [AWS re:Invent 2025 - Video sampling & search using ElastiCache & multimodal embeddings (DAT433)](https://www.youtube.com/watch?v=3Kbv_BI3NJ0)      | 2025-12-07   |
 | [AWS re:Invent 2025 - Autonomous Web3 agents on AWS (DAT457)](https://www.youtube.com/watch?v=ZUUVpgycack)                                          | 2025-12-07   |
 | [AWS re:Invent 2025 - Supercharge app intelligence using gen AI with Amazon DocumentDB (DAT313)](https://www.youtube.com/watch?v=YL1eKFuwFqw)       | 2025-12-07   |

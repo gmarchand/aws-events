@@ -2,10 +2,44 @@
 
 #### [AWS re:Invent 2025 - Partner Sessions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 221 
+* video count: 250 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Unlocking the Agentic Future: Building Trust to AI-Driven Software Development](https://www.youtube.com/watch?v=zy7dWi0r7UE)  | 2025-12-10   |
+| [AWS re:Invent 2025 - Building High-Performance, Secure networks for Hybrid and Multicloud (HMC209)](https://www.youtube.com/watch?v=1LqOi2gR8jY)   | 2025-12-06   |
+| [AWS re:Invent 2025 - Train, Simulate, Deploy: Building NVIDIA-Powered Physical AI on AWS (AIM117)](https://www.youtube.com/watch?v=Z89T_c0J5xA)    | 2025-12-10   |
+| [AWS re:Invent 2025 - Leverage Graph Insights to Turbocharge Amazon Q for Business (IND209)](https://www.youtube.com/watch?v=DWmLlKswyI0)           | 2025-12-09   |
+| [AWS re:Invent 2025 - Securing AI Agents: The Future of Identity & Access Control (SEC328)](https://www.youtube.com/watch?v=6XNIYbpoSgY)            | 2025-12-09   |
+| [AWS re:Invent 2025 - From Legacy to Lakehouse: Proven Best Practices for Data Warehouse Migration](https://www.youtube.com/watch?v=EMKSIV4-1Cw)    | 2025-12-09   |
+| [AWS re:Invent 2025 - Human Agency in AI: Balancing Automation, Oversight, and Innovation (AIM240)](https://www.youtube.com/watch?v=a0BSe7sYDkQ)    | 2025-12-09   |
+| [AWS re:Invent 2025 - From Cloud to AI Securing the New Cloud Attack Surface (SEC220)](https://www.youtube.com/watch?v=KtU-td5wHUI)                 | 2025-12-04   |
+| [AWS re:Invent 2025 - Scaling AI with confidence: From proof of concept to production (AIM209)](https://www.youtube.com/watch?v=b3d_n0rldmo)        | 2025-12-09   |
+| [AWS re:Invent 2025 - Work AI that Works: Real Stories & Outcomes of Agentic AI  (AIM112)](https://www.youtube.com/watch?v=ObAJIOJrcK8)             | 2025-12-09   |
+| [AWS re:Invent 2025 - Agents of Change: AI & People Powering the Future of Work (AIM128)](https://www.youtube.com/watch?v=b8Dhwo22wGs)              | 2025-12-09   |
+| [AWS re:Invent 2025 - AI-Driven Automation for Modern Operations (AIM219)](https://www.youtube.com/watch?v=oV0AltR4WA0)                             | 2025-12-09   |
+| [AWS re:Invent 2025 - Build Resilient GenAI & Agentic Apps with Intelligent Memory (DAT105)](https://www.youtube.com/watch?v=_jxYmIrr3Xc)           | 2025-12-09   |
+| [AWS re:Invent 2025 - Beyond a Chatbot: How to Build Intelligent Agent Memory (AIM284)](https://www.youtube.com/watch?v=asWTC3oc-SA)                | 2025-12-09   |
+| [AWS re:Invent 2025 - Designing with Agents: A Playbook for Enterprise Engineering Leaders (DVT102)](https://www.youtube.com/watch?v=-9PMJGh9Gvw)   | 2025-12-09   |
+| [AWS re:Invent 2025 - Beyond Vector Search: Ultra-Resilient GenAI Apps with AWS Bedrock (DAT202)](https://www.youtube.com/watch?v=qDiOzexNlsI)      | 2025-12-04   |
+| [AWS re:Invent 2025 -Audience 3.0: AI-Agent Workflows for Hyper-Personalized Content Creation-AIM3344](https://www.youtube.com/watch?v=palUYuG8vpo) | 2025-12-09   |
+| [AWS re:Invent 2025 - Automated cloud security remediation with agentic workflows (SEC217)](https://www.youtube.com/watch?v=CBlaw7KQwT0)            | 2025-12-04   |
+| [AWS re:Invent 2025 - Customer Insights: Scaling Real-World AI with AMD (CMP208)](https://www.youtube.com/watch?v=nPeFYvfr8rE)                      | 2025-12-04   |
+| [AWS re:Invent 2025 - Building Secure-by-Design Environments with AWS Capabilities (SEC208)](https://www.youtube.com/watch?v=kR6A3HhuH4c)           | 2025-12-08   |
+| [AWS re:Invent 2025 - Browser Power: Building MCP Tools That Do Real Work (AIM224)](https://www.youtube.com/watch?v=NvXGr6pFip8)                    | 2025-12-08   |
+| [AWS re:Invent 2025 - Accelerating Business Value with Cloud and AI (BIZ324)](https://www.youtube.com/watch?v=DLzJw-2AAVw)                          | 2025-12-08   |
+| [AWS re:Invent 2025 - How to prep Telemetry data for AI consumption (DVT222)](https://www.youtube.com/watch?v=WWLRM61820A)                          | 2025-12-08   |
+| [AWS re:Invent 2025 - Building the Future Trading Platform leveraging AI and AWS (AIM3307)](https://www.youtube.com/watch?v=aqDCPW9oBYA)            | 2025-12-08   |
+| [AWS re:Invent 2025 - Leveraging Agentic AI to process Intelligent automation workloads on AWS Cloud](https://www.youtube.com/watch?v=QGQvo0Mi4JQ)  | 2025-12-08   |
+| [AWS re:Invent 2025 - Can Your AI Show Its Work? Healthcare's Critical Imperative for Explainable AI](https://www.youtube.com/watch?v=1HGaUBD6CsA)  | 2025-12-08   |
+| [AWS re:Invent 2025 - Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (AIM104)](https://www.youtube.com/watch?v=C2AcLKLATFI)             | 2025-12-08   |
+| [AWS re:Invent 2025 - Building Predictable AI Agents with Pega and Amazon Bedrock (MAM104)](https://www.youtube.com/watch?v=Zyz1FABSBGc)            | 2025-12-08   |
+| [AWS re:Invent 2025 - Scaling GenAI on AWS Without Breaking the Bank through FinOps (AIM227)](https://www.youtube.com/watch?v=PMVdZKUit7s)          | 2025-12-08   |
+| [AWS re:Invent 2025 - How Baker Hughes is Driving Energy Innovation with AWS AI (AIM347)](https://www.youtube.com/watch?v=VOA5pyBpAvk)              | 2025-12-08   |
+| [AWS re:Invent 2025 - Beyond Reactive Scaling: Optimizing Amazon EKS Cost and Performance (COP369)](https://www.youtube.com/watch?v=wZ1u1DmIxfs)    | 2025-12-08   |
+| [AWS re:Invent 2025 - Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock](https://www.youtube.com/watch?v=j1P_9V2oRW4)     | 2025-12-08   |
+| [AWS re:Invent 2025 - Best Practices for moving, innovating & extending SAP Cloud ERP (COP209)](https://www.youtube.com/watch?v=I1eDps0h_n8)        | 2025-12-08   |
+| [AWS re:Invent 2025 - How SoFi Achieved Agentless, Multi-Region Data Protection & Lower TCO (COP204)](https://www.youtube.com/watch?v=Dpx2YR4T9BA)  | 2025-12-08   |
 | [AWS re:Invent 2025-The state of AI in software development:Insights across 400+ organizations-AIM126](https://www.youtube.com/watch?v=hrHJC9bkoa8) | 2025-12-07   |
 | [AWS re:Invent 2025 - Optimizing storage costs for Amazon EVS with FSx for ONTAP (MAM101)](https://www.youtube.com/watch?v=vFlKJX7DEj0)             | 2025-12-07   |
 | [AWS re:Invent 2025 - Accelerate development velocity with better code reviews (DVT344)](https://www.youtube.com/watch?v=xWf6zkw2Ni0)               | 2025-12-07   |
@@ -143,13 +177,10 @@
 | [AWS re:Invent 2025 - Your AI Agent Is Expensive and Wrong (Let's Fix Both) (AIM264)](https://www.youtube.com/watch?v=h6IBnaN51ck)                  | 2025-12-04   |
 | [AWS re:Invent 2025 - Unleashing Performance: How Intel Xeon 6 on AWS EC2 Is Redefining Compute & TCO](https://www.youtube.com/watch?v=DhfN2uX9XqI) | 2025-12-04   |
 | [AWS re:Invent 2025 - Supercharge personalized experiences with Contentful and AWS (AIM296)](https://www.youtube.com/watch?v=PGF6k7OuLAA)           | 2025-12-04   |
-| [AWS re:Invent 2025 - Building High-Performance, Secure networks for Hybrid and Multicloud (HMC209)](https://www.youtube.com/watch?v=1LqOi2gR8jY)   | 2025-12-06   |
 | [AWS re:Invent 2025 - IBM: Building blocks to scale AI agents: hybrid, integrated, automated​(HMC104)](https://www.youtube.com/watch?v=3-ADvYj5qxg) | 2025-12-04   |
 | [AWS re:Invent 2025 - From VM to Cloud: Tenable’s Approach to Cloud Vulnerability Management (HMC306)](https://www.youtube.com/watch?v=oVKXpsX4AIA) | 2025-12-04   |
-| [AWS re:Invent 2025 - Automated cloud security remediation with agentic workflows (SEC217)](https://www.youtube.com/watch?v=CBlaw7KQwT0)            | 2025-12-04   |
 | [AWS re:Invent 2025 - Secure, Easy and Performant VPC Resource Connectivity with Tailscale (CDN201)](https://www.youtube.com/watch?v=mY5meE9mroY)   | 2025-12-04   |
 | [AWS re:Invent 2025 - Fast-Track Modernization and Transformation with Nutanix and AWS (HMC103)](https://www.youtube.com/watch?v=pVTj663Mz6o)       | 2025-12-04   |
-| [AWS re:Invent 2025 - Beyond Vector Search: Ultra-Resilient GenAI Apps with AWS Bedrock (DAT202)](https://www.youtube.com/watch?v=qDiOzexNlsI)      | 2025-12-04   |
 | [AWS re:Invent 2025 - Advancing Behavioral Health Analytics with Integrated Cloud Services (ARC208)](https://www.youtube.com/watch?v=XWT5UJHJGjY)   | 2025-12-04   |
 | [AWS re:Invent 2025-PwC & BMO: AI-Powered Finance Transformation -From Reporting to Treasury Insights](https://www.youtube.com/watch?v=Putvrse5ZdY) | 2025-12-04   |
 | [AWS re:Invent 2025-AI-Powered Observability & Observability for AI: The Two Sides of the Coin-AIM206](https://www.youtube.com/watch?v=ffVeV_0heIk) | 2025-12-04   |
@@ -166,7 +197,6 @@
 | [AWS re:Invent 2025 - EverCommerce’s Secret to AI-Ready, Multi-Brand Data (ANT101)](https://www.youtube.com/watch?v=YP_ViiNeygc)                    | 2025-12-04   |
 | [AWS re:Invent 2025 - See The Future of Cloud Defense: Agentic Cloud Security (AIM288)](https://www.youtube.com/watch?v=PfsXtrUuKn0)                | 2025-12-04   |
 | [AWS re:Invent 2025 - FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (AIM279)](https://www.youtube.com/watch?v=HhOCaq1nQLQ)       | 2025-12-04   |
-| [AWS re:Invent 2025 - Customer Insights: Scaling Real-World AI with AMD (CMP208)](https://www.youtube.com/watch?v=nPeFYvfr8rE)                      | 2025-12-04   |
 | [AWS re:Invent 2025 - Intelligent Outage Management Using Automated Reasoning and AI (AIM275)](https://www.youtube.com/watch?v=DGD3cYBMGk0)         | 2025-12-04   |
 | [AWS re:Invent 2025 - All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (AIM247)](https://www.youtube.com/watch?v=1oMv-BBWjCc)         | 2025-12-04   |
 | [AWS re:Invent 2025 - How Samsung Uses AI Agents to Optimize Infrastructure at Scale (AIM238)](https://www.youtube.com/watch?v=h8wY_GlNR3I)         | 2025-12-04   |
@@ -178,7 +208,6 @@
 | [AWS re:Invent 2025 - Shaping the future of procurement through a community driven AI-as-a-Service](https://www.youtube.com/watch?v=aHMzJ3C0sVU)    | 2025-12-04   |
 | [AWS re:Invent 2025-Building workflows of your choosing: agents, copilots, and everything in between](https://www.youtube.com/watch?v=R7k3-bSX3uk)  | 2025-12-04   |
 | [AWS re:Invent 2025 - Make Attackers Cry: Outsmart Them With Deception (SEC326)](https://www.youtube.com/watch?v=jml0p7sgp5g)                       | 2025-12-04   |
-| [AWS re:Invent 2025 - From Cloud to AI Securing the New Cloud Attack Surface (SEC220)](https://www.youtube.com/watch?v=KtU-td5wHUI)                 | 2025-12-04   |
 | [AWS re:Invent 2025 - GenAI, Hold the Waste: How H2O Fixed Its Storage Bottleneck (STG204)](https://www.youtube.com/watch?v=vMM138DHa7s)            | 2025-12-04   |
 | [AWS re:Invent 2025 - Strategy First: Empowering the Business to Lead in the AI Era (AIM348)](https://www.youtube.com/watch?v=95ko3gR34oI)          | 2025-12-04   |
 | [AWS re:Invent 2025 - Live logs & prosper: Use AI to make logs a primary observability signal(AIM346)](https://www.youtube.com/watch?v=S2gKA4an1i8) | 2025-12-04   |

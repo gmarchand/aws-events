@@ -2,10 +2,13 @@
 
 #### [AWS re:Invent 2025 - Migration & Modernization](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 36 
+* video count: 38 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Reimagine mainframe workloads at speed with agentic AI - ft Itau & ADP (MAM207)](https://www.youtube.com/watch?v=AV6YSJ1vvNE) | 2025-12-10   |
+| [AWS re:Invent 2025 - LSEG's migration & modernization journey: blueprint for cloud success (MAM206)](https://www.youtube.com/watch?v=Q7upRhn4U_o)  | 2025-12-05   |
+| [AWS re:Invent 2025 - [NEW LAUNCH] Bring Your Own Agents and Tools to AWS Transform (MAM208)](https://www.youtube.com/watch?v=G-3mdw89Ukk)          | 2025-12-08   |
 | [AWS re:Invent 2025 - Grupo Tress Internacional's .NET modernization with AWS Transform (MAM320)](https://www.youtube.com/watch?v=NiQaqnrq1lc)      | 2025-12-07   |
 | [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI (MAM327)](https://www.youtube.com/watch?v=_wpjJWm8KBQ)                    | 2025-12-07   |
 | [AWS re:Invent 2025 - Simplify discovery and deployment of software with AWS Marketplace (MAM107)](https://www.youtube.com/watch?v=art8eIAd98A)     | 2025-12-07   |
@@ -18,7 +21,6 @@
 | [AWS re:Invent 2025 - Pioneering Agentic AI Transformation: CSL VMware & SAP modernization (MAM346)](https://www.youtube.com/watch?v=Wk4xch8s1MA)   | 2025-12-05   |
 | [AWS re:Invent 2025 - Agentic AI for VMware migrations with AWS Transform for VMware (MAM202)](https://www.youtube.com/watch?v=BHO_45PxguI)         | 2025-12-05   |
 | [AWS re:Invent 2025 - Best practices for performing custom code transformation with agentic AI-MAM344](https://www.youtube.com/watch?v=7nXXHuxtVVM) | 2025-12-04   |
-| [AWS re:Invent 2025 - LSEG's migration & modernization journey: blueprint for cloud success (MAM206)](https://www.youtube.com/watch?v=Q7upRhn4U_o)  | 2025-12-05   |
 | [AWS re:Invent 2025 - Reimagining large-scale migration planning with agentic AI (MAM226)](https://www.youtube.com/watch?v=8PBNaDa0TUw)             | 2025-12-04   |
 | [AWS re:Invent 2025 - Modernize SQL Server & .NET Together with AWS Transform's New AI Agent (MAM340)](https://www.youtube.com/watch?v=t1JP8lwG5lU) | 2025-12-04   |
 | [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro (MAM343)](https://www.youtube.com/watch?v=Ff32zqeOKcg)     | 2025-12-04   |

@@ -2,10 +2,13 @@
 
 #### [AWS re:Invent 2025 - Networking & Content Delivery](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 21 
+* video count: 23 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - [NEW LAUNCH] Patching data leak vulnerabilities using VPC Egress Proxy (NET216)](https://www.youtube.com/watch?v=1u6GP46C9oI) | 2025-12-10   |
+| [AWS re:Invent 2025 - Managing Bots vs Humans with CloudFront and AWS WAF (NET324)](https://www.youtube.com/watch?v=IiJz-NIA_Xg)                    | 2025-12-05   |
+| [AWS re:Invent 2025 - From threat to threat intel: 360 degrees of DDOS (NET318)](https://www.youtube.com/watch?v=XPWAm4NILn0)                       | 2025-12-08   |
 | [AWS re:Invent 2025 - Hassle-free multicloud connectivity with AWS Interconnect - Multicloud (NET205)](https://www.youtube.com/watch?v=yfxS9Lizu5M) | 2025-12-05   |
 | [AWS re:Invent 2025 - Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront (NET316)](https://www.youtube.com/watch?v=2RWJejXdc-A)              | 2025-12-05   |
 | [AWS re:Invent 2025 - Advanced VPC design and new capabilities (NET340)](https://www.youtube.com/watch?v=40QfxdvDGsw)                               | 2025-12-05   |
@@ -17,7 +20,6 @@
 | [AWS re:Invent 2025 - Networks at scale and how to automate operations  (NET323)](https://www.youtube.com/watch?v=_nOKPOTJqko)                      | 2025-12-04   |
 | [AWS re:Invent 2025 - Load balancing evolved: ALB Target Optimizer (NET336)](https://www.youtube.com/watch?v=v--Pa6gNVQ0)                           | 2025-12-04   |
 | [AWS re:Invent 2025 - Deep dive: The evolution of AWS load balancing and new capabilities (NET334)](https://www.youtube.com/watch?v=0sg7KtCuhh0)    | 2025-12-04   |
-| [AWS re:Invent 2025 - Managing Bots vs Humans with CloudFront and AWS WAF (NET324)](https://www.youtube.com/watch?v=IiJz-NIA_Xg)                    | 2025-12-05   |
 | [AWS re:Invent 2025 - A day in the life of an AWS WAF administrator (NET317)](https://www.youtube.com/watch?v=E_xm8W_BEFk)                          | 2025-12-04   |
 | [AWS re:Invent 2025 - Powering your success through AWS Infrastructure innovations (NET402)](https://www.youtube.com/watch?v=YQOuYK23VEI)           | 2025-12-03   |
 | [AWS re:Invent 2025 - Robust network security with perimeter protection and zero trust (NET326)](https://www.youtube.com/watch?v=kJ3tgbTWE4E)       | 2025-12-03   |

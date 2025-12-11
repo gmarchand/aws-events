@@ -2,10 +2,15 @@
 
 #### [AWS re:Invent 2025 - Industry Solutions](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 85 
+* video count: 88 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Basketball's AI Revolution: How AWS and the NBA Are Changing the Game (SPF102)](https://www.youtube.com/watch?v=pZczwGVzWxo)  | 2025-12-10   |
+| [AWS re:Invent 2025 -How Toyota Built an AI Platform that Revolutionizes the Dealer Experience-IND320](https://www.youtube.com/watch?v=lp_tXtr_aL4) | 2025-12-05   |
+| [AWS re:Invent 2025 - Engineering at full throttle: How AWS powers Formula 1® (SPF108)](https://www.youtube.com/watch?v=FzBZZmInRCk)                | 2025-12-09   |
+| [AWS re:Invent 2025 - NFL Next Gen Stats: Decoding Defensive Coverage Using Transformer Architectures](https://www.youtube.com/watch?v=Al6P92NNHf8) | 2025-12-09   |
+| [AWS re:Invent 2025-NBA Inside The Game, Powered by AWS - Building the NBA’s New Stats Program-SPF307](https://www.youtube.com/watch?v=K0dqsUVlkks) | 2025-12-08   |
 | [AWS re:Invent 2025 - Accelerate Telco Transformation: AT&T's AI-Powered Migration at Scale (IND201)](https://www.youtube.com/watch?v=aeg6fNVQJpE)  | 2025-12-07   |
 | [AWS re:Invent 2025 - AI at the speed of news: Bloomberg Media’s vision for the future (IND3331)](https://www.youtube.com/watch?v=5CkOnwmJkpQ)      | 2025-12-07   |
 | [AWS re:Invent 2025 - Automating Amazon Fulfillment Center Operations with Generative AI (IND393)](https://www.youtube.com/watch?v=si9STrMHG6A)     | 2025-12-07   |
@@ -13,7 +18,6 @@
 | [AWS re:Invent 2025 -Fidelity Investments: Text-to-SQL for data analytics at enterprise scale-IND3323](https://www.youtube.com/watch?v=YA7Svfb0ttU) | 2025-12-07   |
 | [AWS re:Invent 2025 - Powering Prime Video's NASCAR Coverage: ML Fuel Analytics in Action (SPF303)](https://www.youtube.com/watch?v=Abk9GMdn2Ig)    | 2025-12-07   |
 | [AWS re:Invent 2025 - Next-Gen Scale for Next-Gen Play—EA's Apex Legends & Amazon GameLift (IND204)](https://www.youtube.com/watch?v=UClWz0cB4lA)   | 2025-12-07   |
-| [AWS re:Invent 2025 - How TE Connectivity Transforms Product Engineering with Agentic AI (IND369)](https://www.youtube.com/watch?v=xn-GlgWNqhs)     | 2025-12-07   |
 | [AWS re:Invent 2025 - The Next Cyber Frontier: AI, Fans, and Global Platforms (SPF208)](https://www.youtube.com/watch?v=NrpAFbYYzak)                | 2025-12-07   |
 | [AWS re:Invent 2025 - Ticketmaster: Enhancing live event experiences for fans with AWS (SPF206)](https://www.youtube.com/watch?v=NfWAAW8MiCM)       | 2025-12-07   |
 | [AWS re:Invent 2025 - Reclaiming Clinical Time: How Veradigm Uses AI to Transform Workflows (IND208)](https://www.youtube.com/watch?v=xCsyVhGAdzM)  | 2025-12-07   |
@@ -51,7 +55,6 @@
 | [AWS re:Invent 2025 - Accelerate product development lifecycle with a product digital twin (IND371)](https://www.youtube.com/watch?v=YdV1Hj5YdB4)   | 2025-12-04   |
 | [AWS re:Invent 2025 - Accelerate Game Design Reviews with Generative AI and LLM Agents (IND395)](https://www.youtube.com/watch?v=u199i6iMO6A)       | 2025-12-04   |
 | [AWS re:Invent 2025 - Ripple: Building an intelligent, multi-agent system for 24/7 operations-IND3301](https://www.youtube.com/watch?v=DUKUp0AUums) | 2025-12-04   |
-| [AWS re:Invent 2025 -How Toyota Built an AI Platform that Revolutionizes the Dealer Experience-IND320](https://www.youtube.com/watch?v=lp_tXtr_aL4) | 2025-12-05   |
 | [AWS re:Invent 2025 - Accelerating Real-World Evidence Generation in Life Sciences (IND202)](https://www.youtube.com/watch?v=DipWKtNdIs8)           | 2025-12-04   |
 | [AWS re:Invent 2025 - Amazon GameLift Streams Powers Bandai Namco Entertainment's Metaverse (IND394)](https://www.youtube.com/watch?v=fOP_Or2gv8I)  | 2025-12-04   |
 | [AWS re:Invent 2025 - AdTech Innovation with AI-Driven Development for Brand Agents (IND3334)](https://www.youtube.com/watch?v=R7HQwlwlydk)         | 2025-12-04   |
@@ -63,7 +66,7 @@
 | [AWS re:Invent 2025 - Redefining Operations: Caterpillar's Geospatial Intelligence Solution (IND322)](https://www.youtube.com/watch?v=WSXDdRFUGiM)  | 2025-12-04   |
 | [AWS re:Invent 2025 - Accelerating the Connected Future: EDA for the unpredictable (IND308)](https://www.youtube.com/watch?v=VrgK6H8mOPo)           | 2025-12-04   |
 | [AWS re:Invent 2025-Tee Off the Future: How Technology Is Transforming Golf & Fan Engagement-SPF101](https://www.youtube.com/watch?v=vio00D2zWRU)   | 2025-12-04   |
-| [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://www.youtube.com/watch?v=qen3nBhEalM) | 2025-12-04   |
+| [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://www.youtube.com/watch?v=qen3nBhEalM) | 2025-12-10   |
 | [AWS re:Invent 2025 - Migrating a Leading Global Sports League to AWS (SPF306)](https://www.youtube.com/watch?v=oA8YjULXmKw)                        | 2025-12-04   |
 | [AWS re:Invent 2025 - Chaos & Continuity: Using Gen AI to improve humanitarian workload resilience](https://www.youtube.com/watch?v=5L5mfUMsXgA)    | 2025-12-04   |
 | [AWS re:Invent 2025 - Peak Performance: IoT Innovation in Professional Sports (SPF301)](https://www.youtube.com/watch?v=Plw5F5LKNnc)                | 2025-12-03   |
@@ -77,7 +80,6 @@
 | [AWS re:Invent 2025 - Mission-Ready HPC: From NOAA Today to AI Tomorrow (WPS205)](https://www.youtube.com/watch?v=zmWCkoi-Qlg)                      | 2025-12-03   |
 | [AWS re:Invent 2025 - Making Level 4 Autonomous Networks a reality with British Telecom (IND205)](https://www.youtube.com/watch?v=QYAYR0LmO8U)      | 2025-12-03   |
 | [AWS re:Invent 2025 - Transforming Integrated Diagnostics: Philips' AI Journey with AWS (IND219)](https://www.youtube.com/watch?v=y8g9gY9pOzY)      | 2025-12-03   |
-| [AWS re:Invent 2025 -Stripe: Revolutionizing compliance workflows w/ agentic infrastructure (IND3300)](https://www.youtube.com/watch?v=NKF4qKnOaCE) | 2025-12-03   |
 | [AWS re:Invent 2025 - Revolutionizing Audi's Welding Inspection System through AI (IND367)](https://www.youtube.com/watch?v=tLgru5Tr314)            | 2025-12-03   |
 | [AWS re:Invent 2025 - How Netflix Connects Product Experiments to its AWS Bill (IND388)](https://www.youtube.com/watch?v=ulFeSnJlRvk)               | 2025-12-03   |
 | [AWS re:Invent 2025 - Building Prudential’s microagent platform with MCP and A2A on AWS (IND3302)](https://www.youtube.com/watch?v=9UTzSY40e9I)     | 2025-12-03   |
@@ -91,3 +93,4 @@
 | [AWS re:Invent 2025 - Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact (IND213)](https://www.youtube.com/watch?v=zLmFGxEosHc) | 2025-12-03   |
 | [AWS re:Invent 2025 - How Netflix Shapes our Fleet for Efficiency and Reliability (IND387)](https://www.youtube.com/watch?v=K-2u50e0VzA)            | 2025-12-02   |
 | [AWS re:Invent 2025 - AI Agents Slash PGA TOUR's Content Cost While Boosting Coverage/Quality -SPF204](https://www.youtube.com/watch?v=zqc9O9rfMJs) | 2025-12-02   |
+| [Deleted video](https://www.youtube.com/watch?v=NKF4qKnOaCE)                                                                                        | 2025-12-03   |

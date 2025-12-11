@@ -2,10 +2,16 @@
 
 #### [AWS re:Invent 2025 - Code Talks](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 78 
+* video count: 81 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Managing Bots vs Humans with CloudFront and AWS WAF (NET324)](https://www.youtube.com/watch?v=IiJz-NIA_Xg)                    | 2025-12-05   |
+| [AWS re:Invent 2025 - From Code to Policies: Accelerate Development w/ IAM Policy Autopilot (SEC351)](https://www.youtube.com/watch?v=vgA_sq99Kas)  | 2025-12-05   |
+| [AWS re:Invent 2025 - Automating IAM policy validation and analysis using GitHub Actions  (SEC341)](https://www.youtube.com/watch?v=77jWcqzlDNM)    | 2025-12-09   |
+| [AWS re:Invent 2025 - Building AI Agents with Serverless, Strands, and MCP  (NTA4051)](https://www.youtube.com/watch?v=LwubRSoJcIM)                 | 2025-12-09   |
+| [AWS re:Invent 2025 - The Shapeshifting Application: Architecture That Transforms Across AWS (CNS426)](https://www.youtube.com/watch?v=0z1rxGlhIkk) | 2025-12-08   |
+| [AWS re:Invent 2025 - Serverless patterns for large-scale applications with AWS Lambda  (CNS372)](https://www.youtube.com/watch?v=JTSU8-d8Yng)      | 2025-12-08   |
 | [AWS re:Invent 2025 -Multi-Agent Collaboration w/ Amazon Bedrock Agentcore for Advanced SecOps-NTA407](https://www.youtube.com/watch?v=gWY9z75qCcU) | 2025-12-07   |
 | [AWS re:Invent 2025 - Customize Amazon Nova models for enhanced tool calling (AIM380)](https://www.youtube.com/watch?v=nhlA06hMisc)                 | 2025-12-07   |
 | [AWS re:Invent 2025 - Video sampling & search using ElastiCache & multimodal embeddings (DAT433)](https://www.youtube.com/watch?v=3Kbv_BI3NJ0)      | 2025-12-07   |
@@ -22,7 +28,6 @@
 | [AWS re:Invent 2025 - GenAI-Powered Contextual Security Analysis & Remediation (ISV315)](https://www.youtube.com/watch?v=DZ6MMauVrZg)               | 2025-12-05   |
 | [AWS re:Invent 2025 - Using generative AI to accelerate database modernization with AWS DMS (DAT420)](https://www.youtube.com/watch?v=sogq2AHaqJc)  | 2025-12-05   |
 | [AWS re:Invent 2025 - Comprehensive observability with Mobile RUM and Application Map (COP364)](https://www.youtube.com/watch?v=z1qnPTUZZ9M)        | 2025-12-05   |
-| [AWS re:Invent 2025 - From Code to Policies: Accelerate Development w/ IAM Policy Autopilot (SEC351)](https://www.youtube.com/watch?v=vgA_sq99Kas)  | 2025-12-05   |
 | [AWS re:Invent 2025 - Building Sovereign Cloud Environments (COP409)](https://www.youtube.com/watch?v=zxvDiXPl6_Q)                                  | 2025-12-05   |
 | [AWS re:Invent 2025 - Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry (NTA406)](https://www.youtube.com/watch?v=qJxF4XfMLhk) | 2025-12-05   |
 | [AWS re:Invent 2025 -Agentic Code Generation for Industrial Analytics & Predictive Maintenance-PEX320](https://www.youtube.com/watch?v=LzQE3N45l0U) | 2025-12-05   |
@@ -38,8 +43,6 @@
 | [AWS re:Invent 2025 - Build resilient SaaS: multi-account resilience testing patterns (ISV404)](https://www.youtube.com/watch?v=2pfSB4yxg-E)        | 2025-12-04   |
 | [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro (MAM343)](https://www.youtube.com/watch?v=Ff32zqeOKcg)     | 2025-12-04   |
 | [AWS re:Invent 2025 - From Code to Market: Build and Launch AI Agents on AWS Marketplace (ISV314)](https://www.youtube.com/watch?v=DTQD2LxtywI)     | 2025-12-04   |
-| [AWS re:Invent 2025 - Managing Bots vs Humans with CloudFront and AWS WAF (NET324)](https://www.youtube.com/watch?v=IiJz-NIA_Xg)                    | 2025-12-05   |
-| [AWS re:Invent 2025 - Building AI Agents with Serverless, Strands, and MCP (NTA405)](https://www.youtube.com/watch?v=M3KAmqX-0d8)                   | 2025-12-04   |
 | [AWS re:Invent 2025 - Modernize containers for AI agents using AgentCore Gateway (CNS422)](https://www.youtube.com/watch?v=6autfsn1fy8)             | 2025-12-04   |
 | [AWS re:Invent 2025 - Accelerate code delivery: Dev containers and Amazon Q Developer  (SPS324)](https://www.youtube.com/watch?v=X7PhEmmp9rc)       | 2025-12-04   |
 | [AWS re:Invent 2025 - Build real-time full-stack Generative AI applications  (DEV310)](https://www.youtube.com/watch?v=1O_r2-Yn7Jo)                 | 2025-12-04   |

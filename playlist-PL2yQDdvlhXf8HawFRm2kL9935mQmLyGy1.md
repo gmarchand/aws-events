@@ -2,10 +2,12 @@
 
 #### [AWS re:Invent 2025 - Developer Tools](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1) created by [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
-* video count: 24 
+* video count: 26 
 
 | title                                                                                                                                               | Published At |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [AWS re:Invent 2025 - Crowning the Kiro code champions (DVT221)](https://www.youtube.com/watch?v=cltz3OXQtSE)                                       | 2025-12-08   |
+| [AWS re:Invent 2025 - Modernizing Java applications with generative AI (DVT210)](https://www.youtube.com/watch?v=MfaRnbg217g)                       | 2025-12-08   |
 | [AWS re:Invent 2025 - Accelerate Terraform Provider development workflows with Kiro (DVT216)](https://www.youtube.com/watch?v=jEJrOMU5nQU)          | 2025-12-07   |
 | [AWS re:Invent 2025 - Designing Agent-Native Dev Teams: Coding Agents in Real Workflows (DVT226)](https://www.youtube.com/watch?v=FAbm2MXYaqc)      | 2025-12-07   |
 | [AWS re:Invent 2025-Unlock the power of Kiro steering: Your blueprint for scalable development-DVT340](https://www.youtube.com/watch?v=Ap0tXXvyn3k) | 2025-12-07   |
