@@ -7,7 +7,7 @@ dotenv: ['.env', '{{.ENV}}/.env.', '{{.HOME}}/.env']
 tasks:
   build:
     cmds:
-      - python youtube_extractor.py extract --category reinvent-2025 --skip-videos --skip-transcript
+      - python youtube_extractor.py extract --skip-videos --skip-transcript
       - python youtube_extractor.py generate-readme
       - git add .
       - git commit -m 'update'
