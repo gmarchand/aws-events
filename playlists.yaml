@@ -3,37 +3,37 @@ pdf_output_dir: pdfs
 
 playlists:
   reinvent-2025:
-    - PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib- # Senior Leaders
-    - PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R # Code Talks
-    - PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn # Partner Sessions
-    - PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK # Networking & Content Delivery
-    - PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a # Migration & Modernization
-    - PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ # Independent Software Vendor (ISV)
-    - PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM # Industry Solutions
-    - PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1 # Developer Tools
-    - PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip # Databases
-    - PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy # Compute
-    - PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ # Artificial Intelligence
-    - PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet # Latest Breakout Sessions
-    - PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G # Innovation Talks
-    - PL2yQDdvlhXf_bh3ol1Obzb3P8n6BQENH9 # New to AWS
-    - PL2yQDdvlhXf8hzMmCGt2F--Oa6rF2rktF # Analytics
-    - PL2yQDdvlhXf9m3loOlzEtdpobt-85B04t # Application Integration
-    - PL2yQDdvlhXf9t-nSD6dYTv-szvZxsBeh0 # Architecture
-    - PL2yQDdvlhXf8fUGVeljVNpQwugV7XBZRt # Cloud Operations
-    - PL2yQDdvlhXf9UcI79HO5qmfxvHlzMh9y9 # Customer Keynotes
-    - PL2yQDdvlhXf-SZMaPAmK7huvDT6GBF18B # Developer Community
-    - PL2yQDdvlhXf9Vml7a6_rh4BNrLTTU0euv # Hybrid Cloud & Multicloud
-    - PL2yQDdvlhXf-_r_unK-mfNSsvq1eEdNRO # Learning from Amazon
-    - PL2yQDdvlhXf9iyxIQQf-E4tXlGI0Fr_P7 # Lightning Talks
-    - PL2yQDdvlhXf-a5wgEXBveQkE0MpHprsQt # Open Source
-    - PL2yQDdvlhXf9iOBmyb15YPGkoMK1hAX_x # Partner Enablement
-    - PL2yQDdvlhXf9q8MC_iy2NGXaQiLhQgNdD # SaaS
-    - PL2yQDdvlhXf_1rHZpRPA6MDUBv_OKz6Qk # Security & Identity
-    - PL2yQDdvlhXf-Gzj7psv0r9d1u9_yYAGus # Serverless & Containers
-    - PL2yQDdvlhXf_Chz_eS8KUdzzbuACSV0CE # Small & Medium Business
-    - PL2yQDdvlhXf-yRZ2GBW1PJzz5cneMld9Z # Startup
-    - PL2yQDdvlhXf8sqGuKk7yatvGdCbkIH_qM # Storage
+    - PL2yQDdvlhXf8hzMmCGt2F--Oa6rF2rktF  # AWS re:Invent 2025 - Analytics
+    - PL2yQDdvlhXf9m3loOlzEtdpobt-85B04t  # AWS re:Invent 2025 - Application Integration
+    - PL2yQDdvlhXf9t-nSD6dYTv-szvZxsBeh0  # AWS re:Invent 2025 - Architecture
+    - PL2yQDdvlhXf-UqnINCmXu-dDZJm_B3bbJ  # AWS re:Invent 2025 - Artificial Intelligence
+    - PL2yQDdvlhXf8fUGVeljVNpQwugV7XBZRt  # AWS re:Invent 2025 - Cloud Operations
+    - PL2yQDdvlhXf9Ypc5vLyhoJObwzMc98K8R  # AWS re:Invent 2025 - Code Talks
+    - PL2yQDdvlhXf_0uJ0iFTpJ6zhvGpSl-jsy  # AWS re:Invent 2025 - Compute
+    - PL2yQDdvlhXf9l1y_VZAm0vG2hproZMtip  # AWS re:Invent 2025 - Databases
+    - PL2yQDdvlhXf-SZMaPAmK7huvDT6GBF18B  # AWS re:Invent 2025 - Developer Community
+    - PL2yQDdvlhXf8HawFRm2kL9935mQmLyGy1  # AWS re:Invent 2025 - Developer Tools
+    - PL2yQDdvlhXf9Vml7a6_rh4BNrLTTU0euv  # AWS re:Invent 2025 - Hybrid Cloud & Multicloud
+    - PL2yQDdvlhXf9BqAa6B07Xia-qmR23RHaJ  # AWS re:Invent 2025 - Independent Software Vendor (ISV)
+    - PL2yQDdvlhXf_LuBI1bIWPHQi88G6QR6KM  # AWS re:Invent 2025 - Industry Solutions
+    - PL2yQDdvlhXf9Eey6tKOH0K4adBz-VF83G  # AWS re:Invent 2025 - Innovation Talks
+    - PL2yQDdvlhXf9UcI79HO5qmfxvHlzMh9y9  # AWS re:Invent 2025 - Keynote Customers
+    - PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet  # AWS re:Invent 2025 - Latest Breakout Sessions
+    - PL2yQDdvlhXf-_r_unK-mfNSsvq1eEdNRO  # AWS re:Invent 2025 - Learning from Amazon
+    - PL2yQDdvlhXf9iyxIQQf-E4tXlGI0Fr_P7  # AWS re:Invent 2025 - Lightning Talks
+    - PL2yQDdvlhXf8Kb_IJfMCw7CA630dbJL7a  # AWS re:Invent 2025 - Migration & Modernization
+    - PL2yQDdvlhXf8-QA1Hi5D-W2vRdc3h7FpK  # AWS re:Invent 2025 - Networking & Content Delivery
+    - PL2yQDdvlhXf_bh3ol1Obzb3P8n6BQENH9  # AWS re:Invent 2025 - New to AWS
+    - PL2yQDdvlhXf-a5wgEXBveQkE0MpHprsQt  # AWS re:Invent 2025 - Open Source
+    - PL2yQDdvlhXf9iOBmyb15YPGkoMK1hAX_x  # AWS re:Invent 2025 - Partner Enablement
+    - PL2yQDdvlhXf_1T4q-3gqy-PiZ57eAVONn  # AWS re:Invent 2025 - Partner Sessions
+    - PL2yQDdvlhXf9q8MC_iy2NGXaQiLhQgNdD  # AWS re:Invent 2025 - SaaS
+    - PL2yQDdvlhXf_1rHZpRPA6MDUBv_OKz6Qk  # AWS re:Invent 2025 - Security & Identity
+    - PL2yQDdvlhXf9MBvsGS5rB-X7CMvG21ib-  # AWS re:Invent 2025 - Senior Leaders
+    - PL2yQDdvlhXf-Gzj7psv0r9d1u9_yYAGus  # AWS re:Invent 2025 - Serverless & Containers
+    - PL2yQDdvlhXf_Chz_eS8KUdzzbuACSV0CE  # AWS re:Invent 2025 - Small & Medium Business
+    - PL2yQDdvlhXf-yRZ2GBW1PJzz5cneMld9Z  # AWS re:Invent 2025 - Startup
+    - PL2yQDdvlhXf8sqGuKk7yatvGdCbkIH_qM  # AWS re:Invent 2025 - Storage
     - PL2yQDdvlhXf8xcKr0-BHEyg_8VB4tWdu1 # keynote
 
   reinvent-2024:
