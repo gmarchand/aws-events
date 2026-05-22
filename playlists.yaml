@@ -2,6 +2,25 @@ output_dir: videos
 pdf_output_dir: pdfs
 
 playlists:
+  media-symposium:
+    - PLL_L4MF1Z7JXh5l7-Yhe3J54jtJ0vAcHY # AWS Media Symposium France
+    - PLL_L4MF1Z7JWsJi_LUyEMpLaUirkIz2Do # AWS Media Day 2023
+    - 5SfuNwyigN0 # TF1
+    - mLDC15FYxzk # AIVE
+    - 27_7d6qsKZI # FTV
+    - PLL_L4MF1Z7JUlTedFignU01KZbq28vZEh # France Media Day 2022
+    - PLL_L4MF1Z7JXkz8nMvL_1s_9TD8hp5e8k # Media & Entertainment
+    - PLwIpNYl7S0G8i-IB_Ibis0GWCs29di0ry
+    - PLwIpNYl7S0G_ugmWUDQwjhX2zfzKVBzMj
+    - PLwIpNYl7S0G_jAdzh6uxzbEEkNjuuxfpd
+    - PLwIpNYl7S0G829HF4gPggB82y_upiWYur
+    - PLwIpNYl7S0G-lNHzvsYKc0pitNUGzp9PV
+    - PLwIpNYl7S0G93pdhG_M6X5QGTXcZDCFS2
+    - PLwIpNYl7S0G8EQExgeZDkrbYl7pk0hG62
+    - PLwIpNYl7S0G_Az6LFQ_SaqazVSlZWc4P4
+    - PLwIpNYl7S0G-8qVG1wyVoy8zTZ8jRvfGb
+    - PLwIpNYl7S0G8upADyjMM1QDNi30T350aJ
+    - PLwIpNYl7S0G-x_FuRN3PDE4elRHglkgbe
   reinvent-2025:
     - PL2yQDdvlhXf8hzMmCGt2F--Oa6rF2rktF  # AWS re:Invent 2025 - Analytics
     - PL2yQDdvlhXf9m3loOlzEtdpobt-85B04t  # AWS re:Invent 2025 - Application Integration
