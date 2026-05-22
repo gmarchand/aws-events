@@ -1,0 +1,40 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "youtube-to-vault"
+version = "0.1.0"
+description = "MCP Server to transform YouTube videos into Obsidian vault notes"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.0.0",
+    "youtube-transcript-api>=1.0.0",
+    "google-api-python-client>=2.0.0",
+    "boto3>=1.34.0",
+    "python-frontmatter>=1.1.0",
+    "pyyaml>=6.0",
+    "tenacity>=9.0.0",
+    "click>=8.1.0",
+]
+
+[project.scripts]
+youtube-to-vault = "youtube_to_vault.server:main"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-mock>=3.14.0",
+    "ruff>=0.4.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/youtube_to_vault"]
+
+[tool.ruff]
+src = ["src"]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: requires real API keys"]

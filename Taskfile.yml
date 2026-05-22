@@ -2,33 +2,40 @@
 
 version: '3'
 
-dotenv: ['.env', '{{.ENV}}/.env.', '{{.HOME}}/.env']
+dotenv: ['.env']
 
 tasks:
-  build:
+  setup:
+    desc: Install all dependencies including dev extras
     cmds:
-      - python youtube_extractor.py extract --skip-videos --skip-transcript
-      - python youtube_extractor.py generate-readme
-      - git add .
-      - git commit -m 'update'
-      - git push
-    silent: true
+      - uv sync --extra dev
 
-
-
-  python:
+  lint:
+    desc: Run ruff linter
     cmds:
-      - python youtube-playlist-markdown.py --playlist=PL2yQDdvlhXf8iyzg7ziZI924PxC8a8M-U
+      - uv run ruff check src/ tests/ scripts/
 
-
-  venv:
-    desc: Create local python virtual env
+  format:
+    desc: Run ruff formatter
     cmds:
-      - rm -rf .venv/ || true
-      - python3 -m venv 3.11.0 .venv
-      - .venv/bin/python3 -m pip install --upgrade --quiet pip
-      - .venv/bin/pip3 install --quiet --requirement requirements.txt
-    sources:
-      - requirements.txt
-    generates:
-      - .venv/bin/activate
+      - uv run ruff format src/ tests/ scripts/
+
+  test:
+    desc: Run unit tests (excludes integration tests)
+    cmds:
+      - uv run pytest tests/ -v --ignore=tests/test_integration.py
+
+  test-all:
+    desc: Run all tests including integration
+    cmds:
+      - uv run pytest tests/ -v
+
+  migrate:
+    desc: Run migration script to populate vault from playlists.yaml
+    cmds:
+      - uv run python scripts/migrate.py --config playlists.yaml --vault-path vault/
+
+  serve:
+    desc: Run the MCP server
+    cmds:
+      - uv run youtube-to-vault
