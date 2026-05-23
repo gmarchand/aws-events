@@ -1,6 +1,0 @@
-click
-tomark
-google-api-python-client 
-environs 
-rich 
-typer

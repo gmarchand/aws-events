@@ -8,7 +8,7 @@ from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponen
 
 from youtube_to_vault.core.youtube import VideoMetadata
 
-_MODEL_ID = "anthropic.claude-opus-4-20250514-v1:0"
+_MODEL_ID = "us.anthropic.claude-opus-4-7"
 
 _SYSTEM_PROMPT = """\
 You are an expert technical writer specializing in AWS and cloud computing content.
@@ -63,6 +63,6 @@ def generate_summary(
         modelId=_MODEL_ID,
         system=[{"text": _SYSTEM_PROMPT}],
         messages=[{"role": "user", "content": [{"text": user_msg}]}],
-        inferenceConfig={"maxTokens": 4096, "temperature": 0.3},
+        inferenceConfig={"maxTokens": 4096},
     )
     return response["output"]["message"]["content"][0]["text"]

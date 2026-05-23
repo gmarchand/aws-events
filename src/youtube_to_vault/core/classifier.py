@@ -10,7 +10,7 @@ from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponen
 
 from youtube_to_vault.core.youtube import VideoMetadata
 
-_MODEL_ID = "anthropic.claude-opus-4-20250514-v1:0"
+_MODEL_ID = "us.anthropic.claude-opus-4-7"
 
 
 def _is_throttling(exc: BaseException) -> bool:
@@ -41,7 +41,7 @@ def _converse(client, messages: list[dict], system: str) -> str:
         modelId=_MODEL_ID,
         system=[{"text": system}],
         messages=messages,
-        inferenceConfig={"maxTokens": 512, "temperature": 0.0},
+        inferenceConfig={"maxTokens": 512},
     )
     return response["output"]["message"]["content"][0]["text"]
 
@@ -95,6 +95,28 @@ def detect_clients(metadata: VideoMetadata, transcript: str | None) -> list[str]
         result = json.loads(raw)
         if isinstance(result, list):
             return [str(x) for x in result]
+        return []
+    except (json.JSONDecodeError, TypeError):
+        return []
+
+
+def detect_tags(metadata: VideoMetadata, transcript: str | None) -> list[str]:
+    """Extract topic tags from video content."""
+    client = _bedrock_client()
+    system = (
+        "You are a topic tagger for media/tech videos. Extract 3-7 relevant topic tags. "
+        "Tags should be lowercase, single words or short hyphenated phrases. "
+        "Examples: streaming, live, sports, ott, broadcast, ai, cloud-migration, encoding. "
+        "Respond ONLY with a JSON array of strings."
+    )
+    content = f"Title: {metadata.title}\n\nDescription: {metadata.description[:300]}"
+    if transcript:
+        content += f"\n\nTranscript excerpt: {transcript[:1000]}"
+    try:
+        raw = _converse(client, [{"role": "user", "content": [{"text": content}]}], system)
+        result = json.loads(raw)
+        if isinstance(result, list):
+            return [str(x).lower() for x in result][:7]
         return []
     except (json.JSONDecodeError, TypeError):
         return []

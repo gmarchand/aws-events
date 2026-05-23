@@ -1,0 +1,17 @@
+# Media & Entertainment
+
+- [[aws-me-symposium-2025-20-minutes-france-lia-générative-serverless-au-service-du-|AWS M&E Symposium 2025 | 20 Minutes France : L'IA générative Serverless au service du journalisme]]
+- [[aws-me-symposium-2025-amazon-studios-transformer-la-post-production|AWS M&E Symposium 2025 | Amazon Studios : Transformer la post-production]]
+- [[aws-me-symposium-2025-audiomeans-lautomatisation-intelligente-des-métadonnées-po|AWS M&E Symposium 2025 | Audiomeans : L'automatisation intelligente des métadonnées pour le podcast]]
+- [[aws-me-symposium-2025-banijay-orchestrer-le-cloud-et-la-donnée-dans-lindustrie-d|AWS M&E Symposium 2025 | Banijay : Orchestrer le cloud et la donnée dans l'industrie des médias]]
+- [[aws-me-symposium-2025-checksub-linnovation-dans-lédition-vidéo-multilingue-grâce|AWS M&E Symposium 2025 | Checksub : L'innovation dans l'édition vidéo multilingue grâce à l'IA]]
+- [[aws-me-symposium-2025-globecast-du-broadcast-traditionnel-aux-services-managés-c|AWS M&E Symposium 2025  Globecast  : Du broadcast traditionnel aux services managés cloud]]
+- [[aws-me-symposium-2025-hydrolix-une-plateforme-dobservabilité-pour-le-streaming-v|AWS M&E Symposium 2025 | Hydrolix : Une plateforme d'observabilité pour le streaming vidéo mondial]]
+- [[aws-me-symposium-2025-keynote-douverture|AWS M&E Symposium 2025 : Keynote d'ouverture]]
+- [[aws-me-symposium-2025-momentslab-ia-agentique-et-indexation-multimodale-pour-la-|AWS M&E Symposium 2025 | MomentsLab : IA agentique et indexation multimodale pour la création vidéo]]
+- [[aws-me-symposium-2025-olyzon-réinventer-lexpérience-publicitaire-avec-lintellige|AWS M&E Symposium 2025 Olyzon  Réinventer l'expérience publicitaire avec l'intelligence artificielle]]
+- [[aws-me-symposium-2025-on-hertz-la-révolution-du-traitement-audio-cloud-temps-rée|AWS M&E Symposium 2025 On Hertz : La révolution du traitement audio cloud temps réel en radio et TV]]
+- [[aws-me-symposium-2025-wbd-sports-les-défis-des-événements-sportifs-cloud-hybride|AWS M&E Symposium 2025 | WBD Sports : Les défis des événements sportifs cloud hybride]]
+- [[aws-media-entertainment-récap-ibc-show-2025|AWS Media & Entertainment - Récap IBC Show 2025]]
+- [[les-annonces-et-présentations-marquantes-daws-au-nab-2025|Les annonces et présentations marquantes d'AWS au NAB 2025]]
+- [[recap-reinvent-2024-pour-media-entertainment|Recap re:Invent 2024 pour Media & Entertainment]]
