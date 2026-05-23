@@ -16,7 +16,11 @@ def _resolve_vault_path(vault_path: str | None) -> Path:
     path = vault_path or os.environ.get("VAULT_PATH")
     if not path:
         raise ValueError("vault_path must be provided or VAULT_PATH env var must be set")
-    return Path(path)
+    resolved = Path(path).resolve()
+    # Prevent path traversal: vault path must be an absolute path to an existing or creatable dir
+    if ".." in Path(path).parts:
+        raise ValueError(f"Invalid vault_path: path traversal not allowed: {path}")
+    return resolved
 
 
 @mcp.tool()

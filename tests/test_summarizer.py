@@ -79,7 +79,7 @@ def test_language_instruction_in_prompt(mock_boto, metadata):
 
 @patch("youtube_to_vault.core.summarizer.boto3.client")
 def test_bedrock_called_with_correct_params(mock_boto, metadata):
-    """AC-5.4: Bedrock called with maxTokens=4096, temperature=0.3."""
+    """AC-5.4: Bedrock called with maxTokens=4096."""
     mock_client = MagicMock()
     mock_client.converse.return_value = _mock_converse_response("summary")
     mock_boto.return_value = mock_client
@@ -89,7 +89,7 @@ def test_bedrock_called_with_correct_params(mock_boto, metadata):
     call_kwargs = mock_client.converse.call_args[1]
     inference = call_kwargs["inferenceConfig"]
     assert inference["maxTokens"] == 4096
-    assert inference["temperature"] == pytest.approx(0.3)
+    assert "temperature" not in inference
 
 
 @patch("youtube_to_vault.core.summarizer.boto3.client")

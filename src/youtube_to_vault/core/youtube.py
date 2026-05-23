@@ -66,7 +66,10 @@ def fetch_video_metadata(video_id: str) -> VideoMetadata:
         .list(part="snippet", id=video_id)
         .execute()
     )
-    item = response["items"][0]
+    item = response.get("items", [])
+    if not item:
+        raise ValueError(f"Video not found: {video_id}")
+    item = item[0]
     snippet = item["snippet"]
     return VideoMetadata(
         video_id=video_id,
